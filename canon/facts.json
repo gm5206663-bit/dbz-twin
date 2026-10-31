@@ -1,0 +1,3047 @@
+{
+ "owner": "every canon fact and its witnesses. One row, one id, one grade.",
+ "registry": "canon/facts.json",
+ "project": "DRAGON BALL Z — the twin",
+ "tiers": {
+  "I": "Direct caption wording, provisionally; verify source/video",
+  "II": "Secondary source, inference, or unverified visual",
+  "III": "Authored OC/AU; not canon"
+ },
+ "source_note": "W-30 comprises redistributed Japanese SRTs; official/broadcast origin is unverified. Tier I for captioned wording is provisional. Selected W-17 fan-gallery stills were inspected for episode 3, with release provenance unverified; no complete episode video was examined. Episode timestamps refer to local files.",
+ "facts": [
+  {
+   "id": "C001",
+   "tier": "I",
+   "topic": "ep1 opening",
+   "statement": "Early narration says more than five years have passed, then Chi-Chi calls for Gohan and for the meal (ep. 1, 03:29–03:41, 04:37–04:59). Caption text is sound-only.",
+   "source": "Japanese caption file, Dragon Ball Z 001; origin unverified",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30",
+    "W-13"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C002",
+   "tier": "II",
+   "topic": "Goku / firewood",
+   "statement": "Goku fells one of the largest trees in the forest behind the house with a single punch and carries it home.",
+   "source": "same",
+   "source_class": "summary",
+   "witnesses": [
+    "W-13"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C003",
+   "tier": "I",
+   "topic": "ep1 errand",
+   "statement": "Chi-Chi calls Gohan in for the meal; Goku returns and goes to find him, saying they must eat and depart because Roshi and the others are waiting. Chi-Chi, not Goku, says he probably has not gone far (ep. 1, 04:37–05:55). The captions do not say how he travels.",
+   "source": "same",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30",
+    "W-13"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C004",
+   "tier": "II",
+   "topic": "farmer",
+   "statement": "A farmer confronts the arriving alien in his field.",
+   "source": "same",
+   "source_class": "summary",
+   "witnesses": [
+    "W-03",
+    "W-04",
+    "W-10"
+   ],
+   "strength": "B"
+  },
+  {
+   "id": "C005",
+   "tier": "I",
+   "topic": "power level",
+   "statement": "Raditz reads the farmer at battle power 5 (ep. 1, 08:32–08:38). The captioned threat and cries do not alone verify the bullet choreography; use a secondary visual source or check the frame.",
+   "source": "same",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30",
+    "W-10"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C006",
+   "tier": "I",
+   "topic": "Raditz first line",
+   "statement": "After the farmer, Raditz detects a strong power at distance 4,880 and asks whether it is Kakarot (ep. 1, 09:04–09:12). After the Piccolo encounter he detects the largest power at distance 12,909 and says this time it is Kakarot (23:01–23:20). These are distances, not battle powers.",
+   "source": "same",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C007",
+   "tier": "II",
+   "topic": "Gohan / sabertooth",
+   "statement": "Gohan plays dead; the sabertooth cat licks his face and takes his red hat, which has a Dragon Ball on it.",
+   "source": "same",
+   "source_class": "summary",
+   "witnesses": [
+    "W-04",
+    "W-13"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C008",
+   "tier": "I",
+   "topic": "Gohan / river",
+   "statement": "Gohan names a butterfly and later cries that he cannot get down (ep. 1, 10:18–11:00 and 19:36–19:44). The captions do not establish whether water is present; log and location are visual claims pending frame review.",
+   "source": "same",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30",
+    "W-13"
+   ],
+   "strength": "B"
+  },
+  {
+   "id": "C009",
+   "tier": "II",
+   "topic": "rescue",
+   "statement": "Goku finds Gohan from the Flying Nimbus and calls his name.",
+   "source": "same",
+   "source_class": "summary",
+   "witnesses": [
+    "W-03",
+    "W-13"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C010",
+   "tier": "II",
+   "topic": "ep1 interlude",
+   "statement": "A passing city was asserted in Chapter One, but the audio captions do not establish such a visual cut and no visual witness has been checked. Treat the city insert as authored staging until primary footage is reviewed (O061).",
+   "source": "no frame checked; previous assertion unsupported",
+   "source_class": "unverified visual claim",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "C011",
+   "tier": "II",
+   "topic": "Piccolo",
+   "statement": "Piccolo senses an approaching power in a wasteland.",
+   "source": "same",
+   "source_class": "summary",
+   "witnesses": [
+    "W-03",
+    "W-04",
+    "W-10"
+   ],
+   "strength": "B"
+  },
+  {
+   "id": "C012",
+   "tier": "I",
+   "topic": "power level",
+   "statement": "At ep. 1, 21:43–22:12, Piccolo asks what Raditz wants, Raditz says he has no business with him, and Raditz reads 322. The old attribution of a no-intention-of-fighting line to Piccolo was wrong.",
+   "source": "same",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30",
+    "W-08"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C013",
+   "tier": "I",
+   "topic": "ep1 ending",
+   "statement": "In ep. 1, 22:38–23:36, Raditz dismisses Piccolo’s technique as raising dust, detects a larger power, and Piccolo says he shook and could not move. The named technique and precise visual staging are not established by caption text alone.",
+   "source": "same",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30",
+    "W-14"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C014",
+   "tier": "II",
+   "topic": "placement",
+   "statement": "DBZ begins five years after Dragon Ball / after the 23rd World Martial Arts Tournament.",
+   "source": "sidereel.com listing",
+   "source_class": "summary",
+   "witnesses": [
+    "W-03",
+    "W-05",
+    "W-06",
+    "W-15"
+   ],
+   "strength": "B"
+  },
+  {
+   "id": "C015",
+   "tier": "II",
+   "topic": "ep2 Chi-Chi",
+   "statement": "The others notice how unlike Goku-as-a-child Gohan is; Goku says Chi-Chi forbids fighting and wants study only.",
+   "source": "same",
+   "source_class": "summary",
+   "witnesses": [
+    "W-05"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C016",
+   "tier": "I",
+   "topic": "ep2 tail",
+   "statement": "At ep. 2, 07:42, an unlabelled voice says \"tail?\" and Goku confirms that Gohan has one like he used to; Krillin then reacts and asks about the moon. The caption does not identify who first noticed it. Secondary episode guides W-03 and W-43 attribute the noticing to Bulma; Chapter Two uses an authored attribution.",
+   "source": "W-30 caption text; secondary comparison W-03 and W-43",
+   "source_class": "direct caption wording with an unlabelled speaker; secondary source for identification",
+   "witnesses": [
+    "W-30",
+    "W-03",
+    "W-43"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C017",
+   "tier": "I",
+   "topic": "ep2 Roshi",
+   "statement": "Roshi thinks that marriage may have dulled him; Krillin says aloud that he is as strong as ever (CC 00:09:39).",
+   "source": "dragonballuniverse DBZ002",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C018",
+   "tier": "I",
+   "topic": "ep2 sensing",
+   "statement": "Goku senses something approaching; Bulma guesses it is Yamcha, and he says it is not (CC 00:09:47). No one names Piccolo.",
+   "source": "same",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C019",
+   "tier": "II",
+   "topic": "ep2 Krillin",
+   "statement": "Krillin tries to see the alien off the island; Raditz puts him through the wall of the house with his tail.",
+   "source": "dragonballupdates summarised + CBR",
+   "source_class": "summary",
+   "witnesses": [
+    "W-03",
+    "W-05"
+   ],
+   "strength": "B"
+  },
+  {
+   "id": "C020",
+   "tier": "II",
+   "topic": "ep2 reveal",
+   "statement": "Raditz calls Goku 'Kakarot', berates him for an unfinished mission, and reveals that Goku is a Saiyan and that they are brothers — with no parent named in this episode.",
+   "source": "animeanchor / DBZ002 / CBR",
+   "source_class": "summary",
+   "witnesses": [
+    "W-03",
+    "W-05",
+    "W-08"
+   ],
+   "strength": "B"
+  },
+  {
+   "id": "C021",
+   "tier": "I",
+   "topic": "ep2 capsule",
+   "statement": "Raditz asks whether Goku ever took a hard blow to the head as a child; Goku says there is a scar on the back of his head he does not remember getting; and only then does Roshi report what Grandpa Gohan said — a round pod in a valley, a baby with a tail, a wild child, a fall that nearly killed him, a different boy afterwards (CC 00:14:34–00:15:30).",
+   "source": "dragonballupdates + DBZ002",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30",
+    "W-05"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C022",
+   "tier": "II",
+   "topic": "ep2 refusal",
+   "statement": "Raditz demands Goku help destroy life on a distant planet; Goku refuses.",
+   "source": "animeanchor / CBR",
+   "source_class": "summary",
+   "witnesses": [
+    "W-03",
+    "W-05"
+   ],
+   "strength": "B"
+  },
+  {
+   "id": "C023",
+   "tier": "I",
+   "topic": "ep2 the knee",
+   "statement": "Raditz sees Gohan's tail, says he will borrow the boy, and fells Goku with a single blow that Krillin calls one hit (CC 00:22:04–00:23:27). The captions do not name the limb; the knee is Ch. 2's choice (R-19).",
+   "source": "dragonballupdates + Kanzenshuu",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30",
+    "W-05"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C024",
+   "tier": "I",
+   "topic": "ep2 taking",
+   "statement": "Raditz takes Gohan and says he will keep him; he gives one day, and demands that about a hundred humans be killed and their bodies piled \"here\" by this time tomorrow (CC 00:23:13–00:24:06). That \"here\" is the island.",
+   "source": "same",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30",
+    "W-08"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C025",
+   "tier": "I",
+   "topic": "ep2 the grandfather",
+   "statement": "Roshi asks the name and says the boy is named for Goku's dead grandfather — \"you gave him your grandfather's name\" (CC 00:07:05).",
+   "source": "W-03 + W-09",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30",
+    "W-09"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C028",
+   "tier": "I",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "topic": "ep2 Goku's refusal",
+   "statement": "Goku's refusal in the episode's own Japanese: he does not care what planet he came from or that the man is his brother, Krillin is right that such people are the lowest, \"I am Son Goku, I grew up here — get off my island\", and he would rather die than lend a hand (CC 00:19:48–00:21:47). The familiar English refusal (\"this is my home and these are my friends\") is the dub's wording (R-15).",
+   "source": "dragonball.fandom.com/wiki/Reunions — episode header quote",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C029",
+   "tier": "I",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "topic": "ep2 tail",
+   "statement": "Raditz asks about the tail, is told it came off long ago, and says that is why Goku can live among these people — the birthright gone (CC 00:19:24).",
+   "source": "dragonball.fandom.com/wiki/Reunions",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C030",
+   "tier": "II",
+   "source_class": "wiki-episode-page",
+   "topic": "ep2 appearances",
+   "statement": "Episode 2's records contain no at-home scene with Chi-Chi; her at-home scenes are listed for eps 3–5. Its appearance list names the island only — but that list is NOT exhaustive (ep. 3 omits a character who is in the episode), so it corroborates, it does not prove.",
+   "source": "dragonball.fandom.com/wiki/Reunions + /wiki/Raditz_Saga (anime/manga differences)",
+   "witnesses": [
+    "W-03"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C031",
+   "tier": "I",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "topic": "ep2 the tail worry",
+   "statement": "Krillin asks, carefully, whether anything changes on the night of a full moon; Goku says the family goes to bed early; Roshi hurriedly says \"nothing, nothing at all\" (CC 00:07:51). The question is Krillin's, and it is asked of the father, not the boy.",
+   "source": "dragonball.fandom.com/wiki/Reunions",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C032",
+   "tier": "I",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "topic": "ep2 the ball",
+   "statement": "Bulma notices the ball on Gohan's hat and asks if it is a Dragon Ball (CC 00:08:56).",
+   "source": "dragonball.fandom.com/wiki/Reunions",
+   "witnesses": [
+    "W-30",
+    "W-11"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C033",
+   "tier": "I",
+   "source_class": "direct caption wording with an unlabelled speaker; secondary source for visual and identification",
+   "topic": "ep2 wish question and stone-scene limit",
+   "statement": "At ep. 2, 09:22–09:30 an unlabelled voice asks Goku whether he will make a wish if he gathers the Dragon Balls; Goku says he has no wish. W-03 attributes the question to Krillin and reports stones being thrown. The caption text alone does not label the questioner or establish the uncaptioned action; the former claim that nobody threw stones was unsupported (R-17, C162).",
+   "source": "W-30 caption text; W-03 secondary visual/attribution report",
+   "witnesses": [
+    "W-30",
+    "W-03"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C034",
+   "tier": "I",
+   "topic": "ep2 opening",
+   "statement": "At Kame House Bulma says she found out everyone was gathering and deliberately did not tell Yamcha, because she is angry with him (CC 00:05:40). He is not stood up; he is not invited.",
+   "source": "W-03 + W-05 + W-06",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30",
+    "W-05"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C035",
+   "tier": "II",
+   "topic": "ep2 arrival",
+   "statement": "Goku arrives late, on the Flying Nimbus, with Gohan.",
+   "source": "W-05 + W-15",
+   "source_class": "plot-record",
+   "witnesses": [
+    "W-05",
+    "W-15"
+   ],
+   "strength": "B"
+  },
+  {
+   "id": "C036",
+   "tier": "II",
+   "topic": "ep2 Krillin",
+   "statement": "Krillin asks whether Goku has become a babysitter; Goku says the boy is his son.",
+   "source": "W-03",
+   "source_class": "plot-record",
+   "witnesses": [
+    "W-03"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C037",
+   "tier": "I",
+   "topic": "ep2 the age",
+   "statement": "In ep. 2, 07:17, an unlabelled voice asks the boy's age and Gohan replies politely that he is four. W-03 and W-43 attribute the age question to Bulma; the caption itself does not identify the questioner. Chapter Two assigns it to Roshi as authored staging.",
+   "source": "W-30 caption text; W-03 and W-43 episode guides",
+   "source_class": "direct caption wording with an unlabelled speaker; secondary episode guides",
+   "witnesses": [
+    "W-30",
+    "W-03",
+    "W-43"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C038",
+   "tier": "II",
+   "topic": "ep2 the kit",
+   "statement": "Gohan wears a Chinese-style tang suit with the kanji for 'Son' on the front and a nuanmao hat carrying the Four-Star Dragon Ball — the hat debuts in this chapter.",
+   "source": "W-09 + W-11",
+   "source_class": "manga/encyclopaedic",
+   "witnesses": [
+    "W-09",
+    "W-11"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C039",
+   "tier": "I",
+   "topic": "ep2 Chi-Chi's rule",
+   "statement": "Goku quotes Chi-Chi's rule in her words: the world is at peace, so martial arts are no longer needed; it is the age of study now (CC 00:08:16–00:08:40).",
+   "source": "W-05",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30",
+    "W-05"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C040",
+   "tier": "II",
+   "topic": "ep2 the moon",
+   "statement": "Before Raditz arrives, a friend asks whether Gohan changes on the full moon; Goku says the family goes to bed early. That initial exchange gives no explanation of the transformation; Raditz himself later raises the full moon on the island (C075).",
+   "source": "W-03",
+   "source_class": "plot-record",
+   "witnesses": [
+    "W-03"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C041",
+   "tier": "II",
+   "topic": "ep2 tracking",
+   "statement": "Raditz located Goku by scouter, following the readings from Piccolo's position to the island.",
+   "source": "W-03 + W-10",
+   "source_class": "plot/equipment",
+   "witnesses": [
+    "W-03",
+    "W-10"
+   ],
+   "strength": "B"
+  },
+  {
+   "id": "C042",
+   "tier": "I",
+   "topic": "ep2 disbelief",
+   "statement": "Goku accepts the Saiyan account at once — \"so that is me\" — after Roshi's report of the pod; there is no scene of disbelief (CC 00:16:05). It is Krillin who protests.",
+   "source": "W-03",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C043",
+   "tier": "I",
+   "topic": "ep2 the planet",
+   "statement": "Planet Vegeta was destroyed by a giant meteorite; \"our father and mother too\", Raditz says; four Saiyans remain (CC 00:20:29–00:21:05). Parents are mentioned, never named.",
+   "source": "W-03 + W-05",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30",
+    "W-05"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C044",
+   "tier": "II",
+   "topic": "ep1-2 anime-only",
+   "statement": "Secondary comparisons describe Gohan lost in the forest and Goku's rescue and later Chi-Chi at-home scenes as anime material. The separate anime-only 1,480 reading is from Piccolo's episode-5 attack, not the episode-1 encounter. The relevant Chi-Chi scenes are placed in episodes 3–5 by separate episode sources and caption reads (C059–C060, C089).",
+   "source": "W-04 + W-14",
+   "source_class": "manga/anime differences list",
+   "witnesses": [
+    "W-04",
+    "W-14"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C045",
+   "tier": "II",
+   "topic": "production",
+   "statement": "Ep. 1: director Daisuke Nishio, animation supervisor Masayuki Uchiyama, aired 26 Apr 1989. Ep. 2: director Osamu Kasai, animation supervisor Katsumi Aoshima, aired 3 May 1989. Ep. 2's anime-only verdict: 'nothing notable, aside from general padding'. Both compress into Kai ep. 1.",
+   "source": "W-02",
+   "source_class": "production record",
+   "witnesses": [
+    "W-02"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C046",
+   "tier": "II",
+   "topic": "production",
+   "statement": "Ep. 2's working title was 'Father Son Goku's Past'; the auctioned script lists Piccolo in the cast as Ma Junior.",
+   "source": "W-16",
+   "source_class": "production record",
+   "witnesses": [
+    "W-16"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C047",
+   "tier": "II",
+   "topic": "chronology",
+   "statement": "Gohan is born 18 May, Age 757; Raditz arrives 28 November, Age 761 — so the boy is four.",
+   "source": "W-11 + W-12",
+   "source_class": "encyclopaedic",
+   "witnesses": [
+    "W-11",
+    "W-12"
+   ],
+   "strength": "B"
+  },
+  {
+   "id": "C048",
+   "tier": "I",
+   "topic": "NEGATIVE — ep2",
+   "statement": "No parent of Goku's is named anywhere in episode 2 — only \"our father and mother\". Bardock and Gine are named elsewhere in the franchise and not here (CC 00:20:50).",
+   "source": "W-03 + W-05",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30",
+    "W-05"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C049",
+   "tier": "II",
+   "topic": "CONTESTED — scouter",
+   "statement": "Where the first numeric readings fall is contested: two records place 322/334/408/416 at the fight, one translation thread places them in Kai's second episode. No witness puts a numeric reading of either child in Z ep. 2.",
+   "source": "W-08 + W-10 + W-03",
+   "source_class": "translation/equipment/plot",
+   "witnesses": [
+    "W-08",
+    "W-10",
+    "W-03"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C050",
+   "tier": "I",
+   "topic": "ep2 later",
+   "statement": "In episode 3 Raditz detects a 710 signal near Gohan's pod before Goku and Piccolo's crater fight, not during the island encounter or after the fight begins. He later thinks it is impossible for the child to have that reading (16:42–17:13, 19:05–19:13; C091).",
+   "source": "W-30 ep. 3 redistributed Japanese captions; original provenance unverified",
+   "source_class": "direct Japanese caption text, origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C051",
+   "tier": "II",
+   "topic": "dub",
+   "statement": "The edited English dub merges Z ep. 1 and ep. 2 into one episode, 'The Arrival of Raditz'; dub memory therefore cannot place a beat in an episode.",
+   "source": "W-15",
+   "source_class": "dub record",
+   "witnesses": [
+    "W-15"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C052",
+   "tier": "II",
+   "topic": "ep2 character",
+   "statement": "Gohan is shy, sensitive and conspicuously unlike Goku at the same age.",
+   "source": "W-05",
+   "source_class": "plot-record",
+   "witnesses": [
+    "W-05"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C053",
+   "tier": "II",
+   "topic": "the scale",
+   "statement": "A guidebook gives Raditz a battle power of 1,500 (Daizenshuu 7 p.82; Weekly Shōnen Jump). Goshin’s separately authored early-rage figure is in O002, not a guidebook or anime claim.",
+   "source": "W-20 + W-22",
+   "source_class": "guidebook",
+   "witnesses": [
+    "W-20",
+    "W-22"
+   ],
+   "strength": "B"
+  },
+  {
+   "id": "C054",
+   "tier": "I",
+   "topic": "the scale",
+   "statement": "In the original episode-3/5 baseline, the scouter signals 710 near Gohan's pod before the confrontation, reads 1,307 when Gohan attacks, and reads 1 after the attack. The cause of the earlier 710 signal is not specified by the caption dialogue (C091).",
+   "source": "W-30 ep. 3 and 5 redistributed Japanese captions; original provenance unverified",
+   "source_class": "direct Japanese caption text, origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C055",
+   "tier": "I",
+   "topic": "ep2 ultimatum",
+   "statement": "The demand: about a hundred humans, killed and piled where he is standing, by this time tomorrow; and \"I would rather not have to kill my brother's child\" (CC 00:23:43–00:24:06). The episode never says twenty-four hours, and never says beach.",
+   "source": "W-04 + W-05",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30",
+    "W-08"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C056",
+   "tier": "II",
+   "topic": "ep2 anime-only",
+   "statement": "Anime-only in ep. 2: Goku and Gohan fly over the ocean and see flying fish.",
+   "source": "W-03",
+   "source_class": "plot-record",
+   "witnesses": [
+    "W-03"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C057",
+   "tier": "II",
+   "topic": "ep2 anime-only",
+   "statement": "Anime-only in ep. 2: Bulma brings a box of manju to Kame House and Krillin eats them.",
+   "source": "W-03",
+   "source_class": "plot-record",
+   "witnesses": [
+    "W-03"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C058",
+   "tier": "I",
+   "topic": "ep2 Japanese script",
+   "statement": "In the Japanese, after the break-up Bulma asks where Launch is; Krillin says she went off after Tien five years ago (CC 00:06:00).",
+   "source": "W-03",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C059",
+   "tier": "I",
+   "topic": "ep3 Chi-Chi",
+   "statement": "Ep. 3, at home (14:56–15:08): Chi-Chi assumes the two of them are having fun at Roshi's, then remembers the cram-school homework is only half done, and sighs. She is not worried yet.",
+   "source": "W-17 + W-19",
+   "source_class": "plot + production record",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C060",
+   "tier": "I",
+   "topic": "ep5 Chi-Chi",
+   "statement": "Ep. 4, at home (22:43–23:17): she is humming, holding a returned test paper, pleased that eight hours of study a day paid off, and saying she wishes the two of them would come home so she could show it to Goku.",
+   "source": "W-18 + W-19",
+   "source_class": "plot + production record",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C061",
+   "tier": "II",
+   "topic": "ep3 staging",
+   "statement": "In the anime Piccolo arrives hovering above Kame House; in the manga he had been hidden around the corner of it, listening.",
+   "source": "W-17",
+   "source_class": "plot-record",
+   "witnesses": [
+    "W-17"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C062",
+   "tier": "I",
+   "topic": "CONTESTED",
+   "statement": "The Special Beam Cannon reads 1,330 in ep. 4 (spoken, 17:13) and 1,480 for the final shot in ep. 5 (spoken, 10:26). Both are spoken; the 1,485 in the episode page is wrong (R-20).",
+   "source": "W-18 + W-22 + W-03",
+   "source_class": "plot/guidebook",
+   "witnesses": [
+    "W-30",
+    "W-22"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C063",
+   "tier": "II",
+   "topic": "ep2 the rules, spoken",
+   "statement": "Dub dialogue for the rules scene: Goku says Chi-Chi is overprotective, makes Gohan study all the time, and calls martial arts a waste of energy.",
+   "source": "W-21",
+   "source_class": "dub dialogue",
+   "witnesses": [
+    "W-21"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C064",
+   "tier": "II",
+   "topic": "ep5 Chi-Chi voice",
+   "statement": "Dub monologue, ep. 5: 'Goku should've been home by now… It's not good for Gohan to be away from his studies this long… He deserves to have a little fun once in a while.'",
+   "source": "W-21",
+   "source_class": "dub dialogue",
+   "witnesses": [
+    "W-21"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C065",
+   "tier": "I",
+   "topic": "ep3-5 Chi-Chi",
+   "statement": "The mountain thread: ep. 3 the half-done homework · ep. 4 the returned test and the eight hours · ep. 5 the Ox-King arriving with presents · ep. 6 the phone call that reaches an answering machine. She is at home in all four and knows nothing yet.",
+   "source": "W-17 + W-18 + W-19",
+   "source_class": "plot + production record",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C066",
+   "tier": "I",
+   "topic": "ep6 the telling",
+   "statement": "**The telling does not happen in ep. 6.** Roshi orders Krillin to go, Bulma says the mother will kill him, and the phone gets the Kame House answering machine (14:48–15:31). **It does not happen in ep. 7 either** — Krillin gets as far as her gate, bottles it, and lies (C120).",
+   "source": "W-24 + W-19",
+   "source_class": "plot-record",
+   "witnesses": [
+    "W-30",
+    "W-24"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C067",
+   "tier": "II",
+   "topic": "the date",
+   "statement": "Daizenshuu 7 places Raditz's arrival at 12 October, Age 761; the 23rd Budōkai on 7 May 756; Gohan's birth in May 757; Vegeta and Nappa on 3 November 762. Kanzenshuu notes the dates were assigned backwards from later anchors.",
+   "source": "W-23 + W-11",
+   "source_class": "guidebook chronology",
+   "witnesses": [
+    "W-23",
+    "W-11"
+   ],
+   "strength": "B"
+  },
+  {
+   "id": "C068",
+   "tier": "II",
+   "topic": "the Great Ape",
+   "statement": "The Great Ape multiplies a Saiyan's base power by ten, and needs the tail and the full moon.",
+   "source": "W-25 + W-10",
+   "source_class": "guidebook/manga",
+   "witnesses": [
+    "W-25",
+    "W-10"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C069",
+   "tier": "II",
+   "topic": "ep5 anime-only",
+   "statement": "A secondary episode comparison reports that the Makankōsappō reading is anime-only. The local Japanese episode-5 caption says 1,480; the former alternative secondary figure is withdrawn (C062, R-20). The manga comparison remains separately sourced.",
+   "source": "W-19 + W-22 for anime/manga comparison; W-30 for the spoken anime reading",
+   "source_class": "secondary comparison with directly read Japanese caption",
+   "witnesses": [
+    "W-19",
+    "W-22",
+    "W-30"
+   ],
+   "strength": "B"
+  },
+  {
+   "id": "C070",
+   "tier": "II",
+   "topic": "production, eps 3-6",
+   "statement": "Ep. 3 dir. Kazuhisa Takenouchi / anim. Mitsuo Shindo, 10 May 1989 · ep. 4 dir. Yoshihiro Ueda / anim. Tomekichi Takeuchi, 17 May · ep. 5 dir. Kazuhisa Takenouchi / anim. Masayuki Uchiyama, 24 May · ep. 6 dir. Mitsuo Hashimoto / anim. Yukio Ebisawa, 7 June. The Raditz Saga is eps 1–6 uncut, 1–4 edited, 1–3 in Kai.",
+   "source": "W-19",
+   "source_class": "production record",
+   "witnesses": [
+    "W-19"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C071",
+   "tier": "I",
+   "topic": "ep4 anime-only",
+   "statement": "Bulma, Roshi and Krillin follow in ep. 4 (decided at 14:41–14:48 in ep. 3) and reach the crater in ep. 5 (17:39), where they find the bodies and Piccolo standing.",
+   "source": "W-19",
+   "source_class": "production record",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "O001",
+   "tier": "III",
+   "topic": "OC names",
+   "statement": "Human name Son Goshin (悟心); Saiyan name Broc. Broc is first spoken by Raditz.",
+   "source": "OC — not canon / author ruling 2026-10-30 + delegation",
+   "source_class": "OC — author ruling",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O002",
+   "tier": "III",
+   "topic": "OC scale",
+   "statement": "Authored initial design: born with a stable 100; a ~400 reading at the Kame House island visit (O005); an initially proposed four-year-old rage reading of 1,500. These are early snapshots, not a permanent level, universal minimum or lifetime ceiling.",
+   "source": "OC — author ruling 2026-10-30",
+   "source_class": "OC — author ruling",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O003",
+   "tier": "III",
+   "topic": "OC biology + design",
+   "statement": "Half-Saiyan; the two genetics fuse cleanly. The resemblance is **drawn**, not fractioned: the father's jaw, hair and stance, the mother's eyes (`STATUS §1–2`). \"99% Goku\" is retired as design and as prose (**R-22**) — it told a reader nothing about what he does with his hands.",
+   "source": "OC — author ruling 2026-10-30",
+   "source_class": "OC — author ruling",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O004",
+   "tier": "III",
+   "topic": "OC talent",
+   "statement": "The authored Adaptation Talent makes learning from demonstrated techniques unusually rapid and retains acquired skills. It does not grant a free exact numeric boost simply by observing; together with training, experience and recovery it can support continued growth. It does not confer instant injury immunity.",
+   "source": "OC — house law + author ruling",
+   "source_class": "OC — author ruling",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O005",
+   "tier": "III",
+   "topic": "OC scouter",
+   "statement": "Authored snapshot: a scouter reads about 400 on Goshin at rest on the Kame House island in Chapter Two, before Raditz takes both boys. Not a first-training-week measurement, permanent floor or lifetime level.",
+   "source": "OC — author ruling + Chapter Two",
+   "source_class": "OC — author ruling",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O006",
+   "tier": "III",
+   "topic": "OC staging",
+   "statement": "The Turtle's dialogue on the floor of Kame House. He is on the appearance list; his lines are ours.",
+   "source": "OC — Chapter Two",
+   "source_class": "authored",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O007",
+   "tier": "III",
+   "topic": "OC staging",
+   "statement": "Goshin lands face-first in sand and says 'We live on the wrong mountain.'",
+   "source": "OC — Chapter Two",
+   "source_class": "authored",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O008",
+   "tier": "III",
+   "topic": "OC staging",
+   "statement": "Bulma: 'Two. You had two of them. And nobody thought to write.'",
+   "source": "OC — Chapter Two",
+   "source_class": "authored",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O009",
+   "tier": "III",
+   "topic": "OC staging",
+   "statement": "Gohan retells the sabertooth-cat hat theft on the island. The theft is canon (C007); the retelling is ours.",
+   "source": "OC — Chapter Two",
+   "source_class": "authored",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O010",
+   "tier": "III",
+   "topic": "OC staging",
+   "statement": "Bulma gathers both boys back against her, and later wades into the water as Raditz leaves.",
+   "source": "OC — Chapter Two",
+   "source_class": "authored",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O011",
+   "tier": "III",
+   "topic": "OC staging",
+   "statement": "The fly at the window, the seam in the sky, the clap, the sand ridge coming apart grain by grain.",
+   "source": "OC — Chapter Two",
+   "source_class": "authored",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O012",
+   "tier": "III",
+   "topic": "OC staging",
+   "statement": "Gohan says “Hold on” during the flight. In the corrected version he speaks to unconscious Goshin, who does not answer; the old conscious exchange remains only in the superseded Chapter Two body.",
+   "source": "authored — corrected Chapter Four; earlier Chapter Two passage preserved as historical prose",
+   "source_class": "authored",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O013",
+   "tier": "III",
+   "topic": "OC staging — Ch. 1",
+   "statement": "Goshin rides the thin end of the felled trunk up the slope while his father carries it.",
+   "source": "OC — Chapter One",
+   "source_class": "authored",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O014",
+   "tier": "III",
+   "topic": "OC staging — Ch. 1",
+   "statement": "Goshin splits a log with the side of his hand; Chi-Chi puts the axe up above the beam.",
+   "source": "OC — Chapter One",
+   "source_class": "authored",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O015",
+   "tier": "III",
+   "topic": "OC staging — Ch. 1",
+   "statement": "The rice pan goes on early because a mother wants the day over.",
+   "source": "OC — Chapter One",
+   "source_class": "authored",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O016",
+   "tier": "III",
+   "topic": "the premise",
+   "statement": "A second son was born with Gohan: canon has one child, this serial has two. Everything downstream of it is the author's ruling, not canon's.",
+   "source": "OC — author ruling (Raditz takes both boys)",
+   "source_class": "authored",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O017",
+   "tier": "III",
+   "topic": "Ch. 2 staging",
+   "statement": "Two tails in the room: canon's delicate question now has two answers, and the father gives one that covers both.",
+   "source": "OC — Chapter Two",
+   "source_class": "authored",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "C072",
+   "tier": "I",
+   "topic": "ep2 the hat ball",
+   "statement": "The Four-Star is on the hat because Goku hunted it out again and put it there himself; the Three-Star and the Six-Star were found the same time and are at the house (CC 00:08:56–00:09:15).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001–002",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C073",
+   "tier": "I",
+   "topic": "ep2 Krillin the drunk",
+   "statement": "Krillin tries to shoo the intruder off by telling him he cannot be drunk in the middle of the day (CC 00:11:45).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001–002",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C074",
+   "tier": "I",
+   "topic": "ep2 the other tail",
+   "statement": "After being thrown through the wall, Krillin sees Raditz's tail and says so; Raditz answers that now they know what he is (CC 00:13:57).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001–002",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C075",
+   "tier": "I",
+   "topic": "ep2 the moon, explained",
+   "statement": "On the island, Raditz himself raises the full moon: when it is round, he says, is when Saiyans show what they are for — and a Great Ape roars on the track (CC 00:19:10–00:19:18). The island is briefed, not calmed.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001–002",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C076",
+   "tier": "I",
+   "topic": "ep2 the scholar",
+   "statement": "Bulma asks the boy what he will be when he grows up; Gohan says at once, \"a great scholar\" (CC 00:07:28).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001–002",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C077",
+   "tier": "I",
+   "topic": "ep2 the brother's child",
+   "statement": "\"I would rather not have to kill my brother's child,\" Raditz says, from the air, with the boys under his arms (CC 00:24:06).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001–002",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C078",
+   "tier": "I",
+   "topic": "ep2 the day",
+   "statement": "The ultimatum is one day — he says he will give a single day to think it over (CC 00:23:33).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001–002",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C079",
+   "tier": "I",
+   "topic": "ep2 the meal",
+   "statement": "The urgency about eating and departing for Roshi’s is Goku’s (ep. 1, 05:45–05:55). Chi-Chi says Gohan likely did not go far (05:52).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001–002",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C080",
+   "tier": "I",
+   "topic": "ep2 what the scale says aloud",
+   "statement": "In eps 1–2 the spoken numerals include battle powers 5 and 322 and distances 4,880 and 12,909. Gohan 710/1,307/1, Goku 334/416 and Piccolo 408 are spoken in later eps 3–5, not in eps 1–2. Raditz 1,500 is a guidebook value.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001–002",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C081",
+   "tier": "I",
+   "topic": "ep3 the offer restated",
+   "statement": "Raditz restates the bargain: kill a hundred humans by tomorrow and pile the bodies here, and he will let Goku join them; if there are no bodies, the boy dies (03:43–04:02).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C082",
+   "tier": "I",
+   "topic": "ep3 the planet is next",
+   "statement": "Raditz says the hundred changes nothing: Earth is the next target, and three Saiyans could clear it in about a month (04:31–05:02).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C083",
+   "tier": "I",
+   "topic": "ep3 the tail, named",
+   "statement": "On the island Goku names the weakness — grip a Saiyan's tail hard and his strength drains — and says at once that he cannot do it alone (07:11–07:31).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C084",
+   "tier": "I",
+   "topic": "ep3 the one wish",
+   "statement": "Shenron cannot grant the same wish twice; Kami said so; Krillin and Roshi have each been brought back once already, so they cannot be again (08:04–08:29). Krillin's private thought: this time he really dies.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C085",
+   "tier": "I",
+   "topic": "ep3 the wish idea",
+   "statement": "Bulma proposes gathering all seven and wishing the world be saved; Roshi asks whether seven could be gathered in a single day (08:54–09:08).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C086",
+   "tier": "I",
+   "topic": "ep3 the radar",
+   "statement": "The Dragon Radar tracks the Four-Star on Gohan's hat: a fast moving dot that stops — \"good, he is still on Earth\" (09:23–09:44). The ball on the boy's hat is how they find him.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C087",
+   "tier": "I",
+   "topic": "ep3 the alliance",
+   "statement": "Piccolo offers an alliance: he wants Raditz and his two companions out of the way so that he can defeat Goku and take the world (10:07–11:50). Goku asks whether Piccolo can keep up with Nimbus; Piccolo disparages Goku’s flying technique (12:29–12:39). The caption dialogue alone does not establish hovering or the travel visuals.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C088",
+   "tier": "I",
+   "topic": "ep3 they follow",
+   "statement": "Roshi decides that he, Bulma and Krillin will follow to the fight (14:41–14:48).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C090",
+   "tier": "I",
+   "topic": "ep3 the pod",
+   "statement": "Raditz shuts Gohan inside the pod, tells him he has brave Saiyan blood, and leaves him hammering to be let out (15:15–16:27).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C091",
+   "tier": "I",
+   "topic": "ep3 the scale speaks",
+   "statement": "Ep. 3, 16:42–21:45: Raditz detects 710 near Gohan, and later thinks a child cannot be at 710 (19:05). He reads 322 and 334 and says one matches Kakarot. After the weighted-clothing exchange the captions give 408, then explicitly attribute 416 to Kakarot. Identifying the 408 target as Piccolo is contextual, not independently established by checked anime frames; the separate guidebook assignments are recorded in CANON §5. The captions do not label the 710 moment rage.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C092",
+   "tier": "I",
+   "topic": "ep3 the scouter explained",
+   "statement": "Piccolo explains on the way that the machine shows him a target's position and its strength, so there is no sneaking up (17:29–17:41).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C093",
+   "tier": "I",
+   "topic": "ep3 the weights",
+   "statement": "Goku remarks that Piccolo has trained in weighted clothing too, and Piccolo agrees (21:10–21:23). The caption does not independently verify the visual choreography of the clothing removal.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C094",
+   "tier": "I",
+   "topic": "ep3 written off",
+   "statement": "Raditz gives up on recruiting his brother, calls him a liability and the family's shame, and attacks to kill; he says he will raise the pressure little by little, and that the two survivors are stronger than he is (22:19–23:54).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C095",
+   "tier": "I",
+   "topic": "ep4 the arm",
+   "statement": "Piccolo loses his left arm and says he can still fight (09:16).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C096",
+   "tier": "I",
+   "topic": "ep4 the plan",
+   "statement": "The new technique needs time to charge, so Goku must hold Raditz alone and keep his attention; Piccolo notes that if it works, Goku is next (11:13–11:52).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C097",
+   "tier": "I",
+   "topic": "ep4 the readings",
+   "statement": "Ep. 4, 14:43–17:17: as Goku charges his Kamehameha Raditz says 924 and 925, then says this one is 1,020; later he says 1,330 as Piccolo concentrates power in a finger. The manga guide attributes 1,020 and 1,330 to Piccolo’s attack; the anime scouter target should be frame-checked. The old claim that 1,020 is Goku’s is withdrawn.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30",
+    "W-38"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C098",
+   "tier": "I",
+   "topic": "ep4 the tail, gripped",
+   "statement": "Goku gets Raditz's tail and it works: Raditz begs, promises to leave the planet; Piccolo warns him not to let go; Goku lets go anyway and Raditz mauls him (19:23–22:33).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C099",
+   "tier": "I",
+   "topic": "ep4 her happiness",
+   "statement": "At home, humming: the test paper, the eight hours a day, and the wish that they would come home so Goku could see it (22:43–23:17). Canon puts this beside the worst of the fight.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C100",
+   "tier": "I",
+   "topic": "ep5 the boy reads",
+   "statement": "Gohan's rage reads 1,307, then 1 once the rage passes; Raditz resolves to kill him while he still cannot use the power (05:20–07:24).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C101",
+   "tier": "I",
+   "topic": "ep5 the tail is useless",
+   "statement": "A Saiyan who chooses to can cut off his own tail, so the grip will not work twice (08:53).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C102",
+   "tier": "I",
+   "topic": "ep5 the last shot",
+   "statement": "Goku holds Raditz so Piccolo can fire; the final Special Beam Cannon reads 1,480 and kills them both (09:19–11:31).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C103",
+   "tier": "I",
+   "topic": "ep5 the year",
+   "statement": "Dying, Raditz reveals that everything was transmitted to the other two, that they will come, and that it is one year away; in space Vegeta wants the Dragon Balls for eternal life (15:00–15:49, 19:33–20:23).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C104",
+   "tier": "I",
+   "topic": "ep5 the Ox-King",
+   "statement": "At home she assumes they are happy at Kame House, says she wishes she had gone too — and then her father arrives with armfuls of presents calling for Gohan, and asks where he is (16:47–17:30).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C105",
+   "tier": "I",
+   "topic": "ep5 the visitors",
+   "statement": "Bulma, Roshi and Krillin reach the crater and find the bodies, with Piccolo the only one standing (17:39–18:26).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C106",
+   "tier": "I",
+   "topic": "ep5 the vanishing",
+   "statement": "Goku dies of his injuries and his body vanishes; Piccolo says only Kami could do that (21:29–24:38).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C107",
+   "tier": "I",
+   "topic": "ep6 the scouter taken",
+   "statement": "Krillin retrieves the scouter and Bulma takes it, planning to modify it to find Yamcha and Tien (05:08–06:14).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C108",
+   "tier": "I",
+   "topic": "ep6 the boy taken again",
+   "statement": "Piccolo takes Gohan for the year over Roshi's objection that the parents must be asked; he says there is no time, threatens them, and promises to bring the boy back when Goku is revived (07:05–08:17).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C109",
+   "tier": "I",
+   "topic": "ep6 no revival yet",
+   "statement": "Goku asks not to be brought back for a year, and sends the message to Roshi through the guide on Snake Way (18:04–18:23).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C111",
+   "tier": "I",
+   "topic": "ep6 her speech",
+   "statement": "She is sure they are teaching the boy dangerous games again, and her worry runs away with her out loud — martial arts, a kick, the sea, a man-eating shark, a desert island, a snake, poison, his brain — while her father laughs that a boy should be wild (15:40–16:22).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C112",
+   "tier": "I",
+   "topic": "ep6 the training",
+   "statement": "Piccolo tells the boy his father is dead, forces the power out of him to prove it exists, and privately reflects that he may be raising his own worst enemy (19:07–23:00).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C113",
+   "tier": "I",
+   "topic": "ep6 the scholar, again",
+   "statement": "Gohan says again that he does not want to be a fighter, he wants to be a great scholar; Piccolo says he may be, after the two Saiyans are dealt with (23:21–23:38).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C114",
+   "tier": "I",
+   "topic": "ep6 the snake way",
+   "statement": "Kami pleads Goku's case to Enma, who allows the road to King Kai: about a million kilometres, and only Enma has ever walked it (09:15–17:27).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 003–006",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "O018",
+   "tier": "III",
+   "topic": "OC staging — Ch. 3",
+   "statement": "The second son is away with the first for the year of the training. Canon takes one boy (C108); every hour of it therefore has one more absence in it.",
+   "source": "authored — declared in the chapter that uses it",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O019",
+   "tier": "III",
+   "topic": "OC staging — Ch. 3",
+   "statement": "The yard as the only set: the chicken, the gate, the stool with the book squared on it, the two sleeping mats, the road below the trees. Authored furniture, not canon's.",
+   "source": "authored — declared in the chapter that uses it",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O020",
+   "tier": "III",
+   "topic": "OC staging — Ch. 3",
+   "statement": "The rolled test paper arrives in the box on the gatepost, brought by a boy on a bicycle. Canon gives the paper (C099) and not its delivery.",
+   "source": "authored — declared in the chapter that uses it",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O021",
+   "tier": "III",
+   "topic": "OC staging — Ch. 3",
+   "statement": "The Ox-King's load (sacks, mikan, plum cloth), his staying the night, and every line of his that canon does not give. Canon gives him three lines and armfuls of presents (C104).",
+   "source": "authored — declared in the chapter that uses it",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O022",
+   "tier": "III",
+   "topic": "OC staging — Ch. 3",
+   "statement": "Her stated plan: \"Then I'll go down there myself.\" A plan is not an arrival, and canon does not let her keep it (R-03).",
+   "source": "authored — declared in the chapter that uses it",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "C115",
+   "tier": "II",
+   "topic": "the cloud",
+   "statement": "The Flying Nimbus carries only the pure of heart: anyone else falls through, so it cannot be demonstrated by the impure (Roshi, Bulma, Krillin all fail it). Impure people may still ride by holding on to a pure rider, and inanimate objects laid on it are exempt. Grade C: one encyclopaedic group, and the Dragon Ball episodes that show the rule are outside this corpus (OPEN-9).",
+   "source": "dragonball.fandom.com/wiki/Flying_Nimbus",
+   "source_class": "wiki-object-page",
+   "witnesses": [
+    "W-31"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C116",
+   "tier": "II",
+   "topic": "the cloud",
+   "statement": "Goku rides the Nimbus through the Raditz saga and uses it to reach Gohan; a passenger rides behind, holding on. Chi-Chi is a rider in the manga record.",
+   "source": "dragonball.fandom.com/wiki/Flying_Nimbus",
+   "source_class": "wiki-object-page",
+   "witnesses": [
+    "W-31"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "O023",
+   "tier": "III",
+   "topic": "OC standing — the cloud",
+   "statement": "Standing, not scene: the cloud carries Goshin. Canon established the test in Dragon Ball — the Nimbus holds only the pure of heart and drops everyone else (C115) — so the serial records that it applies to him and **does not stage it again**. No chapter may re-prove it, and none may use the word pure.",
+   "source": "authored — declared in the chapter that uses it",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O024",
+   "tier": "III",
+   "topic": "OC design — the observer's face",
+   "statement": "He watches mouths rather than eyes, and his face arrives **half a second after the room** — the lag is how a page shows him thinking without entering his head.",
+   "source": "authored — declared in STATUS and used in prose",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O025",
+   "tier": "III",
+   "topic": "OC design — repeat-it-back",
+   "statement": "He says an instruction back word for word before he does it, borrowed from his mother's habit in the kitchen, and then does it exactly once. His exact questions are the same instinct: *how many days*, not *when*.",
+   "source": "authored — declared in STATUS and used in prose",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O026",
+   "tier": "III",
+   "topic": "OC design — the refusal",
+   "statement": "He will not eat anything he has not watched being made. A rule of his own he cannot explain and will not break — the same instinct as the copying.",
+   "source": "authored — declared in STATUS and used in prose",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O027",
+   "tier": "III",
+   "topic": "OC design — the fear",
+   "statement": "He is not afraid of pain. **He is afraid of being the second to know** — told after the decision, after the visitors, after the bad news.",
+   "source": "authored — declared in STATUS and used in prose",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O028",
+   "tier": "III",
+   "topic": "OC design — the cold rage",
+   "statement": "His rage is silent: the noise drains out, the fidgeting stops, and it is done. The 1,500 belongs to a quiet boy, which is why nobody sees it coming twice.",
+   "source": "authored — declared in STATUS and used in prose",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O029",
+   "tier": "III",
+   "topic": "OC design — the three habits",
+   "statement": "With his mother, his hands go behind his back when she looks him over. With his brother, he takes the downhill side of every path. With his father, he waits to be invited to speak.",
+   "source": "authored — declared in STATUS and used in prose",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O030",
+   "tier": "III",
+   "topic": "OC design — literal obedience",
+   "statement": "He keeps a rule exactly as it was given, including rules nobody meant literally — he will not cross a line he drew himself at the ridge.",
+   "source": "authored — declared in STATUS and used in prose",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "C117",
+   "tier": "II",
+   "topic": "Super Saiyan God",
+   "statement": "Super Saiyan God is made by a **ritual**: five righteous Saiyans plus the one who receives it, each as Super Saiyan, joined in a circle with their ki poured in. Canon's original use failed for one reason — the form **runs out of time**. Godly ki is otherwise reachable by deity-supervised training or by transformations built on it. Grade C: one encyclopaedic group, and the film itself is outside this corpus (OPEN-6).",
+   "source": "dragonball.fandom.com/wiki/Super_Saiyan_God",
+   "source_class": "wiki-form-page",
+   "witnesses": [
+    "W-32"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "O031",
+   "tier": "III",
+   "topic": "OC ceiling — the gate",
+   "statement": "**He cannot achieve Super Saiyan God as a form.** The ritual, performed on him, does not hand him a transformation — it promotes his **baseline**: his base becomes Super Saiyan God, permanently, with no time limit and no way down. Ruled by the author.",
+   "source": "author ruling — recorded in STATUS §12",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O032",
+   "tier": "III",
+   "topic": "OC ceiling — why",
+   "statement": "The future authored divine gate applies the retention rule to godly ki: once the talent adapts at the late crossing, its divine base is not switched back (O041). Ordinary-ki learning and training can support growth; observation alone gives no free exact numeric increase.",
+   "source": "author ruling — recorded in STATUS §12",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "C118",
+   "tier": "II",
+   "topic": "Super Saiyan 4",
+   "statement": "Super Saiyan 4 appears in GT and in a distinct Daima portrayal. Press reports say Daima Goku reaches it through Neva’s magic and without a tail; the Daima episodes and exact conditions are not independently checked here. Keep continuities distinct (OPEN-10).",
+   "source": "press reporting on Dragon Ball Daima eps 18–20 (ScreenRant, CBR, trade coverage)",
+   "source_class": "press",
+   "witnesses": [
+    "W-33"
+   ],
+   "strength": "B"
+  },
+  {
+   "id": "O033",
+   "tier": "III",
+   "topic": "OC ladder — 1·2·3",
+   "statement": "Super Saiyan 1, 2 and 3 are **perfected** and therefore not forms he enters: they are internal, instant, and never announced. No hair beat, no lightning, no counting. The power is simply present.",
+   "source": "author ruling — STATUS §13",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O034",
+   "tier": "III",
+   "topic": "OC ladder — Rage",
+   "statement": "**Super Saiyan Rage** is his signature state: anger made cold, not escalation. The name is canon vocabulary (Future Trunks in *Super*); the mechanism is his own, and the 1,500 belongs to it.",
+   "source": "author ruling — STATUS §13",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O035",
+   "tier": "III",
+   "topic": "OC ladder — Super Saiyan 4",
+   "statement": "**Super Saiyan 4 is his physical apex**, earned on the **ape road** — tail kept, full moon, and mastery of the Golden Ape — not by *Daima*'s gift of magic. Declared: the gift road costs nothing; the ape road costs him fear and is why the form is his. Closes OPEN-3: the tail is kept.",
+   "source": "author ruling — STATUS §13",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O036",
+   "tier": "III",
+   "topic": "OC ladder — no Blue",
+   "statement": "**Super Saiyan Blue is impossible for him**, and it is structural: Blue is a **mortal** wearing Super Saiyan 1 on **borrowed** god ki, and he has no Super Saiyan 1 to shift into (it is inside his base) and nothing borrowed to shift it onto. **What he does instead is build his own god rungs (O038).**",
+   "source": "author ruling — STATUS §13",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O037",
+   "tier": "III",
+   "topic": "OC ladder — base",
+   "statement": "After the crossing, **Super Saiyan God is not a form he takes: it is his base** — what he is at rest. The physical apex (Super Saiyan 4) is earned first, the crossing comes late, and Super Saiyan 4 over a divine base is the last rung.",
+   "source": "author ruling — STATUS §13",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O038",
+   "tier": "III",
+   "topic": "OC design — OC ladder — God 1·2·3",
+   "statement": "**God 1, God 2 and God 3 are conversions, not inventions.** His base is Super Saiyan God, so when he reaches for Super Saiyan 1, 2 or 3 the divine base is folded into the reaching and the divine rung is what arrives — same degree, same three gears, different substrate. **Each rung leaks**, so the climb makes him louder. God 1/2/3 is *like* Super Saiyan 1/2/3 the way a translation is like the page it came from.",
+   "source": "author ruling — STATUS §13",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O039",
+   "tier": "III",
+   "topic": "OC design — OC ladder — GOD 4",
+   "statement": "**The ultimate: Super Saiyan God worn inside the Super Saiyan 4 body.** The fusion of his two roads, in canon's Ultra class and not canon's (UI and UE stay other people's). Its character is the two states he already owns: **instinct when he is calm** (the body answers before he decides), **ego when he is not** (cold rage feeding on damage). **Leakage stops — fur is a vessel — so the crown is quieter than the rung below it**, and slower to arrive, because the body must accept it first.",
+   "source": "author ruling — STATUS §13",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O040",
+   "tier": "III",
+   "topic": "OC design — OC ladder — the cost",
+   "statement": "The cost rule of the whole ladder: **power up his own god rungs and he gets louder; reach the crown and he goes silent.** He never announces a rung and the narrator never numbers one.",
+   "source": "author ruling — STATUS §13",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O041",
+   "tier": "III",
+   "topic": "OC design — the retention law",
+   "statement": "The Talent retains what has genuinely been learned or adapted; holding back, fatigue, injury or distraction can temporarily impair use or lower a reading without forgetting the skill. Preserve the separately ruled future divine promotion and conversions (STATUS §§12–14).",
+   "source": "author ruling — STATUS §13",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "C119",
+   "tier": "II",
+   "topic": "Super Saiyan God — the mind",
+   "statement": "Canon describes Super Saiyan God as **cooling its user** — a calm mind, steadier ki control, described as one of the form's benefits. One encyclopaedic group (C117's source).",
+   "source": "dragonball.fandom.com/wiki/Super_Saiyan_God",
+   "source_class": "wiki-form-page",
+   "witnesses": [
+    "W-32"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "O042",
+   "tier": "III",
+   "topic": "OC — the promotion",
+   "statement": "**The Talent itself becomes divine and works on everything.** After the crossing his ki, his forms, his techniques and anything he learns afterwards run on **divine qi** — the substrate is what he learns on, so nothing he acquires is ever ordinary again.",
+   "source": "author ruling — STATUS §14",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O043",
+   "tier": "III",
+   "topic": "OC — nothing is subtracted",
+   "statement": "**Godhood takes nothing from him.** Canon's form cools a Saiyan (C119); his promotion does not, because the retention law removes nothing (O041). He keeps his temper, appetite, jokes, grudges, grief, mistakes and attachments. **Any scene where godhood makes him serene or distant is a scene to cut.**",
+   "source": "author ruling — STATUS §14",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O044",
+   "tier": "III",
+   "topic": "OC — the line",
+   "statement": "**His children are born divine, not mortal.** The line does not begin at a ritual; it begins at him. Ruled; the children themselves are unwritten (OPEN-11).",
+   "source": "author ruling — STATUS §14",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O045",
+   "tier": "III",
+   "topic": "OC — the era lock",
+   "statement": "At four and through the Z-era arcs Goshin is mortal, with ordinary ki, flight and techniques; no golden transformation, god ki or divine form. The separately ruled ladder is for a later era. Mortal does not mean static, incapable or unable to grow.",
+   "source": "author ruling — STATUS era lock",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "C120",
+   "tier": "I",
+   "topic": "ep7 the telling, attempted",
+   "statement": "Episode 7, 15:20–20:55: Krillin rehearses how to tell Chi-Chi of Goku’s death, fails to say it, and eats dinner with the family while she remains uninformed. Episode 8, 05:58–06:49 and 07:54–08:12, shows him still at the house overnight, considering leaving, and back at Kame House without having told her. The earlier wording incorrectly placed his departure in episode 7.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 007–008",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C121",
+   "tier": "I",
+   "topic": "ep8 THE TELLING",
+   "statement": "**Ep. 8, at Kame House, from Roshi.** Chi-Chi and the Ox-King come to the island themselves; she says the two of them should be there; Roshi whispers the truth to her: Gohan was taken by Piccolo, and 「悟空は どうしたんだべか？」 is answered **「死んじゃった」** — and she goes down (13:56–16:39).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 007–008",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C122",
+   "tier": "I",
+   "topic": "ep8 the reason she came",
+   "statement": "She came because nothing came back: 「何も言ってこねえから さっき カメハウスに電話したけど 誰もいなかったぞ」 (ep. 7, 17:18). The machine she reached in ep. 6 is why she is standing on that island in ep. 8.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 007–008",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C123",
+   "tier": "I",
+   "topic": "ep8 the letter plan",
+   "statement": "Roshi's plan was **a letter** — 「手紙でも書いて説明すれば」 — and Krillin agreed. The letter is never written; she arrives first (ep. 8, 08:22).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 007–008",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C124",
+   "tier": "I",
+   "topic": "ep8 the scouter, converted",
+   "statement": "Bulma re-letters the salvaged scouter and it works: **Roshi 139**, **Krillin 206**, and a reading of **0.001** that convinces her the machine is sound (10:09–11:42). She also asks about the two Dragon Balls at Son's house — Krillin forgot them (08:34).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 007–008",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C125",
+   "tier": "I",
+   "topic": "ep8 the summons",
+   "statement": "Yajirobe brings Karin's message: **Kami will train Krillin, Yamcha, Tien and Chiaotzu at the tower**, and **Goku is not to be revived until the enemy arrives** — he is training in the other world (11:49–13:27).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 007–008",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C126",
+   "tier": "I",
+   "topic": "ep7 six months",
+   "statement": "Piccolo's first trial: 「まずは 何もせんでいい。生きるんだ」 — six months alone in the wasteland, if he survives he will be taught to fight; no food, no bath, no bed, no books (ep. 7, 04:54–06:45).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 007–008",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C127",
+   "tier": "I",
+   "topic": "ep8 the ape and the moon",
+   "statement": "Ep. 8, 22:13–23:55: Piccolo links the change to a full moon and says blowing the moon away was correct. He considers removing Gohan’s tail and prepares clothes and a sword. Ep. 9, 05:18, Gohan finds the tail absent; ep. 18, 09:14, Piccolo says he pulled it out six months earlier. The prior claim that he left it attached is wrong.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 007–008",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C128",
+   "tier": "I",
+   "topic": "ep7 Kami’s clock",
+   "statement": "Kami tells Popo that Piccolo has changed — Raditz's soul reached the afterlife, which never used to happen to those killed by demons — and that **his life and Piccolo's are one life, with about a year left**; the Dragon Balls can be used **one more time, and that is the last** (ep. 7, 07:50–10:16).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 007–008",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C129",
+   "tier": "I",
+   "topic": "the clock canon states",
+   "statement": "Captioned clock anchors: ep. 10 says eleven months remain; ep. 21 says two days remain and later gives 11:43 a.m.; ep. 122, 12:15, Trunks gives roughly 10 a.m. on May 12 three years after his warning. Ep. 173 says around 100 days to MAKE new balls, not to recharge them. Ep. 288 says six months later; ep. 289 says ten years have passed.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001-291 (see canon/episodes.json)",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C130",
+   "tier": "I",
+   "topic": "the printed numbers",
+   "statement": "Spoken readings, with conditions: farmer 5 and Piccolo 322 (ep. 1); Piccolo 322/408 and Goku 334/416 (ep. 3); 710 associated with Gohan near the pod (ep. 3); 924/925, 1,020 and Piccolo’s 1,330 (ep. 4; 1,020 attribution requires frame check); Gohan 1,307 then 1 (ep. 5); Saibaiman 1,200 (ep. 23); Gohan attack 2,800 and Goku 7,000/8,000/over 8,000 (ep. 28); Gohan’s attack over 20,000 momentarily (ep. 65). Never attribute the latter readings to Nappa.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001-291 (see canon/episodes.json)",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C131",
+   "tier": "I",
+   "topic": "the ape multiplier",
+   "statement": "「大猿になったサイヤ人は 戦闘力が10倍になる」 — a Saiyan in the ape is **ten times** his strength (ep. 32, 08:18). Matches C068.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001-291 (see canon/episodes.json)",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C132",
+   "tier": "I",
+   "topic": "the tail, whole",
+   "statement": "A Saiyan’s tail can be a gripping weakness (ep. 3); Raditz says an owner can cut off his own tail (ep. 5, 08:53). Vegeta says he and Nappa trained past the weakness (ep. 27, 07:48). Gohan’s tail regrows (ep. 18 and ep. 34), while ep. 42 says it could not be regenerated. Full-moon light or an artificial substitute can trigger a tailed Saiyan’s Great Ape state in relevant contexts.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001-291 (see canon/episodes.json)",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C133",
+   "tier": "I",
+   "topic": "the mother, twenty years",
+   "statement": "Chi-Chi values Gohan’s education (ep. 2 and ep. 107). In ep. 200, 16:44–16:54, Gohan explicitly says he COMMUTES FROM HOME to his city school; the former claim that he moved to Satan City was wrong.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001-291 (see canon/episodes.json)",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C134",
+   "tier": "I",
+   "topic": "canon second son",
+   "statement": "Goten is canon’s second son and a young Super Saiyan. Ep. 206, 16:21–16:27, he says Chi-Chi taught him sparring; at 18:29–19:10 he cannot fly and Gohan offers to teach him. Ep. 207 shows the lessons. Canon Goten’s prodigy status remains the default (OPEN-13).",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001-291 (see canon/episodes.json)",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C135",
+   "tier": "I",
+   "topic": "the finite wishes",
+   "statement": "Kami is linked to Earth’s Dragon Balls; his fusion with Piccolo removes the set, as Goku says in ep. 172, 20:27–20:41. Ep. 173, 16:09–17:25: Dende estimates 100 days to MAKE new balls, but can revive old stones with the dragon model; he accepts a two-wish configuration for mass resurrection. Ep. 192 confirms two wishes and that this Shenron cannot revive Goku a second time. Do not confuse Earth’s set with Namek’s.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001-291 (see canon/episodes.json)",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C136",
+   "tier": "I",
+   "topic": "Kami and Piccolo",
+   "statement": "Ep. 137, 10:22–10:49, Krillin recalls Kami and Piccolo’s predecessor as originally one Namekian and predicts a reunion. Ep. 138 depicts their discussion and Kami delays agreement; later they fuse. Ep. 172 discusses the cost to Earth’s Dragon Balls. Do not date the actual fusion to ep. 172.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001-291 (see canon/episodes.json)",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C137",
+   "tier": "II",
+   "topic": "the first Super Saiyan",
+   "statement": "In the Namek arc Goku’s first Super Saiyan transformation follows Krillin’s death (eps. 95–96; secondary episode record pending full caption review). It is not evidence that training is irrelevant or that all other transformations are voluntarily controlled.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001-291 (see canon/episodes.json)",
+   "source_class": "episode synopsis pending full caption review",
+   "witnesses": [
+    "W-42"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C138",
+   "tier": "I",
+   "topic": "Cell",
+   "statement": "Cell is assembled using fighters’ cells; Goku chooses Gohan to fight during the Cell Games, then later sacrifices himself against Cell, and Gohan defeats Cell with an injured arm. Ep. 192, 21:07–22:24: Goku elects not to be revived. Exact episode staging needs its own full caption/frame review before prose.",
+   "source": "redistributed Japanese caption files (origin unverified), Dragon Ball Z 001-291 (see canon/episodes.json)",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C139",
+   "tier": "III",
+   "topic": "the shape of the whole",
+   "statement": "Authored navigation groupings across 291 Z episodes: Saiyan 1–36; Namek/Freeza 37–107; Garlic Jr. 108–117; Trunks/Androids 118–139; Cell 140–194; Other World/school 195–209; Buu 209–287; aftermath 288–291. Episode 209 is a transition. Grouping is ours, not a canon quotation.",
+   "source": "editorial navigation of indexed Z episodes",
+   "source_class": "authored organisation",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "C140",
+   "tier": "III",
+   "topic": "the era, in years",
+   "statement": "The earlier exact-age ladder is withdrawn. Three years run from Trunks’s warning, not Raditz. Guidebook chronology and anime ages conflict: ep. 171 says Gohan turned 11 in the time chamber. Goshin’s later age depends on dates and whether he enters that room; resolve when writing the relevant arc.",
+   "source": "episode 171 caption and guidebook chronology; inconsistent ages",
+   "source_class": "authored uncertainty / secondary chronology",
+   "witnesses": [
+    "W-30",
+    "W-42"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O047",
+   "tier": "III",
+   "topic": "craft — the episode grammar",
+   "statement": "FORM: EPISODE is the default for new chapters, with anime grammar and the form-aware 4,400–6,600 word band. Chapters One and Two are accepted legacy scenes pending episode-form rebuild. Camera movement does not confer canon-character interiority.",
+   "source": "author ruling — chapters read as scenes, not episodes",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O048",
+   "tier": "III",
+   "topic": "craft — the fight laws",
+   "statement": "A fight is clear in geography, participants, actions, stakes and consequences. Flight, named techniques, multiple supernatural actions and sourced or authored readings are allowed. Damage follows feats, attack, aim and conditions, not a fixed formula (WRITING §§11,16).",
+   "source": "author ruling — fights and the supernatural are the weakest writing",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O049",
+   "tier": "III",
+   "topic": "craft — the supernatural laws",
+   "statement": "Write supernatural action directly and coherently: cause, movement, effect, consequence. Do not compare it to ordinary furniture, flag it as impossible or report what could not be seen. Multiple supernatural actions and visible ordinary ki are allowed; no early god ki (WRITING §12).",
+   "source": "author ruling — fights and the supernatural are the weakest writing",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O050",
+   "tier": "III",
+   "topic": "craft — the two specimens",
+   "statement": "CRAFT.md has three authored specimens: controlled spar, hillside blast and flight/technique practice. They are exercises, not canonical beats.",
+   "source": "author ruling — fights and the supernatural are the weakest writing",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O051",
+   "tier": "III",
+   "topic": "craft — name them",
+   "statement": "**Once a character is named on the page, the narration calls them by that name.** No epithets for named characters — not 'the taller boy', not 'the small one', not 'the demon', not 'the woman with blue hair'. **Three legal exceptions only:** before the name is known (once), for a character who is never named (declared as furniture), and inside dialogue. **Gated by `check_names`.**",
+   "source": "author ruling — epithets read as withholding",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O052",
+   "tier": "III",
+   "topic": "craft — the crib, and the clarity law",
+   "statement": "**A fight must be followable in one pass** (`WRITING §11 law 0`): every paragraph answers *where are they · who is acting · what changed*. **One action per sentence; no pronoun with two possible owners.** Effect-only prose is a mood, not a sequence. **Every specimen carries a plain-words crib first** — numbered, adjective-free — because if the crib is unclear the prose is broken, not the reader.",
+   "source": "author ruling — the fight could not be followed",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O053",
+   "tier": "III",
+   "topic": "craft — no riddles in invented material",
+   "statement": "Invented material must be plain and understandable without prior scenes. Characters do not speak in aphorisms or announce facts already shown: the authority orders and the learner acts. Context and action make the stake clear; every craft specimen begins with WHAT THIS IS and a plain-words crib.",
+   "source": "author ruling — the invented prose reads as a riddle",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O054",
+   "tier": "III",
+   "topic": "craft — the flow",
+   "statement": "**The impossible runs on flow** (`WRITING §15`). **Never tell the reader they could not see it** — *no 'nobody saw', no 'blink of an eye'*; write the displacement and let the ground report it. **Never compare the impossible to something ordinary** — no doors, pages, bowls, fists. **Never stop to say it is strange** — the reader knows. Shape: **cause you can point at → event → consequence left in the world**, no gaps. **And a character may not announce what the scene already shows:** no *'he has a tail'* — let the one with authority give the order and the boy act.",
+   "source": "author ruling — the supernatural comparisons and the announcements read wrong",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O055",
+   "tier": "III",
+   "topic": "craft — the scale law",
+   "statement": "A fight declares its participants, condition, relevant demonstrated capabilities, attack and environment. Damage follows the scene and feats, not a numerical battle-power conversion. Bodies are not categorically small-damage and large feats need not always require a long charge (WRITING §16).",
+   "source": "author ruling — the fight's scale was false",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC",
+    "W-30"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "C141",
+   "tier": "I",
+   "topic": "the numbers do not scale to damage",
+   "statement": "Battle power is informative but not a universal victory or collateral equation. Ep. 8 dialogue says Piccolo blew away the moon; ep. 22 dialogue reports East City gone following Nappa’s greeting. Piccolo’s 408 and Nappa’s guidebook 4,000 are not contemporaneous readings of those particular attacks. Method, scale, aim, condition and context matter.",
+   "source": "ep. 8 captions (moon) + Nappa's city feat (Tier II)",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "R-24",
+   "tier": "III",
+   "topic": "retired claim — flight",
+   "statement": "Correction: Piccolo can fly, but ep. 6, 24:23’s exhaustion line belongs to GOKU on Snake Way, not Piccolo: 「体力の使い過ぎで 飛べなくなっちまった」. It shows Goku’s fatigue, not Piccolo’s incapacity.",
+   "source": "redistributed Japanese caption files (origin unverified), ep. 6",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "O056",
+   "tier": "III",
+   "topic": "OC — never second to the other boy",
+   "statement": "User-authored standing: Goshin is never less capable than Gohan where both are compared. This is not a deduction from early scouter readings or a claim that Gohan stops growing. Temporary injury, exhaustion, suppression or a tactical loss can affect performance without erasing capability.",
+   "source": "author ruling — the OC is not the lesser brother",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O057",
+   "tier": "III",
+   "topic": "OC — the Talent at the training year",
+   "statement": "Goshin demonstrates the Talent in the training year: flight, technique use, rapid learning and retained skill. His tail remains a vulnerability unless defended or resistance is trained; a single observation is not automatic immunity. Both children can grow during survival and formal training.",
+   "source": "author ruling — the retention law at work in the year",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O058",
+   "tier": "III",
+   "topic": "OC — the curve",
+   "statement": "The Kame House reading of ~400 is a snapshot, not a permanent level or minimum. Goshin grows as a Saiyan/Earthling hybrid through training, experience, recovery and adaptation. Growth has no invented fixed rate; a lower temporary reading does not erase retained skills.",
+   "source": "author ruling — the OC grows; the 400 was a reading, not a level",
+   "source_class": "authored (O)",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O059",
+   "tier": "III",
+   "topic": "OC — the guards on growth",
+   "statement": "The former automatic ceiling below Nappa, hard prohibition on overtaking printed canon fighters, mandatory canon deaths and fixed plot order are WITHDRAWN. The altered story follows the consequences of its actual divergence, while retaining the user’s Goshin/Gohan standing rule.",
+   "source": "author ruling — the OC grows; the 400 was a reading, not a level",
+   "source_class": "authored correction / retired constraint",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "C142",
+   "tier": "I",
+   "topic": "hybrids — canon's own rule",
+   "statement": "Vegeta infers from Gohan that mixing Saiyan and Earthling blood can produce powerful hybrids and worries about them growing stronger (ep. 5, 22:22–23:13). He calls Gohan’s reading abnormal relative to Saiyan children. This character inference is not a universal rank, formula or Nappa cap.",
+   "source": "redistributed Japanese caption files (origin unverified), ep. 5, 22:22–23:13",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C143",
+   "tier": "I",
+   "topic": "hybrids — named again",
+   "statement": "Vegeta counts the surviving Saiyans on Earth by name and includes **「地球人との混血である そこのガキ」** — *the kid there, of mixed Earthling blood* (ep. 121, 17:59). The hybrid is a category canon keeps using, not a one-off remark.",
+   "source": "redistributed Japanese caption files (origin unverified), ep. 121",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "O060",
+   "tier": "III",
+   "topic": "OC — the curve is canon's own class",
+   "statement": "Vegeta’s ep. 5 inference supports hybrid potential and feared continued growth. It does not prove Goshin automatically outranks every hybrid of the same age. No universal Goten/Trunks ranking is imposed. The user’s Goshin/Gohan rule is separately authored (O056).",
+   "source": "author ruling — canon's hybrid rule read against the Talent",
+   "source_class": "authored interpretation, corrected",
+   "witnesses": [
+    "OC",
+    "W-30"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O046",
+   "tier": "III",
+   "topic": "tail and future route",
+   "statement": "Goshin keeps his tail as an authored divergence. Great Ape routes are not closed merely by destroying the natural moon; his future SS4 path remains authored, distinct from GT and Daima.",
+   "source": "OC",
+   "source_class": "authored ruling",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "O061",
+   "tier": "III",
+   "topic": "unverified city insert",
+   "statement": "Chapter One’s passing-city cut is authored staging until an independent frame check establishes it; C010 is not evidence that it occurs.",
+   "source": "OC",
+   "source_class": "authored staging",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D"
+  },
+  {
+   "id": "C144",
+   "tier": "I",
+   "topic": "hybrid recovery",
+   "statement": "After Dende heals Gohan, Vegeta says his battle power rose greatly, as expected from someone with Saiyan blood (ep. 80, 15:49–18:18). Freeza also notes Gohan’s growth following near-death recovery (ep. 83, 08:23–08:38).",
+   "source": "Japanese captions, eps 80 and 83; origin unverified",
+   "source_class": "caption text",
+   "witnesses": [
+    "W-30",
+    "W-35"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C145",
+   "tier": "I",
+   "topic": "Goten training and flight",
+   "statement": "Goten says Chi-Chi taught him sparring (ep. 206, 16:21); he can become Super Saiyan but cannot yet fly (18:29–19:10). Gohan teaches flight and ki in ep. 207; Videl also learns.",
+   "source": "Japanese captions, eps 206–208; origin unverified",
+   "source_class": "caption text",
+   "witnesses": [
+    "W-30",
+    "W-37"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C146",
+   "tier": "I",
+   "topic": "Namek Gohan surge",
+   "statement": "Gohan calls Masenko in ep. 65 at 05:46; at 06:05 Burter says his battle power exceeded 20,000 for an instant. Recoome subsequently overwhelms him; this is not a stable permanent reading.",
+   "source": "Japanese caption, ep. 65; origin unverified",
+   "source_class": "caption text",
+   "witnesses": [
+    "W-30",
+    "W-38"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C147",
+   "tier": "I",
+   "topic": "tail removal and training",
+   "statement": "Gohan notes his tail missing in ep. 9, 05:18; Piccolo says he pulled it six months earlier in ep. 18, 09:14. Vegeta says he and Nappa trained away tail-grip weakness in ep. 27, 07:48–07:57.",
+   "source": "Japanese captions, eps 9, 18, 27; origin unverified",
+   "source_class": "caption text",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C148",
+   "tier": "I",
+   "topic": "substitute moons",
+   "statement": "Ep. 18 identifies the pod’s generated moon; ep. 31, 21:23–22:02, Vegeta describes his artificial moon. Destroying Earth’s natural moon does not eliminate all Great Ape routes.",
+   "source": "Japanese captions, eps 18 and 31; origin unverified",
+   "source_class": "caption text",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C149",
+   "tier": "I",
+   "topic": "Dende creates the Earth set",
+   "statement": "Ep. 173, 16:09–17:25: Dende estimates 100 days to construct new balls; the old stones and dragon model can be restored immediately, and the group chooses two wishes to allow mass resurrection.",
+   "source": "Japanese caption, ep. 173; origin unverified",
+   "source_class": "caption text",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C150",
+   "tier": "I",
+   "topic": "Gohan and age",
+   "statement": "Ep. 171, 05:33–05:51: Chi-Chi says Gohan turned 11 in the time chamber and that the party day is not his actual birthday. Other chronology is contested; do not automatically assign a time-chamber year to Goshin.",
+   "source": "Japanese caption, ep. 171; origin unverified",
+   "source_class": "caption text",
+   "witnesses": [
+    "W-30",
+    "W-42"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C151",
+   "tier": "I",
+   "topic": "Gohan’s temperament",
+   "statement": "Piccolo says Gohan does not love fighting like Goku (ep. 183, 08:16–09:57); Gohan says he cannot force his anger on command (ep. 184, 12:43–13:04).",
+   "source": "Japanese captions, eps 183–184; origin unverified",
+   "source_class": "caption text",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C152",
+   "tier": "II",
+   "topic": "Saiyan arrival readings",
+   "statement": "Ep. 22 dialogue lists 981, 1,220, 1,083 without speaking names. Kanzenshuu’s anime guide assigns these visually to Gohan, Piccolo, Krillin respectively; video frame not independently checked.",
+   "source": "Kanzenshuu anime battle-power guide + caption ep. 22",
+   "source_class": "secondary visual attribution",
+   "witnesses": [
+    "W-30",
+    "W-38"
+   ],
+   "strength": "B"
+  },
+  {
+   "id": "C153",
+   "tier": "I",
+   "topic": "Raditz distance chronology",
+   "statement": "Ep. 1, 09:05: distance 4,880 and a question about Kakarot; ep. 1, 23:11: distance 12,909 after encountering Piccolo and certainty that this is Kakarot. Neither distance is battle power.",
+   "source": "Japanese caption, ep. 1; origin unverified",
+   "source_class": "caption text",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C154",
+   "tier": "I",
+   "topic": "other world tournament",
+   "statement": "Ep. 199, 20:16–22:22: Goku is announced winner, then the Grand Kai disqualifies Goku and Pikkon for a rule violation.",
+   "source": "Japanese caption, ep. 199; origin unverified",
+   "source_class": "caption text",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C155",
+   "tier": "I",
+   "topic": "school commute",
+   "statement": "Ep. 200, 16:44–16:54: asked if he rents an apartment in the city, Gohan says he commutes from home.",
+   "source": "Japanese caption, ep. 200; origin unverified",
+   "source_class": "caption text",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C089",
+   "tier": "I",
+   "topic": "ep3 Chi-Chi at home",
+   "statement": "Ep. 3, 14:56–15:08: Chi-Chi says Gohan must be enjoying himself at Roshi’s, notices his cram-school homework is unfinished, and worries aloud.",
+   "source": "Japanese caption, ep. 3; origin unverified",
+   "source_class": "caption text",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C156",
+   "tier": "I",
+   "topic": "ep7 Goku on Snake Way",
+   "statement": "Goku recalls Gohan’s strength (12:21–12:30), proposes cutting across the winding road (12:41–12:58), reacts to danger below the clouds (13:02–13:48), and later complains of hunger (22:17–22:22). Specific silent staging of the fall or handhold is not established by caption text.",
+   "source": "redistributed Japanese caption file, Dragon Ball Z 007, origin unverified",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C157",
+   "tier": "I",
+   "topic": "ep7 wilderness and the apple",
+   "statement": "In ep. 7 Gohan calls for help during the danger (18:37–19:18), says he cannot get down (20:30), finds an apple and calls it sour (22:50–23:16). Piccolo later says this is the one time he will help (24:36–24:44). The exact source and visual placement of the apple are not explicitly established by the caption words.",
+   "source": "redistributed Japanese caption file, Dragon Ball Z 007, origin unverified",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C158",
+   "tier": "I",
+   "topic": "ep7 guide and Baba",
+   "statement": "The guide tells Uranai Baba that Goku asks not to be revived for a year and asks her to convey the message to Roshi; she agrees (ep. 7, 21:52–22:06). Goku made the request to the guide in ep. 6, 18:04–18:23 (C109).",
+   "source": "redistributed Japanese caption files, Dragon Ball Z 006–007, origin unverified",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "C159",
+   "tier": "II",
+   "topic": "ep6 Piccolo regrows his arm",
+   "statement": "A secondary episode synopsis reports that Piccolo regrows his lost arm before taking Gohan. The local ep. 6 captions contain exertion and Bulma’s comparison to a lizard’s tail (06:28–06:55), but do not independently establish the visual sequence.",
+   "source": "Dragon Ball Wiki, No Time Like the Present (W-24); local caption context W-30",
+   "source_class": "secondary synopsis with caption context; video unverified",
+   "witnesses": [
+    "W-24",
+    "W-30"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "O062",
+   "tier": "III",
+   "topic": "chapter four draft — Raditz recap",
+   "statement": "REJECTED HISTORICAL DRAFT — not live continuity or proof of any current technique. In the serial’s brief recap, a pod window lets Goshin watch Goku’s Kamehameha. Both brothers help break the hatch; Gohan hits Raditz, Goshin intervenes with ki and flight, Raditz grips Goshin’s tail, Gohan helps free him, and Goku pins Raditz so Piccolo can fire. Gohan loses consciousness before Goku dies. This is authored divergence around the already established death, not a full reconstruction of episodes 3–6.",
+   "source": "rejected and archived episode-7 Chapter Four draft; not in the live serial",
+   "source_class": "historical rejected authored material",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "rejected-draft"
+  },
+  {
+   "id": "O063",
+   "tier": "III",
+   "topic": "chapter four draft — two children and Piccolo",
+   "statement": "REJECTED HISTORICAL DRAFT — not live continuity or proof of any current technique. Piccolo takes Gohan; Goshin flies after them rather than surrendering his brother. At the pool, the brothers attempt to leave together; Piccolo intercepts them and imposes the six-month survival trial. The children remain together, not canon’s solitary Gohan.",
+   "source": "rejected and archived episode-7 Chapter Four draft; not in the live serial",
+   "source_class": "historical rejected authored material",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "rejected-draft"
+  },
+  {
+   "id": "O064",
+   "tier": "III",
+   "topic": "chapter four draft — demonstrated talent",
+   "statement": "REJECTED HISTORICAL DRAFT — not live continuity or proof of any current technique. Goshin uses flight and ordinary ki. After seeing Piccolo deflect a strike he redirects a dinosaur’s first tail swing; a second swing hits him. After observing Goku’s Kamehameha through the pod window he performs it against the predator. Gohan uses a thrown rock to protect him. No scouter value, automatic immunity or fixed boost is assigned.",
+   "source": "rejected and archived episode-7 Chapter Four draft; not in the live serial",
+   "source_class": "historical rejected authored material",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "rejected-draft"
+  },
+  {
+   "id": "O065",
+   "tier": "III",
+   "topic": "chapter four draft — Krillin and the twins",
+   "statement": "REJECTED HISTORICAL DRAFT — not live continuity or proof of any current technique. Krillin’s twin-specific conversation, the test-paper exchange, Goku’s request to care for both children and Chi-Chi’s questions are authored. Krillin still fails to tell her and stays at the house overnight; Roshi’s telling in episode 8 remains the sourced baseline.",
+   "source": "rejected and archived episode-7 Chapter Four draft; not in the live serial",
+   "source_class": "historical rejected authored material",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "rejected-draft"
+  },
+  {
+   "id": "O066",
+   "tier": "III",
+   "topic": "chapter four draft — food and wounds",
+   "statement": "REJECTED HISTORICAL DRAFT — not live continuity or proof of any current technique. The brothers catch and cook fish by the stream; a predator costs them part of the meal. Gohan cleans Goshin’s scraped arm, and Goshin has a bruised back. Piccolo’s apple reaches the shelf; Gohan eats it and Goshin declines food whose source he did not see. The precise two-boy staging and apple placement are authored.",
+   "source": "rejected and archived episode-7 Chapter Four draft; not in the live serial",
+   "source_class": "historical rejected authored material",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "rejected-draft"
+  },
+  {
+   "id": "O067",
+   "tier": "III",
+   "topic": "chapter four draft — end state",
+   "statement": "REJECTED HISTORICAL DRAFT — not live continuity or proof of any current technique. At the draft chapter’s end Gohan and Goshin rest together on a sheltered shelf above the stream, Piccolo has departed for now, Goku is on Snake Way, Baba has agreed to relay his request, and Krillin is overnight at Chi-Chi’s without telling her. The children intend to look for a road at daylight; no future outcome is forced.",
+   "source": "rejected and archived episode-7 Chapter Four draft; not in the live serial",
+   "source_class": "historical rejected authored material",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "rejected-draft"
+  },
+  {
+   "id": "O068",
+   "tier": "III",
+   "topic": "Chapter Four — flight and escape",
+   "statement": "REJECTED HISTORICAL DRAFT — not live continuity or proof of any current technique. Goshin uses ordinary flight and ki to break Raditz’s hold over the sea, and Gohan acts to escape with him. Goshin carries Gohan in flight; these are authored consequences of two captives.",
+   "source": "rejected and archived conscious-capture Chapter Four draft; not in the live serial",
+   "source_class": "historical rejected authored material",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "rejected-draft"
+  },
+  {
+   "id": "O069",
+   "tier": "III",
+   "topic": "Chapter Four — observed deflection and recapture",
+   "statement": "REJECTED HISTORICAL DRAFT — not live continuity or proof of any current technique. Goshin copies Raditz’s palm deflection against a smaller ki burst and burns his hand. Raditz grips Goshin’s tail, weakening him, and recaptures both boys. The scene supplies neither tail immunity nor a fixed reading.",
+   "source": "rejected and archived conscious-capture Chapter Four draft; not in the live serial",
+   "source_class": "historical rejected authored material",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "rejected-draft"
+  },
+  {
+   "id": "O070",
+   "tier": "III",
+   "topic": "Chapter Four — the pod",
+   "statement": "REJECTED HISTORICAL DRAFT — not live continuity or proof of any current technique. Inside the pod, both boys work to open the hatch. Goshin uses controlled ordinary ki on the seam, Gohan braces and pulls, and Raditz shuts and bars it. The specific lock, window and two-child layout are authored.",
+   "source": "rejected and archived conscious-capture Chapter Four draft; not in the live serial",
+   "source_class": "historical rejected authored material",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "rejected-draft"
+  },
+  {
+   "id": "O071",
+   "tier": "III",
+   "topic": "Chapter Four — interference and consequence",
+   "statement": "REJECTED HISTORICAL DRAFT — not live continuity or proof of any current technique. A 710 signal sounds near both children while they are exerting themselves; the serial does not explicitly assign it to either boy. Later Gohan braces the hatch and Goshin fires through the opening, diverting Raditz’s attack on Goku. Raditz covers the opening with a slab, so their action visibly changes the fight.",
+   "source": "rejected and archived conscious-capture Chapter Four draft; not in the live serial",
+   "source_class": "historical rejected authored material",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "rejected-draft"
+  },
+  {
+   "id": "O072",
+   "tier": "III",
+   "topic": "Chapter Four — pursuit staging",
+   "statement": "REJECTED HISTORICAL DRAFT — not live continuity or proof of any current technique. Goku and Piccolo fly to the crater, and Bulma pilots Roshi and Krillin after them in a capsule aircraft. This mode and the aircraft staging are authored, without restaging the excluded Nimbus scene.",
+   "source": "rejected and archived conscious-capture Chapter Four draft; not in the live serial",
+   "source_class": "historical rejected authored material",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "rejected-draft"
+  },
+  {
+   "id": "O073",
+   "tier": "III",
+   "topic": "Chapter Four — opening combat",
+   "statement": "REJECTED HISTORICAL DRAFT — not live continuity or proof of any current technique. The fight’s specific terrain, attacks, movements and collateral are authored around episode 3’s directly read dialogue. Raditz, Goku and Piccolo are alive at the end, while both children remain in the pod; no later result is forced.",
+   "source": "rejected and archived conscious-capture Chapter Four draft; not in the live serial",
+   "source_class": "historical rejected authored material",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "rejected-draft"
+  },
+  {
+   "id": "O074",
+   "tier": "III",
+   "topic": "corrected island fight — surge",
+   "statement": "At Kame House, Goshin actively defends his father and brother using flight, ki and a learned deflection. His output rises beyond the authored ~400 island snapshot as he fights; no exact new reading is assigned.",
+   "source": "user correction and authored corrected Chapter Four",
+   "source_class": "authored rule and draft staging",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "active-draft"
+  },
+  {
+   "id": "O075",
+   "tier": "III",
+   "topic": "corrected island fight — knockout before abduction",
+   "statement": "Raditz fires toward the children; after an extended fight, Goshin turns the attack aside to protect Gohan. Raditz follows it, beats Goshin’s attempted block and knocks him unconscious. Only after that does Raditz carry Goshin away. The conflict and exact blows are authored.",
+   "source": "user correction and authored corrected Chapter Four",
+   "source_class": "authored rule and draft staging",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "active-draft"
+  },
+  {
+   "id": "O076",
+   "tier": "III",
+   "topic": "corrected flight and captivity",
+   "statement": "Raditz carries Goshin unconscious while Gohan remains awake and tries to help him. At the crater Gohan drags his unconscious brother under the pickup, Raditz exposes them and destroys the truck, and both are confined in the pod. Gohan checks Goshin and attempts the hatch; the 710 signal is not explicitly assigned to either twin (O081).",
+   "source": "user correction and authored corrected Chapter Four",
+   "source_class": "authored rule and draft staging",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "active-draft"
+  },
+  {
+   "id": "O077",
+   "tier": "III",
+   "topic": "corrected awakening and escape",
+   "statement": "Goshin wakes in the pod, breaks its hatch with ordinary ki and escapes with Gohan. Raditz pursues but does not recapture conscious Goshin; both brothers act during the fight on the rim.",
+   "source": "user correction and authored corrected Chapter Four",
+   "source_class": "authored rule and draft staging",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "active-draft"
+  },
+  {
+   "id": "O078",
+   "tier": "III",
+   "topic": "corrected episode-3 battle",
+   "statement": "Goku and Piccolo arrive after the brothers escape. Goshin participates in the opening fight, his output rises again, and Gohan contributes. Both children are conscious and outside the pod at the stopping point; no later result is predetermined.",
+   "source": "user correction and authored corrected Chapter Four",
+   "source_class": "authored rule and draft staging",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "active-draft"
+  },
+  {
+   "id": "O079",
+   "tier": "III",
+   "topic": "corrected pursuit staging",
+   "statement": "In the revised Chapter Four Goku calls and rides Nimbus while Piccolo flies alongside, based on the captioned lines and the secondary fan-gallery still (C161). Bulma pilots Krillin and Roshi after them in an aircraft; its exact mode, the pod hatch and the detailed combat geography are authored staging, not verified complete anime footage.",
+   "source": "user correction and authored corrected Chapter Four",
+   "source_class": "authored rule and draft staging",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "active-draft"
+  },
+  {
+   "id": "O080",
+   "tier": "III",
+   "topic": "user correction — conscious capture",
+   "statement": "For this specific Kame House abduction, the user rules that Raditz cannot take Goshin while he is conscious: his ~400 snapshot, active techniques and anger-driven rise must matter. The corrected story requires Goshin to be knocked unconscious before Raditz carries him, and his awakening must have consequences. This is an authored rule for this encounter, not a universal battle-power formula or a claim of general invulnerability.",
+   "source": "user correction — Raditz cannot take Goshin conscious in this encounter",
+   "source_class": "user-authored standing rule for this encounter",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "active"
+  },
+  {
+   "id": "C160",
+   "tier": "II",
+   "topic": "ep3 farmer pickup before pod",
+   "statement": "W-19 and W-17 describe the anime-only scene in which Gohan hides under the farmer's pickup and Raditz lifts and destroys it before confining him in the pod. Selected fan-gallery stills showing Gohan at the wheel and Raditz striking, lifting and blasting the pickup were inspected; their exact release/source is unverified and a complete episode video has not been examined. The captions at 15:15–16:14 provide cries and Raditz's rebuke, not full silent choreography.",
+   "source": "W-19 episode rewatch; W-17 episode comparison and gallery; W-30 caption context",
+   "source_class": "secondary episode comparison and selected fan-gallery images; broadcast/cut unverified",
+   "witnesses": [
+    "W-19",
+    "W-17",
+    "W-30"
+   ],
+   "strength": "B"
+  },
+  {
+   "id": "C161",
+   "tier": "II",
+   "topic": "ep3 Nimbus and Piccolo pursuit imagery",
+   "statement": "Episode 3 captions have Goku call Nimbus at 06:26 and ask Piccolo if he can keep up with it at 12:29; Piccolo disparages Goku's own flight. A selected W-17 fan-gallery still shows Goku on Nimbus with Piccolo flying alongside. Its broadcast and release provenance is unverified; the still does not prove every movement in the trip. The scene is transportation, not a purity test.",
+   "source": "W-30 episode-3 spoken captions; W-17 episode gallery",
+   "source_class": "direct caption words plus selected secondary visual; full video unverified",
+   "witnesses": [
+    "W-30",
+    "W-17"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C162",
+   "tier": "II",
+   "topic": "ep2 crab and stones",
+   "statement": "At 08:31 the local episode-2 caption contains a rock-paper-scissors call. W-03 and W-43 describe Gohan playing the game with a crab on Turtle; W-03's episode page/gallery describes that scene and reports Goku and Krillin throwing stones, including Goku throwing one far over the sea. Absence of an action in captions is not evidence it did not occur. W-03 and W-43 are separate publisher groups; the stone detail is not independently video-verified.",
+   "source": "W-30 episode-2 caption, W-03 episode synopsis/gallery, W-43 filler guide",
+   "source_class": "caption with secondary visual reports; full video unverified",
+   "witnesses": [
+    "W-30",
+    "W-03",
+    "W-43"
+   ],
+   "strength": "C"
+  },
+  {
+   "id": "C163",
+   "tier": "I",
+   "topic": "ep2 Saiyan business and objection",
+   "statement": "At ep. 2, 17:39–18:37, Raditz says Saiyans exterminate the inhabitants of valuable planets and sell them; adult warriors go to stronger worlds and infants to weaker ones. Krillin condemns the practice and sending a baby alone. Goku later agrees with Krillin and refuses (19:48–20:04).",
+   "source": "W-30 episode-2 redistributed Japanese captions, 17:39–20:04; original provenance unverified",
+   "source_class": "Japanese caption text, read directly; origin unverified",
+   "witnesses": [
+    "W-30"
+   ],
+   "strength": "A"
+  },
+  {
+   "id": "O081",
+   "tier": "III",
+   "topic": "two-boy adaptation of the truck scene",
+   "statement": "At Raditz's landing site, he puts both children down while preparing the pod. Gohan pulls still-unconscious Goshin beneath the pickup; Raditz lifts and destroys the truck away from them, carries the unconscious Goshin to the pod, and Gohan follows to help. The two-child hiding and the resulting causality are authored; Goshin is not taken while conscious.",
+   "source": "authored Chapter Four scene adapting C160 and the user's O080 ruling",
+   "source_class": "authored story staging",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "active-draft"
+  },
+  {
+   "id": "O082",
+   "tier": "III",
+   "topic": "restored episode-2 island moments",
+   "statement": "In supplementary Chapter Two prose, Krillin eats a tea cake; both brothers meet Turtle and the crab; Gohan plays and Goshin joins; Goku and Krillin throw stones, while Gohan and Goshin each try. The supplement also stages the reported childhood and Saiyan-raid flashbacks alongside the spoken accounts, and Goshin is present for Krillin's objection. The twin-specific actions, dialogue and visual blocking are authored; the older accepted Chapter Two body remains unchanged.",
+   "source": "authored supplementary scenes adapting C162 and C163",
+   "source_class": "authored story staging",
+   "witnesses": [
+    "OC"
+   ],
+   "strength": "D",
+   "status": "active-draft"
+  },
+  {
+   "id": "C164",
+   "tier": "II",
+   "topic": "ep2 flashback visuals",
+   "statement": "W-43 reports anime-only flashback imagery accompanying Roshi's account of Grandpa Gohan finding Goku in a pod and Raditz's account of Saiyan invasions. W-03 also lists the anime flashbacks and has related gallery stills. The full episode and its visual chronology were not directly inspected; prose transitions and twin reactions are authored.",
+   "source": "W-43 episode-2 filler guide; W-03 episode page/gallery; W-30 caption context",
+   "source_class": "secondary episode comparison and gallery; full video unverified",
+   "witnesses": [
+    "W-43",
+    "W-03",
+    "W-30"
+   ],
+   "strength": "B"
+  }
+ ],
+ "open_debts": [
+  "independent provenance and primary video for visual claims",
+  "remaining full episode reads before scene writing",
+  "film continuity register",
+  "chapter 1 field line and unverified city insert",
+  "chapter 3 date and cold-open time treatment",
+  "later timeline and chamber participation",
+  "episodes 4–6 battlefield and aftermath remain to be dramatized from the end of the replacement episode-3 chapter",
+  "accepted Chapter Three anticipates Snake Way and wilderness; if divergence changes the outcome, resolve its time/continuity debt explicitly without forcing a result",
+  "chapter 2 conscious capture superseded by corrected scene in chapter 4; accepted body preserved",
+  "accepted Chapter Two puts part of Raditz’s planet-destruction account before the source-order mission explanation and refusal; reported anime flashbacks are represented in supplementary prose but not directly video-verified"
+ ],
+ "tier_note": "Tier I means a directly read primary-like caption statement, provisional pending source/video verification. Tier II means secondary or unverified visual evidence. Tier III means authored decisions. Never infer a frame from audio captions.",
+ "strength_grades": {
+  "A": "direct, unambiguous local caption wording provisionally, or independently corroborated primary evidence; not verified broadcast provenance",
+  "B": "two or more independent summary/encyclopaedic groups agree",
+  "C": "one group only — may be true, must not be leaned on",
+  "D": "nothing attests it: authored, and declared as such in the chapter"
+ },
+ "witnesses_registered_in": "CANON.md §2"
+}

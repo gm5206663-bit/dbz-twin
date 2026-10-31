@@ -1,0 +1,76 @@
+{
+ "owner": "which techniques exist and at what grade.",
+ "registry": "canon/techniques.json",
+ "canon": [],
+ "holder_lanes": [
+  {
+   "lane": "Footwork",
+   "grade": "ungraded",
+   "paid_by": null
+  },
+  {
+   "lane": "Guard",
+   "grade": "palm deflection demonstrated; unranked",
+   "paid_by": "O074 O078"
+  },
+  {
+   "lane": "Strike",
+   "grade": "ordinary ki blasts demonstrated; unranked",
+   "paid_by": "O074 O077 O078"
+  },
+  {
+   "lane": "Ki control",
+   "grade": "working; unranked",
+   "paid_by": "O074 O077 O078"
+  },
+  {
+   "lane": "Sensing",
+   "grade": "none",
+   "paid_by": null
+  },
+  {
+   "lane": "Breath",
+   "grade": "ungraded",
+   "paid_by": null
+  },
+  {
+   "lane": "Flight",
+   "grade": "working; unranked",
+   "paid_by": "O074 O077 O078"
+  }
+ ],
+ "debt": "The exact named technique and silent visual staging in ep. 1 require a video/frame check; captions do not establish the technique name (C013).",
+ "standing_design": {
+  "flight": "Goshin can fly with ordinary ki; demonstrate naturally in a relevant scene. Fatigue can interrupt performance without forgetting it.",
+  "technique": "He has usable basic ki control and techniques and learns demonstrated movement unusually quickly. Do not imply he has no techniques; do not give him unobserved prerequisites for free.",
+  "era": "No early god ki or divine form.",
+  "status": "Authored design demonstrated in the corrected Chapter Four draft; not a canonical Gohan beat and not yet user-accepted."
+ },
+ "authored_chapter_four": [
+  {
+   "technique": "Flight",
+   "holder": "Goshin",
+   "evidence": "O074 O077 O078",
+   "condition": "Uses flight in the island fight, carries Gohan away from the pod and joins the crater fight; Raditz carries him only while unconscious."
+  },
+  {
+   "technique": "Observed palm deflection",
+   "holder": "Goshin",
+   "evidence": "O074 O078",
+   "condition": "Watches Raditz turn a blast aside, imitates the deflection during the island fight and later applies it again. His palm is burned."
+  },
+  {
+   "technique": "Ordinary ki blasts and controlled use",
+   "holder": "Goshin",
+   "evidence": "O074 O077 O078",
+   "condition": "Uses attacks against Raditz and breaks the pod hatch after waking. His output rises above the island snapshot without an exact new personal reading."
+  }
+ ],
+ "not_yet_demonstrated": [
+  {
+   "technique": "Kamehameha",
+   "holder": "Goshin",
+   "condition": "Not demonstrated in the live serial; a rejected draft cannot establish it."
+  }
+ ]
+}

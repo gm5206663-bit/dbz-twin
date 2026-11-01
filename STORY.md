@@ -11,7 +11,7 @@
 3. **Continuity:** DB + Z + Super + all films. Films need a verdict each (`OPEN-6`); the opening arcs touch none.
 4. **He is native.** No foreknowledge, no meta-knowledge, ever. *(Declared exception to house rule F0.)*
 5. **The OC changes every scene he is in.** If a scene would read the same without him, cut him or cut the scene.
-6. **Never restamp an accepted hash.** An accepted chapter is corrected by a dated note, not a rewrite.
+6. **Protect accepted history.** Do not rewrite an accepted chapter without explicit user authorization. If authorized, retain the prior body and its hash, record the scope and date, and present the resulting text for review; authorization to implement is not automatic acceptance of the new wording.
 7. **Goshin is never less capable than Gohan** (O056). Gohan also grows and retains agency. There is one divergent story, not a parallel track; do not force canon beats or a ceiling against Nappa.
 8. **The gate.** He cannot take Super Saiyan God **as a form.** The ritual would adapt into a divine Talent and promote his baseline, with no way back down (`STATUS §12`, O031, O032). **Late, once, one direction — and the base afterwards is what he is.**
 9. **The ladder is a floor, not a staircase.** Super Saiyan 1–3 are perfected, so they are never announced; **Rage** is his, **Super Saiyan 4** is earned at the ape, and **Blue is impossible** — and because the Talent **never lets a thing be lost** (`O041`), **every golden rung he reaches for comes back divine** — God 1, 2, 3, each louder than the last — crowned by **GOD 4**, the god worn inside the ape's body (`STATUS §13`).
@@ -19,6 +19,8 @@
 11. **The era lock.** At four, and through the Z-era arcs, **he is mortal and ordinary** (`O045`). The ladder in `STATUS §13` is a **locked ceiling**: no golden hair, no god ki, no divine anything. **Writing him as anything more is a period error, not a power-up.**
 12. **Canon where canon speaks; ours where it does not — and ours says so.** Every rung canon printed is played by canon's rules. Every rung it did not print is declared in `STATUS`, with the mark that it is ours.
 13. **The current abduction correction.** The user rules that Raditz cannot take Goshin conscious in this encounter. His ~400 is a snapshot and his output can rise in anger; he must fight and be knocked unconscious before Raditz carries him (`O080`). This is not a general equation between battle powers or an assertion of invulnerability.
+14. **Master what he has first.** In deliberate training Goshin works toward mastering or perfecting the abilities he already has before pursuing new ones. The user clarified that instinctive copying in an emergency is still allowed; the priority concerns training choices, not a ban on protecting someone (`O104`).
+15. **The foundation is serious work.** Goshin gives sustained attention to basics such as stance, balance, movement, guard, conditioning, breathing and ki control, as relevant to his skills and age. Show the practice and progress; do not replace his existing strength or rapid adaptation with a forced remedial stage (`O105`).
 
 ---
 
@@ -26,55 +28,59 @@
 
 - **Human: Son Goshin** (悟心) — carries the 悟 his brother carries.
 - **Saiyan: Broc** — same root-vegetable register as Kakarot, Raditz, Vegeta.
-- **Who says what:** the house says Goshin from birth. **Broc is first spoken by Raditz, in ep. 2, in daylight, on the island**, and nobody there has the standing to refuse it. The refusal becomes his mother's in Chapter Three.
+- **Who says what:** the house says Goshin from birth. **Broc is first spoken by Raditz on the island.** In the provisional Chapter Four, Goshin asserts his own name. Chi-Chi has not been shown hearing or rejecting Raditz's name; the older promise that she does so in Chapter Three was incorrect.
 
 ---
 
-## 3 · The clock — two days
+## 3 · The clock — one continuous day
 
-**The date: 12 October, Age 761** (Daizenshuu 7 via W-23). **Mid-autumn.** The guidebook assigned it working backwards from later anchors, so it is a date of record rather than a line of dialogue — and it is the first date this serial has ever had.
+**Selected date of record:** 12 October, Age 761, from a retrospective guidebook account (`W-23`, `C067`); another secondary account reports 28 November (`C047`). Neither is spoken or shown as a verified on-page date. The earlier 4 December opening was removed with the user's approval.
 
-**Day one (ep. 1), on the mountain** — times of day in this table are authored scheduling, not spoken timestamps.
-
-| Hour | Mountain | Elsewhere |
+| Sequence | Mountain | Island and battlefield |
 |---|---|---|
-| morning | Chi-Chi calls two names from the yard; Goku fells a tree and carries it up the slope with a boy on it | — |
-| morning | he comes in, finds the boy missing and goes to fetch him; Chi-Chi says he likely cannot have gone far. **She stays.** | a farmer is read at **5** and killed |
-| midday | Gohan alone: the sabertooth and the hat; visual staging is provisional | Raditz detects a signal at distance **4,880** and asks whether it is Kakarot |
-| afternoon | Goku finds him; the cloud staging is not proven by captions | the chapter’s city insert is unverified and authored (`O061`) |
-| evening | Goku takes **both** boys; the mother watches them go (authored placement) | Raditz reads Piccolo at **322**; after the encounter he detects a signal at distance **12,909** and says this time it is Kakarot; Piccolo says he shook |
+| Morning, then afternoon | Goshin watches breakfast prepared; Goku finds Gohan, recovers and returns the hat. Both boys leave with Goku. | Raditz's field question precedes his Piccolo encounter; `W-65` reports the hat and city visuals, not independently checked footage. |
+| Later the same day | The schoolbook and returned paper, teacher, washing and the Ox-King's visit occur; the paper and visit seen in later chapters are these same events. | The family reaches Kame House once. Raditz arrives, defeats Goku and fights Goshin; his anger raises his output and Raditz knocks him unconscious before taking him. |
+| Later that day, without a fixed hour count | Chi-Chi's call reaches the answering machine. The grandfather stays with her by the telephone. *Eight Hours* is the title and her schooling reference, not a countdown. | Goku and Piccolo pursue; the altered fight ends with living, injured Goku. Piccolo's later attempt fails, and the group returns to Kame House. Roshi calls Chi-Chi promptly. |
+| Evening and next morning | Chi-Chi and her father travel to meet Bulma; they spend the night with the reunited family at Kame House. The family returns home the following day after the doctor permits a gentle journey. | Goku and Gohan each eat a Senzu and are fully restored. Goshin refuses the third, watches his meals prepared and receives medical care. The current endpoint is the Chapter Nine draft. |
 
-**Day two (ep. 2), on the island** — the ten beats in `CANON §4`, ending past dark with both boys in the air, and an ultimatum: **about a hundred humans, killed and piled where he stands, by this time tomorrow.**
+No exact departure hour, mandatory eight-hour interval, full-moon phase, delayed medical care or overnight wait at the mountain house is imposed. The book, paper, visit and calls have one occurrence each; later chapters can expand the same scene.
 
-**The same days, on the mountain (eps. 3–6, anime-only) — read, not summarised:**
+**Unchanged-anime mountain comparison (eps. 3–8):** this is a source baseline, not a promise that the twin-divergent story must reach the same later outcome. Revised Chapter Three dramatizes several early mountain moments; later events follow the altered fight rather than forcing the baseline.
 | Ep. | What she is doing | What she knows |
 |---|---|---|
 | 3 | the cram-school homework is only half done; she sighs | nothing. She thinks they are having fun at Roshi's |
 | 4 | humming, holding a returned test paper — eight hours a day paid off — wishing they would come home so Goku could see it | nothing |
 | 5 | telling herself she should have gone too — and then **the Ox-King drives in with armfuls of presents calling for Gohan** | the question is in her yard and she has no answer |
 | 6 | her worry running away out loud; **she rings Kame House and gets an answering machine** | **still nothing.** Krillin is being sent, and has not arrived |
-| 7 | Krillin rehearses at her gate, fails to tell her, eats dinner and stays overnight | **still nothing.** He returns to Kame House the next morning in ep. 8; Roshi eventually tells her |
+| 7 | Krillin rehearses at her gate, fails to tell her and eats dinner; ep. 8 shows he stayed overnight | **still nothing.** He returns to Kame House the next morning in ep. 8; Roshi eventually tells her |
 | 8 | she goes to Kame House herself, because the phone gave her nothing | **the telling.** Roshi says it in two words and she goes down. **Her husband is dead and her son is with the demon who killed him** |
 
-She does not reach the Raditz battlefield in eps 3–6 and is **not told in ep. 6**. Roshi tells her in ep. 8.
+In the unchanged anime, she does not reach the Raditz battlefield in eps 3–6 and is **not told in ep. 6**; Roshi tells her in ep. 8. In the corrected living-Goku Chapter Seven draft, Roshi tells her promptly from Kame House after Piccolo's crater attack. The unchanged-anime table above remains a baseline, not live continuity.
 
 ---
 
-## 4 · Where everyone is now (corrected Chapter Four draft)
+## 4 · Where everyone is now (Chapter Nine draft)
 
-The user rejected the conscious abduction: at this encounter Raditz cannot take Goshin while he remains awake (`O080`). The accepted Chapter Two body is preserved, with its section-nine capture explicitly superseded in a dated footer. Five missed earlier island passages are dramatized in `chapters/Restored_Chapter_Two_Island_Moments.md` at the stated positions; the accepted body's source-order debt remains. The revised Chapter Four includes the island fight and the previously missed truck scene. It is a draft, not a claim of user acceptance. Chapter Three's mountain thread overlaps and extends into later episodes; its preview, future-facing narration and date/moon discrepancy remain explicit debts, not reasons to force the fight's result.
+The user rejected conscious capture by Raditz (`O080`); Chapter Four shows an earned knockout. Chapters Five and Six change the fight, leaving Goku alive. Corrected Chapters Seven and Eight adapt episodes 6–7, and Chapter Nine adapts episode 8 from their ending (`canon/SCENE_COVERAGE_006.md`–`canon/SCENE_COVERAGE_008.md`). **Chapters Four–Nine remain drafts pending review.**
 
-| | Current state at the end of the corrected draft |
+| | State at the end of the Chapter Nine draft |
 |---|---|
-| **The abduction** | Goshin fought at Kame House with rising output and Raditz knocked him unconscious before carrying him away; Gohan remained awake (`O074`–`O076`). |
-| **Goshin and Gohan** | Both are awake and outside the pod. Goshin woke, broke the hatch and carried Gohan out; they fought Raditz on the crater rim before Goku and Piccolo arrived (`O077`, `O078`). |
-| **Goshin's condition and capability** | A blow to the head knocked him out earlier; he is awake, his head hurts and one palm is burned. He can still fly and fight, and his output rises above the earlier ~400 snapshot. No precise new personal reading or fixed ceiling is assigned (`O074`, `O075`, `O078`). |
-| **Gohan** | Pulled his unconscious brother under the pickup, followed him into the pod, tried the hatch, threw a stone to create an opening and remains with Goku (`O076`–`O078`, `O081`). |
-| **Goku and Piccolo** | Alive and fighting Raditz alongside Goshin; the tail attempts have not succeeded. Piccolo's later attack and the outcome have not yet been dramatized (`O078`). |
-| **Raditz** | Alive and fighting; his scouter signalled 710 near the pod, without an explicit twin attribution in the draft (`C091`, `O076`). |
-| **Bulma, Krillin and Roshi** | En route in Bulma's aircraft; not yet at the fight (`C088`, `O079`). |
-| **Chi-Chi** | At home and uninformed; accepted Chapter Three contains the overlapping mountain thread and later mountain beats. |
-| **Next** | Continue directly from this altered fight and account for episode 4 scene by scene. Do not return the boys to the pod, re-capture conscious Goshin, or force the prior draft's outcome merely to preserve canon. |
+| **Goshin** | At the mountain home with his parents, brother and Ox-King. He refused the third Senzu because he did not watch it being made; Roshi retains it. Goshin watches the meals he eats being prepared. His head hurts less and his burned hand is re-dressed, but the doctor has not declared him fully recovered: monitoring and another follow-up remain; hard exercise, sparring and flight practice are prohibited. She permits only gentle walking and a few foot placements. He makes several controlled placements, corrects his heel and rests. Full practice of his already-known wave and foundations waits for clearance; no new technique or perfected mastery is asserted (`O118`, `O120`). |
+| **Gohan** | At home, completely healed and fully restored by the Senzu he ate. He keeps the Four-Star Ball on his hat, retains his tail, solves a small bird rescue and chooses a short supervised escape-and-call exercise. His wish to study remains his own. He and Goshin rode Nimbus to the mainland together; independent flight for him is not established (`O118`, `O119`, `O121`). |
+| **Goku** | Alive at home, completely healed and fully restored by his Senzu. Kami invites him to discuss the Saiyans, Piccolo, the Dragon Balls and the possible King Kai inquiry. Goku wants to hear more but has not agreed to leave or obtained Yemma's permission. He and Chi-Chi insist on a plan for both boys, including the danger from Piccolo. He asks Baba to pass his uncertain Grandpa question; no answer has arrived (`O114`–`O116`). |
+| **Chi-Chi and Ox-King** | Chi-Chi continues watching Goshin and arranges another medical check; she and Goku cover the home windows at night. Yajirobe carried Ox-King to the ninth road marker, where the truck was recovered; the family returned home with Goku alongside. The earlier schoolbag is brought out and the grandfather gives the boys additional gifts; carrying the bag remains undecided. No transformation, tail removal or particular moon phase has been established (`O118`, `O119`). |
+| **Piccolo and Raditz** | Piccolo trains alone in the wasteland, still dangerous; he has neither child and has not been given Raditz's moon explanation without an earned source (`O121`). Raditz is dead and was judged by Yemma (`O100`). |
+| **Roshi and Turtle** | At Kame House when the family leaves; Roshi keeps the unused third Senzu. No one has eaten it (`O118`, `O120`). |
+| **Bulma** | At her laboratory with the Dragon Radar. She changed the scouter's display and tested it briefly on an external supply in a mesh enclosure after disconnecting a suspected transmitter and microphone. She cannot guarantee containment of unknown alien transmissions or the measurement's accuracy. The device is off, its original cell remains separate, and no field-safe clearance exists (`O117`). |
+| **Krillin** | Left Bulma's lab intending to ask at the city stadium about Yamcha, whose baseball work she saw mentioned in a sports report. He has not yet found or recruited Yamcha, Tien or Chiaotzu. The authored enclosure test gave a momentary **206**, matching the episode-8 caption reading; his display rose when he raised energy. It is not a permanent ranking (`C124`, `O117`). |
+| **Kami, Popo and Yajirobe** | Kami sent Popo down to Korin. Yajirobe delivered an invitation for Krillin, Yamcha, Tien, Chiaotzu and himself to gather at Korin Tower for Kami's training, plus the invitation for Goku and his family to visit once Goshin can travel. Yajirobe departed the ninth marker toward the tower; his arrival is not shown. Popo was last shown at Korin Tower. No group training or child custody has begun (`O114`, `O118`). |
+| **Baba and Yemma** | Baba delivered the guide's message: Yemma would consider the living Goku's case if recovered and willing, but granted no permission. She departed with the children's names and Goku's request to ask Grandpa about his death, promising to try only if she finds him—not an answer, a visit or a date (`O115`, `O116`). |
+| **Dragon Balls and Saiyans** | The Three- and Six-Star Balls are in a box in the home cupboard; the Four-Star remains with Gohan's hat. The family plans to ask Kami and Korin about safer placement, but has not dispersed them or made a wish. Vegeta and Nappa are travelling after hearing the scouter; their names and exact strength are not yet known to the family (`O094`, `O119`). The one-year warning is approximate. |
+| **Next** | Read the complete local episode-9 captions and make a fresh source-order inventory before adapting its robot/ruins story. Continue only from the actual family-home, doctor, scouter, recruitment, Baba and tower states. The next preview promises a book and a road, not an already-met robot. No automatic custody, six-month isolation, safe scouter, moon destruction or Otherworld access is presumed. Preserve mastery-first training, serious foundations, the emergency exception and Gohan's agency. |
+
+The user explicitly authorized targeted changes to the formerly accepted Chapters One–Three. The implementation is present for review, with historical bodies and audit preserved, not automatically re-accepted. The forest/hat transition and specified order, food, instruction, camera and same-day repairs are on the page. Local continuity and instruction adjustments in Chapters Four–Nine are still provisional. The broader character-rule pass, primary-video evidence and later design questions remain open (`OPEN-17`, `REVISION_2026-11-01.md`).
+
+---
 
 ## 5 · The cast — voice law and never-list
 
@@ -104,8 +110,11 @@ The user rejected the conscious abduction: at this encounter Raditz cannot take 
 |---|---|
 | Goshin at birth: **100** | authored initial design (O002) |
 | Goshin **~400** | authored scouter snapshot on Kame House island, before Raditz takes the children (O005); not a permanent floor |
-| Goshin early rage **1,500** | authored early surge (O002); not a lifetime ceiling |
-| Gohan **710 / 1,307 / 1** | ep. 3/5 moments; 1 follows the outburst, not a lifelong resting value |
+| Goshin **1,500** | authored brief Chapter Six surge, separately scanned after the earlier 1,450 Kamehameha charge (O089); not a canon number or lifetime ceiling |
+| Goshin **1,450** | authored Chapter Five scouter snapshot while charging his first Kamehameha, not a resting power or fixed limit (O084, O088) |
+| Krillin **206** | episode-8 captioned scouter reading, repeated in an authored limited lab test in Chapter Nine; not a permanent ranking or proof the device is accurate or transmission-safe (C124, O117) |
+| **710** near the pod | original episode-3 caption context places the signal near Gohan; in the two-child draft it is not assigned to either brother (C091, O076) |
+| Gohan **1,307 / 1** | episode-5 moments; 1 follows the outburst, not a lifelong resting value |
 | Gohan **2,800 / over 20,000** | attack-context readings in eps 28/65; the latter is explicitly momentary |
 | Piccolo / Goku **322 / 334**, then **408 / 416** | ep. 3; separate targets, after clothing changes |
 | Raditz **1,500**, Nappa **4,000** | guidebook values, not readings of their every attack |
@@ -119,7 +128,7 @@ The cloud's carrying rule is a standing background trait (`C115`, `O023`); do no
 
 ## 7 · The Talent
 
-Present from conception, non-sentient and native to Goshin. He learns visibly from demonstrated movements, flies, uses techniques and retains acquired skill (`O004`, `O041`). Hybrid potential, training, experience, recovery and adaptation support continued growth; no free exact number is awarded just for looking. Fatigue, injury, suppression and distraction can interrupt performance. The separately ruled late divine gate and ladder remain in `STATUS §§12–14`; no god ki occurs in the present Z-era.
+Present from conception, non-sentient and native to Goshin. He learns visibly from demonstrated movements, flies, uses techniques and retains acquired skill (`O004`, `O041`). The user clarified that his first Kamehameha in Chapter Five has more raw ki than Goku's wave but less of Goku's practiced control (`O088`); an effective first use is not necessarily as polished as his father's. In training, he prioritizes mastering and perfecting what he already has and gives serious attention to fundamentals (`O104`, `O105`). This does not prevent instinctive copying in emergencies, as the user confirmed. The old blanket rule that none of his skills can ever be finished is withdrawn (`R-26`). Hybrid potential, training, experience, recovery and adaptation support continued growth; no free exact number is awarded just for looking. Fatigue, injury, suppression and distraction can interrupt performance without erasing mastery. The separately ruled late divine gate and ladder remain in `STATUS §§12–14`; no god ki occurs in the present Z-era.
 
 ---
 

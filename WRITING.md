@@ -115,21 +115,21 @@ No answers, no scene.
 
 ## §10 · The episode grammar — how a chapter is built like an anime
 
-**A scene is not an episode.** A chapter that runs to 3,000 words in one room, with one lens and one day, is a *scene*, and it will read as a chapter of a novel rather than as twenty-two minutes of a broadcast. **Episode form is the default for new chapters**, 4,400–6,600 words, using the grammar below. The first two accepted legacy chapters remain scene-length pending their episode-form rebuild; do not default a new chapter to a single-location scene.
+**A scene is not an episode.** A chapter that runs to 3,000 words in one room, with one lens and one day, is a *scene*, and it will read as a chapter of a novel rather than as twenty-two minutes of a broadcast. **Episode form is the default for new chapters**, 4,400–6,600 words, using the grammar below. The first two legacy chapters remain scene-length, including their explicitly authorized targeted revisions; a complete episode-form rebuild has not been authorized by this revision. Do not default a new chapter to a single-location scene.
 
 **The eleven devices. A chapter that claims episode form carries at least seven.**
 
 1. **Cold open.** One image before the title, no dialogue, and the world already running. Canon opens on weather and landscape because it is cheap and it is true.
 2. **The narrator, who is a voice and not a mind.** He states time, place, and what is *not* happening. He may report events in other places — 「一方 そのころ…」 — **without the camera going there.** This is how the anime crosses the world without breaking a room.
 3. **The title card.** After the cold open, and its own beat of silence. Ours goes in the chapter's own words: **EIGHT HOURS.**
-4. **The countdown.** Canon counts down constantly — eleven months, two days, 11:43 a.m., three hours to the planet's end. **A chapter with a clock in it reads as an episode**, and the clock should be canon's own number where canon supplies one.
+4. **The countdown.** Use a clock only when it fits the actual sequence and sourcing; never invent a delay to preserve the device. In the approved Chapter Three revision, *Eight Hours* is the title and Chi-Chi's schooling reference, not a literal countdown. Other episodes may use a sourced countdown where appropriate.
 5. **Hard cuts.** Not transitions. A blank line and a new image at a different distance or a different subject: the yard, then the road, then the window, then the gate. **Never explain the cut.**
 6. **The insert.** A hand, a dial, a page, a peg. The anime's cheapest and best trick: it tells you what a person will not say.
 7. **The held frame.** One wide shot, longer than comfortable, with nothing in it but what is happening. Somebody standing at a gate. Two of them, small, from a distance.
 8. **Sound before sight.** An engine before the truck, a voice before the man, a knock before the door. Canon does this relentlessly.
 9. **The eye-catch.** A still frame at the middle with the programme's own voice over it, and then the same frame resumed. Ours: *"This programme continues after a message."*
 10. **The loop-back.** A shot repeated at the end that opened the chapter, and the difference is the point.
-11. **The preview.** The anime's closing device, and the most useful thing in this file: **it lets a chapter say what it did not show.** Two or three images from the next chapter, the narrator's flat promise, and a title in quotes. **It is also a promise to the reader that the rest of the world exists**, which no scene-form chapter can make.
+11. **The preview.** The anime's closing device, and the most useful thing in this file: **it lets a chapter say what it did not show.** Images or a narrator's flat promise and a title in quotes; honor any narrower camera restriction, as Chapter Three does by keeping its preview on the house and road. **It is also a promise to the reader that the rest of the world exists**, which no scene-form chapter can make.
 
 **Keep the grammar readable.** Narrator, title cards, eye-catches and previews may be signposted as in Chapter Three; do not clutter the story with technical timecodes or a shot list. Use bold countdowns, hard cuts and held frames when they serve the episode.
 
@@ -153,7 +153,7 @@ A fight must be followable in one pass. Establish who is present, where they are
 - **Scale:** choose effects from demonstrated feats, the chosen attack, aim, condition, control and surroundings (`§16`). Follow the damage through to its consequences.
 - **Dialogue:** let an authority give a clear order and a character act. Do not have a character announce a fact already visible. Named canon techniques and appropriately declared invented techniques may be used; a scouter can print a sourced or authored number when its presence makes sense.
 - **Speed:** describe displacement, contact and aftermath. Never tell the reader that nobody could see the action, compare a supernatural effect to ordinary furniture, or interrupt to say it is impossible.
-- **Adaptation:** seeing a technique can help Goshin learn it; training and resistance have to be shown where relevant. A temporary defeat or exhausted landing does not erase retained skill.
+- **Adaptation:** seeing a technique can help Goshin learn it; training and resistance have to be shown where relevant. In deliberate training he masters or perfects the abilities he already has before pursuing new ones, and gives the foundations serious attention (`O104`, `O105`). The user allows instinctive copying during emergencies. Show ordinary practice and eventual mastery, not a parade of new moves or a claim that nothing he knows is ever finished. A temporary defeat or exhausted landing does not erase retained skill.
 
 A fight may contain many supernatural actions. It does not require a predetermined number of blows, an onlooker cut, an already-stated twist, a mandatory charge or a specifically small aftermath. The plain-words crib in `CRAFT.md` is a test of clarity, not prose that must be repeated in a chapter.
 

@@ -49,11 +49,11 @@
 | W-22 | dragonballpowerscaling, *List of Official Power Levels* | E | dbps | the anime-side readings, incl. **1,480** for the second Special Beam Cannon (ep. 5) |
 | W-23 | Kanzenshuu, **Dragon World Timeline** | E | kz | the guidebook chronology: **Raditz arrives 12 October, Age 761** · 23rd Budōkai 7 May 756 · Gohan born May 757 · Vegeta and Nappa 3 November 762 — with Kanzenshuu's own warning that the guidebook dates are *assigned*, and contested |
 | W-24 | Dragon Ball Wiki, *No Time Like the Present* (ep. 6) | S | fandom | ep. 6's plot — Piccolo takes Gohan; Bulma recovers the scouter; a plan to send Krillin; direct captions establish Roshi tells her in ep. 8 |
-| W-25 | Great Ape multiplier — manga statement, corroborated by the Super Exciting Guide (via secondary) | E | dbps | **×10 base**, requiring the tail and the full moon |
+| W-25 | Great Ape multiplier — manga statement, corroborated by the Super Exciting Guide (via secondary) | E | dbps | **×10 base** and the natural-moon/tail conditions; artificial or pod-projected moons are separately recorded in `C148` |
 | W-33 | press reporting on **Dragon Ball Daima** eps 18–20 (2024–25) | E | press | **Daima has its own Super Saiyan 4 portrayal**: reached through Neva's magic, **no tail needed**, at will by ep. 19, named in the finale. Also flags Daima's continuity friction with *Super* |
 | W-32 | Dragon Ball Wiki, *Super Saiyan God* | E | fandom | **the ritual**: five righteous Saiyans plus the recipient, joined, ki poured in; the form **runs out of time**; godly ki otherwise reachable by deity training or by forms built on it |
 | W-31 | Dragon Ball Wiki, *Flying Nimbus* | E | fandom | **the pure-heart rule** — the cloud carries only the pure and everyone else falls through; the hold-on loophole; objects exempt; a rider in the manga |
-| W-30 | Japanese SRT files, 001–291, redistributed through Kitsunekko (`/home/user/tmp/subs/ex/`); original broadcast/official provenance unverified | **P-C** | redistributed text | captioned words and local timestamps, provisionally; not frames or verified origin |
+| W-30 | Japanese SRT files, 001–291, redistributed through Kitsunekko (`/home/user/tmp/subs/ex/`); original broadcast/official provenance unverified | **P-C** | redistributed text | captioned words and local timestamps, provisionally; not frames or verified origin. Some files contain identifiable unrelated material after the DBZ ending; establish the individual episode boundary. The pre-existing index uses a 29-minute heuristic, not a verified cut |
 | W-34 | Dragon Ball Official, Saiyan-arc Gohan profile | M/E | official | manga-based Gohan’s potential, training and Masenko |
 | W-35 | Dragon Ball Official, Namek-arc Gohan profile | M/E | official | manga-based recovery and growing power |
 | W-36 | Dragon Ball Official, Cell-arc Gohan profile | M/E | official | manga-based training, transformation and temperament |
@@ -64,6 +64,29 @@
 | W-41 | Dragon Ball Official, young Goku technique showcase | M/E | official | manga-based learning of Kamehameha after observation |
 | W-42 | Kanzenshuu episode and Dragon World timeline guides | E | kz | episode navigation and retrospective chronology with conflicts |
 | W-43 | Daizenshuu EX, [episode-2 filler guide](https://www.daizex.com/guides/filler/dbz_tv/002.shtml) | S | kz | describes Gohan playing rock-paper-scissors with the crab on Turtle, plus anime flashback inserts; an episode guide, not a verified broadcast copy. Same publisher group as Kanzenshuu, not independent of W-02 |
+| W-44 | Dragon Ball Wiki, [*Piccolo's Plan*](https://dragonball.fandom.com/wiki/Piccolo%27s_Plan) (ep. 4) | S | fandom | reports the episode's fight, Piccolo's injured arm, the first beam, the aircraft conversation and Chi-Chi; visual and dub-specific details are not direct video verification |
+| W-45 | Neoseeker, [*Piccolo's Plan*](https://dragonball.neoseeker.com/wiki/DBZ_Episode_4_-_Piccolo%27s_Plan) (ep. 4) | S | neoseeker | independent-publisher episode synopsis, including paired blasts, aircraft discussion, beam, tail and home cut; not a verified broadcast copy |
+| W-46 | Kanzenshuu, [episode 5 guide](https://www.kanzenshuu.com/episode/dbz/eps-005/) | S | kz | episode synopsis: Gohan's attack, Goku's hold, the second beam, Raditz's warning and Goku's death in the baseline; secondary account, not a full video check |
+| W-47 | Neoseeker, [episode 5 synopsis](https://dragonball.neoseeker.com/wiki/DBZ_Episode_5_-_Gohan%27s_Rage) | S | neoseeker | independently published episode summary, including the attack, transmission, arriving friends, Saiyans and disappearance; not verified footage |
+| W-48 | Dragon Ball Encyclopedia, [episode 5 synopsis](https://dragonballencyclopedia.com/wiki/Gohan%27s_Rage) | S | dbe | describes Gohan's headbutt, Raditz's retaliation and a distant planet with insect-like inhabitants; secondary visual account, not broadcast verification. Its 1,485 figure conflicts with the captioned 1,480 and is not adopted |
+| W-49 | CBR, [Vegeta's introduction](https://www.cbr.com/dragon-ball-daima-dbz-vegeta-eat-bug-warrior-reference/) and [episode-5 alien-feast report](https://www.cbr.com/dbz-vegeta-worst-acts-against-innocent-people/) | S | cbr | search-result excerpts report Vegeta eating an insect-like alien's arm with Nappa present. The first page returned a reCAPTCHA when fetched, so only the search snippets were read; secondary reporting, not primary footage |
+| W-50 | Dragon Ball Updates Wiki, [Vegeta's victims list](https://dragonballupdates.fandom.com/wiki/List_of_characters_killed_by_Vegeta) | S | du | reports the unidentified planet, corpses and Vegeta eating an arm beside Nappa. Same publisher as the separately contaminated W-13; used only for this point corroborated by W-49, not as a general reliable authority |
+| W-51 | Kanzenshuu, [episode 6 guide](https://www.kanzenshuu.com/episode/dbz/eps-006/) | S | kz | secondary synopsis of dead Goku's Otherworld request and road, Piccolo's taking of unconscious Gohan and the subsequent power test; not a complete-video check |
+| W-52 | Neoseeker, [episode 6 synopsis](https://dragonball.neoseeker.com/wiki/DBZ_Episode_6_-_No_Time_Like_The_Present) | S | neoseeker | independent-publisher secondary account of the scouter, arm regeneration, taking Gohan and throwing him at a mountain; does not verify original broadcast frames |
+| W-53 | Dragon Ball Official, [Karin Sanctuary and Kami's Palace](https://en.dragon-ball-official.com/news/01_597.html) | M/E | official | manga-based franchise feature identifies Karin as the tower's resident and Yajirobe as living there and delivering Senzu; it does not establish exact stock or who is present at the divergent episode-6 moment |
+| W-54 | Dragon Ball Wiki, [Senzu Bean](https://dragonball.fandom.com/wiki/Senzu_Bean) | E | fandom | secondary description of Korin growing the beans and their restorative effect; reports Yajirobe giving one to Goku after the 23rd tournament. The episode footage and current stock were not checked |
+| W-55 | Dragon Ball Wiki, [*Anonymous Proposal*](https://dragonball.fandom.com/wiki/Anonymous_Proposal) and Dragon Ball Guru, [Krillin's flight](https://dragonball.guru/how-can-krillin-fly/) | S | fandom / dbguru | secondary reports of Krillin demonstrating flight against Piccolo at the 23rd tournament, before Z. Their independence is uncertain; neither establishes his exact long-distance speed, endurance or travel time in this branch |
+| W-56 | Kanzenshuu, [episode 7 guide](https://www.kanzenshuu.com/episode/dbz/eps-007/) | S | kz | secondary episode identification and synopsis: six-month trial, Goku's close call on Snake Way, Krillin's failed telling, and Gohan chased up a rock while Piccolo watches. Not a full-video check |
+| W-57 | Dragon Ball Wiki, [*Day 1*](https://dragonball.fandom.com/wiki/Day_1) | S | fandom | secondary episode synopsis and gallery describe a dinosaur chase, the high rock, Piccolo's apple delivery and Goku's near fall. Exact silent staging, apple count, the guide's information and broadcaster provenance remain unverified by footage |
+| W-58 | Dragon Ball Wiki, [*Number One Under the Moon?*](https://dragonball.fandom.com/wiki/Number_One_Under_the_Moon%3F) | S | fandom | secondary report that Goku transformed into a giant ape in the 21st tournament while fighting Jackie Chun, who is Roshi in disguise. No complete Dragon Ball episode footage was checked |
+| W-59 | Kanzenshuu, [episode 8 guide](https://www.kanzenshuu.com/episode/dbz/eps-008/) | S | kz | secondary episode synopsis, Japanese title, training summons, moon, tail and changing custody; not a full-video check |
+| W-60 | Dragon Ball Wiki, [*Gohan Goes Bananas!*](https://dragonball.fandom.com/wiki/Gohan_Goes_Bananas!) | S | fandom | secondary episode synopsis describes the scouter's Turtle target, Yajirobe's message, Gohan's transformation, Piccolo's moon attack and tail removal; full episode footage not checked |
+| W-61 | Kanzenshuu forum, [episodes 8–12 rewatch](https://www.kanzenshuu.com/forum/viewtopic.php?t=45428) | S | kz-community | individual secondary observer reports Yajirobe's aircar, Bulma shooting to wake the sleepers, Turtle's 0.001 and a squirrel/apple encounter; not a full-video check or independent franchise authority |
+| W-62 | Dragon Ball Official, [Grandpa Gohan character showcase](https://en.dragon-ball-official.com/news/01_612.html) | M/E | official | manga-based account of Grandpa Gohan's one-day return for Baba and his reunion with Goku; no claim that Baba knows or can immediately deliver a new answer |
+| W-63 | Dragon Ball Wiki, [*Plans for Departure*](https://dragonball.fandom.com/wiki/Plans_for_Departure) | S | fandom | secondary episode-37 account of Popo transporting Bulma on a flying carpet; its use to deliver the changed episode-8 message is authored |
+| W-64 | Kanzenshuu, [episode 10 guide](https://www.kanzenshuu.com/episode/dbz/eps-010/) | S | kz | secondary report of Yamcha playing professional baseball and Krillin finding him later; a prior public clue in the altered branch is authored, not proof of the episode-10 game's timing |
+| W-65 | Kanzenshuu, [episode 1 detailed synopsis](https://www.kanzenshuu.com/episode/dbz/eps-001/) | S | kz | secondary description of the tree, forest, river rescue, Goku recovering and returning the hat, the city and Piccolo; same publisher group as W-02, not an independent video check |
+| W-66 | CBR, [Super Saiyan God discussion](https://www.cbr.com/dragon-ball-vegeta-super-saiyan-god/) | S | cbr | secondary account reports unborn Pan contributing to the ritual; film and Super depiction/requirements require their own primary review |
 
 **Source limits:** no complete original episode video was examined; original broadcast provenance, guidebook scans and some interview texts remain unverified or not held. A few episode-3 stills in a fan gallery were inspected on 31 October; their exact source and release are unverified and they cannot establish the entire scene. All 291 SRTs were indexed and searched; only the full spoken-caption set in `canon/RESEARCH.md §1` was read end to end. A caption provides text, not silent movement or camera placement. Earlier chapter cards’ phrase “broadcast captions” was too strong; their evidence cards now distinguish provisional dialogue from visual staging.
 ---
@@ -87,12 +110,12 @@
 **Episode 1 — captioned dialogue in order**
 
 - **03:29–03:41:** narration says more than five years have passed since Piccolo's defeat.
-- **04:37–05:55:** Chi-Chi calls for Gohan and the meal. Goku says they must eat and depart because Roshi and the others are waiting; **Chi-Chi** says the boy probably has not gone far. How Goku travels is a visual claim.
+- **04:37–05:55:** Chi-Chi calls for Gohan and the meal; Goku offers to search, and Chi-Chi says the boy probably has not gone far. The meal/departure urgency is unlabelled in the local captions; `W-65` attributes it to Chi-Chi; the revised Chapter One follows that secondary attribution (`C003`, `C079`). How Goku travels is a visual claim.
 - **08:32–09:12:** Raditz reads the farmer at **5**, then detects a strong signal at **distance 4,880** and asks whether it is Kakarot.
 - **10:18–19:59:** Gohan names a butterfly; later he is frightened and says he cannot get down; Goku calls and reaches him. The log, water and rescue staging require visual witnesses.
 - **21:43–23:36:** Raditz says he has no business with Piccolo and reads **322**; he dismisses the attack as dust. He then detects the largest power at **distance 12,909** and says this time it is Kakarot. Piccolo says he shook and could not move (`C153`).
 
-**Correction to accepted Chapter One:** its early field line borrows the later Piccolo-scene wording, and its passing-city insert is not established by the captions. The prose remains an explicitly recorded revision debt, not newly certified evidence.
+**1 November approved Chapter One revision:** the field signal is a question and the later certainty follows Piccolo. Piccolo challenges the visitor before the 322 reading and attack. The forest, recovery and return of Gohan's hat, and the later city cut are now dramatized. `W-65` reports those visuals and order as a secondary synopsis, not independently checked footage (`C006`, `C010`, `C012`, `C181`). The pre-revision prose and audit remain preserved.
 
 **Episode 2 — the island, in order**
 
@@ -106,7 +129,7 @@
 - **00:11:12** 「やっと会えたか…カカロット」「父親そっくりだ」. **00:11:45** Krillin's shoo: 「昼間っから酔っ払ってちゃだめだって」 (C073). **00:12:00** through the wall.
 - **00:13:57** Krillin sees **Raditz's** tail (C074). **00:14:34** the head: 「頭を強く打ったことがあるのか？」 — then the scar, then **Roshi** and the pod (C021). **00:16:05** 「それが オラか」 — acceptance, not disbelief (R-16).
 - **00:16:57–18:37** Raditz names Planet Vegeta and explains his people's work; Krillin condemns sending infants alone (`C163`). **00:19:10** Raditz raises the full moon, and the ape roars on the track (C075). **00:19:24** he asks about Goku's missing tail.
-- **00:19:48** Goku refuses and identifies himself as an Earthling (C028). **00:20:29–21:05** Raditz reports the planet's destruction and four survivors; **00:21:11** he wants Goku's help with another planet. The accepted Chapter Two puts part of that account earlier; its order debt remains explicit.
+- **00:19:48** Goku refuses and identifies himself as an Earthling (C028). **00:20:29–21:05** Raditz reports the planet's destruction and four survivors; **00:21:11** he wants Goku's help with another planet. Revised Chapter Two places the planet-destruction and four-survivor account after the moon exchange and Earthling refusal, before the offer; exact silent staging remains unverified.
 - **00:22:04** the boy's tail, seen by Raditz; 「ちょっと 息子を貸してもらうとするか」. **00:23:13** 「子どもは預かっておく」. **00:23:33** one day. **00:23:43** 「あしたのこの時間までに…100人ほど殺して ここに その死体を積んでおけ！」 **00:24:06** 「できれば俺も殺したくはない」 (C077).
 
 **The numbers, spoken and printed (C080).** The scouter-related numbers spoken in eps 1–2 include battle powers **5** and **322**, and distances **4,880** and **12,909**. Other numbers are spoken too, including Gohan’s age and Raditz’s ultimatum. **Gohan's 710 / 1,307 / 1, Goku's 334 / 416 and Piccolo's 408 are not spoken in these two episodes**; they are spoken later in eps 3–5. Raditz's 1,500 is a guidebook figure, not a spoken reading in these episodes. This is the single largest correction the captions have made to this docset.
@@ -123,13 +146,17 @@
 
 **Ep. 3 — the two of them against one.** The bargain restated (03:43) · **Earth is the next target; three Saiyans could clear it in a month** (04:31) · on the island, **Goku names the tail weakness and says he cannot do it alone** (07:11) · **the one-wish rule**: Shenron cannot grant the same wish twice, and Krillin and Roshi have each been revived once (08:04) · Bulma's wish idea (08:54) · **the radar is tracking the Four-Star on the boy's hat** (09:23) · **Piccolo offers the alliance for his own reasons** (10:07) · Roshi decides the three of them will follow (14:41) · **at home: the homework is half done, and she sighs** (14:56) · Raditz shuts the boy in the pod (15:15) · **the scale becomes audible: 710, 322, 334, then 408 and 416** (16:42–21:45) · the scouter explained (17:29) · the weights (21:10) · Raditz writes his brother off and attacks to kill (22:19) · the other two are stronger than him (23:54).
 
-**Ep. 4 — the plan, and a test paper.** The boy is in the pod in the crater behind them (05:44) · **Piccolo loses his left arm** (09:16) · the new technique needs time; Goku must hold Raditz alone (11:13) · **924, 925, 1,020, 1,330** — spoken (14:53–17:13) · **the tail grip works and Goku lets go** (19:23–22:33) · **at home, humming, holding the returned test: eight hours a day, and she wishes they would come home** (22:43).
+**Ep. 4 — the plan, and a test paper.** The boy is in the pod in the crater behind them (05:44) · Piccolo says he can still fight after losing an arm (09:16; `C095`); the **left** side and paired blasts are reported by episode synopses rather than established by the spoken caption (`C165`) · the new technique needs time; Goku must hold Raditz alone (11:13) · **924, 925, 1,020, 1,330** are spoken (14:53–17:13; the anime target of 1,020 has not been frame-checked) · **the tail grip works and Goku lets go** (19:23–22:33) · **at home, humming, holding the returned test: eight hours a day, and she wishes they would come home** (22:43). `C166` records the aircraft dialogue and its secondary visual context. Chapter Five assigns 1,020 to Piccolo using the manga guide (`W-38`), not a verified anime frame. Goshin's separate 1,450 reading is authored, not canon (`O088`). The changed two-child fight is authored, not a claim about those sources.
 
 **Ep. 5 — the death, and the Ox-King.** **1,307, then 1** (05:20, 06:38) · a Saiyan can cut off his own tail (08:53) · **Goku holds him; 1,480; both die** (09:19–11:31) · **one year**, and Vegeta wants the balls for eternal life (15:00, 19:33) · **her father arrives with presents calling for Gohan** (16:47) · the others reach the crater (17:39) · the body vanishes (24:24).
 
+**Chapter Six versus that baseline.** The complete local episode-5 captions were reread. Gohan's headbutt and the alien setting/meal are secondary visual reports (`C167`, `C169`); the full video and original caption provenance remain unchecked. The authored story reads Goshin separately at 1,500, has both boys create Goku's escape before Piccolo fires, and leaves Goku alive. Raditz's later attack and death, the scouter's handling and the response of two listeners follow the changed situation (`O089`–`O095`). `canon/SCENE_COVERAGE_005.md` separates retained, changed and moved beats. The Ox-King visit is the already-written visit, not a second one.
+
 **Ep. 6 — the telling does not happen.** Bulma takes the scouter (05:08) · **Piccolo takes the boy for the year**, over Roshi's objection that the parents must be asked (07:05) · **Roshi orders Krillin to go and explain; Bulma says the mother will kill him; the phone is answered by the Kame House machine** (14:48–15:31) · her runaway worry out loud, with her father laughing (15:40) · Goku asks **not** to be revived for a year (18:04) · Piccolo tells the boy his father is dead and forces the power out of him (19:07).
 
-**The mountain, in one line.** She is not worried in 3, happy in 4, confronted with a grandfather asking where the boy is in 5, and still **not told** in 6 — a phone rings on a table and an answering machine says the house is out. **Chapter Three lives entirely inside that.**
+**The mountain, in one line.** In the unchanged baseline she is not worried in 3, happy in 4, confronted with a grandfather asking where the boy is in 5, and still **not told** in 6 — a phone rings and an answering machine says the house is out. Revised Chapter Three adapts this baseline into a same-day branch; Chapter Seven reuses the same call and has Roshi call promptly from Kame House afterward (`O101`).
+
+**Episode 6 road correction.** The guide presents about one million kilometres as tradition and recalls Yemma as the only one to reach the end **in the past 100 million years**, not necessarily ever (`C114`). Yemma says he restrained Raditz and sent him to Hell (`C170`). The local captions do not establish the silent mountain-throw or telekinetic choreography; `C159` and `C171` use secondary reports with their limits.
 
 ---
 
@@ -137,7 +164,7 @@
 
 **Ep. 7 — the trial, and a man who cannot say it.**
 - **04:54** Piccolo's first instruction is a negation: 「まずは 何もせんでいい。**生きるんだ**」 — six months alone, no food, no bath, no bed, no books, and if he survives he will be taught to fight (05:17, 06:45).
-- **07:50–10:16** Kami to Popo: Piccolo has changed (Raditz's soul reached the afterlife, which never happened to those killed by demons) — and **Kami's life and Piccolo's are one life, with about a year left**; the Dragon Balls can be used **once more, and then never**.
+- **07:50–10:16** Kami to Popo: Piccolo has changed (Raditz's soul reached the afterlife, which had not happened to those killed by demons); their lives are linked. Kami feels they have **about a year left**, cannot tell whether the Saiyans or his own age would be the cause, and predicts **one more** Dragon Ball use (`C128`). These are his stated expectations, not unconditional guarantees.
 - **12:21** Goku on Snake Way, delighted: 「悟飯が あんなに強えやつだったなんて オラ 全然 知らなかった」.
 - **15:20–20:55 — the attempt.** Krillin rehearses the death at her gate, decides the shock is too big, and bottles it: 「しん… 心配するなって言ってました」. He tries again — 「帰らぬ人に」 — and Chi-Chi mishears him. **He eats dinner with them without telling her.** Episode 8 shows him still at the house overnight and returning to Kame House the following morning without telling her (C120). She is furious at a dead man for being late.
 - **17:18** she has already rung Kame House and got nobody. **The answering machine of ep. 6 is why ep. 8 happens.**
@@ -147,17 +174,17 @@
 **Ep. 8 — the telling, and the moon.**
 - **05:10–05:38** still nothing. She assumes they are being kept up late, and that nobody at Kame House is a fit example for the boy.
 - **08:22** Roshi's plan is **a letter**. It is never written. **08:34** Bulma asks about the two Dragon Balls at Son's house — Krillin forgot them.
-- **10:09–11:42** Bulma re-letters the salvaged scouter and it works: **Roshi 139**, **Krillin 206**, and a **0.001** that persuades her the machine is sound.
-- **11:49–13:27** Yajirobe: **Kami will train Krillin, Yamcha, Tien and Chiaotzu** at the tower — and **Goku is not to be revived until the enemy comes.**
+- **10:09–11:42** Bulma re-letters the salvaged scouter: **Roshi 139**, **Krillin 206**, and a **0.001** that she takes as evidence it is not broken. Captions do not name the last target or independently prove accuracy or transmission safety (`C124`).
+- **11:49–13:27** Yajirobe: Krillin, Yamcha, Tien and Chiaotzu are to meet at Korin Tower, and Kami will train them; Yajirobe is included too. The dialogue does not itself specify the exact training floor. **Goku is not to be revived until the enemy comes** (`C125`).
 - **13:56–16:39 — THE TELLING.** Chi-Chi and the Ox-King arrive at Kame House **themselves**, because the phone gave them nothing. 「ピッコロ大魔王に 連れてかれたってか!?」 Then 「悟空は どうしたんだべか？」 — Roshi: **「死んじゃった」** — and she goes down.
-- **19:54–23:46 — the moon.** The captions describe the moon and a transformation; Piccolo says he blew away the moon, considers taking the tail, and offers clothes and a sword in the father’s design. Ep. 9 reports the tail missing, and ep. 18 has Piccolo say he pulled it (`C147`).
+- **19:54–23:46 — the moon.** Gohan says he is seeing a full moon; heartbeat and roars follow, and Piccolo reacts to a transformation, says he blew away the moon, considers taking the tail, and offers clothes and a sword. Ep. 9 reports the tail missing, and ep. 18 has Piccolo say he pulled it (`C127`, `C147`). The episode-8 recollection of Raditz’s moon line has a source-order problem: the episode-2 captions place that exchange at Kame House where Piccolo was absent. Silent transformation and removal visuals remain secondary (`W-59`, `W-60`).
 - **24:13** the six months become six months of hell, and 「立派な魔族にしてやる」.
 
 ---
 
 ## 4d · Serial progress versus source chronology
 
-The lists above are canon baselines, **not a claim that all those events have happened in this serial**. The user rejected Goshin's conscious abduction; Chapter Two's conflicting body is preserved with a superseding dated note. The corrected Chapter Four depicts an earned knockout before Raditz takes Goshin, then his awakening and escape. At its ending both brothers are conscious and outside the pod; Goku, Piccolo and Raditz are alive (`O074`–`O080`). Episodes 4–6 must be dramatized from this altered situation. Chapter Three's accepted mountain scenes overlap and extend beyond it; its future-facing narration remains a debt. Earlier rejected drafts are historical only.
+The lists above are canon baselines, **not a claim that all those events have happened in this serial**. Corrected Chapter Four depicts the knockout before Raditz takes Goshin and the subsequent awakening (`O074`–`O080`). Chapter Five changes the tail escape (`O083`–`O088`), and Chapter Six leaves Goku alive with an authored separate 1,500 surge (`O089`–`O095`). Corrected Chapter Seven follows Piccolo's failed seizure at the crater, the return to Kame House, Krillin's trip to Korin, the prompt telling and Kami's independent inquiry (`O096`–`O103`); `canon/SCENE_COVERAGE_006.md` records the source-order comparison. Chapters Four–Nine are drafts. The authorized Chapter Three revision removes the incompatible future, date and overnight claims and retains the single visit and unanswered call. Earlier rejected drafts are historical only.
 
 ---
 
@@ -183,7 +210,7 @@ The lists above are canon baselines, **not a claim that all those events have ha
 1. The second Special Beam Cannon is **1,480** in the local Japanese ep. 5 caption. A secondary page gave a conflicting number; that page is not the authority for the spoken line.
 2. **Piccolo's Special Beam Cannon.** The captions say **1,330** for the first shot in ep. 4 and **1,480** for the final shot in ep. 5 (C062, C097, C102). The episode page's **1,485** is struck (**R-20**).
 2b. **Raditz's finishing blow on Goku.** The captions say only that it is one blow that Krillin cannot follow (W-30). Summaries say **a knee to the stomach** (W-03) or **a kick to the ribs**. The chapter uses the knee, and now says it is the chapter's word, not the episode's (R-19).
-3. **The date on the calendar.** Daizenshuu 7 (via W-23) places Raditz's arrival at **12 October, Age 761** — and Kanzenshuu's own note says the guidebook *assigned* it working backwards from later anchors, so it is a **guidebook date, not a line of dialogue**. Grade B. **The season is therefore mid-autumn, with a caveat printed beside it.**
+3. **The date on the calendar.** Daizenshuu 7 (via W-23) assigns Raditz's arrival to **12 October, Age 761**, working backwards from later anchors. W-12 reports **28 November, Age 761** instead (`C047`). These are competing secondary chronology accounts, not spoken dialogue or verified primary calendar scenes. The project selects the October guidebook date with this caveat. The prior Chapter Three body used 4 December; its approved revision no longer asserts an on-page calendar date.
 4. **The Makankōsappō reading is anime-only** (W-19). The manga never prints it; the local anime caption says 1,480; a conflicting secondary page is not averaged into it. Manga and anime remain separately sourced.
 5. **The wiki's appearance list is not exhaustive.** Ep. 3 gives Chi-Chi an at-home scene *and* omits her from its own Appearances list (W-17). So an appearance list is **corroboration, never proof** — which weakens the *reasoning* of C030 without touching its conclusion.
 
@@ -195,7 +222,7 @@ The lists above are canon baselines, **not a claim that all those events have ha
 |---|---|---|
 | O001–O004 | names · scale · biology · the Talent | law |
 | O005 | **"Four hundred."** The instrument's reading on Goshin | Ch. 2 |
-| O006–O012 | the Turtle's lines · the sand, "the wrong mountain" · *"Two. You had two of them."* · the cat retold · Bulma's arms, Bulma in the water · the fly, the seam, the clap · *"Hold on."* · Krillin's wording at the door | Ch. 2 |
+| O006–O012 | Turtle's lines · the sand and "wrong mountain" · Bulma gathering both boys and later running into the surf · the fly, seam and clap · Gohan's "Hold on" to unconscious Goshin. The old Ch. 2 footer claimed a nonexistent island cat retelling (`O009`); the forest and hat recovery now appear separately in Ch. 1. | Ch. 2–4 |
 | O013–O015 | riding the trunk · the axe above the beam · the rice pan on early | Ch. 1 |
 | O016 | **the premise:** a second son born with Gohan. Canon has one child; this serial has two | both |
 | O017 | two tails in the room; the delicate question now has two answers | Ch. 2 |
@@ -210,7 +237,16 @@ The lists above are canon baselines, **not a claim that all those events have ha
 | O031–O032 | **the gate:** he cannot take Super Saiyan God as a form — the ritual would promote his **baseline** and there is no way down. Declared, absolute, and written to be refused | `STATUS §12` |
 | O024–O030 | **the design:** the observer's face and the half-second · repeat-it-back · the refusal · the fear of being told after · the cold rage · the three habits · literal obedience | `STATUS §1–7` |
 | O023 | **the cloud carries him** — a *standing*, recorded on the sheet and never staged: canon settled the test in Dragon Ball (C115), so no chapter may re-prove it | `STATUS §4` |
-| O018 | the second son, off the mountain for the year of the training — canon takes one boy, so every hour of Piccolo's training has one more absence in it | Ch. 3 onward |
+| O018 | both sons temporarily absent during Chapter Three; no year of training or unchanged canon outcome is established | revised Ch. 3 |
+| O104 | the user's mastery-first priority for existing abilities; intentional training before new pursuits, with emergency instinctive copying expressly allowed | standing direction |
+| O105 | the user's serious and continuing emphasis on martial-arts and ki foundations | standing direction |
+| O106–O108 | the ninth-marker pickup and reunion; called village doctor and Goshin's ongoing care; the brothers' family choices and voluntary seated foundations | Ch. 8 draft |
+| O109–O112 | Kami/Popo and Piccolo's altered scenes; Baba's undelivered message; the dark scouter's move to Bulma; the family's current location and unfinished plans | Ch. 8 draft |
+| O113 | Roshi explains the moon risk; Goku's earlier question about Grandpa remains unanswered; family takes precautions | Ch. 8 draft |
+| O114–O116 | the changed Kami/Korin summons; Baba delivers a conditional Otherworld inquiry and offers to try a Grandpa message | Ch. 9 draft |
+| O117 | Bulma's shielded but not guaranteed safe scouter test; Krillin's momentary 206; the unconfirmed Yamcha lead | Ch. 9 draft |
+| O118–O120 | the family returns home; doctor follows up; balls and moon precautions; continued food refusal and gentle foundations | Ch. 9 draft |
+| O121 | Gohan's chosen bird rescue and safe-response work; Piccolo trains alone | Ch. 9 draft |
 
 Plus the premise: **a second child on that island.** Canon takes one boy; we take both, by the author's ruling.
 
@@ -229,7 +265,7 @@ Plus the premise: **a second child on that island.** Canon takes one boy; we tak
 | R-07 | "17 rows" | counts are printed by the audit, never written | — |
 | R-08 | "Tier I by citation" | the troves graded summaries as canon | CANON §3 |
 | R-09 | "the whole family on that trip" | struck with the island version | C030 |
-| R-10 | "canon does not say whether the hat comes back" | it does come back — it is on Gohan's head in ep. 2. Only the *how* is a slot | C032 |
+| R-10 | "canon does not say whether the hat comes back" | it comes back and is on Gohan's head in ep. 2. Later, `W-65` reports the recovery and return; that secondary account is not a verified video check | C032, C181 |
 | R-11 | "one appearance list outranks any number of summaries" | too strong: the list is **not exhaustive** — ep. 3 omits a character who is in the episode | C030 |
 | R-12 | "Chi-Chi is not in episode 2 or anywhere after it" | she is: **eps 3, 4 and 5**, at home | C059, C060 |
 | R-13 | "Picking Up the Pieces is episode 6" | it is **episode 36** — a Vegeta-arc episode. A near-miss caught by checking the number, not the title | — |
@@ -240,6 +276,8 @@ Plus the premise: **a second child on that island.** Canon takes one boy; we tak
 | R-17 | "nobody throws stones" | the earlier negative claim treated caption silence as proof about images. W-03 reports a stone-throwing scene; its visual details remain secondary. The caption also does not label the wish question's speaker | C033, C162 |
 | R-18 | "Raditz never hears the full-moon talk" | he **raises it himself**, on the island — and a Great Ape roars on the track | C075 |
 | R-23 | "Krillin tells Chi-Chi what happened" | he tries, twice, and **fails both times**. The telling is **ep. 8, at Kame House, from Roshi** — who says the two words nobody else could say | C120, C121 |
+| R-25 | "the episode-6 hospital detour" | the previous Chapter Seven draft invented that detour and a landing strip; neither was established by the episode account or this story. Hospitals exist elsewhere in the franchise, but this location was not sourced | C108, C110, O096 |
+| R-26 | "No terminal mastery. Nothing he has is finished." | contradicted the user's direction to master or perfect what Goshin already has first; actual mastery is possible and retained | O104, O105 |
 | R-22 | "99% Goku" as design | a percentage is a **casting note**, not a character. It was standing in for figure, face, speech, movement, appetite and fear. Everything it was hiding is now drawn in `STATUS §1–7` | O003, O024–O030 |
 | R-20 | "1,485" | the anime says **1,330** (ep. 4) and **1,480** (ep. 5), both out loud | C062 |
 | R-21 | "Krillin tells Chi-Chi at the end of episode 6" | he is **sent**, and the call gets an answering machine. **She ends ep. 6 still not knowing** | C066 |

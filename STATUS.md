@@ -4,7 +4,7 @@
 
 **The rule of this file:** **a resemblance is drawn, never fractioned.** "99% Goku" is **retired** — a casting note, not a design: it tells nobody what he does with his hands, what he asks, or what he is afraid of. Everything below is a thing a camera can see or an ear can hear.
 
-**THE ERA LOCK — read this before anything else.** **As of the Chapter Four draft he is four years old and he is nothing but a boy.** Mortal. One tail. No transformation, no golden hair, no god ki, no divine anything — **the entire ladder in §13 is a ceiling documented for a much later era, and it is locked.** In the Z-era he eats, trains, flies, learns techniques, plays, cries and grows; being mortal does not mean being helpless. **Sections 12–14 describe the FUTURE; §§15–17 include current constraints and open slots.** (`O045`)
+**THE ERA LOCK — read this before anything else.** **As of the Chapter Nine draft he is four years old and he is nothing but a boy.** Mortal. One tail. No early golden form, god ki or divine promotion — **the ladder in §13 is documented for a much later era and is locked.** Natural Saiyan moon-and-tail biology is not itself prohibited; no ape event has occurred in this branch. In the Z-era he eats, trains, flies, learns techniques, plays, cries and grows; being mortal does not mean being helpless. **Sections 12–14 describe the FUTURE; §§15–17 include current constraints and open slots.** (`O045`)
 
 **Where this file and a chapter disagree, this file is right and the chapter is rewritten.** Canon that has already explained something is **recorded** here, never restaged in prose.
 
@@ -52,6 +52,7 @@
 - **He copies posture without meaning to.** Sit like a person and he will be sitting like them in a minute. Stand like one and he will stand like that. It is not mockery and he cannot switch it off. **This is the human half of the Talent** — the same machinery that lets him master a technique after seeing it has him walking like a stranger because the stranger walked interestingly.
 - **He stands still to think.** He never paces. The stillness is the working.
 - **The louder the room, the quieter he gets.** Not sullen — *concentrating*. In noise he is at his most dangerous and looks at his calmest.
+- **Foundations are serious work.** When he trains, he returns to what he can already do: stance, balance, footwork, guarding, breath, conditioning and ki control as they become relevant. He works on the basics of flight and techniques too. Show the repetitions, corrections and eventual results; do not treat the basics as a boring prelude he immediately abandons (`O105`).
 
 ---
 
@@ -76,7 +77,7 @@
 
 ## 7 · The fault, and the fear
 
-**The rage is cold.** Canon's Gohan screams and erupts; this one **goes quiet.** The noise drains out of him, the fidgeting stops, and then it is done and it is over. **The 1,500 belongs to a silent boy** — which is why nobody sees it coming twice.
+**The rage is cold.** Canon's Gohan screams and erupts; this one **goes quiet.** The noise drains out of him, the fidgeting stops, and then it is done and it is over. **The 1,500 belongs to a silent boy** — which is why nobody sees it coming twice. Chapter Six uses it as one authored surge, not a lifetime cap (`O089`).
 
 **What he is actually afraid of.** Not pain — he is a Saiyan child and pain is weather. Not the dark. **He is afraid of being the second to know.** Being told *after* is the thing that makes him small: after the decision, after the visitors, after the bad news. It is the fault that will generate scenes for a hundred chapters, and it is the one his mother hands down to him without either of them noticing.
 
@@ -88,7 +89,7 @@
 |---|---|
 | species | half-Saiyan; the two genetics **fuse cleanly** (O003) |
 | the tail's use | with the tail and a full moon, **×10 base** (C068, C029) |
-| **the moon** | Piccolo says he destroyed the natural moon in ep. 8 (C127). Pod-projected and artificial moons provide other routes (`C148`); the future SS4 path is authored, not automatically closed (`OPEN-12`, O046) |
+| **the moon** | In the unchanged episode-8 baseline Piccolo says he destroyed the natural moon (C127); in this branch it remains intact. Pod-projected and artificial moons provide other canonical routes (`C148`); the future SS4 path is authored, not automatically closed (`OPEN-12`, O046) |
 | his tail | **one, at four, kept** (C007, C016, C036) |
 | the tail's cost | a successful grip can weaken him (C083); guarding and trained resistance can improve, but watching once is not automatic immunity (C147) |
 | growth | hybrid potential, training, experience, adaptation and recovery can develop him; injury can also kill. No fixed rate is canonically established |
@@ -104,14 +105,25 @@
 |---|---|---|
 | Birth | **100**, stable (O002) | initial design, not a lifetime benchmark |
 | Kame House, age four | **~400** at rest (O005) | one local reading, before kidnapping |
-| Early rage | initially **1,500** (O002) | early untrained surge; not a later lifetime ceiling |
+| First Kamehameha charge | **1,450** (O088) | Chapter Five authored scan; greater raw ki than Goku's wave there, with less practiced control |
+| Later rage | **1,500** (O089) | Chapter Six authored momentary surge; not a resting number or later lifetime ceiling |
 | Later | grows through experience, training, recovery and adaptation (O058) | no invented fixed growth rate or automatic arc ranking |
 
 Vegeta infers powerful hybrid potential and fears continued growth (ep. 5; `C142`). The series also shows **Gohan's own** growth, including a recovery-linked increase in ep. 80 (`C144`). This supports the possibility of Goshin growing, not a universal formula.
 
 The Talent helps him learn quickly from demonstrated actions and retain what he has learned; he flies and uses techniques (`O004`, `O057`). It contributes to adaptation, not merely to a bookkeeping ban on forgetting. Survival can build strength before formal lessons. Suppression, fatigue, injury or distraction can temporarily reduce output or interrupt flight without erasing learned skills.
 
-**Revised Chapter Four draft:** At Kame House Goshin flies, fights Raditz, copies a palm deflection and shows rising output. Raditz knocks him unconscious before taking him; at the crater Gohan pulls him beneath the pickup while he is still unconscious (`O081`). Goshin later wakes, breaks out of the pod with ki, carries Gohan to safety and joins the crater fight (`O074`–`O078`). His head hurts and a palm is burned; neither condition erases his ability. He has **not** demonstrated Kamehameha in the live serial. No exact new personal reading is assigned.
+**Revised Chapter Four draft:** At Kame House Goshin flies, fights Raditz, copies a palm deflection and shows rising output. Raditz knocks him unconscious before taking him; at the crater Gohan pulls him beneath the pickup while he is still unconscious (`O081`). Goshin later wakes, breaks out of the pod with ki, carries Gohan to safety and joins the crater fight (`O074`–`O078`). His head hurts and a palm is burned; neither condition erases his ability. The Kamehameha had not yet been demonstrated in that draft.
+
+**Chapter Five draft, revised:** He watches Goku form and steer a Kamehameha, then performs it himself to redirect Raditz's attack (`O084`). The user clarified that this first wave has more raw ki than Goku's but less practiced control; the draft gives it a separate **1,450** scouter reading (`O088`). That figure is an authored snapshot, not a canon number or cap, and it is not mechanically calculated from the earlier ~400. The burned palm still hurts. Both brothers are conscious and advancing on Raditz as the draft ends (`O085`, `O087`).
+
+**Chapter Six draft:** Raditz separately reads Gohan's outburst at 1,307 and Goshin's authored surge at **1,500**. Both boys act; Goshin begins the retained wave posture, intentionally lets it fade with his father in the way, and chooses a leg shot instead (`O089`, `O090`, `O095`). Gohan remains conscious and helps create the escape. Goku survives, Raditz dies, and Goshin's injured palm is wrapped; the boys' further training is not fixed. Chapters Four–Eight remain pending review.
+
+**Corrected Chapter Seven draft:** Goshin sees Piccolo's non-contact hold at the crater and copies its visible movement. His limited pull changes Gohan's course, he flies after him and catches him before the cliff, and he later repeats a small lift (`O098`). He uses his retained Kamehameha to divert rock with imperfect control and an injured palm (`O099`). The user corrected that Senzu completely heal and restore: Goku and Gohan each eat one and are fully healed and restored, not merely improved. Goshin declines his because he did not see it being made, consistent with §5; only his head and hand remain sore (`O103`). He begins with safe foot placement and says he wants the wave he already knows to hold its aim; the full practice waits for his recovery (`O104`, `O105`). Gohan's burst and independent warning matter; neither boy is taken away. No new scan or biological regeneration is claimed.
+
+**Chapter Eight draft:** His mother and grandfather reunite with the family. Goku and Gohan remain completely healed and restored by their Senzu; the village doctor is called for Goshin, who still refuses the third bean. His head and hand are examined and treated, but remain sore and require monitoring; Roshi keeps the uneaten bean. He watches his mother prepare curry and eats it. When he asks to work on the wave he already knows, he voluntarily repeats a few seated foot placements under the doctor's restrictions and rests. Full practice awaits clearance; no new technique, mastered wave or power scan is claimed (`O106`–`O108`). Gohan chooses to learn to protect the family while continuing his studies. Roshi explains what he saw at the tournament and the family takes precautions against looking at a full moon (`O113`). Chapters Four–Eight remain drafts pending review.
+
+**Chapter Nine draft:** The family travels home after a doctor approves a gentle monitored trip. Goku and Gohan remain completely restored from their beans; Goshin declined his and watches the preparation of food he eats. The doctor rechecks his head and hand, forbids hard exercise and flight practice, and requires another check before a long trip. He makes only a few gentle standing foot placements, corrects one and rests; he wants to improve the wave and foundations he already has. No new technique or perfected wave is claimed (`O118`, `O120`). Gohan rescues a bird and asks to practise a safe response while continuing his studies (`O121`). The moon remains, precautions continue and both tails remain (`O119`). Chapters Four–Nine remain provisional.
 
 For this abduction, the user has specifically ruled that **Raditz cannot take Goshin conscious** (`O080`); an earned knockout is required before he can carry him. The ~400 island snapshot is not a ceiling, and his output can rise in anger. This is the user's story ruling for this encounter, not a universal capture formula.
 
@@ -139,8 +151,10 @@ The standing authored rule is that **Goshin is never less capable than Gohan** (
 | **higher battle IQ** | reads a fight faster than his father did at four |
 | **emotional** | it is the fuel *and* the flaw; the number that proves it is **1,500** |
 | **loves it** | the going, the noise, the after |
-| **masters after seeing** | once, watched properly, and then it is his — see §4 for what that costs him socially |
+| **masters after seeing** | learns and retains techniques unusually quickly after a proper demonstration — see §4 for the social cost. His **first Kamehameha** has more raw ki but less practiced control than Goku's (`O088`); he then works to master or perfect what he already has before deliberately pursuing new techniques (`O104`). Mastery is achievable and retained. |
 | **the Adaptation Talent** | rapidly learns and retains demonstrated skills; adaptation can support growth but gives no free numerical boost merely from observing (O004) |
+| **mastery first** | in intentional training, he takes his existing abilities toward mastery or perfection before seeking additions. The user explicitly allows instinctive copying in an emergency; it does not replace his training priority (`O104`). |
+| **serious foundations** | his regular practice gives real attention to the basics supporting his abilities, rather than chasing novelty at their expense (`O105`). |
 
 ---
 
@@ -148,7 +162,7 @@ The standing authored rule is that **Goshin is never less capable than Gohan** (
 
 **He cannot achieve Super Saiyan God as a form. There is no form for him.**
 
-Canon's god state is made by a **ritual** — five righteous Saiyans and the one who receives, hands joined, ki poured in — and its own legend is that it **runs out of time** (C117). That time limit is the whole shape of it: a mortal borrows godhood and gives it back.
+Secondary sources describe a **ritual** involving five righteous Saiyans and a recipient, and a legend with a time limit (C117). The film and Super versions and the precise participant requirements remain to be checked directly. For this serial, the idea of a mortal temporarily borrowing godhood is an **authored analogy**, not a universal canon rule about all later god-ki users.
 
 **His Talent does not give it back.** Godly ki is not a bigger version of what he already has — it is a different substrate — and the Talent's one talent is that it **makes native what it adapts to**. So the ritual would not hand him a transformation. It would adapt, become a **divine** talent, and promote his **baseline**. **His base form would become Super Saiyan God** — permanently, at rest, with nothing to switch off.
 
@@ -158,17 +172,17 @@ Canon's god state is made by a **ritual** — five righteous Saiyans and the one
 | what he can do with it | **enter and leave it** — the Talent makes it cheap and quick | **nothing. He can only become it** |
 | the result of the ritual | — | **no transformation, no time limit, no way down** |
 
-**It is a door, and it opens once, late.** Canon's god state is a *mortal's* form; his would be a *promotion*, and a promotion cannot be undone. So the gate is a **timing rule**, not a ban: **no god ki in the arcs we are writing** — and when the serial finally reaches that era, the crossing is **one event, one direction, and the end of his mortality.** **It is not the end of him** (§14). After it, **Super Saiyan God is not a form he takes. It is his base** (§13). **Write the refusal for a hundred chapters. Write the crossing once, and never write it as a power-up** — and never write it as a loss of self (§14).
+**It is a door, and it opens once, late.** In this serial his god state would be a *promotion*, and that authored promotion cannot be undone. So the gate is a **timing rule**, not a ban: **no god ki in the arcs we are writing** — and when the serial finally reaches that era, the crossing is **one event, one direction, and the end of his mortality.** **It is not the end of him** (§14). After it, **Super Saiyan God is not a form he takes. It is his base** (§13). **Write the refusal for a hundred chapters. Write the crossing once, and never write it as a power-up** — and never write it as a loss of self (§14).
 
 **Why it bites, specifically:** the ritual wants the **righteous**, and he is the most certified heart on the planet (C115, §10). He is *exactly* who they would ask. **The pure-hearted child is the one who must say no** — and his fault is that he cannot bear to be left out of anything (§7). Being left out of this is the mercy, and he will not be able to see it that way.
 
-**What it does not touch:** his own line — Super Saiyan and whatever he earns above it — is ordinary ki, and he enters and leaves it like anyone else. **Ultra Instinct is a different mechanic** (a state earned by the body, not ki borrowed from gods) and is **not** ruled on here. Slots stay slots.
+**What it does not touch:** before that crossing, his own line — Super Saiyan and whatever he earns above it — uses ordinary ki. His later perfected-rung presentation is separately ruled in §13. **Ultra Instinct is a different mechanic** (a state earned by the body, not ki borrowed from gods) and is **not** ruled on here. Slots stay slots.
 
 ---
 
 ## 13 · The ladder — what he uses, and what he never will
 
-**Two roads, and he walks both — because he builds the second one himself.** Canon hands Saiyans a golden ladder: 1, 2, 3, god, then **Blue** by wearing the first on borrowed god ki. **He cannot take that road** (`§13` below) — so from a divine base and an ape's body he **makes his own rungs**, and the top of it is a form canon has never handed anybody.
+**Two roads, and he walks both — because he builds the second one himself.** Canon includes golden transformations, god forms and **Blue**. This serial excludes Blue for Goshin under its own authored rationale about an internal perfected first form and an adapted divine base; it does not claim that all canon Blue users literally borrow their ki (`O036`). From a divine base and an ape's body he **makes his own rungs**, and the top is an authored form.
 
 | rung | what it is | what it costs him | era |
 |---|---|---|---|
@@ -185,7 +199,7 @@ Canon's god state is made by a **ritual** — five righteous Saiyans and the one
 
 **Why 1, 2 and 3 are not in his mouth.** A form you have finished is not a **gear you shift**; it is part of the engine. Perfected, they cost him nothing and announce nothing. **No hair, no lightning, no counting out loud, no "and this… is to go further."** The power is simply present, and the page proves it by what he breaks.
 
-**Why Rage is his.** Canon's vocabulary, our mechanism: the anger is **cold** (`§7`). Not a bigger version of him — the quietest one. The 1,500 belongs to it.
+**Why Rage is his.** Canon's vocabulary, our future mechanism: the anger is **cold** (`§7`). The age-four 1,500 is an ordinary-ki anger surge, not the locked future Super Saiyan Rage transformation. The later form can express the same cold trait without having occurred already (`O034`, `O089`).
 
 **Why Super Saiyan 4 is his and nobody else's.** Canon now has two roads to it: the old one — **tail, full moon, mastery of the Golden Ape** — and *Daima*'s, which is **a gift of magic from Neva and needs no tail at all** (C118). **This serial takes the ape road, and says so:** his tail is kept (**`OPEN-3` closed**), and *comfortable as a Great Ape* has been his declared trait since R10. **The gift costs nothing. The ape costs him fear, and that is why the form is his.**
 
@@ -238,9 +252,9 @@ Canon's Super Saiyan God **cools a Saiyan** — the form is described as bringin
 - **No free numeric boost from observation.** Training and adaptation can support growth; a demonstrated technique does not grant an arbitrary instant reading (O004).
 - **Purity is not judgement.** The cloud certifies his heart, not his aim. He can be wrong all afternoon with a clean heart — **the cloud and the scouter disagree, and both are telling the truth.**
 - **No meta-knowledge** (R6). He knows what that mountain knows.
-- **No terminal mastery.** Nothing he has is finished.
+- **Mastery is attainable.** The former claim that nothing he has can be finished is withdrawn: he works to master or perfect existing abilities first and retains what he has achieved (`O104`, `R-26`). His Talent supports rapid learning and mastery; fatigue or injury may affect a performance without erasing what he knows.
 - **No god ki early.** Not a taste of it, not a spark, not "for a second" — until the crossing, which happens once (§12), and after which it is not a form but a floor (§13).
-- **No Blue, ever.** Structural, not a convenience: no Super Saiyan 1 to wear, no borrowed god ki to wear it on (§13).
+- **No Blue, ever.** This is Goshin’s authored structural rule: his perfected first rung is internal and his godly base is adapted permanently (§13). It is not a universal statement about every canonical Blue user.
 - **He retains what he has learned** (O041), while injury, fatigue, suppression and distraction can interrupt performance; this does not erase the skill. Future divine-promotion rules remain as separately ruled.
 - **He never announces a rung, and the narrator never numbers one.** No "God 3". The page shows the cost — the leaking, the silence, the mood — and lets the reader count.
 - **Nothing here is recited in prose.** This is a ledger. A chapter shows one line of it and says nothing about the rest.

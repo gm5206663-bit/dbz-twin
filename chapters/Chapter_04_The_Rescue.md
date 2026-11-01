@@ -24,13 +24,9 @@ The sea reaches the beach at Kame House. A broken board lies at the water's edge
 
 ## 1 · THE ISLAND
 
-**NARRATOR:** Raditz has come for Goku. Goku refused him, and Raditz has turned toward Gohan and Goshin.
+**NARRATOR:** Goku has been knocked down. Raditz is reaching for Gohan, and Goshin stands between them.
 
-Goku steps between Raditz and the boys. Raditz drives a knee into his stomach and sends him down into the sand.
-
-"Goku!" Krillin shouts from the broken wall of the house.
-
-Gohan runs toward his father. Bulma catches his arm, but Goshin pulls free of her other hand and moves in front of Goku.
+Goku lies in the sand behind Goshin. Gohan pulls against Bulma's hand, but she keeps hold of his arm. Goshin stays between his brother and Raditz, with both hands raised.
 
 Raditz reaches past him for Gohan. Goshin catches Raditz's wrist in both hands and pushes it away.
 
@@ -68,7 +64,7 @@ Goku tries to stand again. Gohan puts both hands against his father's arm, and K
 
 "Broc," Raditz says. "Come here."
 
-"My name's Goshin."
+"My name's Goshin. Come here."
 
 He flies at Raditz again. Raditz catches his first punch, but Goshin twists, kicks his arm aside and strikes him twice in the chest. Raditz blocks the third blow and sends him down the beach with a backhand.
 
@@ -80,7 +76,7 @@ Roshi steps in front of Bulma. "Get back inside!"
 
 Krillin reaches Goku and helps him sit up. Gohan stays on the other side, holding Goku's arm. Goku looks toward Goshin.
 
-"Goshin! Stay away from him!"
+"Goshin! His hand!"
 
 Raditz raises one hand. A blast leaves his palm and crosses the beach toward Goshin. Goshin turns his own hand the way Raditz did. The blast glances away and strikes the sea, but the contact burns his palm.
 
@@ -106,9 +102,7 @@ Raditz fires at the ground beside Gohan. Goshin flies across the beach and pushe
 
 Gohan catches Goshin's sleeve. "Come on!"
 
-"Get behind the house," Goshin says.
-
-Gohan pulls at him. "You too!"
+"Come on," Goshin says. He takes Gohan's hand and moves with him toward Krillin and the house.
 
 Raditz raises his hand again, aiming at both boys. Goshin pushes Gohan toward Krillin and turns his burned palm outward. The blast slides off his hand and explodes above the sea.
 
@@ -318,7 +312,7 @@ Goku steps away from the others and looks up at Piccolo.
 
 "I followed Raditz. I met him before he came to this island."
 
-"Then you know how strong he is."
+"Then you know how strong he is. He says there are two other Saiyans with him."
 
 "I know that none of you can beat him alone. You and I may have a chance together."
 
@@ -456,7 +450,7 @@ The coast grows larger ahead. Goshin remains still as Raditz carries both boys i
 
 Chi-Chi sits on the step with a bowl on her lap and Gohan's schoolbook open in her hands. Two lines of sums are done on the first page. She turns it and finds two more finished, then several pages with no answers at all.
 
-"Half," she says. "Half of it done, and gone off without a word to me."
+"Half," she says. "Half of it done, and both boys gone to Master Roshi's."
 
 A chicken comes around the corner and stops beside the bowl.
 
@@ -630,9 +624,9 @@ Ki gathers around his palm. He fires at the edge of the door. The lock breaks; t
 
 Goshin takes Gohan's hand. They climb out together, stepping over the bent hatch onto the crater floor. Goshin starts toward the open side of the crater, but a shadow crosses the ground in front of them.
 
-Raditz turns from his scouter. "Get back in there."
+Raditz turns from his scouter. "You think a broken hatch will keep me from taking you?"
 
-"No," Goshin says.
+"I'm taking Gohan home," Goshin says.
 
 Raditz reaches for Gohan. Goshin strikes his arm aside, pulls Gohan behind him and fires at Raditz's chest. Raditz blocks the blast, but it pushes him away from the pod.
 
@@ -645,6 +639,8 @@ They reach the top of the crater. Goshin lands behind a broad rock and puts Goha
 "Stay here while I keep him away."
 
 "Don't let him hit you again," Gohan says.
+
+"Don't let him hit you again," Goshin says.
 
 Raditz rises above the rim. Goshin meets him before he reaches the rock. Their fists collide; Raditz pushes forward, and Goshin twists out of his reach and kicks him in the side.
 
@@ -676,7 +672,7 @@ Goku looks at the broken hatch below, then at Raditz.
 
 "Get Gohan behind that ridge," Goku tells Goshin. "If you can, take him back to the island."
 
-"Raditz came after us when I tried."
+"Get Gohan behind that ridge. If you can, take him back to the island," Goshin says. "Raditz came after us when I tried."
 
 "Piccolo and I will give you a chance."
 
@@ -800,14 +796,16 @@ At Kame House, a wave reaches the broken boards and recedes. The island is empty
 
 ## Footer
 
-**Correction and scope.** The island fight at the start replaces the conscious-capture passage in Chapter Two, section nine, without silently changing that accepted body. Goshin fights with flight and ki, and his output rises above the earlier island snapshot. Raditz takes him only after knocking him unconscious. At the crater Gohan hides with his unconscious brother under the pickup; when Goshin wakes in the pod, he breaks out, protects Gohan and joins the fight. The rest follows episode 3's rescue preparations and opening confrontation, changed by the brothers' actions. Episodes 4–6 are not recapped.
+**1 November revision note.** Local handoff, continuity and selected instruction/attention repairs are documented in `REVISION_2026-11-01.md`. This chapter remains provisional; the repairs are not a claim of global character-rule certification.
+
+**Correction and scope.** The user-approved Chapter Two revision ends as this fight begins, after Goku is struck and Goshin steps in. This provisional chapter resumes at that handoff rather than repeating the knockdown; the original conscious-capture passage remains historical. Goshin fights with flight and ki, and his output rises above the earlier island snapshot. Raditz takes him only after knocking him unconscious. At the crater Gohan hides with his unconscious brother under the pickup; when Goshin wakes in the pod, he breaks out, protects Gohan and joins the fight. The rest follows episode 3's rescue preparations and opening confrontation, changed by the brothers' actions. Episodes 4–6 are not recapped.
 
 **Source limits.** The local Japanese spoken captions for episodes 2 and 3 were reread in full; their broadcaster provenance is unverified. Selected episode-3 stills from a fan gallery were inspected for the truck and the Nimbus journey, but the release and provenance of those images are unverified and the complete episode video was not examined. Dialogue-based beats are provisional, while the twins' actions, the pod hatch, specific collateral and detailed combat geography are authored. Goku uses Nimbus for travel; this is not a test of Goshin.
 
 | Reference | Baseline or authored divergence |
 |---|---|
 | C023 C024 C077 C081 C082 | Goku is struck, Raditz takes a child, gives the hundred-victim ultimatum, and threatens Earth. The fight with Goshin and a second captive change the staging. |
-| C083 C084 C085 C086 C087 C088 C089 | The tail plan, friends' offer, radar, Piccolo's alliance, the pursuit and Chi-Chi's homework are adapted from episode 3; the mountain moment overlaps accepted Chapter Three. |
+| C083 C084 C085 C086 C087 C088 C089 | The tail plan, friends' offer, radar, Piccolo's alliance, the pursuit and Chi-Chi's homework are adapted from episode 3; the mountain moment overlaps revised Chapter Three. |
 | C090 C091 C092 C093 C094 | Pod confinement, the 710 / 322 / 334 / 408 / 416 spoken readings, the scouter, weighted clothing and Raditz's challenge are episode-3 baselines. The 408 target and display are not independently frame-verified. |
 | C160 C161 | Secondary episode sources identify the anime-only pickup scene; selected fan-gallery stills show the truck and Goku's Nimbus journey. Their release provenance and the full video remain unchecked. |
 | O074 O075 O080 | User-directed correction: the ~400 island reading is not a ceiling; Goshin's output rises in the fight, and Raditz cannot take him conscious in this encounter. Raditz earns an opening and knocks him out first. |

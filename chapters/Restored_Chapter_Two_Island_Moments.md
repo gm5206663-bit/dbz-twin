@@ -1,6 +1,6 @@
 # Restored Chapter Two scenes — Kame House
 
-These scenes belong in Chapter Two. They restore missed moments without silently changing the accepted text. The sweets fit in section two after Krillin speaks about Launch; the crab fits during the training conversation in section three; the stones fit just before section four. In section six, the valley passage replaces Roshi's single paragraph about Goku's childhood, immediately before Goku says, “So that's me.” The Saiyan-business passage fits at the end of section six, after Goku says he is standing in Raditz's way.
+**Historical proposal, integrated 1 November 2026.** The user authorized the five passages to be incorporated into revised Chapter Two, with contextual adjustments. The chapter body is the current reading; this file preserves the earlier separate proposals and does not describe additional events. Originally, these scenes restored missed moments without silently changing the accepted text. The sweets fit in section two after Krillin speaks about Launch; the crab fits during the training conversation in section three; the stones fit just before section four. In section six, the valley passage replaces Roshi's single paragraph about Goku's childhood, immediately before Goku says, “So that's me.” The Saiyan-business passage fits at the end of section six, after Goku says he is standing in Raditz's way.
 
 ---
 

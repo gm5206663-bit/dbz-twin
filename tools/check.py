@@ -7,7 +7,6 @@ Self-test: python3 tools/check.py --selftest   (proves it still fails a dirty tr
 import json, re, sys, hashlib, pathlib, tempfile
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-ALLOWED_READINGS = {5, 100, 322, 400, 1500}
 P, F = [], []
 
 def ok(m):  P.append(m)
@@ -60,13 +59,14 @@ def check_facts():
         for w in r.get("witnesses", []):
             if w != "OC" and w not in wit: probs.append(f"{r['id']} cites unknown {w}")
     rejected = [r for r in rows if r.get("status") == "rejected-draft"]
-    active = [r for r in rows if r.get("status") != "rejected-draft"]
+    historical_notes = [r for r in rows if r.get("status") == "historical-note-not-on-page"]
+    active = [r for r in rows if r.get("status") not in ("rejected-draft", "historical-note-not-on-page")]
     for r in rejected:
         if not r.get("statement", "").startswith("REJECTED HISTORICAL DRAFT"):
             probs.append(f"{r['id']} rejected row lacks warning")
     tier1 = sum(1 for r in active if r["tier"] == "I")
     if probs: bad(f"FACTS: {probs[:6]}")
-    else: ok(f"FACTS: {len(rows)} rows · {len(active)} active or current-draft · {len(rejected)} rejected historical · {tier1} provisional Tier I")
+    else: ok(f"FACTS: {len(rows)} rows · {len(active)} active or current-draft · {len(rejected)} rejected historical · {len(historical_notes)} other historical note(s) · {tier1} provisional Tier I")
 
 # 4 — no citation to a row that does not exist
 def check_citations():
@@ -74,7 +74,7 @@ def check_citations():
     wit = set(re.findall(r"^\| (W-\d\d) \|", read("CANON.md"), re.M))
     probs = []
     for f, rel in live():
-        if rel.startswith("tools/") or f.suffix != ".md": continue
+        if rel.startswith("tools/") or f.suffix not in (".md", ".json"): continue
         text = f.read_text(encoding="utf-8")
         for rid in set(re.findall(r"\b[CO]\d{3}\b", text)):
             if rid not in rows: probs.append(f"{rel}: {rid}")
@@ -84,7 +84,7 @@ def check_citations():
             if oid not in ("OPEN-1",) and oid.replace("O-", "O0") not in rows and oid not in {o for o in rows}:
                 probs.append(f"{rel}: {oid}")
     if probs: bad(f"CITATIONS: {len(probs)} unresolved — {sorted(set(probs))[:8]}")
-    else: ok("CITATIONS: every C- row and W- witness cited anywhere resolves")
+    else: ok("CITATIONS: configured C/O and W references in Markdown and JSON resolve")
 
 # 4b — rejected material is historical, never support for the live story
 def check_rejected_drafts():
@@ -203,7 +203,7 @@ def check_purity():
         if re.search(r"\b(pure|purity|pure-hearted|purehearted)\b", prose, re.I):
             probs.append(f.name)
     if probs: bad(f"PURITY: the word is in the prose of {probs} — the cloud says it, the prose never does")
-    else: ok("PURITY: no chapter calls anyone pure; the cloud is the only witness to it")
+    else: ok("PURITY: no configured purity term in chapter prose; semantic review still required")
 
 # 6d — the era lock: a four-year-old is not a god
 def check_era():
@@ -215,7 +215,7 @@ def check_era():
         hit = re.search(words, prose, re.I)
         if hit: probs.append(f"{f.name}: '{hit.group(0)}'")
     if probs: bad(f"ERA: a chapter has reached above the locking rung — {probs[:4]}")
-    else: ok("ERA: no flagged early divine-ki/transformation term; ordinary ki is allowed (semantic review still required)")
+    else: ok("ERA: no configured exact forbidden phrase matched; speculation and actual transformations still require semantic review")
 
 # 6e — a named character is called by name in narration
 EPITHET = {
@@ -252,7 +252,7 @@ def check_names():
             if re.search(pat, prose, re.I) and re.search(rf"\b{name}\b", t):
                 probs.append(f"{f.name}: '{pat}' for {name}")
     if probs: bad(f"NAMES: narration uses an epithet for a named character — {probs[:5]}")
-    else: ok("NAMES: named characters are called by name; only the unnamed stay descriptions")
+    else: ok("NAMES: no configured epithet matched; other descriptions still require manual review")
 
 # 6f — every specimen carries a plain-words crib before its prose
 def check_crib():
@@ -294,7 +294,7 @@ def check_flow():
         for pat in TICS:
             if re.search(pat, low): probs.append(f"{f.name}: '{pat}'")
     if probs: bad(f"FLOW: the prose reports what could not be seen, or flags the impossible — {probs[:4]}")
-    else: ok("FLOW: nothing in the prose says it could not be seen; nothing flags the impossible")
+    else: ok("FLOW: no configured visibility/implausibility tic matched; camera and meaning require manual review")
 
 # 6h — a fight declares its scale before it declares its damage
 def check_scale():
@@ -345,6 +345,8 @@ def run():
         except Exception as e: bad(f"{c.__name__}: crashed — {e}")
     for m in P: print(f"  PASS  {m}")
     for m in F[:40]: print(f"  FAIL  {m}")
+    if re.search(r"^### OPEN-17", read("OPEN.md"), re.M):
+        print("  NOTE  OPEN-17: revision review, wider character-rule review and source limits remain open; mechanical checks are not editorial clearance")
     print(f"\n{len(P)} passed · {len(F)} failed")
     return 1 if F else 0
 
@@ -365,6 +367,11 @@ def selftest():
         facts.write_text(json.dumps(data), encoding="utf-8")
         _, failures = focused_check(check_facts)
         results.append(("duplicate/invalid fact fails", bool(failures)))
+        data = json.loads(before)
+        data["facts"][0]["statement"] += " Broken internal citation C999."
+        facts.write_text(json.dumps(data), encoding="utf-8")
+        _, failures = focused_check(check_citations)
+        results.append(("missing fact cross-reference in JSON fails", bool(failures)))
     finally:
         facts.write_text(before, encoding="utf-8")
     chapter = ROOT / "chapters" / "Chapter_01_Two_Names.md"
@@ -379,6 +386,12 @@ def selftest():
         chapter.write_text(before.replace("## ONE\n", "## ONE\n\nHis god ki rose.\n", 1), encoding="utf-8")
         _, failures = focused_check(check_era)
         results.append(("early god ki fails", bool(failures)))
+        chapter.write_text(before.replace("## ONE\n", "## ONE\n\nHis Super Saiyan form appeared.\n", 1), encoding="utf-8")
+        _, failures = focused_check(check_era)
+        results.append(("configured early transformation phrase fails", bool(failures)))
+        chapter.write_text(before.replace("## ONE\n", '## ONE\n\n"Super Saiyans?"\n', 1), encoding="utf-8")
+        _, failures = focused_check(check_era)
+        results.append(("plural speculative dialogue is not automatically treated as a transformation", not failures))
         chapter.write_text(before.replace("## Footer\n", "## Footer\n\nC999\n", 1), encoding="utf-8")
         _, failures = focused_check(check_citations)
         results.append(("missing citation fails", bool(failures)))

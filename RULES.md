@@ -28,11 +28,13 @@
 ## 2 · The pass
 
 ```
-1. read that episode in full       captions + any available primary video; note visual/provenance gaps
-2. write                            chapters/
-3. check                            python3 tools/check.py
-4. update everything that moved     STORY §4 · HISTORY · facts.json
-5. reseal                           MANIFEST.sha256
+1. identify episode boundaries     exclude unrelated post-episode cues; index cutoff is only heuristic
+2. read that episode in full       captions + any available primary video; note visual/provenance gaps
+3. inventory in source order        identify retained, altered, already shown and deferred beats
+4. write                            chapters/
+5. check                            python3 tools/check.py
+6. update everything that moved     STORY §4 · HISTORY · facts.json · coverage
+7. reseal                           MANIFEST.sha256
 ```
 
 **The unit of work is the pass, not the file.** Truth runs canon → STORY/RULES/WRITING → prose, never backwards: **a chapter may not teach canon.** If prose needs a fact no row holds, go back to the fetch.

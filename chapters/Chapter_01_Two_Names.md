@@ -4,11 +4,11 @@
 ANIME BASE: ep. 1 — "The New Threat"
 MANGA SUPPORT: ch. 1
 BEATS: C001–C013
-POV: Goshin (close third) · TWO passages of EXTERNAL CAMERA, no interiority
+POV: Goshin (close third) · THREE passages of EXTERNAL CAMERA; no canon-character interiority
 MIX: anime timing for the mountain, manga economy for the far cuts
 EVIDENCE: I provisional for captioned dialogue; II for unverified visual staging — source origin unverified (W-30)
-WITNESS: W-30 · W-03 · W-04 · W-08 · W-10 · W-13 (grid: CANON.md §4)
-STAGING: authored and declared — O016 O013 O014 O015 (the premise · ride on the trunk · the axe on the beam · the early pan)
+WITNESS: W-30 · W-03 · W-04 · W-08 · W-10 · W-13 · W-65 (grid: CANON.md §4)
+STAGING: authored and declared — O016 O013 O014 O015 O061 (the twin · trunk ride · axe · early rice · city placement)
 ```
 
 ---
@@ -37,7 +37,9 @@ He picks up a log. It is too big. He picks it up anyway, with both arms and his 
 
 "Here!" he shouts, without turning round.
 
-His mother comes round the corner of the house with her sleeves tied back and a bowl in her hand, and stops, because the stack is taller than it was when she went in.
+Goshin goes into the kitchen and watches Chi-Chi wash the rice and put it on the stove. When it is ready, she breaks an egg over a bowl of hot rice. He returns to the woodpile and sets the last log in place.
+
+Chi-Chi comes round the corner with her sleeves tied back and the bowl in her hand. She stops beside the stack.
 
 "Did you do all of that?"
 
@@ -51,11 +53,11 @@ He looks at his arms as though the question were about somebody else's.
 
 She sets the bowl down on the step. Rice, with an egg broken over it, and the egg is still warm, and he sits down on the step beside it and eats with his fingers because a spoon is slower.
 
-She watches him eat. She does not sit. She stands with one hand on the door frame and watches him put away what she would have given his father.
+Chi-Chi stands with one hand on the doorframe and watches him finish the bowl.
 
-"You'll be hungry again before the sun's up."
+"You'll be hungry again before noon."
 
-"I'm hungry now," he says, with his mouth full, and she laughs once, shortly, the way she laughs when she has decided not to say the thing she was going to say.
+"I'm hungry now," he says, with his mouth full. Chi-Chi laughs once, then closes her mouth.
 
 Then the axe stops.
 
@@ -63,9 +65,15 @@ Both of them look at the treeline.
 
 Because the axe has stopped, and what comes instead is not a sound a boy can name — a long creak, going up, like a rope pulled tight somewhere in a roof — and then a crack so wide it does not sound like wood at all.
 
-"Stay," she says, and goes round the corner of the house.
+"Stay," Chi-Chi says, and goes round the corner of the house.
 
-He stays for the length of three breaths and then he goes too, because he is four, and because "stay" is a thing his mother says mostly to hear herself say it.
+"Stay," Goshin says. He keeps both feet on the step.
+
+Another crack comes from behind the house. Chi-Chi returns and holds out her hand.
+
+"Come now."
+
+"Come now." Goshin takes her hand and goes with her.
 
 Behind the house the big tree is coming down.
 
@@ -73,27 +81,25 @@ It comes down the way a building would come down. It takes a long time and it do
 
 Then it is on the ground, and the ground stays up, and the treeline has a hole in it that will be there for years.
 
-His father is standing at the stump with his hand still flat on it.
+Goku, his father, stands at the stump with his hand still flat on it.
 
 He is looking up at where the tree used to be, and he is not breathing hard, and his shirt is dry, and he has been at this since before the birds.
 
-"You'll wake the whole mountain," his mother says.
+"You'll wake the whole mountain," Chi-Chi says.
 
-"It's the biggest one," his father says. "Look at it. It's the biggest one on that side."
+"It's the biggest one," Goku says to Chi-Chi. "The biggest one on that side."
 
 "I don't care if it's the biggest one. There isn't a thing on this mountain that cares how big it was."
 
-His father thinks about that, honestly, the way he thinks about everything, and then he says, "It's still the biggest one," and goes and gets hold of the trunk by the middle and lifts.
+Goku looks at the tree. "It's still the biggest one," he says. He takes the trunk by the middle and lifts.
 
 The trunk comes up off the ground.
 
 It is not the way a strong man lifts a log. There is no bending and no breath taken first and no red face. He simply picks up a tree, the way another man would pick up a chair he wanted to move.
 
-The thin end of it comes swinging round and comes to rest in the dust six paces from the boy.
+The thin end swings round and comes to rest in the dust six paces from Goshin.
 
-The boy looks at the thin end.
-
-Then he looks at his father, who is already walking, and who has not looked back, because there is no reason to.
+Goshin looks at the end of the trunk, then at Goku, who is already walking.
 
 So Goshin takes hold of it with both arms, and sets his feet the way he has seen the men do, and lifts.
 
@@ -101,25 +107,25 @@ And goes up with it.
 
 His feet leave the ground. He does not let go. That is the important thing. That is the whole of it — he does not let go — and the tree walks up the slope with the boy hanging off the end of it.
 
-His mother says his name once, sharply.
+Chi-Chi says his name once, sharply.
 
-His father says, "Hold on," which is not help.
+"Hold on," Goku says.
 
-Goshin laughs the whole way, in the air, upside down.
+"Hold on," Goshin says. He tightens his grip and laughs the whole way, upside down.
 
 They stack it in lengths by the woodshed.
 
 When it is done his hands are red and they sting in the middle of the palm, and he blows on them.
 
-"Let me see," his mother says.
+Chi-Chi looks Goshin over. His hands go behind his back.
 
-"It's nothing."
+"Let me see," she says.
 
-"Let me see."
-
-He holds out his hands. She turns them over. There is nothing to see, which is the thing she is looking for, and she looks at them a moment longer than she needs to before she lets go.
+"Let me see." Goshin holds out his hands. She turns them over and examines his palms.
 
 "Inside," she says. "You're eating again."
+
+"Inside." Goshin goes in beside her.
 
 ---
 
@@ -127,29 +133,33 @@ He holds out his hands. She turns them over. There is nothing to see, which is t
 
 The kitchen is the one warm room.
 
-The pot is bigger than any pot needs to be. There is a stack of bowls on the shelf and a sack of rice by the wall and a slate by the door with the week on it, in her hand, in a straight line.
+The pot is bigger than any pot needs to be. Bowls are stacked on the shelf, and a sack of rice stands by the wall.
+
+Chi-Chi scoops more of the rice Goshin watched her cook. He watches her fry another egg and put it on top. He eats the second bowl at the table.
 
 And on the table, where it has been since the spring: the schoolbook.
 
 It is not a book he is allowed to open. It is a book for later. It has a picture of a river and a bridge on the front and a name in it that is not his, that belongs to the school down past the ridge, and it sits on the table like a chair nobody is allowed to sit in.
 
-"Gohan's not back," his mother says.
+"Gohan's not back," Chi-Chi says.
 
-His father comes in with an armful of the small wood and puts it by the fire.
+Goku comes in with an armful of the small wood and puts it by the fire.
 
-"He went out to sit somewhere," she says. "He does this. He finds a place and he sits in it and then the day gets away from him." She wipes her hands. "We're going to Master Roshi's house. All of us. I said we'd be there before the light goes and it's half gone already."
+"He went out to sit somewhere," she says. "He does this. He finds a place and he sits in it and then the day gets away from him." She wipes her hands. "We're going to Master Roshi's house. All of us. I said we'd be there today, and you've still got to find Gohan."
 
-His father says, "All right."
+Goku says, "All right."
 
 "So go and find him. I've called and called him. Take the cloud, don't walk it, you'll be an hour walking it."
 
-"He won't have gone far," his father says. "He never goes far." He looks at the pot, and then at the light in the doorway. "We'd best eat and be off. Master Roshi's lot don't like to be kept."
+Chi-Chi looks at the pot and then at the light in the doorway. "He probably hasn't gone far. We'd best eat and be off. Master Roshi's lot don't like to be kept."
+
+"I'll find him," Goku says.
 
 "All right."
 
 "Goku."
 
-His father stops in the doorway.
+Goku stops in the doorway.
 
 "Say it back to me."
 
@@ -165,47 +175,39 @@ His father stops in the doorway.
 
 She nods, once, the way she closes a ledger.
 
-The boy is standing in the middle of the kitchen with the rice bowl in both hands.
+Goshin stands in the middle of the kitchen with his empty bowl in both hands.
 
-"I'll go."
+Chi-Chi looks at him. "What do you want to do?"
+
+"Can I go too?"
 
 "You'll stay."
 
-"I'm fast. I'm faster than the cloud."
+"You'll stay," Goshin says. He remains where he is, holding the bowl.
 
-"You are not faster than the cloud."
+Chi-Chi takes the bowl and puts it on the high shelf. Goshin watches it go up, and his tail swings once.
 
-"I'm faster than Gohan."
+Goku goes out and calls Nimbus. The cloud comes down, and then both are gone.
 
-"That," his mother says, "is not the standard."
+"Can I come to Master Roshi's?" Goshin asks.
 
-She takes the bowl out of his hands and puts it on the high shelf. That is where it goes now. It started going there a month ago.
+"Carry the basket to the door, and you can."
 
-He watches it go up.
+"Carry the basket to the door," he says. He takes the basket and sets it beside the door.
 
-His tail comes loose from around his leg and swings once, which is what it does when he is told no.
+"That's carrying."
 
-"Can I come to Master Roshi's?"
+"It's both," Chi-Chi says. "That's what coming is."
 
-"You can help me carry the basket."
+Goshin stands in the doorway and watches the sky where Goku went.
 
-"That's not coming. That's carrying."
+"When can I ride the cloud by myself?"
 
-"It's both," she says. "That's what coming is."
-
-His father has gone out. There is the sound of the cloud coming down — the air under it, then the air closing — and then nothing, because a cloud is the quietest thing that flies.
-
-The boy goes and stands in the doorway and watches the sky where his father was.
-
-"Why can't I be faster than the cloud?" he says.
-
-His mother is at the fire with her back to him.
-
-"Because you're four," she says.
+"When you're older."
 
 "Gohan's four."
 
-"Gohan," she says, "is also four, and neither of you is going anywhere near that sky until you can read the book on the table, and after that you can go wherever you like and I will wave."
+"Gohan is also four, and neither of you is taking the cloud out alone until you can read the book on the table. After that you can go wherever you like and I will wave."
 
 He thinks about this with great seriousness.
 
@@ -215,7 +217,7 @@ He thinks about this with great seriousness.
 
 He looks at the schoolbook for a long moment. Then he says, in a completely different voice, "Is Gohan all right?"
 
-His mother turns round.
+Chi-Chi turns round.
 
 "Why would he not be all right?"
 
@@ -243,7 +245,7 @@ The ground jumps. The plough handles come up out of the man's hands.
 
 He stands there.
 
-He has ploughed this field for eleven years and there is a hole in it now, and a shape in the hole, and the shape stands up out of the hole the way a man stands up out of a bed.
+There is a hole in the field now. A shape rises from it and steps onto the edge of the furrow.
 
 The man goes to the cart and comes back with the gun and points it and says a thing that is mostly his own name.
 
@@ -251,7 +253,7 @@ The shape looks at him.
 
 It has a plate of dark glass over one ear the size of a thumbnail. The glass fills with a small sound, like a fly in a jar.
 
-The shape looks at the number the way a man looks at a bill he was not expecting.
+The shape looks at the number on the glass.
 
 "Five," it says.
 
@@ -259,43 +261,76 @@ The man's mouth is still open. The gun is still up.
 
 He fires.
 
-The shape's hand closes and opens, and something small and bright is gone out of the air, and then the man is on his back in his own furrow with his hat over his face.
+The stranger catches the bullet and flicks it back. It strikes the farmer and throws him onto his back in the furrow. He does not move again.
 
 The glass comes alive again.
 
 The shape turns its head toward the far hills, and its mouth moves, and the words are not for the man.
 
-"This time it is definitely Kakarot."
+"Could that be Kakarot?"
 
 Then the air closes, and the field is a field again, and the plough is standing by itself in the furrow.
 
 Behind the fence, a dog has started, and will not stop for the rest of the day.
 
-Far off, a city, seen from above and moving past quickly, the way a thing goes past a window.
 
 ---
 
-## FOUR
+## FOUR — EXTERNAL CAMERA
+
+Gohan calls for his father in the forest. A butterfly passes him. He chases it to a tree, jumps and misses.
+
+A sabertooth cat comes out of the bushes. Gohan drops and lies still. The cat licks him, takes his hat and runs.
+
+"My hat!"
+
+Gohan chases the cat over the edge of a cliff. His tail catches a branch, and he drops onto a ledge.
+
+Beside the river, a bird stands at the end of a log. Gohan walks out to it.
+
+"I'm Gohan," he says.
+
+The bird flies away. The log falls into the water and carries him downstream.
+
+Goku finds the cat wearing Gohan's hat.
+
+"Where did you get that? It belongs to my son."
+
+The cat growls, then runs away, leaving the hat. Goku picks it up.
+
+Goku rides Nimbus along the river. Gohan clings to the log.
+
+"Father!"
+
+Goku reaches for him, but the cloud does not go low enough. The current carries Gohan through a tunnel and over a waterfall.
+
+Goku hears Gohan crying above him. Gohan is holding a branch on the cliff. Nimbus rises, and Gohan jumps into Goku's lap.
+
+Goku settles the recovered hat on Gohan's head. "Let's go home. Your mother's waiting."
+
+"All right."
+
+---
+
+## FIVE
 
 The bucket comes up out of the well and stops at the top.
 
-The rope has a worn place where a hand holds it and the boy's hands are on the worn place, and he pulls, and the bucket comes up over the stone and he sets it down without spilling very much of it.
+The rope has a worn place where a hand holds it. Goshin pulls the bucket over the stone and sets it down without spilling much.
 
-His mother is at the line with the washing.
+Chi-Chi is at the line with the washing.
 
-"Not the whole bucket," she says. "You'll have nothing left for the afternoon."
+"Not the whole bucket," Chi-Chi says. "You'll have nothing left for the afternoon."
 
-"It's not heavy."
+"Not the whole bucket," Goshin says.
 
-"Everything's not heavy," she says. "Not heavy is the whole trouble with you."
-
-He carries the bucket to the house. Halfway there he changes hands. The water leans in the bucket and he leans against it and it comes back level.
+He pours half the water back into the well and carries the rest to the house. Halfway there he changes hands. The water leans, and then comes back level.
 
 At the woodpile he stops.
 
 There is a piece of the tree left over, too knotty for the stack, and it is standing on its end on the block where his father leaves the ones that need splitting, and the axe is in it.
 
-The boy looks at the axe.
+Goshin looks at the axe.
 
 Then he looks at the wood.
 
@@ -305,7 +340,7 @@ The log comes apart in two with a sound like a door closing hard in another room
 
 He picks up the halves and puts one on each side of the block, neatly.
 
-Then he sees his mother standing at the end of the line with a wet sheet in her arms, and her face is doing something.
+Then he sees Chi-Chi standing at the end of the line with a wet sheet in her arms.
 
 "That was," she says, "the axe's job."
 
@@ -351,23 +386,23 @@ She goes inside and starts the rice, though the sun is not down and it is not th
 
 ---
 
-## FIVE
+## SIX
 
 The cloud comes back from the west with two on it.
 
-It comes down the slope without hurry and stops a hand's width off the ground, and his father steps off, and his brother does not.
+Nimbus stops a hand's width off the ground. Goku steps off, and Gohan stays on the cloud.
 
-Gohan is wet from the chest down.
+Gohan is wet from the chest down. His hat is on his head.
 
 His hair is flat to his head. There is weed in it. His boots are full enough to be heard when he moves. He is holding on to the cloud with both hands and he is not crying and he is not not crying.
 
-"He fell in the river," his father says.
+"He fell in the river," Goku says.
 
 "I did not fall," Gohan says. "The log fell. I was on the log."
 
-"He was on the log," his father agrees.
+"He was on the log," Goku agrees.
 
-His mother comes out of the house with her sleeves tied back and her mouth already open, and then she sees him, and the mouth closes, and she crosses the yard and puts both hands on his head and tips it back and looks at his face, hard.
+Chi-Chi comes out of the house with her sleeves tied back. She crosses the yard and puts both hands on Gohan's head, tipping it back to look at his face.
 
 "Are you hurt?"
 
@@ -379,13 +414,13 @@ His mother comes out of the house with her sleeves tied back and her mouth alrea
 
 "Which hat?"
 
-"The one with the—" he stops, because something in her face has changed. "…That one."
+Gohan lifts it off his head. The Four-Star Ball is fixed to the top.
 
-"The one with the thing on it."
+"This one. Father found it."
 
-"Yes."
+Chi-Chi looks at Goku.
 
-His mother looks at his father. His father looks pleased, in the way of a man who has seen a large animal in the woods and thought it was interesting.
+"The cat had it," Goku says. "It ran away and left it."
 
 "It was a big cat," he says.
 
@@ -393,9 +428,11 @@ His mother looks at his father. His father looks pleased, in the way of a man wh
 
 "It was taller than him."
 
-"Goku, that hat is the only—" She stops herself. She starts again, quieter. "That hat was not ours to lose. That hat was a thing somebody gave us."
+"Goku, that hat was not ours to lose. That ball was a thing somebody gave us."
 
-The boy from the woodpile comes round the corner of the house at a run, and gets about four paces away, and stops dead, and looks at his brother from the boots up.
+Goshin comes round the corner of the house and stops four paces away.
+
+"Goshin," Gohan calls. He lifts one dripping boot.
 
 "You're all wet."
 
@@ -405,34 +442,35 @@ The boy from the woodpile comes round the corner of the house at a run, and gets
 
 "I know."
 
-The wet one steps down off the cloud. His boots say their piece on the hard ground.
+Gohan steps down off the cloud. Water runs out of his boots onto the hard ground.
 
 He stands there dripping with his arms out and says, "It was a really big cat," in a completely different voice from the one he used with his mother.
 
-Then the two of them are laughing in a way that has no words in it. The woodpile boy pulls him by the sleeve toward the shed, to show him the stack.
+Then both boys laugh. Goshin takes Gohan by the sleeve and leads him along the path toward the shed, keeping to the downhill side. He shows Gohan the stack.
 
-"You'll both get in the water again," his mother says, to nobody, and goes in, and comes out with a towel, and stands in the middle of the yard holding it.
+"You'll both be wet again," Chi-Chi says. She goes in and returns with a towel.
 
 They come back for the towel.
 
-She wraps the wet one up in it and holds him a moment longer than drying requires.
+Chi-Chi wraps Gohan in the towel. He holds his hat clear while she dries his hair.
 
-Over the towel, she looks at the other one. The dry one. The one who was on the mountain all day, the one she could find at any hour she wanted.
-
-Her eyes go the way they went at the beam.
+She looks Goshin over. His hands go behind his back.
 
 "We're late," she says.
 
-"Then we'll go," his father says, cheerful, and lifts the sack of rice off the step.
+"I'll stay here," Chi-Chi says. "Take the boys. Gohan, put your hat back on."
 
+Gohan puts it on. Goku lifts the sack of rice off the step.
 
-His mother does not come with them.
+"Then we'll go. We'll be back before the light goes, for supper."
 
 Goshin looks back once, from the corner of the house, and she is still standing in the middle of the yard with the towel over her arm, watching them go, and she lifts a hand.
 
 ---
 
-## SIX — EXTERNAL CAMERA
+## SEVEN — EXTERNAL CAMERA
+
+Far off, a city passes beneath the man from the field.
 
 The wasteland is one colour and the light in it is old.
 
@@ -442,17 +480,19 @@ It turns its head.
 
 Then the air in front of it changes, and the shape from the field is standing on the rock, close, with the plate of glass alive on its ear.
 
-The glass makes its small sound.
+"Who are you? Have you come here for me?" the green figure asks.
 
-"Three hundred and twenty-two," the shape says. Then, without much interest: "So there was one of those here too."
+"I have no business with you," the stranger says.
 
-"I don't know who you mean," the green figure says. "I don't care who you mean. I have no intention of fighting you."
+"Then why did you come? Do you want to die?"
 
-"That is a pity," the shape says. "I do."
+The glass sounds. "Three hundred and twenty-two," the stranger says. "So there was one of those here too. Still no threat to me."
 
-It comes off the rock.
+"Do you know who you're talking to?"
 
-The green figure is already moving — the hands together, the voice out, the words of the thing it does said fast and flat and only once — and then the light is not light any more, it is a wall, and the wall goes away from him and takes the ground with it.
+"No."
+
+The green figure brings his hands together and fires. The blast crosses the basin and tears the ground open as it goes.
 
 The sound goes out across the basin and comes back off the far ridge, smaller, and then twice more.
 
@@ -470,7 +510,7 @@ The green figure does not answer.
 
 The glass sounds again. The shape's head turns away, out past the ridge, and stays there.
 
-"There is another one," it says. "The largest power on this planet. That way."
+"There is another one. The largest power on this planet. This time it is Kakarot."
 
 Then there is nobody in that basin at all except the one who was always in it.
 
@@ -478,11 +518,19 @@ The wind comes back in. The dust settles. The green figure stands on ground that
 
 "So even I," he says, to nobody, "could not move."
 
-> **NEXT TIME — A man out of the sky who knows this family's other name. Two children taken in the dark. And a mother who cannot do anything at all.**
+> **NEXT TIME — A stranger reaches Kame House and calls Goku by another name. Two boys stand beside their father as the stranger comes down.**
 
 ---
 
 ## Footer
+
+**1 November 2026 — current revision.** With the user's explicit approval, the body now shows Goshin watching his meals being made, repeats and follows the specified instructions, and removes the speed boast. The forest, river rescue and Goku's recovery and return of Gohan's hat are on-page. Raditz's early question, later certainty, the city placement and Piccolo's challenge are corrected. The external-camera and naming pass is targeted, not a guarantee that every subtle instance was caught. `W-65` is a secondary synopsis, not watched footage; the captions' speaker for the departure line is unlabelled. The prior body is preserved in the pre-revision workspace snapshot.
+
+**Archived pre-revision footer below — not current authority.** All notes and claims, including source attributions, are preserved as written at the time and may have been corrected since. In particular, the Goku attribution in the old `C003`/`C079` claims is superseded: the caption is unlabelled, and `W-65` attributes the meal/departure urgency to Chi-Chi. For current source statements and story state, use `canon/facts.json`, `CANON.md`, `STORY.md` and `REVISION_2026-11-01.md`. The old claim that Chapter Two contains a hat retelling was an error, not a scene.
+
+---
+
+**1 November complete-audit addendum — body unchanged.** `W-65` is a detailed *secondary* episode-1 synopsis: it describes Goku recovering Gohan's hat from the cat and returning it after the river rescue, and then places Raditz's city flyover before Piccolo (`C181`). The accepted body recounts the loss but leaves recovery off-page and places the city cut earlier. Contrary to older footer wording, Chapter Two does **not** contain a child's retelling of the hat (`O009`). The meal/departure urgency at 05:45 is unlabelled in the local captions; `W-65` attributes it to Chi-Chi, while this body assigns it to Goku (`C003`, `C079`). The accepted Piccolo exchange also conflicts with the captioned challenge; the line about Goshin's unwitnessed meal preparation, his leaving after 'Stay', missing instruction repetitions and his boasting remain character-rule questions. Some sentences also give canon characters thoughts or decisions despite the external-camera rule. No original body passage has been rewritten; see `OPEN-17` and `AUDIT_2026-11-01.md`.
 
 **31 October research correction — accepted prose not silently rewritten.** The field scene uses “this time it is definitely Kakarot” too early: ep. 1 says that at the later **12,909** signal after Piccolo; after the farmer the **4,880** signal is a question (`C006`, `C153`). The passing-city cut is not established by the caption and is unverified/authored (`C010`, `O061`). The claim below that every beat is in canon order is superseded to that extent. A future deliberate chapter revision is needed. The SRT's official/broadcast origin is unverified, and it does not verify silent frames.
 

@@ -1,76 +1,124 @@
 {
- "owner": "which techniques exist and at what grade.",
- "registry": "canon/techniques.json",
- "canon": [],
- "holder_lanes": [
-  {
-   "lane": "Footwork",
-   "grade": "ungraded",
-   "paid_by": null
+  "owner": "which techniques exist and at what grade.",
+  "registry": "canon/techniques.json",
+  "canon": [],
+  "holder_lanes": [
+    {
+      "lane": "Footwork",
+      "grade": "brief, doctor-permitted standing foot placements and correction; ungraded",
+      "paid_by": "O105 O108 O120"
+    },
+    {
+      "lane": "Guard",
+      "grade": "palm deflection demonstrated; unranked",
+      "paid_by": "O074 O078"
+    },
+    {
+      "lane": "Strike",
+      "grade": "ordinary ki and observed Kamehameha demonstrated; unranked (draft)",
+      "paid_by": "O074 O077 O078 O084 O088 O089 O090 O095 O099"
+    },
+    {
+      "lane": "Ki control",
+      "grade": "working; limited non-contact movement demonstrated from observed motion; unranked",
+      "paid_by": "O074 O077 O078 O084 O088 O089 O090 O095 O098 O099"
+    },
+    {
+      "lane": "Sensing",
+      "grade": "none",
+      "paid_by": null
+    },
+    {
+      "lane": "Breath",
+      "grade": "ungraded",
+      "paid_by": null
+    },
+    {
+      "lane": "Flight",
+      "grade": "working; unranked",
+      "paid_by": "O074 O077 O078 O089 O090 O098"
+    }
+  ],
+  "debt": "The exact named technique and silent visual staging in ep. 1 require a video/frame check; captions do not establish the technique name (C013).",
+  "standing_design": {
+    "flight": "Goshin can fly with ordinary ki; demonstrate naturally in a relevant scene. Fatigue can interrupt performance without forgetting it.",
+    "technique": "He has usable basic ki control and techniques and learns demonstrated movement unusually quickly. Do not imply he has no techniques; do not give him unobserved prerequisites for free.",
+    "era": "No early god ki or divine form.",
+    "status": "Authored design demonstrated in the corrected Chapter Four through Nine drafts; not a canonical Gohan beat and not yet user-accepted.",
+    "training_priority": "During deliberate training, master or perfect abilities already possessed before deliberately pursuing new ones. The user explicitly permits instinctive copying during an emergency. Rapid learning and retained skill remain; the first Kamehameha's stated relative lack of practice is not retroactively erased (O104 O088).",
+    "foundation": "Serious, continuing attention to the basics relevant to his abilities, including footing, balance, guard, breath, conditioning, ki control and flight. Examples are not a fixed regimen or an invented mastery grade. Chapter Seven shows safe foot placement while he is injured and postpones full practice until he recovers (O105). Chapter Eight adds a few voluntarily repeated seated foot placements under the doctor’s limits; he stops to rest and does not fire or practise a new technique (O108). Chapter Nine adds a few gentle standing placements and an adjustment after the follow-up exam; the doctor still prohibits hard exercise, sparring and flight practice (O120)."
   },
-  {
-   "lane": "Guard",
-   "grade": "palm deflection demonstrated; unranked",
-   "paid_by": "O074 O078"
-  },
-  {
-   "lane": "Strike",
-   "grade": "ordinary ki blasts demonstrated; unranked",
-   "paid_by": "O074 O077 O078"
-  },
-  {
-   "lane": "Ki control",
-   "grade": "working; unranked",
-   "paid_by": "O074 O077 O078"
-  },
-  {
-   "lane": "Sensing",
-   "grade": "none",
-   "paid_by": null
-  },
-  {
-   "lane": "Breath",
-   "grade": "ungraded",
-   "paid_by": null
-  },
-  {
-   "lane": "Flight",
-   "grade": "working; unranked",
-   "paid_by": "O074 O077 O078"
-  }
- ],
- "debt": "The exact named technique and silent visual staging in ep. 1 require a video/frame check; captions do not establish the technique name (C013).",
- "standing_design": {
-  "flight": "Goshin can fly with ordinary ki; demonstrate naturally in a relevant scene. Fatigue can interrupt performance without forgetting it.",
-  "technique": "He has usable basic ki control and techniques and learns demonstrated movement unusually quickly. Do not imply he has no techniques; do not give him unobserved prerequisites for free.",
-  "era": "No early god ki or divine form.",
-  "status": "Authored design demonstrated in the corrected Chapter Four draft; not a canonical Gohan beat and not yet user-accepted."
- },
- "authored_chapter_four": [
-  {
-   "technique": "Flight",
-   "holder": "Goshin",
-   "evidence": "O074 O077 O078",
-   "condition": "Uses flight in the island fight, carries Gohan away from the pod and joins the crater fight; Raditz carries him only while unconscious."
-  },
-  {
-   "technique": "Observed palm deflection",
-   "holder": "Goshin",
-   "evidence": "O074 O078",
-   "condition": "Watches Raditz turn a blast aside, imitates the deflection during the island fight and later applies it again. His palm is burned."
-  },
-  {
-   "technique": "Ordinary ki blasts and controlled use",
-   "holder": "Goshin",
-   "evidence": "O074 O077 O078",
-   "condition": "Uses attacks against Raditz and breaks the pod hatch after waking. His output rises above the island snapshot without an exact new personal reading."
-  }
- ],
- "not_yet_demonstrated": [
-  {
-   "technique": "Kamehameha",
-   "holder": "Goshin",
-   "condition": "Not demonstrated in the live serial; a rejected draft cannot establish it."
-  }
- ]
+  "authored_chapter_four": [
+    {
+      "technique": "Flight",
+      "holder": "Goshin",
+      "evidence": "O074 O077 O078",
+      "condition": "Uses flight in the island fight, carries Gohan away from the pod and joins the crater fight; Raditz carries him only while unconscious."
+    },
+    {
+      "technique": "Observed palm deflection",
+      "holder": "Goshin",
+      "evidence": "O074 O078",
+      "condition": "Watches Raditz turn a blast aside, imitates the deflection during the island fight and later applies it again. His palm is burned."
+    },
+    {
+      "technique": "Ordinary ki blasts and controlled use",
+      "holder": "Goshin",
+      "evidence": "O074 O077 O078",
+      "condition": "Uses attacks against Raditz and breaks the pod hatch after waking. His output rises above the island snapshot without an exact new personal reading."
+    }
+  ],
+  "not_yet_demonstrated": [],
+  "authored_chapter_five": [
+    {
+      "technique": "Kamehameha, including directional steering",
+      "holder": "Goshin",
+      "evidence": "O004 O084 O088",
+      "condition": "After seeing Goku form and steer the wave, Goshin fires his own to redirect Raditz’s attack. His first wave contains more raw ki than Goku’s in this scene but shows less practiced control, and his palm remains burned. Raditz reads 1,450 as Goshin concentrates: an authored momentary snapshot, not a canon number, fixed level or automatic multiplier. The technique is retained; Chapter Five remains a draft."
+    }
+  ],
+  "authored_chapter_six": [
+    {
+      "technique": "Kamehameha setup, deliberately interrupted",
+      "holder": "Goshin",
+      "evidence": "O084 O088 O095",
+      "condition": "Cups his hands and gathers light in the familiar posture, then lets it fade because Goku is in the firing path. This shows retained learning and a tactical choice, not a lost technique or a second completed wave."
+    },
+    {
+      "technique": "Targeted ordinary ki and flight",
+      "holder": "Goshin",
+      "evidence": "O089 O090 O095",
+      "condition": "Attacks the wounded shoulder, fires at Raditz’s knee and draws him away while Goku moves clear. His burned palm and prior exertion affect the exchange without erasing his skills; the separate 1,500 surge is an authored snapshot, not a cap."
+    }
+  ],
+  "authored_chapter_seven": [
+    {
+      "technique": "Observed non-contact pull / limited telekinetic movement",
+      "holder": "Goshin",
+      "evidence": "O004 O056 O098 C171",
+      "condition": "After seeing Piccolo lift Gohan and turn his hand, Goshin copies the visible motion, gives Gohan a limited tug and then shifts his flight path before catching him. He repeats the gesture later with a gauze roll. This is ordinary authored non-contact manipulation, retained but not shown at unlimited strength, range or mastery; biological regeneration is not copied."
+    },
+    {
+      "technique": "Kamehameha, second completed wave",
+      "holder": "Goshin",
+      "evidence": "O084 O088 O095 O099",
+      "condition": "Uses the retained wave to divert a falling slab away from the aircraft toward an empty crater wall. The unmeasured wave wavers and scars unoccupied rock; his existing palm burn and singed bandage matter. No new numerical reading or instantaneous perfect control is claimed."
+    }
+  ],
+  "authored_chapter_eight": [
+    {
+      "technique": "Foundational foot placement and existing Kamehameha aim",
+      "holder": "Goshin",
+      "evidence": "O088 O104 O105 O108",
+      "condition": "Wants to make his already-known wave go where he aims it. With a doctor limiting exertion, he asks to reposition his feet while seated, repeats a brief placement and correction shown by Goku, and rests. Full practice waits for medical clearance; no wave, new skill, perfected grade or power reading is claimed."
+    }
+  ],
+  "authored_chapter_nine": [
+    {
+      "technique": "Foundational foot placement, existing wave and future aim",
+      "holder": "Goshin",
+      "evidence": "O104 O105 O118 O120",
+      "condition": "After a follow-up exam, gently places his feet a few times, corrects his heel under Goku’s direction and rests. He wants to refine his existing Kamehameha and balance later; no new technique, wave, perfected grade or training clearance is claimed."
+    }
+  ]
 }

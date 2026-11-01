@@ -2,9 +2,9 @@
 
 ```
 ANIME BASE: eps 3, 4, 5, 6 — the mountain cut (CANON §4b), assembled as an episode
-MANGA SUPPORT: none claimed — every scene in this chapter is anime-only (W-17, W-19)
-BEATS: C065 C089 C099 C104 C111 C066 — in canon's order, one day
-FORM: EPISODE — the episode grammar: cold open · narrator · title card · countdown · hard cut · eye-catch · preview (WRITING §10)
+MANGA SUPPORT: none claimed — the core home beats are anime-only; intervening staging is authored (W-17, W-19)
+BEATS: C065 C089 C099 C104 C111 C066 — source-order anchors; one-day assembly is this branch
+FORM: EPISODE — cold open · narrator · title card · scene headings · hard cut · eye-catch · preview (WRITING §10)
 POV: NONE — external camera from the first line to the last. No interiority for anyone
 EVIDENCE: I provisional for captioned dialogue; II for unverified visual staging — source origin unverified (W-30)
 WITNESS: W-30 · W-17 · W-18 · W-19 · W-24
@@ -15,29 +15,25 @@ STAGING: authored and declared — O016 O018 O019 O020 O021 O022 O047
 
 ## COLD OPEN
 
-*(A mountainside before the light. A track, a roof, one yellow window. Nothing moves except the smoke leaving the chimney, which is the only thing in the frame that is going anywhere.)*
+*(The mountain house after Goku and the boys have left. Smoke rises from the chimney. The road below the gate is empty.)*
 
-**NARRATOR:** The mountains west of the village. The fourth day of the twelfth month. Nothing has happened here.
+**NARRATOR:** The mountains west of the village. The day Goku takes both boys to Kame House.
 
-**NARRATOR:** Somewhere beyond those mountains a man is running down a road a million kilometres long. He will not arrive today.
+**NARRATOR:** This is the yard they left behind.
 
-**NARRATOR:** And somewhere else a boy of four is asleep in a wasteland with his fists in the dirt. He will not be in this story either.
-
-**NARRATOR:** This is a yard.
-
-*(Hold. The smoke. The light comes up over the ridge and moves down the roof and stops at the sill.)*
+*(Hold on the roof, the smoke and the empty road.)*
 
 **EIGHT HOURS**
 
-*(Title card. Then the same shot, a minute later, and the rooster.)*
+*(Title card.)*
 
 ---
 
-## 1 · EIGHT HOURS
+## 1 · THE BOOK
 
-The yard wakes in the order it always wakes in: the rooster, then the water, then the smoke.
+The yard is quiet after the cloud has gone. Chi-Chi carries the three bowls from the step into the kitchen. Water runs into a basin, and smoke rises from the chimney.
 
-A woman crosses it with a basin against her hip, sets the basin on the step, takes four pieces of wood from the stack, and goes back inside. The smoke comes up straight. There is no wind in it at all.
+She crosses the yard with the basin against her hip, sets it on the step, takes four pieces of wood from the stack, and goes back inside. The smoke comes up straight. There is no wind in it at all.
 
 She comes out again with a cloth folded over one arm and sits down on the step with a bowl in her lap, and then she reaches behind her, into the house, without looking, and brings out a book.
 
@@ -51,7 +47,7 @@ She turns the page. Two more, done. She turns again, and again, faster, and the 
 
 She sits back.
 
-"Half," she says, to the yard. "Half of it done, and gone off without a word to me."
+"Half," she says, to the yard. "Half of it done, and both boys gone to Master Roshi's."
 
 The chicken comes round the corner of the house, sees a bowl, and stops.
 
@@ -75,26 +71,26 @@ When she comes out she is carrying the stool, and she sets the stool in the midd
 
 "Right," she says. "There you are. Nobody's to say I hid it."
 
-*(A wide shot: the yard from the gate. One woman, one stool, one book, one long morning.)*
+*(A wide shot: the yard from the gate. Chi-Chi, one stool and one book.)*
 
-**NARRATOR:** Seven hours remain before the school day ends. It is a school day. It has always been a school day.
+**NARRATOR:** The school day is not finished, and the book is still on the stool.
 
 ---
-## 2 · SEVEN HOURS
+## 2 · THE PAPER
 
-By mid-morning the line is full.
+The line fills with washing.
 
 "Two of them the same as each other," she says, "and I've to tell them apart by the collars."
 
-There are six shirts on it. Two are a size a man wears. Two are a size a boy of four wears. And two more are the same as each other and small enough to be a joke, and those two are hung together, by the shoulders, side by side, with the pegs in the same places.
+There are six shirts on it. Two are Goku's. The other four are the boys', two apiece. The boys' shirts are the same size, and the pegs are in the same places.
 
-She looks at the two small ones for a moment longer than the others and then takes the basket up and goes in.
+Chi-Chi checks the marked collars, takes up the basket and goes in.
 
-*(Insert: the bedroom, from the doorway. Two sleeping mats rolled against the wall. A wooden horse, badly carved, with a real mane glued on. A jar with holes punched in the lid, and nothing alive in it. A pair of boots, side by side, the toes turned slightly in.)*
+*(Insert: the bedroom, from the doorway. Two sleeping mats rolled against the wall. A wooden horse, badly carved, with a real mane glued on. A jar with holes punched in the lid, and nothing alive in it. Two spare pairs of boots, set side by side, the toes turned slightly in.)*
 
 **NARRATOR:** Two mats. Two pairs of boots. Nobody has counted them out loud.
 
-She comes back out with a cloth and a bowl of water and passes the two small shirts without touching them.
+She comes back out with a cloth and a bowl of water and passes the boys' shirts without touching them.
 
 *(Cut: the doorframe. Height marks in pencil, a column of them, with names against the lowest ones. The top marks have no names. The camera holds on the top marks.)*
 
@@ -110,7 +106,7 @@ The road has nothing on it.
 
 "Hey!" she says, louder. Nothing on the road turns round.
 
-It has a red mark at the top in a circle.
+The paper has a red mark at the top in a circle.
 
 She looks at the circle for a while. Then she turns the paper over, and there is nothing on the back, and she turns it back again, and reads down the columns, moving her finger.
 
@@ -136,7 +132,7 @@ It is a different bicycle, and it is being pushed, and the person pushing it is 
 
 "Just the first half. The sums." The young woman looks past her at the yard, at the stool, at the book on the stool, and then back. "Is this a bad time?"
 
-"It's a Tuesday."
+"It's a school day."
 
 "Ah," says the teacher, and stands there with her satchel, and the two of them regard each other over the gate.
 
@@ -144,7 +140,7 @@ It is a different bicycle, and it is being pushed, and the person pushing it is 
 
 "Of course."
 
-"And what's in the paper that came this morning?"
+"And what's in the paper that came today?"
 
 The teacher's face does something small and professional. "Ah. Yes. That's not — that's not mine to collect."
 
@@ -158,13 +154,25 @@ The teacher's face does something small and professional. "Ah. Yes. That's not �
 
 She stands with her hands on the gate, and the young woman stands with her satchel, and the sun is over the ridge, and neither of them moves.
 
-"There's another one," she says. "Smaller. Four, same as him by the month."
+"There's another one," she says. "Four, same as him by the month."
 
 "I know. He's on the list for the spring."
 
 "He's on the list."
 
 "He's on the list," says the teacher. "Both of them are. It's a good school."
+
+"Goshin watches your hands when you show him something," Chi-Chi says.
+
+"Then I'll make sure he can see the pages," the teacher says.
+
+"You will. And Gohan asks questions about everything in the book."
+
+"He can keep asking," the teacher says. "There'll be room for both of them."
+
+Chi-Chi looks back at the schoolbook on the stool. "They can sit together?"
+
+"If they want to. We can find them places near the window."
 
 "Mm."
 
@@ -176,7 +184,7 @@ The teacher puts her hat on and takes her bicycle off its stand.
 
 ---
 
-## 3 · SIX HOURS
+## 3 · THE WASHING
 
 She carries it up the path holding it flat in both hands the way you carry a plate with something on it.
 
@@ -184,9 +192,11 @@ At the door she stops. She looks at the doorframe, at the column of pencil marks
 
 Then she pins the paper to the frame with the flat of her hand and stands back. It hangs there with the circle at the top, and the light coming round the roof onto it.
 
+She fetches two pegs from the washing line and fastens the lower corners so the paper cannot fold. She straightens it until the circle is visible from the gate.
+
 *(Wide. The frame, the paper, the yard, the sun going over the ridge line. Hold it long enough to be uncomfortable.)*
 
-Then she goes back out to the line and takes the pegs off one of the boy's shirts for no reason she would be able to give, and puts them back on.
+Then she goes back to the line, takes the pegs off one of the boys' shirts, and puts them back on.
 
 And she starts to hum.
 
@@ -218,7 +228,7 @@ Across the fence, on the far side of the track, a man with a hoe stops working a
 
 "The mountain's the same size it was."
 
-"It's the roads that got smaller," he says, pleased with himself, and leans on the hoe.
+"It's the roads that got smaller," he says. He leans on the hoe and smiles.
 
 She folds the cloth over the line.
 
@@ -226,20 +236,20 @@ She folds the cloth over the line.
 
 "When?"
 
-"This morning. On the ridge."
+"Today. On the ridge."
 
-"There's no truck on the ridge this morning."
+"There's no truck on the ridge today."
 
-"That's what I said," she says. "I said, there's no truck on the ridge this morning."
+"That's what I said," she says. "There's no truck on the ridge today."
 
-The man with the hoe thinks about it, and then the thought goes out of him the way a thought goes out of a man leaning on a hoe, and he nods slowly, the way a man nods when he has heard this before, and goes back to the hoe.
+The man looks at the ridge, then picks up his hoe and goes back to work.
 
-The sound of it starts up again, and keeps on, and becomes the sound of the morning.
+The sound carries across the yard.
 
 ---
 ## EYE-CATCH
 
-*(A still frame. The yard, seen from the gate, in the flat white light of midday. A chicken. A line of washing. A stool. A paper on a doorframe. Nothing moves.)*
+*(A still frame. The yard, seen from the gate, in the flat daylight. A chicken. A line of washing. A stool. A paper on a doorframe. Nothing moves.)*
 
 **NARRATOR:** This programme continues after a message.
 
@@ -247,11 +257,11 @@ The sound of it starts up again, and keeps on, and becomes the sound of the morn
 
 ---
 
-## 4 · FIVE HOURS
+## 4 · THE KITCHEN
 
 The wasp goes along the step and up the doorframe and across the paper and away over the roof.
 
-At twelve the bell in the village rings the hour, and the flies come in when the door opens, and she shuts them out with the cloth and they come back in when it opens again.
+The village bell rings, and flies come in when the door opens. She shuts them out with the cloth; they come back when it opens again.
 
 There is a radio in the kitchen that plays while she works, and it plays the same four tunes it always plays, and at the end of them a man reads the news in a cheerful voice.
 
@@ -261,13 +271,13 @@ She turns it down. She does not turn it off.
 
 She works.
 
-By one o'clock the kitchen is full of food that nobody has asked for.
+The kitchen fills with food that nobody has asked for.
 
-**NARRATOR:** A mother of four years' standing has one dependable way of dealing with the world: she cooks at it.
+**NARRATOR:** The rice is nearly ready. The road remains empty.
 
-There is rice in a pot the size a man would use. There is stock on the stove, and skins in the sink, and a board with the knife laid down and the knife's shadow across it. There are four bowls turned upside down on a cloth, and the cloth is one of the two small shirts, and she has not noticed that.
+There is rice in a pot the size a man would use. There is stock on the stove, and skins in the sink, and a board with the knife laid down and the knife's shadow across it. There are four bowls turned upside down on a cloth, and the cloth is one of the boys' shirts.
 
-She is fast at it. She is fast in a way that looks like anger and is not, quite, and would be hard to tell from it.
+She works quickly, chopping until the knife knocks against the board.
 
 Then she stops, with her hands in the sink, and stands still, and the radio plays its fourth tune.
 
@@ -277,13 +287,13 @@ Then she stops, with her hands in the sink, and stands still, and the radio play
 
 ---
 
-## 5 · FOUR HOURS
+## 5 · THE TRUCK
 
 The truck is heard a long way off.
 
 It is heard before it is on the road at all — a big engine, changing down on the far side of the ridge, working up — and she hears it and puts the knife down and goes to the door, and stands in it, and the engine comes.
 
-It is coming up when it should be going down, and it changes gear at the last corner the way a man changes gear when he has already decided he is not stopping.
+The engine changes gear at the last corner and continues up the road.
 
 Then the horn.
 
@@ -297,7 +307,7 @@ She comes out with the cloth still in her hand.
 
 The truck is at the gate and there is a great deal of it, and in the back there is a great deal of everything else: sacks, and a crate, and something under a sheet, and a length of cloth the colour of a plum.
 
-A very large man gets down out of the cab. He lands, and the ground has an opinion about it.
+The Ox-King gets down out of the cab with a sack of rice on his shoulder. The ground shakes under his boots.
 
 "Chi-Chi!"
 
@@ -307,7 +317,7 @@ A very large man gets down out of the cab. He lands, and the ground has an opini
 
 "In the doorway it stays in the way. There's a wall, and there's a floor, and the wall's got nothing to do all day."
 
-He puts his arms out and she comes down the path and is folded up, and he is laughing while he does it, and she says something into his chest which is not loud enough to hear from the gate.
+He sets the sack by the wall, puts his arms out and folds her up as she comes down the path. He is laughing while he does it, and she says something into his chest which is not loud enough to hear from the gate.
 
 "So," he says. "Where's Gohan?"
 
@@ -317,25 +327,33 @@ She takes the cloth off her shoulder and folds it, once, and puts it over her ar
 
 "Gone?"
 
-"Gone. With his father. The pair of them, in the cloud, yesterday, before the light."
+"Both boys went with their father earlier today, on the cloud."
 
-The Ox-King looks up at the house, and then past it at the yard, as though the boy might be stood in it now. Then he looks at the doorframe, and the paper on the doorframe, and he stands there with his hat in his hands.
+The Ox-King looks up at the house, then across the yard. Then he looks at the doorframe, and the paper on the doorframe, and he stands there with his hat in his hands.
 
 "Ah," he says.
 
 ---
 
-## 6 · THREE HOURS
+## 6 · THE VISIT
 
-"Ah," he says again. "Well." And then, brightening, because he is a man who brightens: "Well! Then it's as well I brought the whole lot up. Get the gate open, girl, I've a crate of mikan in the back that won't last the day."
+"Ah," he says again. "Well." He turns toward the truck. "Well! Then it's as well I brought the whole lot up. Get the gate open, girl, I've a crate of mikan in the back that won't last the day."
 
 She opens the gate.
 
-He carries the first sack on his shoulder, and the crate in his arms, and does not appear to think this is unusual. She comes behind him with the plum cloth, and puts it down where he puts it down, and by the middle of the afternoon there is a great deal of the mountain in that yard.
+He carries another sack on his shoulder and the crate in his arms. Chi-Chi follows with the plum cloth. After several trips, the yard is crowded with his load.
 
 A boar, hanging. Rice in sacks, stacked. Mikan in a crate, and the smell of mikan over everything, which is a good smell and is the wrong smell for that yard.
 
 And something long, wrapped in cloth, that he carries himself, and puts against the wall, and does not unwrap.
+
+Chi-Chi moves two smaller parcels out of the way of the door. One is wrapped in brown paper and the other in the plum cloth.
+
+"Is this for Goshin?" she asks, touching the smaller parcel.
+
+"A puzzle," the Ox-King says. "The book is for Gohan. They'll have to open them when they're home."
+
+She sets both parcels on the shelf, out of the way of the dishes.
 
 "Who's this for?" she says. "There's no wedding here."
 
@@ -347,9 +365,9 @@ She says nothing, which in that yard is a kind of yes.
 
 He sits down on the stool in the middle of the yard, and the book is under his elbow, and she comes out and moves the book without a word and puts it on the wall.
 
-And then he is fed, because it is the middle of the afternoon and he has come up a mountain.
+Chi-Chi sets out a fifth bowl for her father beside the four in the kitchen. She brings him a mikan and a cup of water in the yard.
 
-There is rice, and there is what there is. He eats and tells her what the road is like, and the state of the bridge past the ninth marker, and a man he does not trust in the next valley. She stands over him with her hands on her hips and says, "Mm," and, "Is that so," and, "Not the bridge," at intervals, like a woman keeping accounts.
+He eats the mikan and tells her what the road is like, and the state of the bridge past the ninth marker, and a man he does not trust in the next valley. She stands over him with her hands on her hips and says, "Mm," and, "Is that so," and, "Not the bridge," at intervals, like a woman keeping accounts.
 
 "And the boy," he says, with his mouth full. "Is he fitting in down there? With the old man and the turtle and the rest of it?"
 
@@ -363,7 +381,7 @@ The Ox-King eats.
 
 ---
 
-## 7 · TWO HOURS
+## 7 · THE SCHOOLBAG
 
 "And is he keeping up with his studies?" he says.
 
@@ -375,27 +393,27 @@ The Ox-King eats.
 
 "—a boy's mind is like a—"
 
-"Father, he has been gone one day."
+"Father, he has been gone since earlier."
 
-"One day is a day," says the Ox-King, with enormous dignity, and puts a whole mikan in his mouth.
+"A few hours can be a long time," the Ox-King says, and puts a whole mikan in his mouth.
 
 She goes in, and comes out again, and the thing against the wall is unwrapped, and it is a schoolbag.
 
 It is leather. It has a flap and a buckle and a strap with a buckle on that too, and it is the size a small boy's back would be, and there is a name burned into the flap, done with a hot nail by somebody who was being careful.
 
-The name is not the one she would have chosen.
+Chi-Chi runs a finger over the name. She lifts the strap and measures it against the bag.
 
-"He'll not carry that," she says.
+"The strap is too long. He'll not carry that until it fits," she says.
 
-"He'll carry it or he'll not," says the Ox-King, comfortably. "It's bought."
+"We can shorten it," the Ox-King says. "It's bought now."
 
-She turns it over in her hands. Then she takes it inside, and comes back out without it, and stands in the door with her arms folded, and the light is going yellow now, and the shadow of the roof has come down the yard and reached the stool.
+She turns it over, takes it inside and comes back without it. She stands in the door with her arms folded. The shadow of the roof reaches the stool.
 
-"Two hours," she says. "Two hours and the school day's done."
+"School will be finished before they get back," she says.
 
-"Is it," says the Ox-King, who does not know what she means and has decided not to ask.
+"Is it," the Ox-King says. He looks at the road and says nothing else.
 
-"Two hours, and they'll be coming up that road."
+"After school, they'll be coming up that road."
 
 *(Cut: the road. The shadow of the ridge line has crossed it entirely. Nothing comes up it.)*
 
@@ -403,19 +421,19 @@ She watches it for a while.
 
 Then she turns round and goes in, and the kitchen light comes on, and through the window she can be seen moving, and the sound of the pots starts up again.
 
-The Ox-King sits on the stool in the middle of the yard with his elbows on his knees and looks at nothing at all, and the light on him goes from yellow to orange.
+The Ox-King sits on the stool in the middle of the yard with his elbows on his knees. He looks down the road.
 
-**NARRATOR:** A man who has come a long way to see a boy will wait. It does not occur to him that the waiting is the thing he was brought here to do.
+**NARRATOR:** The Ox-King has come to see his grandchildren. The road remains empty.
 
 ---
 
-## 8 · ONE HOUR
+## 8 · THE GATE
 
 The wasp comes back.
 
-The radio in the kitchen is turned up, and then down, and then up again. The pots go on. The smell in that yard is now the smell of a dinner for six.
+The radio in the kitchen is turned up, and then down, and then up again. The pots go on. The smell of dinner reaches the yard.
 
-He gets up off the stool and goes and stands at the gate, and puts one hand on the gatepost, and looks down the road, and the road from the gate runs down through the trees in the last of the light and is empty for as far as the gate can see.
+He gets up off the stool and goes and stands at the gate, and puts one hand on the gatepost, and looks down the road, and the road from the gate runs down through the trees and is empty as far as he can see.
 
 "Chi-Chi."
 
@@ -425,7 +443,7 @@ He gets up off the stool and goes and stands at the gate, and puts one hand on t
 
 She comes out, wiping her hands, and stands beside him at the gate, and looks down the road with him, and neither of them says anything, and the two of them are the same size as the gate from a distance.
 
-*(Wide. Hold on the two of them at the gate, and the empty road, and the light going.)*
+*(Wide. Hold on the two of them at the gate and the empty road.)*
 
 "Gone to his master's," says the Ox-King, eventually. "With his father."
 
@@ -437,33 +455,45 @@ She comes out, wiping her hands, and stands beside him at the gate, and looks do
 
 "There's no harm in it."
 
-"There's no harm in it," she says, and turns round and goes in, and her voice carries a long way in that yard. "And there's a school day gone, and eight hours of it gone, and the day after that going, and him with a red circle on his paper and his father with a cloud."
+"There's no harm in it," she says, and turns toward the house. "And there's a school day going by, and him with a red circle on his paper and his father with a cloud."
 
 The door shuts.
 
 The Ox-King stands at the gate a while longer.
 
-Then he says, to nobody, "Where's the little one?" and there is no answer from the house, and there is no answer from the road, and he takes his hat off and puts it back on and goes in.
+"I wanted to see Goshin too," the Ox-King says. He takes his hat off, puts it back on and goes inside.
 
 ---
 
-## 9 · ZERO HOURS
+## 9 · THE TABLE
 
-*(The kitchen. Four bowls, right way up now, on the table, and four pairs of chopsticks, and four cups. Steam standing over the rice. The clock on the wall says four.)*
+*(The kitchen. Five bowls, right way up now, on the table, with five pairs of chopsticks and five cups. Steam rises over the rice.)*
 
-**NARRATOR:** Four o'clock. The school day is over.
+**NARRATOR:** The school day is nearly over.
 
 *(Hold on the empty chairs.)*
 
-The Ox-King sits down, and looks at the four bowls, and then at the two chairs on the far side, and then at Chi-Chi, who is not sitting down.
+The Ox-King sits down and looks at the five bowls, the three empty chairs and Chi-Chi, who is still standing.
 
 "Are we waiting?" he says.
 
-"We're not waiting," she says, and sits, and picks up her chopsticks, and puts them down again.
+"We're not waiting," she says. She sits, picks up her chopsticks and takes a mouthful of rice. Then she puts them down.
 
-He eats. He is a man who eats when there is food, because there has not always been food, and he is careful not to look at the door while he does it, and that is the most delicate thing anybody does in this chapter.
+"If you do have to go after them, I can drive you," the Ox-King says.
 
-"The little one's boots," he says, with his mouth full.
+"You don't even know which island it is."
+
+"Then we'll ask someone who does. The truck is right outside."
+
+She gets up, puts a serving spoon beside the pot and straightens the chopsticks at Gohan's place. The Ox-King waits until she sits again.
+
+"They said they'd be home," she says.
+
+"They did," he answers.
+
+The Ox-King eats. He keeps his eyes on his bowl while the door stands open.
+
+"Goshin's spare boots," he says, with his mouth full.
 
 "What about them."
 
@@ -471,31 +501,31 @@ He eats. He is a man who eats when there is food, because there has not always b
 
 "They're where he leaves them."
 
-"A boy's boots by a wall," says the Ox-King, "is a boy that's coming back to them."
+"He'll need them when he comes home," the Ox-King says.
 
 She does not answer that.
 
-"Did he eat his supper?" he says. "Before they went."
+"Did he eat before they went?" he says.
 
-"He had it."
+"Twice."
 
-"Because a boy that's had his supper—"
+"Because a boy who's eaten—"
 
 "Father."
 
 "I'm only saying."
 
-"You're only saying," she says, "and there's four bowls on that table and a man sitting at one of them, and I'd sooner you ate than said."
+"You're only saying," she says, "and there are five bowls on that table. I'd sooner you ate than said."
 
 He eats.
 
 When he has eaten he sits back and folds his hands on his stomach and looks at the ceiling and says, "That's a dinner."
 
-"That's a dinner for six."
+"That's a dinner for five."
 
-"And where's the six?"
+"And where are the other three?"
 
-"Gone to his master's," she says, "in a cloud, with his father, before the light," and she gets up and takes the plates in, all four of them, the two that were used and the two that were not.
+"At his master's, on an island." She gets up and takes the five bowls to the sink: two used and three untouched.
 
 ---
 
@@ -503,7 +533,7 @@ When he has eaten he sits back and folds his hands on his stomach and looks at t
 
 Afterwards she washes up, all of it, every pan, and puts the pans away where the pans go, and wipes the board, and dries her hands on the cloth, and then she goes to the telephone.
 
-It is on the wall by the door, and it is black, and it works.
+It is on the wall by the door, and it is black, and it works. A pencil and a folded piece of paper sit on the little table beneath it.
 
 *(Insert: her hand on the receiver. The dial going round and coming back. The dial going round and coming back. Seven times.)*
 
@@ -529,11 +559,15 @@ The Ox-King is in the doorway with his hat in his hands.
 
 "It says nobody's available."
 
+"Did you leave them a message?"
+
+"I put the receiver down."
+
 "Then nobody's available," he says. "It's a houseful. They'll be at the table."
 
 "Mm."
 
-"They'll be at the table," he says again, "and the boy'll have his feet under it, and they'll have forgot the hour, and the whole lot of them'll come up that road in the morning with their tails between their legs and a story. You'll see."
+"They'll be at the table," he says again, "and the boy'll have his feet under it, and they'll have forgot the hour, and the whole lot of them'll come up that road with their tails between their legs and a story. You'll see."
 
 She stands with her hand still on the telephone.
 
@@ -541,19 +575,19 @@ Then she picks it up again and dials a different number, and a woman answers on 
 
 "Exchange."
 
-"Evening. It's the house on the mountain road, past the ninth marker."
+"Hello. It's the house on the mountain road, past the ninth marker."
 
 "I know the house."
 
 "Is the line all right?"
 
-There is a pause, and then the sound of something being moved, and then a voice that has decided to be patient.
+There is a pause, and then the sound of something being moved.
 
 "The line's all right."
 
 "You're sure."
 
-"I'm sure. I've rung you myself this week and it went through, and it went through to a woman in a yard, and she said good evening to me, so the line is all right."
+"I'm sure. I've rung you myself this week and it went through, and it went through to a woman in a yard, and she said hello to me, so the line is all right."
 
 "Then why is nobody answering at Kame House?"
 
@@ -561,9 +595,19 @@ There is a pause, and then the sound of something being moved, and then a voice 
 
 "Kame House. It's on an island. It picked up and then it was a machine."
 
-"A machine," says the exchange, in a voice that has heard everything and believes none of it. "There's a lot of that about."
+"A machine," says the exchange through a crackle of static. "There's a lot of that about."
 
-"Thank you," she says, and puts the receiver down.
+"Does that mean the line is broken?"
+
+"No. It means the call reached them. You can ring again and leave a message if you like."
+
+Chi-Chi looks at the receiver. The Ox-King takes a step toward the table and waits there with his hat in both hands.
+
+"And if the line does break?"
+
+"Call the exchange and tell us which number. We'll check it."
+
+"Thank you," Chi-Chi says, and puts the receiver down.
 
 *(Insert: the telephone, on the wall, silent. The dial. The hook. The whole of it.)*
 
@@ -577,37 +621,45 @@ She looks at it. Then she takes her hand off it.
 
 "And what would I say?" she says.
 
+"If they don't answer, I'll go down there myself."
+
+"We can take the truck to the coast," the Ox-King says.
+
 ---
 
-## 11 · NIGHT
+## 11 · AFTER THE CALL
 
-The washing is in, and counted, and folded, and put on the end of the table in two stacks that are the same height. The paper is still on the doorframe. The stool is still in the middle of the yard and nobody has brought it in.
+Chi-Chi rests one hand on the telephone. The Ox-King pulls a chair out from the table and leaves it beside her.
 
-The Ox-King sleeps in the room with the two mats in it, because she will not have him in the boy's room, and she does not say why, and he does not ask.
+Outside, the wind lifts the end of a sheet on the washing line. The school paper is still on the doorframe, and the stool is still in the middle of the yard.
 
-The house is dark and the yard is not.
-
-*(A wide shot from the gate, at night. The roof, the chimney, one window lit. Above it, an enormous number of stars, and a moon a little past full.)*
-
-**NARRATOR:** The moon tonight is a little past full. Earlier in the week it was full, and nothing came of it, and nobody in this yard was looking.
-
-*(The same shot. The window goes out. The yard is dark, and the moon is not, and the shot is held until the eye has adjusted to it.)*
+Chi-Chi sits down by the telephone. Her father sets his hat on the table.
 
 ---
 
 ## PREVIEW
 
-*(The title music, and a montage that nobody in this chapter will see: a gate with a man outside it, rehearsing under his breath; a road a million kilometres long with one small figure on it; a wasteland at night, and a boy asleep with his fists in the dirt.)*
+*(The telephone rests in its cradle. Outside, the road is still empty.)*
 
-**NARRATOR:** Next time. A man comes to a gate with the words ready and cannot get them out, and eats his dinner, and goes home, and says nothing at all.
+**NARRATOR:** Next time: Goku and Piccolo pursue Raditz, while Gohan tries to protect Goshin. The rescue changes the fight ahead.
 
-**NARRATOR:** And on a road a million kilometres long, a father asks a guide to make sure he is not brought back.
-
-**NARRATOR:** Next time: *"The Words He Came To Say."*
+**NARRATOR:** Next time: *"The Rescue."*
 
 ---
 
 ## Footer
+
+**1 November 2026 — current revision.** The user approved the same-day sequence: the title *Eight Hours* refers to schooling, not an on-page countdown. The inconsistent 4 December date, current Snake Way and wilderness claims, overnight visit and asserted moon phase are removed from the body. The spare boots, five-place table, unanswered call and transition to Chapter Seven are reconciled. The earlier approved bodies are preserved in the pre-revision snapshot. Four–Nine remain provisional; the revised implementation is presented for review, not silently accepted anew.
+
+**Archived pre-revision footer below — not current authority.** All notes and claims, including source attributions, are preserved as written at the time and may have been corrected since. Its countdown, moon phase, unseen-world narration and overnight ending no longer describe the branch. For current statements use `canon/facts.json`, `CANON.md`, `STORY.md` and `REVISION_2026-11-01.md`.
+
+---
+
+**1 November complete-audit addendum — body unchanged.** The four-place meal setting is ambiguous when the family and its visitor are considered, and the bedroom insert describes one pair of boots while the narrator counts two pairs. The identities of the rooms and mats are also unclear; some lines assign the Ox-King knowledge or decisions despite the external-camera rule. These do not by themselves settle who was expected at that exact meal. The date, clock, moon and superseded overnight outcome remain separately recorded; see `OPEN-17` and `AUDIT_2026-11-01.md`.
+
+**31 October Chapter Seven overlap correction — accepted body preserved, revised after reader feedback.** The unanswered Kame House call in §10 is the same call, during the same Ox-King visit. In the corrected provisional Chapter Seven, Piccolo confronts the family at the crater, and then Roshi calls Chi-Chi promptly after the group returns to Kame House. He tells her about the original attack and Piccolo's later attempt; Goku is alive and both boys are awake. Chi-Chi and her father set out in the existing truck to meet Bulma. The §11 outcome in which she remains uninformed and the Ox-King sleeps at the house that night is superseded in this draft, not silently rewritten or delayed until morning. They have not yet reunited. The earlier hospital version was an unsupported invention and is withdrawn; the 4 December / 12 October date conflict and compressed hours remain separate chronology debts (`O101`).
+
+**31 October Chapter Six divergence correction — accepted body preserved.** In the provisional Chapter Six draft, Goku survives the Raditz fight. The cold open's statement that a father is already on Snake Way is therefore superseded as current story history; the contemporaneous wilderness image and the preview are not established events in this draft either. Neither future is ruled out forever. The Ox-King's arrival is still the same visit already shown here, not a second visit. The date, compressed hours and compatibility of the later mountain evening with the family's changed movements remain open for explicit reconciliation; do not force the characters to behave implausibly to preserve them.
 
 **31 October sequencing correction — preview superseded.** The accepted preview promises an episode-7 chapter next, but that jump was rejected for skipping the rescue and fight. The replacement Chapter Four returns to episode 3 instead; the episode-7 material lies ahead and has not yet occurred in the current battlefield thread. The preview remains unchanged as accepted prose, and its anticipated outcome does not force the result of the two-child fight.
 

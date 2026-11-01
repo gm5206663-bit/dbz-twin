@@ -4,6 +4,16 @@
 
 ---
 
+### OPEN-17 · Revision review, character rules and source boundaries — **PARTLY REPAIRED; REVIEW OPEN**
+
+- **Authorized repair implemented, not automatically accepted.** On 1 November the user approved the targeted proposal, including the same-day approach. The former accepted bodies and their hashes remain in the pre-revision snapshot; the new Chapters One–Three are for reader review. The forest/hat sequence, source-order and attribution corrections, island supplements, fight handoff, observable-camera changes, counts, date and clock treatment are now on the page. The older audit records its original findings, not today's unresolved state.
+- **Local provisional repairs.** Chapters Four–Nine retain their draft status. Selected commands were rephrased where their recipients or intended actions conflicted, or echoed before Goshin complies; the pod threat, Senzu offer, care instructions and family overlaps are documented in `REVISION_2026-11-01.md`. No exception to the rules was adopted. This targeted pass is not proof that every line or absolute habit is satisfied. Continue the scene-by-scene review of instructions, invitation to speak, downhill position, food and maternal inspection; bring unresolved collisions to the user rather than silently weakening a rule.
+- **Source boundaries.** The episode-1 forest, hat return and city order use the secondary synopsis `W-65`; it is not independently checked footage. Local captions are unverified-origin dialogue evidence and do not establish silent staging. The 29-minute caption index boundary is heuristic; inspect each future episode's own ending. The episode-2 unlabelled speaker attributions remain qualified (`C016`, `C033`, `C037`, `C076`).
+- **Later Great Ape / SS4 design.** The standing design says Goshin is comfortable as an ape, while another future-rung note says fear is paid at the moon. Clarify what fear, if any, is intended and when; neither rule has been silently changed.
+- **Ritual and chronology sources.** The guidebook's 12 October date is the project's selected account; the competing 28 November report is not settled. The exact Super Saiyan God ritual participant requirements need primary film/version review. No particular current moon phase is asserted.
+
+---
+
 ### OPEN-1 · ~~Where does the anime put Chi-Chi's at-home scenes?~~ — **ANSWERED: episodes 3, 4 and 5**
 *"Chi-Chi at home wondering when Goku and Gohan would return home was exclusive to the anime"* (ep. 3). Ep. 5 gives her the scene in full — **she decides a little fun is good for Gohan after all** — and then the **Ox-King arrives with gifts, asking where Gohan is** (W-17, W-18, W-19).
 **Consequence, and it is a good one:** Chapter Three's first movement is no longer invented. She is at home, she is *not yet worried enough*, she talks herself into leniency — **and then a man with an ox's horns walks into the yard asking where the boy is.**
@@ -11,7 +21,7 @@
 
 ### OPEN-1b · ~~How does Chi-Chi learn?~~ — **ANSWERED: Roshi tells her in ep. 8**
 
-Krillin is sent in ep. 6, but the call gets an answering machine; his attempts in ep. 7 fail. Chi-Chi and the Ox-King come to Kame House, and Roshi tells her in ep. 8 (`C120`, `C121`). The former ep. 6/Krillin answer was wrong. She does not reach the Raditz battlefield during eps 3–6.
+Krillin is sent in ep. 6, but the call gets an answering machine; his attempts in ep. 7 fail. Chi-Chi and the Ox-King come to Kame House, and Roshi tells her in ep. 8 (`C120`, `C121`). The former ep. 6/Krillin answer was wrong. In the unchanged anime she does not reach the Raditz battlefield during eps 3–6. In the corrected living-Goku Chapter Seven draft, Piccolo attacks at the crater; Roshi then calls Chi-Chi promptly from Kame House and tells her about that attack as well. She and her father set out to meet Bulma (`O096`). Chapter Eight shows their pickup and reunion (`O106`).
 
 ### OPEN-2 · Caption provenance and episode reading — **PARTLY DONE, VISUAL/ORIGIN STILL OPEN**
 
@@ -25,9 +35,21 @@ The four episodes Chapter Three stands on have had full spoken-caption reads (C0
 - **The one-wish rule is already law in ep. 3** (`C084`): Krillin and Roshi have each been revived once and cannot be again. That is why Krillin's fear in ep. 6 is real.
 - **The scale speaks in ep. 3** — 710, 322, 334, 408, 416 — and 1,330 / 1,480 follow. "The scale is silent" was true of eps 1–2 only (`C091`, `C097`, `C102`, `R-20`).
 
-### OPEN-15 · Sequential fight and accepted-chapter time debt — **CONTINUE ON PAGE**
+### OPEN-15 · Sequential aftermath and accepted-chapter time debt — **CONTINUE ON PAGE**
 
-The revised Chapter Four dramatizes the island knockout, Gohan hiding with unconscious Goshin under the pickup, the pod escape and episode 3 up to the opening crater fight. Both boys are awake and outside the pod; Goshin fights alongside Goku and Piccolo. Earlier missed island moments and the reported flashbacks are in five placed passages for Chapter Two; the accepted body still has a source-order debt, and no full episode video was verified. The rejected conscious-capture version is not current continuity. Episodes 4–6 and their altered consequences still need full scenes, in order; no episode-7 jump or abbreviated recap substitutes for them. **The next chapter starts at the opening fight and follows episode 4 scene by scene**, using the coverage gate in `WRITING §10`; account for even the smaller interactions and cutaways, and split the episode across sequential chapters if needed rather than skip material. Chapter Three's accepted mountain thread spans episodes 3–6, and its cold open anticipates a father on Snake Way and a child in the wilderness. Account for those already-written scenes without silently rewriting or contradicting them. If the actual two-child divergence makes that anticipation incompatible with events, resolve the contradiction openly with a dated note or agreed revision rather than silently forcing the earlier draft's ending.
+Chapters Four–Six cover the corrected knockout and altered Raditz fight. Corrected Chapter Seven adapts episode 6 with living Goku, a crater confrontation, a return to Kame House and Roshi's prompt telling. Krillin obtains three Senzu; Goku and Gohan eat one each, fully healing their battle injuries and restoring their strength. Goshin declines the third because he did not watch it being made (`O096`–`O103`).
+
+Chapter Eight adapts episode 7 from that exact state. Bulma collects Chi-Chi and the Ox-King at the ninth marker; family reunites, and a village doctor is called and brought to the island for Goshin, not for the fully restored Goku and Gohan. Goshin's head and hand still need rest and monitoring; Roshi keeps the uneaten third bean. Gohan wants both scholarship and a way to help protect his family. Goshin asks to refine his existing wave and briefly repeats seated foot placement under the doctor's limits. After Raditz's warning, Roshi explains the moon risk and the family takes precautions; Goku wonders about Grandpa Gohan's death without receiving a certain answer. Piccolo holds neither child. Bulma takes the scouter and its removed cell separately toward her lab; it remains dark, undecoded and not proved safe to transmit (`O106`–`O113`).
+
+Chapter Nine adapts episode 8 after a full caption reread. Kami's invitation travels through Popo, Korin and Yajirobe; Baba delivers the conditional King Kai inquiry and agrees only to try to pass a question to Grandpa. The family returns home; a doctor rechecks Goshin and continues to restrict exertion and require follow-up. Goku and Gohan remain completely restored by their Senzu; Goshin refused his and watches food prepared. Bulma's limited scouter test gives Krillin an authored 206 but is not certified transmission-safe; he leaves intending to look for Yamcha. The Three- and Six-Star Balls are home and Gohan keeps the Four-Star. Both tails and the moon remain; no lunar phase or ape event is forced (`O114`–`O121`).
+
+Continue from this state. Read episode 9's complete local captions and create its own source-order coverage before adapting the robot and ruins. Yamcha, Tien and Chiaotzu have not yet been found or recruited; no parent has granted Piccolo custody, no one has been sent to King Kai, and a later training trip cannot assume Goshin's medical clearance. The Baba message to Grandpa is an attempt, not an answer or appointment. Chapters Four–Nine remain drafts, not acceptance by implication.
+
+The authorized Chapter Three revision removes the 4 December date, rigid countdown and incompatible future/overnight claims while preserving the same Ox-King visit and unanswered call. Chapter Two now integrates the earlier supplements and the specified source-order repair. The user has not automatically accepted the revised wording or Chapters Four–Nine; no complete episode video has been verified.
+
+### OPEN-16 · ~~Mastery-first training and emergencies~~ — **ANSWERED**
+
+The user directs that Goshin master or perfect what he already has first and seriously focus on foundations. Asked how that affects the Chapter Seven rescue, the user chose: **this governs his deliberate training**, while instinctive copying in an emergency is allowed. The rescue need not be removed. In later practice, show existing techniques and fundamentals receiving sustained work toward actual mastery/perfection before he deliberately pursues new ones (`O104`, `O105`). This does not erase rapid learning, previous user-specified first-wave conditions or the ability to grow.
 
 ### OPEN-14 · Saiyan-battle capability — **NO FIXED CAP**
 
@@ -39,7 +61,7 @@ Goten remains a capable young Super Saiyan. In ep. 206 he says Chi-Chi taught hi
 
 ### OPEN-12 · Great Ape conditions — **SUBSTITUTES ALREADY EXIST IN Z**
 
-Piccolo destroys the natural moon (ep. 8), but a pod projection appears in ep. 18 and Vegeta creates an artificial moon in ep. 31 (`C148`). Thus the ape road is not automatically closed. Goshin keeps his tail as authored (`O046`); his future SS4 path remains the user's later ruling and must distinguish its continuity from GT and *Daima*. The natural moon's later status and the precise authored route can be verified when relevant; no immediate decision is required.
+In the unchanged episode-8 baseline Piccolo destroys the natural moon, but a pod projection appears in ep. 18 and Vegeta creates an artificial moon in ep. 31 (`C148`). In the present branch the moon remains intact (`O119`). Thus the ape road is not automatically closed. Goshin keeps his tail as authored (`O046`); his future SS4 path remains the user's later ruling and must distinguish its continuity from GT and *Daima*. The natural moon's later status and the precise authored route can be verified when relevant; no immediate decision is required.
 
 ### OPEN-11 · His children
 Ruled: **they are born divine, not mortal** (`O044`). Not ruled: **who they are** — how many, when, what a divine childhood costs them, and whether any of them can be *ordinary*, which is the only interesting question about a god's child.

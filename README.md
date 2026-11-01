@@ -12,7 +12,7 @@
 - **`WRITING.md`** — anime episode form, action clarity, names, supernatural flow and scale.
 - **`CRAFT.md`** — three non-canon examples with plain-word descriptions and action.
 - **`RULES.md` / `OPEN.md` / `HISTORY.md`** — the gate, decisions and the dated record.
-- **`chapters/`** — Chapters One–Three are user-authorized targeted revisions of previously accepted bodies, presented for review rather than automatically re-accepted. Their original bodies and hashes are preserved in the pre-revision snapshot. The five earlier island supplements are now integrated into Chapter Two; `Restored_Chapter_Two_Island_Moments.md` is historical, not a second occurrence. Chapters Four–Nine remain provisional, including their local continuity and instruction repairs.
+- **`chapters/`** — Chapters One–Three are user-authorized targeted revisions of previously accepted bodies, presented for review rather than automatically re-accepted. Their original bodies and hashes are preserved in the pre-revision snapshot. The five earlier island supplements are now integrated into Chapter Two; `Restored_Chapter_Two_Island_Moments.md` is historical, not a second occurrence. Chapters Four–Ten remain provisional, including the earlier local continuity and instruction repairs.
 - **`canon/episodes.json`** — the 291-file search index; **not** a complete reading of each episode.
 - **`canon/SCENE_COVERAGE_001.md`** — retrospective episode-1 ordered inventory, hat and forest gaps, and source limits.
 - **`AUDIT_2026-11-01.md`** — the historical project-wide audit as of its original pass; see the later implementation report for what changed.
@@ -23,15 +23,17 @@
 - **`canon/SCENE_COVERAGE_006.md`** — episode-6 source-order inventory, the crater confrontation, Kame House telling, Senzu trip and Otherworld divergence, with evidence limits.
 - **`canon/SCENE_COVERAGE_007.md`** — episode-7 source-order inventory and causal treatment: reunion, care, Kami, Piccolo, Baba, family decisions and displaced wilderness beats.
 - **`canon/SCENE_COVERAGE_008.md`** — episode-8 caption baseline, secondary visual reports, moon/source-order issue and Chapter Nine divergences.
+- **`canon/SCENE_COVERAGE_009.md`** — episode-9 source-order inventory, secondary visual reports, Chapter Ten divergences and focused character-rule review.
 - **`canon/techniques.json`** — technique register.
 - **`tools/index_eps.py`** — rebuilds the bounded caption search index.
 - **`tools/check.py`** — mechanical checks and self-test; green does not independently verify canon.
 - **`tools/check_revision.py`** — focused regression checks for the approved revision and dependent handoffs; not a semantic or video certification.
+- **`tools/check_chapter_10.py`** — Chapter Ten's selected rule/continuity anchors and mutation self-test; not a semantic or video certification.
 - **`tools/seal.py`** — reseals reviewed changes to the living docset; a seal is integrity, not acceptance.
 
 ## Source and reading status
 
-All 291 Japanese SRT files were indexed and searched. Full spoken-caption reads cover **1–36, 49, 55, 59, 61, 65, 79–83, 183–184, 205–208, 256–257**; episodes 1 and 4–8 were reread for inventories and audit. Other episodes were read only in selected passages. Some files contain unrelated material after the DBZ ending; the index already uses a 29-minute heuristic, which is not a verified episode boundary. The files were redistributed through Kitsunekko; their broadcaster/official provenance has not been independently verified. Caption dialogue is provisionally Tier I. Selected episode-3 fan-gallery stills of the pickup and the Nimbus journey were inspected; their release is unverified. Episode-4–8 visuals are supported by secondary synopses and reports, not complete checked video; one episode-5 report was available only as search snippets. Read each episode fully and identify the remaining visual gaps before writing its scenes.
+All 291 Japanese SRT files were indexed and searched. Full spoken-caption reads cover **1–36, 49, 55, 59, 61, 65, 79–83, 183–184, 205–208, 256–257**; episodes 1 and 4–9 were reread for inventories and audit. Other episodes were read only in selected passages. Some files contain unrelated material after the DBZ ending; the index already uses a 29-minute heuristic, which is not a verified episode boundary. The files were redistributed through Kitsunekko; their broadcaster/official provenance has not been independently verified. Caption dialogue is provisionally Tier I. Selected episode-3 fan-gallery stills of the pickup and the Nimbus journey were inspected; their release is unverified. Episode-4–9 visuals are supported by secondary synopses and reports, not complete checked video; one episode-5 report was available only as search snippets. Read each episode fully and identify the remaining visual gaps before writing its scenes.
 
 ## Standing creative direction
 
@@ -47,8 +49,9 @@ python3 tools/seal.py
 python3 tools/check.py
 python3 tools/check.py --selftest
 python3 tools/check_revision.py --selftest
+python3 tools/check_chapter_10.py --selftest
 ```
 
-Accepted work is never silently rewritten. On 1 November the user explicitly authorized the targeted proposal, including the same-day timeline. Chapters One–Three now contain the resulting revisions, with prior versions retained in the workspace snapshot; the implementation remains for reader review. Chapter Four continues the same island fight and preserves the earned knockout. The same school paper, Ox-King visit and unanswered call are shared overlaps; Roshi calls promptly afterward. `W-65` is secondary visual evidence, not checked episode footage. Chapters Four–Nine are still provisional, and a wider line-by-line character-rule review remains open (`OPEN-17`).
+Accepted work is never silently rewritten. On 1 November the user explicitly authorized the targeted proposal, including the same-day timeline. Chapters One–Three now contain the resulting revisions, with prior versions retained in the workspace snapshot; the implementation remains for reader review. Chapter Four continues the same island fight and preserves the earned knockout. The same school paper, Ox-King visit and unanswered call are shared overlaps; Roshi calls promptly afterward. `W-65` is secondary visual evidence, not checked episode footage. Chapters Four–Ten are still provisional, and a wider line-by-line character-rule review remains open (`OPEN-17`).
 
-The earlier public GitHub repository, Drive backup, bundle and ZIP are snapshots from before Chapter Five; this working copy is not automatically synchronized to them.
+Drive, GitHub, bundles and ZIPs are snapshots, not automatic synchronization. Earlier snapshots exist both from before Chapter Five and from the revised project through Chapter Nine; inspect a backup's actual version before relying on it.

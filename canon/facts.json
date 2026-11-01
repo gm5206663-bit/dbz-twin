@@ -3794,6 +3794,200 @@
       ],
       "strength": "D",
       "status": "active-draft"
+    },
+    {
+      "id": "C182",
+      "tier": "I",
+      "topic": "episode 9 opening and absent tail",
+      "statement": "The local episode-9 captions narrate about one year before the Saiyans, Gohan alone in the wilderness and Goku running in the afterlife toward King Kai. Gohan wonders how he got down from the cliff, recalls seeing the moon and says he remembers nothing after that; a caption explicitly names a sabretooth growl, and he notices his tail missing and clothes changed. Later growls, an eagle sound and cries for help occur. The waking image and complete animal choreography are secondary reports, not established by these words alone.",
+      "source": "redistributed Japanese episode-9 captions, 03:04–07:05; origin unverified",
+      "source_class": "caption text read directly; provenance unverified",
+      "witnesses": [
+        "W-30"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "C183",
+      "tier": "I",
+      "topic": "episode 9 book and robot identification",
+      "statement": "At 07:47–08:33 Gohan recognizes an illustration of a Nemurian civilization vimana from a reference book and identifies a very old prototype capsule robot. At 16:59–17:11 he identifies an SSS-type universal capsule robot as number C-6 from a robot book. That knowledge is Gohan’s in the baseline; the caption does not establish manufacturer, precise appearance, or a complete visual survey.",
+      "source": "redistributed Japanese episode-9 captions, 07:47–08:33 and 16:59–17:11",
+      "source_class": "caption text read directly; provenance unverified",
+      "witnesses": [
+        "W-30"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "C184",
+      "tier": "I",
+      "topic": "episode 9 robot asks for sleep; damaged sight",
+      "statement": "At 08:33–12:09 the awakened robot warns against loud voices because vibrations dislodge sand, repeatedly asks Gohan to switch it off and says there is an exit behind it. Gohan says the visual sensor is broken and offers to repair it; the robot initially objects. The captioned reply suggests it can see him afterward, but the exact repair and silent exit geography need a visual witness.",
+      "source": "redistributed Japanese episode-9 captions, 08:33–12:09",
+      "source_class": "caption text read directly; provenance unverified",
+      "witnesses": [
+        "W-30"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "C185",
+      "tier": "I",
+      "topic": "episode 9 hunger and robot cooking",
+      "statement": "At 14:59–18:14 Gohan repeatedly awakens the robot about a scorpion and hunger. It first tells him to stop; eventually it directs him to find food in the cave. Gohan asks it to cook and asks for a mother-style flavor; it tells him how to use its head and oven and he says the food tastes bad. The food’s visual identification as mushrooms is separately reported; the local spoken wording alone does not name it.",
+      "source": "redistributed Japanese episode-9 captions, 14:59–18:14",
+      "source_class": "caption text read directly; provenance unverified",
+      "witnesses": [
+        "W-30"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "C186",
+      "tier": "II",
+      "topic": "episode 9 animal pursuit, ravine and food — secondary reports",
+      "statement": "W-69 reports an alligator, sabretooth, eagle and flying reptile preceding the desert fall, a steep ravine at the exit, and mushrooms cooked for Gohan. W-70 instead describes Gohan grabbing the large bird’s leg, while W-69 says the bird seizes Gohan; neither account is verified footage. W-67 and W-68 summarize the hole and buried robot. The local captions explicitly label a sabretooth growl and eagle call, but do not establish the full visual choreography or the named food.",
+      "source": "W-67–W-70 episode reports; redistributed Japanese episode-9 captions",
+      "source_class": "secondary broadcaster and rewatch synopses",
+      "witnesses": [
+        "W-30",
+        "W-67",
+        "W-68",
+        "W-69",
+        "W-70"
+      ],
+      "strength": "C"
+    },
+    {
+      "id": "C187",
+      "tier": "I",
+      "topic": "episode 9 excavation and eighty years",
+      "statement": "At 18:20–19:29 the robot says an excavation accident and unstable ground buried it in the ruins about eighty years earlier. Gohan recognizes the Nemurian temple from a book and wants to free the robot. The robot says it intends to save energy and emerge on its own, objects to being disturbed and warns that Gohan’s digging will upset the balance.",
+      "source": "redistributed Japanese episode-9 captions, 18:20–19:29",
+      "source_class": "caption text read directly; provenance unverified",
+      "witnesses": [
+        "W-30"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "C188",
+      "tier": "I",
+      "topic": "episode 9 collapse, wires and energy gas",
+      "statement": "At 19:32–24:17 the robot warns that the cave is collapsing, urges Gohan to leave, asks him to join blue and red wires in its head, calls for full power and tells him to go. Later it says it has used up its energy gas, urges him on, and becomes unresponsive as he calls to it. W-67 and W-69 describe it saving Gohan and being left behind; silent rescue choreography and any permanent-death diagnosis are not established by captions alone.",
+      "source": "redistributed Japanese episode-9 captions, 19:32–24:17, plus W-67 and W-69",
+      "source_class": "caption text with separately identified secondary visual accounts",
+      "witnesses": [
+        "W-30",
+        "W-67",
+        "W-69"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "C189",
+      "tier": "I",
+      "topic": "episode 9 closing and episode 10 preview",
+      "statement": "The local episode-9 narration at 24:31–24:43 asks what next adventures await Goku and Gohan and notes the approaching Saiyans; it does not say Piccolo will be surprised. In the separate 25:57–26:22 preview Gohan asks about Tien and Yamcha and Goku wonders whether they know of his death. This is a preview, not evidence that either fighter meets anyone during episode 9. Ending music follows; a cue starting at 30:42 lies after the local ending and is excluded from the episode inventory.",
+      "source": "redistributed Japanese episode-9 captions, 24:31–26:22 and later cues",
+      "source_class": "caption text and separately inspected local boundary; provenance unverified",
+      "witnesses": [
+        "W-30"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "C190",
+      "tier": "II",
+      "topic": "episode 9 Goku, cloud and animal framing — secondary rewatch",
+      "statement": "W-70 reports that dead Goku runs along Snake Way, wonders if he can eat a cloud and is later shown having eaten it. The local captions identify Goku saying he is hungry at 07:05, while later 15:30 and 16:36 cloud-hunger and satisfaction lines are not labelled by speaker in that file. W-70 also disagrees with W-69 about whether the bird first seizes Gohan or he grasps its leg; no episode video has been inspected to decide the staging.",
+      "source": "W-70 Japanese fan rewatch, W-69 independent rewatch and redistributed episode-9 captions",
+      "source_class": "secondary episode reports plus directly read caption text",
+      "witnesses": [
+        "W-30",
+        "W-69",
+        "W-70"
+      ],
+      "strength": "C"
+    },
+    {
+      "id": "O124",
+      "tier": "III",
+      "topic": "chapter ten — examination, food and journey",
+      "statement": "The doctor re-examines Goshin the morning after Chapter Nine and permits a gentle monitored passenger trip, not independent flight, running, heavy lifting or training; he must rest and report symptoms and needs another follow-up. The family visits Korin and Kami, stops to check him and returns home before late. He watches the raw food, cooking, packing, reheating and lemon preparation before the portions he eats; he does not eat a Senzu. Goku and Gohan remain fully healed and restored.",
+      "source": "authored provisional Chapter Ten; episode-9 adaptation tracked in canon/SCENE_COVERAGE_009.md",
+      "source_class": "authored episode-9 divergence and current draft state",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "D",
+      "status": "active-draft"
+    },
+    {
+      "id": "O125",
+      "tier": "III",
+      "topic": "chapter ten — family safety, moon and Kami warning",
+      "statement": "Chi-Chi and Goku choose to keep the family together on the journey, acknowledge Piccolo may find them and reject any guarantee of safety. Kami says his life is tied to Piccolo and shares his uncertain approximately one-year feeling, not a certain death date or wish. Goku tells Kami the moon warning; the family keeps its precautions. Yemma has granted no passage, Baba has given no answer, and Goku has not agreed to leave for King Kai. Goku temporarily goes to the desert only after the family explicitly weighs separation while Kami, Popo, Chi-Chi, Ox-King and Yajirobe remain with the boys.",
+      "source": "authored provisional Chapter Ten; episode-9 adaptation tracked in canon/SCENE_COVERAGE_009.md",
+      "source_class": "authored episode-9 divergence and current draft state",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "D",
+      "status": "active-draft"
+    },
+    {
+      "id": "O126",
+      "tier": "III",
+      "topic": "chapter ten — Gohan’s book and survey contact",
+      "statement": "Gohan and Goshin examine a machine book; Gohan asks about the Nemurian site and Popo tunes a regional survey bulletin about an unstable desert excavation. Goku volunteers, demonstrates controlled lifting and works under the survey crew’s directions. By radio Gohan identifies the likely SSS type, Goshin answers Goku after an explicit invitation and identifies the orientation of the old exit; Goshin remains at the lookout under his medical limits. The workers, bulletin and radio are authored, not episode footage.",
+      "source": "authored provisional Chapter Ten; episode-9 adaptation tracked in canon/SCENE_COVERAGE_009.md",
+      "source_class": "authored episode-9 divergence and current draft state",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "D",
+      "status": "active-draft"
+    },
+    {
+      "id": "O127",
+      "tier": "III",
+      "topic": "chapter ten — C-6’s consent and damaged sensor",
+      "statement": "Goku activates buried C-6; the robot asks for sleep, accepts one question and then asks about a supported rescue. C-6 recounts about eighty years trapped, warns that digging can bring down the roof and agrees to an attempt after considering the plan. Goku clears loose sand only with permission; the sensor remains cracked and works imperfectly. The altered initial encounter and consent are branch staging.",
+      "source": "authored provisional Chapter Ten; episode-9 adaptation tracked in canon/SCENE_COVERAGE_009.md",
+      "source_class": "authored episode-9 divergence and current draft state",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "D",
+      "status": "active-draft"
+    },
+    {
+      "id": "O128",
+      "tier": "III",
+      "topic": "chapter ten — tremor, extraction and uncertain recovery",
+      "statement": "An independent new tremor destabilizes the site; Goku holds a slab while C-6 agrees to a red-and-blue emergency connection, uses remaining energy to move and is carried out. This authored rescue and its different outcome depend on additional help. C-6 is responsive afterward but nearly out of energy, declines unauthorized reconnection and elects to be switched off. It is unknown whether he can wake; no refill or completed repair is asserted.",
+      "source": "authored provisional Chapter Ten; episode-9 adaptation tracked in canon/SCENE_COVERAGE_009.md",
+      "source_class": "authored episode-9 divergence and current draft state",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "D",
+      "status": "active-draft"
+    },
+    {
+      "id": "O129",
+      "tier": "III",
+      "topic": "chapter ten — robot at lookout and remaining threads",
+      "statement": "Popo agrees to keep C-6 quiet at the lookout; the survey office and possibly Bulma may be contacted, but no specialist has examined him yet. A little lemon is prepared in Goshin’s view for C-6’s suggested seasoning, which tastes too sour. The family returns to the mountain house with the Four-Star Ball on Gohan’s hat; the Three- and Six-Star Balls remain in the home cupboard, and no wish or tail change occurs. Krillin’s fighter search and the promised Chapter Eleven preview remain future work.",
+      "source": "authored provisional Chapter Ten; episode-9 adaptation tracked in canon/SCENE_COVERAGE_009.md",
+      "source_class": "authored episode-9 divergence and current draft state",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "D",
+      "status": "active-draft"
     }
   ],
   "open_debts": [

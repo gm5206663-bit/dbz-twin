@@ -87,6 +87,10 @@
 | W-64 | Kanzenshuu, [episode 10 guide](https://www.kanzenshuu.com/episode/dbz/eps-010/) | S | kz | secondary report of Yamcha playing professional baseball and Krillin finding him later; a prior public clue in the altered branch is authored, not proof of the episode-10 game's timing |
 | W-65 | Kanzenshuu, [episode 1 detailed synopsis](https://www.kanzenshuu.com/episode/dbz/eps-001/) | S | kz | secondary description of the tree, forest, river rescue, Goku recovering and returning the hat, the city and Piccolo; same publisher group as W-02, not an independent video check |
 | W-66 | CBR, [Super Saiyan God discussion](https://www.cbr.com/dragon-ball-vegeta-super-saiyan-god/) | S | cbr | secondary account reports unborn Pan contributing to the ritual; film and Super depiction/requirements require their own primary review |
+| W-67 | Kanzenshuu, [episode 9 guide](https://www.kanzenshuu.com/episode/dbz/eps-009/) | S | kz | secondary episode synopsis reports the desert ruins, buried robot, earthquake, approximately 80 years and sacrifice; not independently checked episode video |
+| W-68 | TOKYO MX, [episode 9 programme synopsis](https://s.mxtv.jp/anime/dragonball_z/amp/amp3887463.html) | S | tokyo-mx | broadcaster's later programme summary reports the desert hole, robot's repeated waking and collapse; not the broadcast footage or the local caption file's provenance |
+| W-69 | AniManga Travelogue, [episode 9 rewatch and synopsis](https://animangatravelogue.weebly.com/home/dragon-ball-z-episode-9-sorry-robot-san-the-desert-of-vanishing-tears) | S | animanga | one secondary rewatch reports the animal chase, ravine, mushrooms and collapse; not an independently verified episode master |
+| W-70 | Dragonballanime.com, [Japanese episode 9 fan rewatch](http://dragonballanime.com/archives/629) | S | dragonballanime | secondary account says Goku eats a cloud on Snake Way and differs from W-69 on how Gohan becomes attached to the bird; neither is verified full footage |
 
 **Source limits:** no complete original episode video was examined; original broadcast provenance, guidebook scans and some interview texts remain unverified or not held. A few episode-3 stills in a fan gallery were inspected on 31 October; their exact source and release are unverified and they cannot establish the entire scene. All 291 SRTs were indexed and searched; only the full spoken-caption set in `canon/RESEARCH.md §1` was read end to end. A caption provides text, not silent movement or camera placement. Earlier chapter cards’ phrase “broadcast captions” was too strong; their evidence cards now distinguish provisional dialogue from visual staging.
 ---
@@ -182,9 +186,21 @@
 
 ---
 
+## 4c-2 · Episode 9, reread — the ruins and the robot
+
+The entire local Japanese episode-9 caption file was reread through its ending and preview (`W-30`). It has identifiable material after its own ending; the 29-minute index boundary is only a heuristic, not a certified cut. The captioned episode ends with narration at 24:31–24:43; the next-episode preview occurs at 25:57–26:22 and the ending theme follows. A cue beginning at 30:42 is beyond that ending and is not used as episode-9 dialogue.
+
+Gohan notices his missing tail and changed clothes; the robot's own speech warns that vibration can bring down sand, repeatedly asks to sleep and says a sole exit lies behind him (`C182`–`C184`). Gohan identifies an SSS-type universal capsule robot, C-6, from his book and asks it to cook; the robot says it was buried during excavation about eighty years ago and asks him not to disturb the sand (`C183`, `C185`, `C187`). The captions report the red-and-blue-wire instruction, emergency power and depleted energy gas; secondary `W-67` and `W-69` report the sacrificial rescue and visual details, not verified footage (`C188`). The 25:57 preview mentions Yamcha and Tien but is not a meeting in episode 9 (`C189`). `W-69` calls the food mushrooms; that noun is not established by the local spoken captions alone (`C186`).
+
+`W-70` is a second, Japanese fan rewatch: it reports Goku eating a cloud and differs from `W-69` on whether the bird grabs Gohan or he grabs its leg. The local 15:30 and 16:36 cues are unlabelled; do not silently decide the visual conflict (`C190`). The local closing narrator asks about Goku and Gohan's next adventures and the approaching Saiyans; it does not mention Piccolo being surprised (`C189`).
+
+`canon/SCENE_COVERAGE_009.md` holds the source-order inventory and marks the different family-present branch explicitly. Goku is alive here; the brothers remain with family; the moon and tails have not been changed. Neither the isolated-child sequence nor the robot's original outcome follows automatically.
+
+---
+
 ## 4d · Serial progress versus source chronology
 
-The lists above are canon baselines, **not a claim that all those events have happened in this serial**. Corrected Chapter Four depicts the knockout before Raditz takes Goshin and the subsequent awakening (`O074`–`O080`). Chapter Five changes the tail escape (`O083`–`O088`), and Chapter Six leaves Goku alive with an authored separate 1,500 surge (`O089`–`O095`). Corrected Chapter Seven follows Piccolo's failed seizure at the crater, the return to Kame House, Krillin's trip to Korin, the prompt telling and Kami's independent inquiry (`O096`–`O103`); `canon/SCENE_COVERAGE_006.md` records the source-order comparison. Chapters Four–Nine are drafts. The authorized Chapter Three revision removes the incompatible future, date and overnight claims and retains the single visit and unanswered call. Earlier rejected drafts are historical only.
+The lists above are canon baselines, **not a claim that all those events have happened in this serial**. Corrected Chapter Four depicts the knockout before Raditz takes Goshin and the subsequent awakening (`O074`–`O080`). Chapter Five changes the tail escape (`O083`–`O088`), and Chapter Six leaves Goku alive with an authored separate 1,500 surge (`O089`–`O095`). Corrected Chapter Seven follows Piccolo's failed seizure at the crater, the return to Kame House, Krillin's trip to Korin, the prompt telling and Kami's independent inquiry (`O096`–`O103`); `canon/SCENE_COVERAGE_006.md` records the source-order comparison. Chapter Ten adapts episode 9 by an authored family-and-survey route (`O124`–`O129`); Chapters Four–Ten are drafts. The authorized Chapter Three revision removes the incompatible future, date and overnight claims and retains the single visit and unanswered call. Earlier rejected drafts are historical only.
 
 ---
 
@@ -247,6 +263,12 @@ The lists above are canon baselines, **not a claim that all those events have ha
 | O117 | Bulma's shielded but not guaranteed safe scouter test; Krillin's momentary 206; the unconfirmed Yamcha lead | Ch. 9 draft |
 | O118–O120 | the family returns home; doctor follows up; balls and moon precautions; continued food refusal and gentle foundations | Ch. 9 draft |
 | O121 | Gohan's chosen bird rescue and safe-response work; Piccolo trains alone | Ch. 9 draft |
+| O124 | follow-up, monitored passenger trip, food preparation and continued restrictions | Ch. 10 draft |
+| O125 | family safety, Kami's uncertain warning and the ungranted living-Goku inquiry | Ch. 10 draft |
+| O126 | Gohan's book, radio bulletin and the survey crew; both brothers contribute | Ch. 10 draft |
+| O127 | C-6's changed first meeting, consent and unrepaired sensor | Ch. 10 draft |
+| O128 | new tremor, Goku-assisted extraction, depleted C-6 and uncertain future | Ch. 10 draft |
+| O129 | watched lemon seasoning, C-6's rest at the lookout and the family's return | Ch. 10 draft |
 
 Plus the premise: **a second child on that island.** Canon takes one boy; we take both, by the author's ruling.
 

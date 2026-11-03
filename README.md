@@ -1,3 +1,9 @@
+> **Draft workshop checkpoint:** The current unaccepted Chapter 19 revision and its preserved predecessors are in [workshop/The Twin](workshop/The%20Twin/README.md). [Open the checkpoint guide](workshop/README.md). Chapter 20 is on hold.
+>
+> The root-level project files below are the older `main` checkpoint; they are retained unchanged except for this navigation notice. These drafts are publicly visible but are not accepted chapters.
+
+---
+
 # THE TWIN — Dragon Ball Z
 
 **Son Goshin** is Goku and Chi-Chi's twin son alongside Gohan. Raditz takes both. The Japanese Z anime is the baseline; manga, guidebooks, movies and later series are identified separately. Canon is a floor for the world, not a track that forces unchanged outcomes.

@@ -1,0 +1,5 @@
+# Preserve exact working-file bytes across platforms so checksum manifests remain valid.
+* -text
+# These witnesses contain CRLF and must also survive email-style Git patches exactly.
+*.srt -diff
+Research/StoryOS/*.md -diff

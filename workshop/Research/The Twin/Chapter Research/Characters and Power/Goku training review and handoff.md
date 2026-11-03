@@ -1,0 +1,35 @@
+# Chapter 14 — training correction and continuity handoff
+
+This is a **separate, unaccepted correction**, continuing the provisional Chapter 13 growth revision. It replaces the preceding Chapter 14 candidate only within this proposed reading; that earlier candidate remains preserved. The correction plan in `00_GOKU_TRAINING_CORRECTION_PLAN.md` was written before the copied prose was substantively changed.
+
+## What actually changed
+
+- Goku decides that he will no longer wait for news: if no route is available, he will start training with Kami while he seeks one. He flies to Kami himself. He wants to get stronger both to face the incoming Saiyans and to meet an exceptionally strong teacher.
+- Kami has received Yemma's permission for **this living Goku** to visit the Other World and travel Snake Way. Goku and Kami go to Yemma's office via an arranged passage. Yemma states the permission on-page, and Goku sets off with the guide and begins the road on-page. Yemma has sent word about him; King Kai's eventual personal decision about teaching is not falsely claimed to have happened.
+- Goku flies and runs the road, deliberately practises movement from the Chapter 13 fight, sprints, punches, corrects his footwork, does push-ups and pushes his endurance. This is visible effort toward his goal, not a substitute for meeting King Kai or a declaration that King Kai's personal training is complete. His willingness to train and learn, aptitude and continuing growth remain his own; no permanent strength ranking is imposed on him relative to Goshin.
+- Goku is alive, with no halo. Dr. Brief gives him a capsule containing ordinary food and water for the journey, not an extra Senzu. He is still full from his recent bean when he leaves. The long journey and future return remain open: no instant return, Instant Transmission, Kaioken, new power reading or numerical boost is awarded.
+- Gohan chooses to seek training; he gets an independent touch exercise with Goku and asks to practise with Goshin and Popo. Goshin also chooses training, retains his ki/flight and rapidly adapts a multistone exercise. Chi-Chi accompanies them by choice; both boys begin training at the Lookout. This is their present choice, not a rule that the twins can never train with their father or that they must remain separated.
+- Goshin wins the brothers' two-touch spar, two to one, with Gohan earning his own touch and proposing an adjustment. This bounded score does not define their ultimate abilities or take away Gohan's agency. Goshin visibly retains unusual recovery and broad innate Talent, repeats applicable instructions, takes Gohan's downhill side on a sloping path, responds to Goku's conversational invitation and puts his hands behind his back when Chi-Chi checks him.
+
+## Source treatment
+
+| Source | Treatment in the correction |
+|---|---|
+| [Toei, DBZ episode 6](https://lineup.toei-anim.co.jp/ja/tv/dragonz/episode/6/) and local Japanese caption blocks around 09:15–18:50 | Canon's dead Goku, Kami, Yemma, guide, roughly million-kilometre Snake Way and actual departure supply the structural precedent. Here Goku is alive: Yemma's particular permission, the living provisions and the arranged passage are authored branch choices. Neither a universal ban nor a universal entitlement for living visitors is asserted. |
+| [Toei, DBZ episode 13](https://lineup.toei-anim.co.jp/ja/tv/dragonz/episode/13/) and the previous candidate's full local episode-13 captions and nine inspected stills | The approaching Saiyans, tower climb, Launch/Bora/Upa, animal encounter, fruit motif and separate training threads are retained or causally adapted. The exact original nine-month countdown is not imposed on this branch. |
+| Episode-13 Goku's fall to Hell, Goz/Mez contests, Yemma's special fruit and misleading return to the desk | **Not reported as completed.** Goku only begins Snake Way here; he has not yet fallen or met the ogres. Now that a living visit has been authored, omission cannot be justified by saying a living visitor can never enter the Other World. Whether any future detour fits this branch remains open. Ordinary windfall apples are offered to the injured animal, not a strength-giving substitute. |
+| Episode-13 isolated Gohan and sabretooth | Gohan is not alone or starving in this branch. He independently checks on and feeds the already-established injured dinosaur under Sato's care; this is an authored parallel, not a claim that it is the source sabretooth. |
+| [Toei, DBZ episode 14](https://lineup.toei-anim.co.jp/ja/tv/dragonz/episode/14/) | The Lookout group begins exercises. No Snake Princess scene, completed Kai training or unsupported skip to a later canonical outcome is claimed. |
+
+Full episode-13 local captions, official/secondary accounts and nine isolated stills were examined for the earlier candidate; selected episode-6 caption blocks and the official synopsis were consulted for this correction. The captions' provenance and exact cut are unverified. **No complete episode video was watched and no new complete manga reread was performed.** Stills and captions are not a complete-video inspection.
+
+## End positions and object continuity
+
+- **Goku:** alive on Snake Way, going to King Kai, exercising as he travels. His ordinary provisions remain in the capsule tucked into his clothing. He has not met King Kai yet.
+- **Gohan, Goshin and Chi-Chi:** at Kami's Lookout with the fighters, having begun training. Both boys still have tails. The Four-Star Ball is on Gohan's hat. Goshin ate no unobserved food. Their eventual training arrangements remain open.
+- **Books:** Mina has her original book and the separate drawing made with C-6's direction. Gohan carries Mina's wrapped bridge book, borrowed for C-6 and to be returned. Sato says the dinosaur must continue resting; it is not magically healed.
+- **C-6 and laboratory:** C-6 remains awake and chooses the external examination; the bent arm is supported and the leak remains unresolved. No casing is opened or repair silently completed. Raditz's scouter and power cell remain separate. Bulma is returning to the lab.
+- **Tower, Lookout and island:** Tien, Chiaotzu, Krillin and Yamcha train; Puar is near Yamcha. Krillin has the last whole Senzu. Yajirobe came with Popo and is in the Lookout's shade, not forced into training; Korin is at his platform. Blue-haired Launch waits below with Bora and Upa; Bora keeps the gun on a high shelf. Roshi and Turtle remain at Kame House.
+- **Other threats and objects:** Piccolo trains independently and senses one boy, not an Earthbound Goku. The Three- and Six-Star Balls remain at home. No Great Ape transformation occurs and no new Zenkai is asserted; Goshin's eventual first Great Ape remains controlled under the standing rule. The Saiyans remain en route, and Earth has not learned of Arlia's destruction.
+
+Verification checks file integrity, specific text anchors and copied-DOCX equality; it cannot by itself prove complete narrative or source fidelity. The DOCX was not inspected as rendered pages. Remotes were not rechecked or changed.

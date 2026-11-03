@@ -1,0 +1,15 @@
+# Final living-project integrity verification
+
+Date: 2026-11-01 (user local date)
+Baseline: audit/ORIGINAL_PROJECT_SHA256.txt, captured before this research pass.
+Project root: /home/user/dbz-twin
+
+Baseline files: 41
+Current files: 41
+Matching paths and SHA-256 values: 41 / 41
+Missing paths: 0
+Added paths: 0
+Modified paths: 0
+Result: PASS — the living project was unchanged during this research and planning pass.
+
+This verifies local file bytes and paths only. It does not verify the literary quality, user acceptance, or current live state of a remote Drive/GitHub copy. Remote copies were not modified in this pass.

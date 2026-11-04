@@ -1,0 +1,70 @@
+# THE TWIN — foundation and working map
+
+**Owns: project identity, authority order, selected review branch and navigation.**
+
+**Checkpoint:** The pre-correction Chapter 20 was explicitly accepted by the author on 3 November 2026 and is separately preserved. The selected character-corrected Chapter 20 is an unaccepted review version. It continues the selected Chapter 19 review revision; accepting Chapter 20 does not accept Chapter 19 or the other unaccepted drafts. Chapters 21–25 are subsequent unaccepted continuations for review; their events are proposed rather than accepted. No publication is implied. The manuscripts and the author's instructions remain the evidence.
+
+## The story
+
+- **World:** Dragon Ball, with the Japanese Dragon Ball Z anime as the starting source; manga, films, guidebooks and later material are identified by source rather than silently blended. Canon supplies the world's causes; it does not force an unchanged outcome after a divergence.
+- **Lead:** Son Goshin, Gohan's twin and Goku and Chi-Chi's son, four at the opening. The unaccepted later continuation adds outside months and a full chamber year; no exact current age is fixed. He looks strikingly like Goku in miniature, including the face and black spiked hair, with Chi-Chi's eyes; this authored visual design is not replaced by mannerisms. He is a child with a family, habits, limitations, emotions and independent choices, not a machine, a narrator for his powers or a replacement for Gohan.
+- **Premise:** Raditz's arrival and the family response change because both boys are present. In the selected Chapter 6, Goku survives and Raditz dies; the consequences continue rather than returning automatically to the original sacrifice or captivity.
+- **Form:** An animated-episode-style serial with human warmth, clear blocking, action, family life and substantial dialogue. The project-specific 4,400–6,600-word chapter target and legacy opening exceptions in `WRITING.md` take precedence over a generic framework's example length. Numbers are checks, not a substitute for voice or reader judgment.
+
+## Authority and evidence
+
+1. The author's latest instructions and corrections govern. Preserve earlier accepted versions and distinguish a requested revision from acceptance, but do not turn a restriction on one prior change into a universal permanent freeze or demand separate permission for each part of a correction already requested. Dated coverage and research notes that say a file was “protected” or “not changed” describe the scope of that pass, not a standing ban on later requested work.
+2. `../STATUS.md`, `../STORY.md`, `../RULES.md`, `../WRITING.md`, `../OPEN.md` and the selected branch handoffs carry the established project-specific design. Their old Chapter 10 state tables are historical; this foundation does not silently erase them.
+3. The universal [Adaptation Talent Master Foundation](../../Research/Adaptation%20Talent/canon/MASTER-FOUNDATION.md) and [Level Framework](../../Research/Adaptation%20Talent/canon/LEVEL-FRAMEWORK.md) are separate general references. The framework calls itself primary for levels and growth, while Master v2.0 calls itself controlling; the repository README calls the Master authoritative. Both entered the restored repository in the same commit, so that history does not resolve the competing claims. The latest specific user instructions govern this project; leave the universal conflict open rather than inventing a hierarchy or Goshin's formal Level/Order. The [holder-module](../../Research/Adaptation%20Talent/templates/holder-module.md) and [status-panel](../../Research/Adaptation%20Talent/templates/status-panel.md) templates guide the local documents. Do not import another holder's feats or assign unsupported ranks, resistance, exact reserves or future transformations.
+4. The actual selected manuscripts are the source for *draft* events. Their presence, a green test, a backup or a delivered reading copy does not signify approval.
+5. `../CANON.md`, `../canon/facts.json` and scene-coverage inventories record evidence and limits. Japanese caption text is provisional, redistributed and unverified in origin and cut; it does not independently prove silent visuals. Authored changes are not canon facts.
+
+## Current reading order and version boundaries
+
+| Range | Working source | Status |
+|---|---|---|
+| 1–3 | `../chapters/Chapter_01_…` through `Chapter_03_…` | Earlier targeted revisions await review and older accepted bodies are preserved. The selected Chapters 1–2 have subsequent appearance and character corrections; the Chapter 3 body was not changed in those later passes. |
+| 4–5 | `../chapters/Chapter_04_…` and `Chapter_05_…` | Existing provisional drafts. Their previous versions are preserved; the earlier limitation on a particular rewrite is not a permanent ban on requested corrections. |
+| 6–14 | `../chapters/Chapter_06_…` through `Chapter_14_…` | Selected compatible **unaccepted** review branch; Chapters 6–9 were revised in the authorized checker repair, and exact pre-repair versions are preserved in the single local snapshot linked from the project README. |
+| 15 | `../chapters/Chapter_15_The_House_Beyond_the_Bend.md` | The separate voice rewrite, unaccepted. |
+| 16 | `../chapters/Chapter_16_The_Sea_All_Around.md` | The continuity-checked review candidate; the earlier Chapter 16 is preserved on Drive. |
+| 17 | `../chapters/Chapter_17_The_Children_By_the_Sea.md` | The synergy-checked review candidate; the earlier original and checked drafts are preserved on Drive. |
+| 18 | `../chapters/Chapter_18_The_Room_Beyond_the_Door.md` | New continuation, unaccepted and awaiting reader review. |
+| 19 | `../chapters/Chapter_19_What_We_Can_Teach.md` | Preceding unaccepted review revision; the immediately prior draft is preserved in Chapter 19 research. |
+| 20 | `../chapters/Chapter_20_The_Weight_of_a_Step.md` | Selected character-corrected review version, unaccepted; the separately preserved pre-correction version remains author-accepted. |
+| 21 | `../chapters/Chapter_21_The_Next_Lesson.md` | Unaccepted continuation for review; acceptance is not inferred. |
+| 22 | `../chapters/Chapter_22_A_Year_Between_Mornings.md` | Unaccepted continuation of Chapter 21, showing the physical chamber year; the Saiyan landing remains future at this checkpoint. |
+| 23 | `../chapters/Chapter_23_The_Way_Back.md` | Unaccepted continuation: episode-21 remainder, living Goku's return and the Saiyans' East City landing shortly after the year. |
+| 24 | `../chapters/Chapter_24_Six_Seeds.md` | Unaccepted continuation: Nappa is decisively stopped in the city, and Vegeta attacks during the quarry fight; four Saibaimen remain alive, one pinned at that checkpoint. |
+| 25 | `../chapters/Chapter_25_Two_Battles.md` | Unaccepted continuation: Gohan faces Nappa, Goshin faces Vegeta, and the defenders account for the remaining Saibaimen. Vegeta remains active. |
+
+Selecting a working continuity path is **not** reader acceptance. The author accepted the preserved pre-correction Chapter 20, not the selected corrected version. If the author changes a selection, repair every dependent ledger against the newly selected text.
+
+## Where everything is
+
+| Need | Owning or working file |
+|---|---|
+| Project premise, rules and version boundaries | This file; original standing design in `../STATUS.md` and `../STORY.md`. |
+| Relative chronology and exact next scene | [`TIMELINE.md`](TIMELINE.md). Unknown calendar dates and durations remain unknown. |
+| Relationships and their changes | [`RELATIONSHIPS.md`](RELATIONSHIPS.md). |
+| Full Goshin status panel | [`GOSHIN_STATUS_PANEL.md`](GOSHIN_STATUS_PANEL.md); the enduring character design remains `../STATUS.md`. |
+| Goshin's Talent, local architecture and status delta | [`ADAPTATION_MODULE.md`](ADAPTATION_MODULE.md) and [`ADAPTATION_LOG.md`](ADAPTATION_LOG.md). |
+| Cast locations, objects, knowledge firewalls, consequences and promises | [`WORLD_STATE.md`](WORLD_STATE.md). |
+| Episode evidence, source chronology and authored departures | `../CANON.md`, `../canon/facts.json`, [`../canon/SCENE_COVERAGE_023.md`](../canon/SCENE_COVERAGE_023.md) for the episode-23/24 Chapter 25 branch, and [`../canon/SCENE_COVERAGE_022.md`](../canon/SCENE_COVERAGE_022.md) for the episode-22/Chapter 24 branch, plus [`../canon/SCENE_COVERAGE_021.md`](../canon/SCENE_COVERAGE_021.md) for the bounded episode-21 sequence and its Chapter 22–23 treatments; [`../canon/SCENE_COVERAGE_020.md`](../canon/SCENE_COVERAGE_020.md) for Chapter 21; [`../canon/SCENE_COVERAGE_019.md`](../canon/SCENE_COVERAGE_019.md) covers accepted Chapter 20. Earlier inventories and the selected-branch handoff are also in `../canon/`. |
+| Open decisions and errors | `../OPEN.md`, `../HISTORY.md` and the project register. |
+| Manuscripts, previous versions and backups | `../chapters/` holds one selected working file per chapter. The single local pre-checker-repair safety snapshot and older Drive recovery links are in `../README.md`; they are not automatically synchronized. |
+
+## Continuity locks
+
+- Goshin is never less capable than Gohan under the standing user ruling; Gohan retains his own choices, agency and growth. No Nappa ceiling, guaranteed defeat, forced canon death or numeric damage formula.
+- The Talent is broad, supernatural, innate and non-sentient; it is not merely copying and is not an on-page game interface. His whole being develops cumulatively through life, training, fighting and recovery; combat growth can be especially rapid and substantial, and prior gains feed the next stage. The Talent grows with him. Separate released reserves and technique charges from genuine lasting development; anger and being pushed hard are possible, not mandatory, and growth is not restricted to extreme situations (`O188`). Demonstrated abilities, native ki, bloodline and equipment have distinct sources. Do not invent automatic immunity, a new transformation, a reading or arbitrary overload. Deliberate training prioritizes mastery of existing abilities and serious foundations; instinctive emergency copying is allowed.
+- The author explicitly did not direct the assistant-invented automatic repeat-back habit. Preserve contextual child voice and independent feeling and agency. Older drafts repeated inspection, downhill positioning and paternal-invitation patterns whose universal scope was not verified; the selected correction removes mechanical recurrence while retaining contextually motivated care. Food-watching appears in some scenes but is not an established every-meal compulsion.
+- Goshin's physical appearance follows the near-Goku likeness and Chi-Chi's eyes (`O003`); carry his tail, clothing and scene-specific condition. Do not invent an eye colour or fixed outfit. In the revised unaccepted Chapter 22 both brothers live a full chamber year together while Chi-Chi remains outside and about a day passes outside; account for their physical growth in any continuation of that draft.
+- In the physical room the brothers have each used about one inside year of the stated cumulative two-year lifetime allowance; Popo explains the exit risk, and future visits remain undecided (`C234`, `O163`). Goku visited for less than a month as a child. This is a room-time rule, not a limit on growth.
+- Gohan independently flies with Chi-Chi present before the chamber; the year develops that skill (`O176`). Goshin's later mastery of the Kamehameha is retained despite the separate first-use qualification (`O088`, `O177`). Immediately at the exit Piccolo recognizes both familiar, dramatically increased ki signatures (`O168`); Chi-Chi participates and advises without a compulsory round-stopping pattern (`O178`).
+- Both tails remain. Neither boy has transformed; the natural moon remains. Goshin's Saiyan bloodline grows purer and deeper as he develops, without an assumed loss of his human heritage. His eventual first Great Ape is aware and controlled from the start; its power develops with him. Later ordinary-sized access to that power and combinations with other earned powers are authored possibilities, not current feats. The old compulsory-fear wording is superseded; no early golden form, god ki or divine promotion.
+- The prior 400, 1,450 and 1,500 figures are authored *momentary readings*, not new Chapter 17 measurements, permanent ceilings, destructive-radius formulas or a substitute for scene evidence.
+
+## Post-chapter rule
+
+After every new draft or meaningful revision, update the timeline, relationships, panel or status delta, world/knowledge/inventory state, source coverage, decisions, history, project hub/register and workshop pointers that actually changed. Keep branch and acceptance labels explicit, compare remote edits before syncing, verify backups and checks, and report genuine failures. There is no unattended or automatic synchronization.

@@ -1,0 +1,92 @@
+# Episode 12 — research and original candidate coverage
+
+**Later character correction, 3 November:** This pre-draft plan is historical. Its compulsory repeat-back instruction was assistant-invented and rejected by the author; its scope restriction on Chapters 1–5 applied only to that earlier task. The current selected manuscripts and [correction note](SELECTED_CONTINUITY_CORRECTIONS_2026-11-03.md) take precedence.
+
+**Owns: the retained episode-12 source notes for the earlier Chapter 13 review candidate.**
+
+**Selected fight correction, 4 November:** In the current unaccepted Chapter 13, Gohan uses his own ki to fly out of the fissure, rather than escaping solely by the footholds described in the historical plan below (`O176`). His exact first flight lesson is not established.
+
+
+These are the original planning and review notes combined for convenience. The later power-scale review changed portions of Chapters 6–14; where these historical descriptions differ, the selected manuscript and `REVIEW_CHAPTERS_06-14.md` control. This is not reader acceptance or a full-video claim. References to old `notes/` or `audit/` paths refer to the Drive archive, not a live local folder.
+
+---
+
+# Chapter 13 — source-first episode 12 inventory and plan
+
+**Written before drafting, 2 November 2026.** A separate, unaccepted candidate follows the preceding provisional Chapter 12. The user is comfortable continuing the existing original-character thread and asks for a Dragon Ball–style fight between Goshin and Goku. Preserve the protected project, its first five chapters, all earlier candidates and the remote copies.
+
+## Evidence and limits
+
+- Read the entire local `Dragon_Ball_Z_012.srt`, including its preview and ending. Its provenance and cut are unverified. The caption material after the ending belongs to another programme and is not episode 12. Captions establish spoken cues and their order, not silent visuals or every action.
+- [Toei's Japanese episode 12 synopsis](https://lineup.toei-anim.co.jp/ja/tv/dragonz/episode/12/) establishes Tien and Chiaotzu training near a mountain waterfall, Launch following them, the search and recruitment, and dead Goku's separate Snake Way journey. Toei describes scouter-based tracking, which the existing branch changes.
+- [Kanzenshuu's episode 12 guide](https://www.kanzenshuu.com/episode/dbz/eps-012/) identifies the entire episode as anime filler and reports Piccolo's levitated pyramids, loss of control, Gohan's fissure, the waterfall recruitment, and Goku's ride and fall. [AniManga Travelogue's detailed rewatch](https://animangatravelogue.weebly.com/home/dragon-ball-z-episode-12-catnap-on-the-serpentine-road-goku-takes-a-tumble) supplies the independent episode threads and reports the water rescue, the sneezes and Piccolo's reaction; [Neoseeker](https://dragonball.neoseeker.com/wiki/DBZ_Episode_12_-_Global_Training) gives a second synopsis, but the two are secondary and may contain dub/cut differences.
+- Inspected eight small Kanzenshuu stills and an official Toei still. Together these show Piccolo and a pyramid, the fissure, Tien training, Bulma wearing a scouter, Gohan, and Goku in the afterlife. They do not prove all movement or sequence. Source file hashes are in the before inventory.
+- **No complete episode video was watched, and no new complete manga reread was undertaken.** The precise fight, rescue choreography, domestic staging, and any additional connective scenes below are authored, not represented as verified frames.
+
+## Source-order inventory and planned branch treatment
+
+| Order | Source beat / cue | Treatment planned |
+|---|---|---|
+| Opening, ~03:02–05:28 | The narrator describes the approaching Saiyans, dead Goku on Snake Way, and Gohan's solitary survival. Gohan dreams of his father and Raditz, wakes, and wants to go to his mother. | Goku is alive and the boys are home. Preserve the aftermath of Raditz and Gohan's own wishes without inventing bereavement or kidnapping; start the next morning at the house. The exact nine-month countdown is inconsistent with this branch's recent events, so no precise new countdown. |
+| ~05:33–06:19 | Goku keeps running; Roshi and Turtle wonder whether Goku's training can prepare Earth. | Living Goku trains on Earth, eager for a challenge. Retain Roshi and Turtle's separate uncertainty without pretending King Kai has answered or Goku has already reached him. |
+| ~06:27–07:55 | Bulma and Krillin search; Tien and Chiaotzu train at a mountain waterfall, Tien momentarily holding the water back. | Chapter 12 put Yamcha and Puar in the same aircar, approaching Korin Tower. Establish their next location, then the search from a plausible mountain lead; retain the waterfall exercise and Chiaotzu's participation. Raditz's scouter remains unpowered and its cell separate. |
+| ~07:55–10:33 | Blonde Launch summons them with gunfire and a lavish meal made by hired chefs; she hints at her job, urges Tien to rob banks and dismisses further training; Tien wants to surpass Goku and returns to practice with Chiaotzu. | Dramatize Launch's independent arrival, meal, own desires and direct invitation; Tien and Chiaotzu choose their training, with neither accepting the theft as a reason to stop. This continues her robbery from Chapter 12. Exact kitchen blocking is authored. |
+| ~10:43–12:14 | On Snake Way, Goku meets King Yemma's road cleaner, hears it is still a very long way, accepts a ride and sleeps. | No living Goku on Snake Way, cleaner encounter or afterlife distance can be imported. Replace the Goku thread's training purpose with the user's requested father-and-son fight, not a false parallel ride. Yemma's inquiry and King Kai's agreement remain unresolved. |
+| ~12:17–14:41 | Piccolo trains by lifting pyramids; Tien and Chiaotzu continue at the waterfall. Piccolo misjudges his power. | Retain Piccolo's independent levitation and loss of control; show the two locations through cuts. Do not make the earthquake the result of Goku and Goshin's spar. |
+| ~16:07–17:13 and later silent action | Piccolo realizes the mistake could reach Gohan. Gohan is chasing the predator when the ground splits; he falls into a fissure. | Gohan is with his family, not alone or hunting for a Senzu-satisfied meal. A source-inspired fissure threatens him, but he acts to escape and the others protect each other rather than take away his agency. Piccolo's known hostility and independent reason to check the boys remain. |
+| ~17:18–19:25 | The quake reaches Launch and the waterfall; Tien rescues Launch from the torrent. Chiaotzu reacts. Gohan escapes, and Piccolo sees his survival in the secondary recap. | Stage the waterfall rescue and the brothers' earthquake encounter in causal parallel, without implying they see or instantly know about each other. Give Chiaotzu an active role and let Piccolo see the family at a distance without obtaining custody. Exact camera choreography is authored. |
+| ~19:30–21:43 | Cold wet Launch sneezes into her blue-haired form, apologizes and says she will go to Kame House; pollen changes her back, and she returns to Tien. | Retain both changes and Launch's choices. Avoid claiming either state gives her knowledge that she has not acquired. |
+| ~21:43–22:54 | Krillin and Bulma find Tien and Chiaotzu, relay Goku's death, the Saiyans and Kami's offer. Tien and Chiaotzu choose training; Launch insists on following. | Krillin and Bulma find them without the disassembled scouter, by their mountain search and a detectable display. Tell them Goku survived, not died; explain the Saiyans and invitation. Tien and Chiaotzu decide separately; Launch chooses to pursue them. Do not send them up the tower off-page before the next source episode. |
+| ~23:07–24:47 | Sleeping dead Goku falls from the road, reaches the afterlife fruit and is struck; Roshi/Turtle's doubt closes the episode. | No impossible fall or unearned King Kai arrival. A decisive end to the Goku–Goshin spar provides the present story's action resolution; Roshi and Turtle keep the unanswered threat. |
+| Preview | Afterlife fruit and later events. | Preview the tower trip and continuing training without inventing a decision about the living path to King Kai. |
+
+## Story, scale and continuity decisions
+
+1. Morning follows Chapter 12's homecoming. Goku proposed taking Mina's book to C-6 tomorrow: the family must actually bring it, and C-6 must choose the visit and any inspection. His bent arm and energy leak are not silently declared repaired. Retain the Four-Star Ball on Gohan's hat, the Three- and Six-Star Balls at home, both tails and the intact moon; no transformation occurs. Goku and Gohan recently ate whole Senzu; do not manufacture hunger merely from the source episode. Goshin eats food whose preparation he watches.
+2. Place a genuine father–son spar in an empty, clearly oriented training place. Goku enjoys the fight and responds as a skilled fighter, not as a bureaucrat or a man pretending to lose. Goshin lands real hits, uses existing flight, ki and his retained Kamehameha, visibly adapts while fighting and displays unusually quick recovery. More raw power in his earlier wave, momentary past readings and broad Talent are not fixed current rankings; neither a new scouter number nor an automatic victory formula is invented. Give the spar a clear in-story result, with practical agreed boundaries and terrain consequences.
+3. Gohan chooses his own practice and has an independent rescue action, not just spectator or helpless victim. Goshin is never presented as less capable than Gohan. Chi-Chi makes and carries out her own decisions; her concern does not cancel her agency. Goshin's food rule, repeat-back of applicable instructions, downhill side, hands behind his back when checked, and conversational invitation remain contextual habits, not a personality-replacing checklist.
+4. Piccolo remains independent and dangerous, but his actual earthquake is accidental. He sees only what his position permits. The friends do not discover Arlia's destruction or know the scouter is safe to transmit; the Saiyans have not arrived. Krillin retains the last Senzu unless explicitly transferred.
+5. Use present-tense episode form, 4,400–6,600 words where feasible, clear impact geography, shots and scene cuts, title/narrator, eye-catch, loop and preview. After prose, review actual source coverage, source boundaries, continuity, the DOCX against the Markdown, metrics and before/after hashes. The chapter is a candidate, not reader acceptance or a remote update.
+
+
+---
+
+# Chapter 13 — source coverage, the spar, and continuity
+
+**Separate review candidate.** This story continues the provisional Chapter 12. The user said the earlier original characters are okay and asked for a Dragon Ball–style fight between Goshin and Goku; this is not acceptance of every preceding draft or permission to replace protected or remote copies. The source-order plan was recorded before drafting in `00_EPISODE_12_SOURCE_ORDER_AND_BEAT_PLAN.md`.
+
+## Episode 12 source functions and what happens here
+
+| Source function | Treatment in this chapter |
+|---|---|
+| Gohan dreams about Raditz and his father, then wants to go to his mother | Goku is alive and the boys are at home. Gohan wakes from a Raditz dream, finds Goku and makes his own decision to prepare. There is no invented bereavement or repeat kidnapping. |
+| Roshi and Turtle question whether Earth's defenders can withstand the Saiyans | They have a separate island scene. They have no answer from King Kai; their reference to a year recalls Raditz's original warning, not a newly calculated time remaining. |
+| Bulma and Krillin search for Tien and Chiaotzu | The earlier branch put Yamcha and Puar in their aircar, heading to Korin Tower. The previous evening all four reach the tower; Yamcha and Puar stay there. After a mountain lead, Bulma and Krillin search in the morning, and Krillin recognizes Tien's ki. The scouter and its cell stay separated at the lab; no new scouter reading, repair or verified transmission safety is asserted. The tower lead and search route are authored. |
+| Tien and Chiaotzu train under the waterfall | Tien holds back the water; Chiaotzu helps, then practises his own control. The stone exercises are authored, not claimed as verified shots. |
+| Blonde Launch brings an elaborate meal, describes her recent job, proposes bank robbery and argues against continued training | She arrives after the preceding chapter's robbery, summons the pair, describes the chefs she hired and invites Tien to join her. He refuses and returns to practice; Chiaotzu tastes the food and makes his own choice to train. The precise food, kitchen staging and cooks' departure are authored. |
+| Dead Goku meets a Snake Way cleaner, accepts a lift, sleeps and falls into the afterlife | Causally changed. Living Goku is not on Snake Way. His independent source thread's training purpose becomes the requested Goku–Goshin match. There is no invented cleaner encounter, afterlife fall, King Kai approval or completed journey. |
+| Piccolo levitates pyramids and loses control; his mistake produces an earthquake | Dramatized as an independent event in the wasteland. The number, movement and collision of the pyramids are authored. The earthquake is Piccolo's accident, not a concealed consequence of the family spar. |
+| Gohan's solo survival and a near-fatal fissure; Piccolo checks on him | The family is together and Gohan is not forced to hunt the dinosaur after his Senzu. During his chosen match, a fissure opens; he identifies footholds and jumps out himself. Goshin holds a dangerous slab, and Chi-Chi pulls Goku clear of the breaking edge. Piccolo sees the family from the ridge and leaves; he does not acquire custody or become secretly friendly. Goku can sense Piccolo but does not claim to know whether the shaking was deliberate. |
+| The quake reaches Launch's waterfall; Tien saves her from the surge | Tien catches Launch and holds back the water with ki; Launch grabs a post and Chiaotzu prevents a branch from striking them. Their detailed rescue choreography is authored. The separate groups do not see or learn each other's actions. |
+| Wet Launch sneezes into her blue-haired form, apologizes and plans to return to Kame House; pollen changes her back and she returns to Tien | Both changes and her choices appear. A flower's precise location and the dialogue are adapted staging. |
+| Bulma and Krillin arrive; Tien and Chiaotzu learn the threat and choose Kami's training; Launch insists on going too | Krillin explains Goku survived, that he has two sons, and that two stronger Saiyans are coming. Both Tien and Chiaotzu choose the invitation; Launch says she will find her own way up. Tien has not yet climbed the tower, and no one is shown already training with Kami. Krillin explicitly infers, rather than personally witnesses, that Goku is probably training. |
+| Original ending/preview continues the afterlife fruit thread | No impossible afterlife scene is transferred to the living Goku. The match has a clear result, and the preview points to the tower journey and Gohan's unfinished turn. |
+
+## The requested Goku–Goshin fight
+
+- Gohan sets a clear ring-out condition: touching the ground outside the circle loses. Chi-Chi chooses to watch and directs the family away from the house and ledge. The fight takes place in a defined basin, with observers on the north ledge; the combatants take their waves into open sky.
+- Goku is energetic, competitive and technically resourceful. He lands blows, counterattacks and presses back in the wave exchange; he is not shown pretending to lose. This is still a spar, not a claim that either is using unrestricted killing force.
+- Goshin lands consequential strikes, uses his existing flight and ordinary ki, tightens the Kamehameha he learned in protected Chapter 5, moves a stone with ki, adapts his response to an earlier wrist pull and wins when Goku lands outside the line. His scrape visibly fades during the match. These are demonstrated actions, not an asserted number, fixed ceiling, sudden transformation or claimed Zenkai.
+- Gohan chooses his own match, scores a touch and then escapes the fissure by his own movement; the earthquake interrupts that match before an outcome. The story does not describe Goshin as less capable than Gohan or treat Gohan's potential as dependent on Goshin.
+
+## Objects and handoff
+
+- Goshin watches Chi-Chi crack and cook the eggs and rewarm the previous evening's rice, which he watched being cooked in Chapter 12, before he eats. Goku explicitly remains full from his recent whole Senzu while enjoying a taste; no unwatched bean is given to Goshin. Krillin still has the remaining whole Senzu.
+- Goshin repeats the safety instructions, moves to Gohan's downhill side on the returning path, puts his hands behind his back when Chi-Chi checks him, and responds to Goku's conversational invitations. His tail and Gohan's tail both appear; neither transforms and no moon event occurs.
+- Gohan carries the Four-Star Ball on his hat and retrieves Mina's book from home. The Three- and Six-Star Balls remain at home, untouched in this chapter.
+- The family actually visits C-6 as promised. He is awake in Dr. Brief's lab with the bent arm supported and the leak unresolved. He consents to external listening, asks for prior permission before any panel opening, directs Gohan's reading and the drawing, and is not silently declared repaired. The book is still borrowed and a separate drawing is made for Mina.
+- At the end, Goku's family is at Capsule Corporation; Piccolo has flown back toward the wasteland. Yamcha and Puar are at Korin Tower. Bulma, Krillin, Tien, Chiaotzu and Launch are together at the waterfall, planning to go toward the tower. The Saiyans remain en route. Earth does not learn of Arlia's destruction here.
+
+## Evidence boundary
+
+The complete local Japanese caption file was read for its available spoken/sound cues; provenance and cut are unverified. Official and secondary synopses and nine isolated stills were consulted. **No complete episode video was watched and no new complete manga reread was performed.** Captions and stills do not certify all silent movement or sequence. The before-prose plan distinguishes source beats, authored staging and causal branch changes. Mechanical metrics and anchors in `audit/` do not establish literary quality or perfect source/character compliance.

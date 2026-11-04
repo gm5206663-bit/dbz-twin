@@ -1,0 +1,3 @@
+* -text
+*.srt -diff
+Research/StoryOS/*.md -diff

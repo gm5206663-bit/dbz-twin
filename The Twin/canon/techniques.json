@@ -1,0 +1,495 @@
+{
+  "owner": "which techniques exist and at what grade.",
+  "registry": "canon/techniques.json",
+  "canon": [
+    {
+      "technique": "Kamehameha",
+      "holder": "Goku; later users as independently established",
+      "grade": "captioned call/charge plus secondary visual account",
+      "evidence": "C097 C165 C242 W-101",
+      "condition": "The episode-4 captions place Goku charging the wave; a secondary account describes him bending it in the Raditz fight. In episode 34 an unlabelled Japanese call aligns in sequence with sampled frames of a fan clip showing Gohan's overhead pose, yellow blast and embedded English 'Kamehameha!' subtitle; original audio and release remain unverified.",
+      "limit": "The clip supports contextual attribution to Gohan but does not establish when canon Gohan first learned or mastered the technique. The divergent Gohan learns on-page in Chapter 19 (O142); Goshin learned by observing Goku and practised it (O088 O177)."
+    },
+    {
+      "technique": "Makankosappo / Special Beam Cannon",
+      "holder": "Piccolo",
+      "grade": "captioned Raditz-fight readings; official manga-based technique account",
+      "evidence": "C062 C097 C102 C238 W-85",
+      "condition": "In the original Raditz fight the retained episode captions give 1,330 and 1,480 for the shots; the official technique account describes concentration at two fingers and extended focusing.",
+      "limit": "These are separate situational attack readings and a specific use, not a fixed charge timer or output for every subsequent fight."
+    },
+    {
+      "technique": "Four Bodies / Shishin-no-Ken",
+      "holder": "Tien",
+      "grade": "official manga-based technique account",
+      "evidence": "C237 W-84",
+      "condition": "The official compendium says the technique creates four bodies with one quarter of the user’s full strength and speed apiece.",
+      "limit": "Do not transfer this quantified split to Piccolo’s separate double or to all copying and cloning."
+    },
+    {
+      "technique": "Sparring double",
+      "holder": "Piccolo",
+      "grade": "secondary episode synopsis",
+      "evidence": "W-72 O180",
+      "condition": "An episode-15 secondary rewatch reports Piccolo practising against a double; the selected branch shows independent practice.",
+      "limit": "No complete episode footage or numeric power division is established by this source; do not import Tien’s four-body ratio."
+    },
+    {
+      "technique": "Flight",
+      "holder": "multiple characters",
+      "grade": "official original-Dragon-Ball TV synopsis and secondary pre-Z account; later episode-caption speech",
+      "evidence": "C145 C173 O166 O176 W-113",
+      "condition": "Toei's episode-138 synopsis explicitly says Krillin displays flight against Majunior before Z; the episode has not been viewed in full. The episode-206/207 captions distinguish Goten's initial inability to fly from his later lesson with Gohan and Videl.",
+      "limit": "Ability and acquisition time are holder- and continuity-specific. Branch Gohan demonstrably flies before the chamber; his exact first lesson remains unspecified.",
+      "grade_before_db_synopsis_review_2026_11_04": "secondary pre-Z account; later episode-caption speech",
+      "evidence_before_db_synopsis_review_2026_11_04": "C145 C173 O166 O176",
+      "condition_before_db_synopsis_review_2026_11_04": "A secondary source reports Krillin demonstrating flight before Z. The episode-206/207 captions distinguish Goten’s initial inability to fly from his later lesson with Gohan and Videl."
+    },
+    {
+      "technique": "Kaiō-ken",
+      "holder": "Goku, taught by King Kai in the original account",
+      "grade": "captioned original Z episode-19/21 progression",
+      "evidence": "C215 C225 C240 O167 C256 W-104 C263 W-110",
+      "condition": "King Kai privately considers it after Bubbles; the episode-21 recap and later source fight reflect Goku’s learning and use. The selected branch shows practice after its authored months-long gap. In the separate Namek encounter, the episode-69 caption names Kaiō-ken before the rising scouter sequence and the episode-70 caption reports 180,000; the official manga-based Ginyu feature reports the same broad Kaiō-ken event (C256 W-104). In the later episode-90 fight King Kai and the narrator identify Goku’s current Kaiō-ken as tenfold; this is a separate later source moment, not a multiplier assigned to the current branch. In episodes 91–92 he risks a twentyfold Kaiō-ken Kamehameha against Freeza; King Kai later judges it beyond Goku's limit, and Toei reports an injury to Freeza's hand (C263 W-110).",
+      "limit": "A private thought is not a lesson; the candidate does not establish an exact multiplier, maximum or later battle result. The 180,000 is a specific shown power-up context, not a proof of Goku's unboosted base or a transferable growth multiplier.",
+      "previous_condition_before_z_066_078_review_2026_11_04": "King Kai privately considers it after Bubbles; the episode-21 recap and later source fight reflect Goku’s learning and use. The selected branch shows practice after its authored months-long gap.",
+      "condition_before_z_079_090_review_2026_11_04": "King Kai privately considers it after Bubbles; the episode-21 recap and later source fight reflect Goku’s learning and use. The selected branch shows practice after its authored months-long gap. In the separate Namek encounter, the episode-69 caption names Kaiō-ken before the rising scouter sequence and the episode-70 caption reports 180,000; the official manga-based Ginyu feature reports the same broad Kaiō-ken event (C256 W-104).",
+      "limit_before_z_079_090_review_2026_11_04": "A private thought is not a lesson; the candidate does not establish an exact multiplier, maximum or later battle result. The 180,000 is a specific shown power-up context, not a proof of Goku's unboosted base or a transferable growth multiplier.",
+      "evidence_before_z_079_090_review_2026_11_04": "C215 C225 C240 O167 C256 W-104",
+      "condition_before_z_091_107_review_2026_11_04": "King Kai privately considers it after Bubbles; the episode-21 recap and later source fight reflect Goku’s learning and use. The selected branch shows practice after its authored months-long gap. In the separate Namek encounter, the episode-69 caption names Kaiō-ken before the rising scouter sequence and the episode-70 caption reports 180,000; the official manga-based Ginyu feature reports the same broad Kaiō-ken event (C256 W-104). In the later episode-90 fight King Kai and the narrator identify Goku’s current Kaiō-ken as tenfold; this is a separate later source moment, not a multiplier assigned to the current branch.",
+      "evidence_before_z_091_107_review_2026_11_04": "C215 C225 C240 O167 C256 W-104 C263"
+    },
+    {
+      "technique": "Genki-dama / Spirit Bomb",
+      "holder": "Goku, taught by King Kai in the original account",
+      "grade": "captioned original-Z episode-21 test and Namek use; separate official manga-based technique summary",
+      "evidence": "C226 O167 O171 C264 W-111",
+      "condition": "In episode 21 King Kai reviews an already-practised technique gathering small amounts of energy and Goku hits a thrown test target. The branch separately shows earlier practice and a later test. In Z-92–94 Goku gathers energy from Namek and nearby celestial bodies while Piccolo receives Gohan and Krillin's ki for an intervention that buys time; the captions do not explicitly put that ki directly into the bomb. Freeza survives the eventual attack (C264).",
+      "limit": "The small test is not proof of an Earth-scale attack, a universal one-use limit or an inevitable branch deployment. The later team-dependent Namek use does not make a fixed charging time, universal effectiveness or identical branch deployment inevitable.",
+      "grade_before_z_091_107_review_2026_11_04": "captioned episode-21 test and explanation",
+      "evidence_before_z_091_107_review_2026_11_04": "C226 O167 O171",
+      "condition_before_z_091_107_review_2026_11_04": "In episode 21 King Kai reviews an already-practised technique gathering small amounts of energy and Goku hits a thrown test target. The branch separately shows earlier practice and a later test.",
+      "limit_before_z_091_107_review_2026_11_04": "The small test is not proof of an Earth-scale attack, a universal one-use limit or an inevitable branch deployment."
+    },
+    {
+      "technique": "Masenko",
+      "holder": "Gohan in the original Saiyan and Namek arcs",
+      "grade": "official manga-based profile; original-Z caption and official/secondary context",
+      "evidence": "C239 C146 W-93",
+      "condition": "The official source describes an enraged 2,800 Masenko against Nappa; episode 65 has a Masenko call and a subsequent momentary over-20,000 reading attributed to Gohan by secondary context.",
+      "limit": "The latter cue does not name its target; neither figure is a stable base maximum or a required altered-branch result."
+    },
+    {
+      "technique": "Great Ape",
+      "holder": "Saiyans in specifically sourced cases",
+      "grade": "captioned Z conditions; official manga-based context",
+      "evidence": "C068 C131 C132 C148",
+      "condition": "Z dialogue describes a tenfold battle-power increase in that context and shows multiple ways to provide the relevant moon-like source.",
+      "limit": "The stated multiplier is not a collateral-damage formula, permanent ceiling, universal cross-continuity trigger or a reason to strip Goshin’s authored first-ape control."
+    },
+    {
+      "technique": "Super Saiyan 4",
+      "holder": "GT and Daima portrayals; separately authored future for Goshin",
+      "grade": "official GT feature; secondary GT/Daima guides",
+      "evidence": "C118 W-94 W-95 W-99 O035",
+      "condition": "The official feature describes GT Vegeta receiving Blutz Waves; secondary reports describe Bulma’s generator and Daima Goku’s tail regrowing during transformation.",
+      "limit": "Different continuities are not interchangeable; no universal natural-full-moon-only GT rule or tail-free Daima rule is established. Goshin’s authored kept-tail and ape/Golden Ape road remains future."
+    },
+    {
+      "technique": "Great Elder potential awakening",
+      "holder": "Great Elder of Namek",
+      "grade": "provisional directly read Z episode-54 caption dialogue",
+      "evidence": "C247",
+      "condition": "The Elder awakens dormant power in Krillin and states that the intervention can work for anyone with dormant power, including a child, without reducing his own lifespan.",
+      "limit": "This is his stated condition in that situation, not proof of a fixed multiplier, limitless potential or a future offer to the divergent twins; do not conflate it with Elder Kai’s later ritual."
+    },
+    {
+      "technique": "Body Change",
+      "holder": "Ginyu in the original Namek account",
+      "grade": "captioned Z dialogue and official manga-based summary",
+      "evidence": "C251 C252 C256 W-104 C262 W-109 W-110",
+      "condition": "Ginyu exchanges bodies with Goku after injuring his own; Ginyu cannot initially use Goku's full power, and both fighters comment or are observed as becoming more accustomed to unfamiliar bodies. His attempt to exchange with Vegeta is intercepted, and Goku reports Ginyu ends up as a frog. In the original-Z TV caption account he later uses a translator to exchange the frog body with Bulma; in episode 91 he attempts to change with Piccolo and Bulma and the frog regain their prior bodies. Toei's synopsis credits Gohan with throwing the frog to intercept him (C262 W-110).",
+      "limit": "A body does not automatically confer its prior user's mastery, a measured adaptation rate or a guaranteed branch outcome. The specific manga feature and local unverified-origin anime captions are separate witnesses; exact anime visual staging and Japanese audio were not independently viewed.",
+      "condition_before_z_079_090_review_2026_11_04": "Ginyu exchanges bodies with Goku after injuring his own; Ginyu cannot initially use Goku's full power, and both fighters comment or are observed as becoming more accustomed to unfamiliar bodies. His attempt to exchange with Vegeta is intercepted, and Goku reports Ginyu ends up as a frog.",
+      "limit_before_z_079_090_review_2026_11_04": "A body does not automatically confer its prior user's mastery, a measured adaptation rate or a guaranteed branch outcome. The specific manga feature and local unverified-origin anime captions are separate witnesses; exact anime visual staging and Japanese audio were not independently viewed.",
+      "evidence_before_z_079_090_review_2026_11_04": "C251 C252 C256 W-104",
+      "condition_before_z_091_107_review_2026_11_04": "Ginyu exchanges bodies with Goku after injuring his own; Ginyu cannot initially use Goku's full power, and both fighters comment or are observed as becoming more accustomed to unfamiliar bodies. His attempt to exchange with Vegeta is intercepted, and Goku reports Ginyu ends up as a frog. In the original-Z TV caption account he later uses a translator to exchange the frog body with Bulma; the recorded coverage through episode 90 does not yet resolve his following threat to Piccolo.",
+      "evidence_before_z_091_107_review_2026_11_04": "C251 C252 C256 W-104 C262 W-109"
+    },
+    {
+      "technique": "Namekian assimilation",
+      "holder": "Nail and Piccolo in the original Namek account",
+      "grade": "captioned Z dialogue and official manga-based account with separate editorial interpretation",
+      "evidence": "C254 C255 W-108",
+      "condition": "Nail proposes assimilation, estimates severalfold growth and assures Piccolo that Piccolo's personality will remain; Piccolo agrees and senses a large increase. In episode 81 the unverified-origin captions label a line to Freeza as Nail’s speech before Piccolo responds.",
+      "limit": "The estimate is not a universal numeric multiplier. An official profile describes loss of the assimilated body/personality, while another editorial speculates about later influence; neither proves a simple universal rule for every future fusion or for every continuity. That caption attribution is not verified audio or a complete account of persistent independent consciousness.",
+      "condition_before_z_079_090_review_2026_11_04": "Nail proposes assimilation, estimates severalfold growth and assures Piccolo that Piccolo's personality will remain; Piccolo agrees and senses a large increase.",
+      "limit_before_z_079_090_review_2026_11_04": "The estimate is not a universal numeric multiplier. An official profile describes loss of the assimilated body/personality, while another editorial speculates about later influence; neither proves a simple universal rule for every future fusion or for every continuity.",
+      "evidence_before_z_079_090_review_2026_11_04": "C254 C255 W-108"
+    },
+    {
+      "technique": "Super Saiyan (first Namek event)",
+      "holder": "Goku in the original Namek account",
+      "grade": "captioned original-Z dialogue; separately identified official TV and manga-based summaries",
+      "evidence": "C137 C268 W-110 W-111",
+      "condition": "After Freeza injures Piccolo and kills Krillin, Goku transforms, warns Gohan to leave before he loses reason, and subsequently shows protective, competitive and merciful choices in the same source arc.",
+      "limit": "A specific trigger and initial warning do not prove training irrelevant, perfect control in every situation, or a universal trigger for all transformations. Goshin's first eventual Great Ape is independently authored as aware and controlled; no fear or involuntary-loss-of-control requirement follows."
+    },
+    {
+      "holder": "Gohan in the original Garlic Jr. TV arc",
+      "technique": "Protective ki shield against the Dead Zone",
+      "grade": "later original-Z redistributed captions and an official TV synopsis; full episode video/audio unreviewed",
+      "evidence": "Dragon_Ball_Z_116.srt; Toei Z episode 116; C281 W-30 W-114",
+      "condition": "In this situation Gohan sustains a shield to protect Piccolo and Krillin against the Dead Zone. Toei's short synopsis says the two leave it, creating an opening for him to aim at the Makyo Star. No source establishes a universal barrier strength, seamless multitasking or this much-later feat as either boy's automatic pre-Saiyan ability."
+    },
+    {
+      "holder": "Garlic Jr. in the original TV arc",
+      "technique": "Dead Zone",
+      "grade": "later original-Z redistributed captions; official TV synopses",
+      "evidence": "Dragon_Ball_Z_108.srt, 115.srt and 116.srt; Toei Z episodes 108 and 116; C276 C281 W-30 W-114",
+      "condition": "A dimension/technique discussed as Garlic Jr.'s earlier prison is reopened during his later attack; he himself ends up there after the team targets the Makyo Star. The source does not fix every version's access, complete visuals or an inevitable branch repetition."
+    }
+  ],
+  "holder_lanes": [
+    {
+      "lane": "Footwork",
+      "grade": "Historical root Chapter 9: doctor-permitted placements, ungraded. The selected Chapter 10 later allows normal movement; see review_branch_through_chapter_17.",
+      "paid_by": "O105 O108 O120"
+    },
+    {
+      "lane": "Guard",
+      "grade": "palm deflection demonstrated; unranked",
+      "paid_by": "O074 O078"
+    },
+    {
+      "lane": "Strike",
+      "grade": "ordinary ki and observed Kamehameha demonstrated; unranked (draft)",
+      "paid_by": "O074 O077 O078 O084 O088 O089 O090 O095"
+    },
+    {
+      "lane": "Ki control",
+      "grade": "Non-contact ki rescue and slab diversion shown in selected Chapter 7; subsequent beam and four-stone uses are shown in Chapters 10 and 15. Unranked; the older specific copying-and-gauze account is not shown in the selected scene.",
+      "paid_by": "O074 O077 O078 O084 O088 O089 O090 O095 O098 O099; selected Chapters 10 and 15; O131 O136 O144"
+    },
+    {
+      "lane": "Sensing",
+      "grade": "No exact range is established. Goshin and Gohan sense the two unfamiliar arriving Saiyan ki in the selected Chapter 23; earlier Chapter 16–17 scenes did not establish a range.",
+      "paid_by": "O175; selected Chapter 23",
+      "previous_grade_before_holistic_correction_2026_11_03": "Not established in the older cited lane; the selected Chapters 16–17 establish no new Goshin sensing range. Unknown is not a ban."
+    },
+    {
+      "lane": "Breath",
+      "grade": "ungraded",
+      "paid_by": null
+    },
+    {
+      "lane": "Flight",
+      "grade": "working; unranked",
+      "paid_by": "O074 O077 O078 O089 O090 O098"
+    }
+  ],
+  "debt": "The exact named technique and silent visual staging in ep. 1 require a video/frame check; captions do not establish the technique name (C013).",
+  "standing_design": {
+    "flight": "Goshin can fly with ordinary ki; demonstrate naturally in a relevant scene. Fatigue can interrupt performance without forgetting it.",
+    "technique": "He has usable basic ki control and techniques and learns demonstrated movement unusually quickly. Do not imply he has no techniques; do not give him unobserved prerequisites for free.",
+    "era": "No early god ki or divine form.",
+    "status": "Authored design demonstrated in the corrected Chapter Four through Nine drafts; not a canonical Gohan beat and not yet user-accepted.",
+    "training_priority": "During deliberate training, master or perfect abilities already possessed before deliberately pursuing new ones. The user explicitly permits instinctive copying during an emergency. Rapid learning and retained skill remain; the first Kamehameha's stated relative lack of practice is not retroactively erased (O104 O088).",
+    "foundation": "Historical root Chapters Seven–Nine are described in the original lane notes; the selected review branch differs. Serious, continuing attention to the basics relevant to his abilities, including footing, balance, guard, breath, conditioning, ki control and flight. Examples are not a fixed regimen or an invented mastery grade (O104 O105)."
+  },
+  "authored_chapter_four": [
+    {
+      "technique": "Flight",
+      "holder": "Goshin",
+      "evidence": "O074 O077 O078",
+      "condition": "Uses flight in the island fight, carries Gohan away from the pod and joins the crater fight; Raditz carries him only while unconscious."
+    },
+    {
+      "technique": "Observed palm deflection",
+      "holder": "Goshin",
+      "evidence": "O074 O078",
+      "condition": "Watches Raditz turn a blast aside, imitates the deflection during the island fight and later applies it again. His palm is burned."
+    },
+    {
+      "technique": "Ordinary ki blasts and controlled use",
+      "holder": "Goshin",
+      "evidence": "O074 O077 O078",
+      "condition": "Uses attacks against Raditz and breaks the pod hatch after waking. His output rises above the island snapshot without an exact new personal reading."
+    }
+  ],
+  "not_yet_demonstrated": [],
+  "authored_chapter_five": [
+    {
+      "technique": "Kamehameha, including directional steering",
+      "holder": "Goshin",
+      "evidence": "O004 O084 O088",
+      "condition": "After seeing Goku form and steer the wave, Goshin fires his own to redirect Raditz’s attack. His first wave contains more raw ki than Goku’s in this scene but shows less practiced control, and his palm remains burned. Raditz reads 1,450 as Goshin concentrates: an authored momentary snapshot, not a canon number, fixed level or automatic multiplier. The technique is retained; Chapter Five remains a draft."
+    }
+  ],
+  "authored_chapter_six": [
+    {
+      "technique": "Kamehameha setup, deliberately interrupted",
+      "holder": "Goshin",
+      "evidence": "O084 O088 O095",
+      "condition": "Cups his hands and gathers light in the familiar posture, then lets it fade because Goku is in the firing path. This shows retained learning and a tactical choice, not a lost technique or a second completed wave."
+    },
+    {
+      "technique": "Targeted ordinary ki and flight",
+      "holder": "Goshin",
+      "evidence": "O089 O090 O095",
+      "condition": "An early burst breaks ground beside Raditz's boot; later he closes on the damaged shoulder after letting the wave fade. At the firing line he hooks Raditz's ankle and pushes the cracked armour with rising ki, tears free of the sleeve and clears the line. His burned palm remains relevant; 1,500 is an authored snapshot, not a cap.",
+      "previous_condition_before_fight_and_power_correction_2026_11_04": "Attacks the wounded shoulder, fires at Raditz’s knee and draws him away while Goku moves clear. His burned palm and prior exertion affect the exchange without erasing his skills; the separate 1,500 surge is an authored snapshot, not a cap."
+    }
+  ],
+  "authored_chapter_seven": [
+    {
+      "technique": "Non-contact ki rescue",
+      "holder": "Goshin",
+      "evidence": "O098; selected Chapter 7",
+      "condition": "In the selected unaccepted draft, after Piccolo pulls Gohan toward the opposite cliff, Goshin opens his hand and bends Gohan’s path with ki, then flies to catch him after the cliff bursts. The older root described an explicit copied gesture and later gauze lift; those details are not stated in the selected manuscript. This is a real feat, not an assigned maximum or a proven acquisition mechanism."
+    },
+    {
+      "technique": "Ki diversion of a falling slab",
+      "holder": "Goshin",
+      "evidence": "O099; selected Chapter 7",
+      "condition": "In the selected unaccepted draft Goshin catches the falling slab with ki and sends it into the ravine before catching Gohan. The scene does not identify the diversion as a Kamehameha; the retained Chapter Five wave is not erased."
+    }
+  ],
+  "authored_chapter_eight": [
+    {
+      "technique": "Foundational foot placement and existing Kamehameha aim",
+      "holder": "Goshin",
+      "evidence": "O088 O104 O105 O108",
+      "condition": "Historical root version only, superseded for the selected branch. Selected Chapters Eight and Nine show Goshin wanting to refine his wave and the doctor's care, but not the older seated/doctor-limited footwork program. See O105 O108 O118 O120 and the selected chapters.",
+      "previous_condition_before_holistic_correction_2026_11_03": "Wants to make his already-known wave go where he aims it. With a doctor limiting exertion, he asks to reposition his feet while seated, repeats a brief placement and correction shown by Goku, and rests. Full practice waits for medical clearance; no wave, new skill, perfected grade or power reading is claimed.",
+      "status": "historical-root-superseded-for-selected-branch"
+    }
+  ],
+  "authored_chapter_nine": [
+    {
+      "technique": "Foundational foot placement, existing wave and future aim",
+      "holder": "Goshin",
+      "evidence": "O104 O105 O118 O120",
+      "condition": "Historical root version only, superseded for the selected branch. Selected Chapters Eight and Nine show Goshin wanting to refine his wave and the doctor's care, but not the older seated/doctor-limited footwork program. See O105 O108 O118 O120 and the selected chapters.",
+      "previous_condition_before_holistic_correction_2026_11_03": "After a follow-up exam, gently places his feet a few times, corrects his heel under Goku’s direction and rests. He wants to refine his existing Kamehameha and balance later; no new technique, wave, perfected grade or training clearance is claimed.",
+      "status": "historical-root-superseded-for-selected-branch"
+    }
+  ],
+  "review_branch_through_chapter_17": {
+    "status": "unaccepted selected review branch; not a replacement for older records",
+    "checkpoint": "end of Chapter 17 synergy-checked candidate",
+    "flight": {
+      "state": "repeatedly demonstrated within shown scenes; no quantified maximum",
+      "evidence": "selected Chapters 7–17, including Chapter 16 island and Chapter 17 roof"
+    },
+    "ki_control": {
+      "state": "Non-contact ki redirects Gohan and a slab in selected Chapter 7, helps hold a beam in Chapter 10, and is used in stone practice, ball exercise and island rescue; no assigned maximum or formal grade.",
+      "evidence": "O098 O099; selected Chapters 10 and 15–17; O131 O136"
+    },
+    "kamehameha": {
+      "state": "Retained after first use, used in a clash with Goku in Chapter 13, then controlled and stopped precisely in Chapter 15 while the other stones remain stable. Mastery and retained gains continue rather than resetting to first-use limits.",
+      "evidence": "O084 O088 O177; selected Chapters 13 and 15",
+      "previous_state_before_holistic_correction_2026_11_03": "retained existing technique; trained in earlier selected chapters; no new Chapter 17 mastery grade"
+    },
+    "physical_strength": {
+      "state": "bends both locks of Pigero's linked cuffs open in the Chapter 17 candidate, after explaining the move; no measured maximum or new reading",
+      "evidence": "O133 O136",
+      "previous_state_before_visible_followthrough_2026_11_03": "removes both cuffs in the new Chapter 17 candidate; no measured maximum or new reading"
+    },
+    "sensing": {
+      "state": "no exact Goshin sensing range newly established",
+      "evidence": null
+    },
+    "training": "Deliberate mastery of prior skills and serious foundations; instinctive emergency copying remains allowed. No invented cap or artificial loss.",
+    "gohan_flight": {
+      "state": "Gohan lifts himself with ki and flies out of the closing fissure in Chapter 13; in Chapter 14 Chi-Chi watches his independent flight and turns, and he flies again in the Chapter 17 ball game. The date and teacher of first acquisition are not specified.",
+      "evidence": "O176; selected Chapters 14 and 17",
+      "previous_state_before_fight_and_power_correction_2026_11_04": "Gohan independently flies during Chapter 14 training while Chi-Chi watches, and uses flight in the Chapter 17 ball game. The date and teacher of his first acquisition are not specified."
+    }
+  },
+  "review_branch_through_chapter_18": {
+    "status": "new unaccepted Chapter 18 continuation; the through-Chapter-17 object remains a historical checkpoint",
+    "checkpoint": "family at the mountain house at the end of Chapter 18",
+    "real_lookout_practice": {
+      "state": "Goshin guides four moving stones while Gohan practises redirecting one; no new scan or named technique",
+      "evidence": "O137; Chapter 18, Four Stones and One Ball"
+    },
+    "mental_room_experience": {
+      "state": "Goshin protects Chiaotzu, holds four large wall pieces while flying and firing his retained Kamehameha, and assists the group. This happens in a mind-travel experience; his physical body remains at the Lookout.",
+      "evidence": "O138 O139; Chapter 18, The Opening",
+      "limit": "Not an independent physical measurement, proven maximum, actual opponent death or new named adaptation."
+    },
+    "gohan_practice": {
+      "state": "Practises tracking Krillin using sound and a change in ki and applies situational warning and a ki push in the mental-room exercise. His independent flight was already shown in Chapters 13, 14 and 17; no exact sensing range is established.",
+      "evidence": "O137 O139 O176",
+      "previous_state_before_holistic_correction_2026_11_03": "Practises tracking Krillin with eyes closed using sound and a change in ki; applies situational warning and a ki push in the room experience. No independent flight or quantified sensing range is established.",
+      "previous_state_before_fight_and_power_correction_2026_11_04": "Practises tracking Krillin using sound and a change in ki and applies situational warning and a ki push in the mental-room exercise. His independent flight was already demonstrated in Chapters 14 and 17; no exact sensing range is established."
+    },
+    "training": "Continues deliberate mastery and fundamentals. No earlier technique, user-directed capability, growth or later author correction is erased."
+  },
+  "review_branch_through_chapter_19": {
+    "status": "Selected corrected Chapter 19 remains unaccepted; the separately preserved pre-correction Chapter 20 alone is accepted.",
+    "checkpoint": "family at the mountain house after training, machine incident and a limited Piccolo exchange",
+    "goshin_teaching": {
+      "state": "Goshin demonstrates stance, defence and an already-developed Kamehameha: he deliberately restrains output for instruction and changes the wave's size, direction and stopping point while moving stones, then helps Gohan practise.",
+      "evidence": "O142 O177; selected Chapter 19",
+      "previous_state_before_holistic_correction_2026_11_03": "Goshin demonstrates stance, balance, defence and existing Kamehameha and helps Gohan practise controlling and releasing light."
+    },
+    "gohan_kamehameha": {
+      "state": "Gohan performs and repeats a real Kamehameha, makes gathered ki fade without firing, chooses his target and uses the technique to move the machine bracket.",
+      "evidence": "O142 O143",
+      "limit": "An on-page new wave skill, not a new numeric power reading or claim of universal mastery. Gohan already has independent flight in Chapters 13, 14 and 17."
+    },
+    "goshin_real_concurrent_control": {
+      "state": "Goshin holds four falling rock pieces, uses his existing wave to turn a separate falling slab onto an empty slope, and lowers the held pieces safely.",
+      "evidence": "O144",
+      "limit": "Physical authored feat in Chapter 19; the earlier Chapter 18 wall-piece scene remains mind-travel and Chapter 15 already combined four real stones and a wave. No numerical maximum is inferred."
+    },
+    "combat_and_choices": {
+      "state": "Both boys choose an exchange with Piccolo; Gohan refrains from firing across Goshin and changes position. Chi-Chi protects their agency and later offers a tactical observation. The participants end their own exchange.",
+      "evidence": "O145 O178",
+      "limit": "Not a custody transfer, universal combat ranking or assured future training relationship.",
+      "previous_state_before_holistic_correction_2026_11_03": "Both boys opt into a one-round, bounded exchange with Piccolo under Chi-Chi’s conditions; Gohan refrains from firing across Goshin and changes position."
+    },
+    "growth": "The existing Talent and retained toolkit remain; no new named Goshin technique, transformation, exact reading or formal Order promotion is claimed.",
+    "previous_status_before_holistic_correction_2026_11_03": "preceding unaccepted Chapter 19 review revision; accepted Chapter 20 follows"
+  },
+  "review_branch_through_chapter_20": {
+    "status": "The separately preserved pre-correction Chapter 20 was accepted; this selected corrected Chapter 20 and Chapter 19 remain unaccepted review revisions.",
+    "checkpoint": "family home after training and a children’s visit; living Goku with King Kai and Bubbles",
+    "goshin_practice": {
+      "state": "He practises footwork, turns, existing flight and two-stone control in a bounded Piccolo round, then moves four pebbles in a controlled exercise.",
+      "evidence": "O150; Chapter 20, The Clearing and The Things They Practise",
+      "limit": "No numerical maximum, new named technique, quantified growth rate, transformation, formal Order or automatic immunity is asserted."
+    },
+    "gohan_practice": {
+      "state": "Gohan changes direction to get past Goshin, uses a dust feint and touches Piccolo’s arm. Later he aims his retained Kamehameha at the marked board.",
+      "evidence": "O150; Chapter 20",
+      "limit": "His independent progress does not make Goshin less capable or establish a numerical comparison."
+    },
+    "king_kai_private_thought": {
+      "state": "King Kai privately says Kaiō-ken after Goku catches Bubbles; Goku is not shown hearing or learning it.",
+      "evidence": "C215 O149",
+      "limit": "The technique has not been taught, performed or mastered in this branch."
+    },
+    "growth": "Existing capabilities and serious foundations remain; new technique or power readings require their own on-page support.",
+    "previous_status_before_holistic_correction_2026_11_03": "Chapter 20 explicitly accepted by the author; Chapter 19 remains an unaccepted review revision"
+  },
+  "review_branch_through_chapter_21": {
+    "status": "Revised Chapter 21 is unaccepted; the separately preserved pre-correction Chapter 20 is the accepted version, not its selected correction.",
+    "goshin_practice": {
+      "state": "In the bounded Piccolo round his physical strength and ki rise while he resists a push; he drives Piccolo back and responds faster. After more practice, a narrow retained Kamehameha cuts deeper at the earlier bank mark while four pebbles move; he catches and lowers a freed slab.",
+      "evidence": "O160; Chapter 21",
+      "limit": "A visible authored gain in the unaccepted revision, not a new named technique, numerical maximum, fixed growth rate, form, automatic immunity or formal Order. Earlier four-stone and rock-and-wave feats remain part of his foundation."
+    },
+    "gohan_practice": {
+      "state": "Chooses his uneven-ground exercise, climbs from a shallow cut and lands the next attempt; separately aims his retained Kamehameha.",
+      "evidence": "O160; Chapter 21",
+      "limit": "Independent agency and growth without a current numeric comparison."
+    },
+    "king_kai_training": {
+      "state": "Goku completes the two-week Gregory hammer task and holds an established ki level while moving. King Kai asks him to raise that level and keep it steady through a turn; Goku recovers after a higher-level flare and repeats the exercise. King Kai privately considers Kaiō-ken and another unnamed technique when Goku is inside.",
+      "evidence": "O156",
+      "limit": "Goku has not been shown hearing, learning or using those private techniques; Earth has no message of the meeting.",
+      "previous_state_before_fight_and_power_correction_2026_11_04": "Goku completes the two-week Gregory hammer task and begins basic ki control. King Kai privately considers Kaiō-ken and another unnamed technique when Goku is inside."
+    },
+    "future_chamber": "O155 remains a directed future year inside the physical chamber shortly before the Saiyans arrive; no visit is shown in this draft.",
+    "previous_status_before_holistic_correction_2026_11_03": "growth-and-appearance-corrected Chapter 21 review continuation, unaccepted; Chapter 20 remains the accepted handoff"
+  },
+  "review_branch_through_chapter_22": {
+    "status": "Unaccepted continuation of selected review Chapters 20–21; only the separately preserved pre-correction Chapter 20 is accepted.",
+    "goshin": {
+      "state": "After months of outside training, simultaneously moves six rocks including one wider than his shoulders, fires his wave and catches a piece of the broken board at speed. In one full lived chamber year he flies with a large block in the first week and later physically carries eight same-sized blocks under the same gravity. Separately he threads a wave between six moving blocks to follow Gohan’s moving target, catches the fragment, and eventually splits the empty floor with a stronger sustained wave before turning and stopping it; his strength and ki rise during a spar.",
+      "evidence": "O165 O177 O179; selected Chapter 22",
+      "limit": "No fixed maximum, numeric rate, new form, automatic immunity or formal Order.",
+      "previous_state_before_ki_sensing_correction_2026_11_03": "One lived physical chamber year; four smaller moving blocks plus wave progress to six larger blocks plus a caught fragment, then eight large moving blocks, a wave through three targets and controlled recovery. His ki and response improve during a spar and he progresses from slowly carrying a large block with both arms to raising that block overhead and flying with it on one shoulder.",
+      "previous_state_before_holistic_correction_2026_11_03": "One full lived physical chamber year; four smaller moving blocks plus a wave progress to six larger blocks plus a caught fragment, then eight large moving blocks, a wave through three targets and controlled recovery. His ki and response improve during a spar. He progresses from slowly carrying one large block with both arms to flying under the room's gravity while physically supporting eight same-sized blocks in two stacks of four.",
+      "previous_state_before_canon_time_gap_correction_2026_11_03": "One full lived physical chamber year. He brings previously developed Kamehameha mastery into greater gravity, advances from first-week flight with one large block to physically carrying eight same-sized blocks, and controls moving blocks while cutting targets. A later broad sustained wave splits the empty floor before he shapes, turns and stops it; his strength and ki also increase during a spar."
+    },
+    "gohan": {
+      "state": "One full continuous lived chamber year alongside Goshin; he improves independent flight already used before entry, develops faster turns and controlled moving Kamehameha, fires a stronger controlled wave through three spare blocks and into the white floor while flying, and clashes waves with his brother. He studies, chooses to continue, and emerges with ki Piccolo senses to be far above his own.",
+      "evidence": "O163 O166 O176 O181; selected Chapter 22",
+      "limit": "A meaningful qualitative post-chamber comparison, not a numerical reading, measured maximum, new form or claim about Nappa or Vegeta.",
+      "previous_state_before_ki_sensing_correction_2026_11_03": "Nearly the same lived chamber year; asks Goshin to demonstrate flight, learns independent flight on-page through repeated practice, improves a moving controlled Kamehameha drill, reads and chooses to continue.",
+      "previous_state_before_holistic_correction_2026_11_03": "One full continuous lived chamber year alongside Goshin; asks him to demonstrate flight, learns independent flight on-page through repeated practice, improves his moving controlled Kamehameha drill, clashes waves with Goshin and helps control the contest, reads and chooses to continue. His ki is dramatically stronger at emergence.",
+      "previous_state_before_author_piccolo_correction_2026_11_04": "One full continuous lived chamber year alongside Goshin; he improves independent flight already used before entry, develops faster turns and a moving controlled Kamehameha, clashes waves with his brother, studies and chooses to continue. His familiar ki is dramatically stronger at emergence.",
+      "previous_evidence_before_author_piccolo_correction_2026_11_04": "O163 O166 O176; selected Chapter 22",
+      "previous_limit_before_author_piccolo_correction_2026_11_04": "Agency and progress do not establish a numeric comparison."
+    },
+    "goku": {
+      "state": "After several months of direct training, Goku demonstrates a steady moving Kaiō-ken and receives a strain warning; he has already practised the Genki-dama and gathers, holds and releases a small sphere.",
+      "evidence": "O167 O179; Chapter 22",
+      "limit": "No final test, message to Earth, departure, exact multiplier or maximum shown.",
+      "previous_state_before_canon_time_gap_correction_2026_11_03": "King Kai names and begins teaching Kaiō-ken; Goku practises a limited controlled increase.",
+      "previous_limit_before_canon_time_gap_correction_2026_11_03": "No final test, Genki-dama instruction, message to Earth or departure shown."
+    },
+    "previous_status_before_holistic_correction_2026_11_03": "new unaccepted continuation; Chapter 20 remains the accepted checkpoint"
+  },
+  "review_branch_through_chapter_23": {
+    "status": "Unaccepted continuation; only the separately preserved pre-correction Chapter 20 is accepted, not the selected correction or Chapters 19 and 21–23.",
+    "goshin": {
+      "state": "Goshin comfortably avoids and redirects Piccolo's attacks in their aerial exchange, releasing some already-held ki and using turns he practised in the chamber. He keeps eight blocks moving while steering his established Kamehameha into open sky, then eases his ki down; Piccolo recognizes how much he held back. He spars Gohan under control and touches his shoulder; both boys land breathing easily.",
+      "evidence": "O169 O170 O177 O181; selected Chapter 23",
+      "limit": "Comfortably beyond Piccolo in this ordinary spar after the year; not a numeric maximum, fixed growth rate, permanent universal ranking, new form or predetermined Saiyan outcome.",
+      "previous_state_before_ki_sensing_correction_2026_11_03": "In a separately chosen supervised round after the lived year, Goshin’s ki rises while Piccolo increases his pressure, and he pushes Piccolo across the marked floor; he physically catches and moves a large chamber block while responding to Piccolo, holding it with ki and preventing uncontrolled debris.",
+      "previous_state_before_holistic_correction_2026_11_03": "In a separately chosen supervised round after the lived year, Goshin begins much stronger, his ki and physical strength rise further as Piccolo increases pressure, and he pushes Piccolo across the marked floor. He physically carries the first-week chamber block while separately moving others with ki; when a corner breaks he catches the pieces. The physical gain remains after his aura fades and Piccolo senses it.",
+      "previous_state_before_fight_and_power_correction_2026_11_04": "In a separately chosen aerial exchange after the lived year, Goshin begins much stronger and his ki and physical strength rise further as Piccolo increases pressure. He shapes, steers and stops his mastered Kamehameha in open sky. Piccolo senses the additional gain remains after the aura fades.",
+      "previous_state_before_author_piccolo_correction_2026_11_04": "In a separately chosen aerial exchange after the lived year, Goshin takes Piccolo's forearm strike, intercepts his next turn as speed and ki rise further, and drives him across the sky. He shapes, steers and stops his mastered Kamehameha and resists another pull after the flare settles. Piccolo senses the additional gain remains.",
+      "previous_evidence_before_author_piccolo_correction_2026_11_04": "O169 O170 O177; selected Chapter 23",
+      "previous_limit_before_author_piccolo_correction_2026_11_04": "On-page carried-forward and in-round growth, without a fixed ceiling, measured rate, numerical reading, new form or claim Piccolo fought at an established maximum.",
+      "previous_state_before_output_growth_correction_2026_11_04": "Goshin comfortably avoids and redirects Piccolo's attacks in their aerial exchange; his ki and speed rise further and the gain persists after the light settles. He keeps eight blocks moving while steering his established Kamehameha into open sky. He then spars Gohan under control and touches his shoulder; both boys land breathing easily."
+    },
+    "gohan": {
+      "state": "Gohan comfortably stops Piccolo's punch, avoids his extending arm and blasts, and demonstrates a stronger controlled Kamehameha away from him and the Lookout. He then exercises his own feints, speed and flight in a controlled round with Goshin. Both boys land breathing easily; the assistant-invented eye-blast breach remains removed.",
+      "evidence": "O166 O170 O176 O178 O181; selected Chapter 23",
+      "limit": "Comfortably beyond Piccolo in this ordinary spar after the year; independent growth is not a numeric maximum, permanent universal ranking or predetermined Saiyan outcome.",
+      "previous_state_before_ki_sensing_correction_2026_11_03": "Chooses the earlier aerial round, shows Chi-Chi the independent flight he learned in the chamber, changes direction and uses a ki feint. Piccolo breaches the agreed no-eye-blast condition; Gohan takes a light burn and Chi-Chi ends that round.",
+      "previous_state_before_holistic_correction_2026_11_03": "Chooses an aerial round and shows Chi-Chi the independent flight he learned in the chamber. Piccolo, already aware of Gohan's greatly increased ki, increases his effort as Gohan changes direction and uses a ki feint. Piccolo breaches the agreed no-eye-blast condition; Gohan takes a light burn and Chi-Chi ends the round.",
+      "previous_state_before_fight_and_power_correction_2026_11_04": "Gohan chooses an aerial exchange, uses the independent flight Chi-Chi already saw before the chamber, and brings faster movement and a controlled Kamehameha to his much stronger meeting with Piccolo. The participants end their own exchanges; the earlier assistant-invented eye-blast breach and light burn are not in this corrected version.",
+      "previous_state_before_author_piccolo_correction_2026_11_04": "Gohan chooses an aerial exchange, counters Piccolo's extending arm, drives him back and uses improved flight and a controlled Kamehameha in open sky. The participants end their own exchanges; the earlier assistant-invented eye-blast breach and light burn remain removed.",
+      "previous_evidence_before_author_piccolo_correction_2026_11_04": "O170 O176 O178; selected Chapter 23",
+      "previous_limit_before_author_piccolo_correction_2026_11_04": "Independent agency and growth without a numeric comparison or imposed outcome."
+    },
+    "goku": {
+      "state": "Rapidly retests Bubbles and Gregory, then successfully directs the previously practised Genki-dama into a fast thrown brick. King Kai gives a last-resort, one-use instruction for the approaching fight.",
+      "evidence": "O171 O179; Chapter 23",
+      "limit": "No numeric multiplier, demonstrated Earth-scale attack, universal use limit or battle outcome.",
+      "previous_state_before_canon_time_gap_correction_2026_11_03": "Reviews Bubbles, Gregory and a controlled Kaiō-ken turn; learns to gather, control and throw a small Genki-dama at a test brick, under King Kai’s single-use, last-resort instruction.",
+      "previous_limit_before_canon_time_gap_correction_2026_11_03": "Not a proven large-scale attack, exact multiplier, defeat or automatic future use."
+    },
+    "growth": "Previous chamber, life and combat gains remain the foundation; neither sibling is assigned a new scan, transformation, numeric maximum or formal Adaptation rank.",
+    "previous_status_before_holistic_correction_2026_11_03": "new unaccepted continuation; Chapter 20 is the accepted checkpoint, and Chapters 19, 21–23 have not been accepted"
+  },
+  "previous_canon_before_complete_canon_audit_2026_11_04": [],
+  "canon_baseline_scope": "A bounded cross-version reference for techniques and transformations relevant to the selected chapters or stated future rules, not a complete franchise catalogue. Each source and its branch use must remain separate; later canon possession is not automatic present branch knowledge.",
+  "review_branch_through_chapter_24": {
+    "status": "Unaccepted continuation after the selected unaccepted Chapter 23; only the separately preserved pre-correction Chapter 20 is the accepted version.",
+    "goshin": {
+      "state": "Redirects Nappa's arm, catches his punch and decisively knocks him into the crater; later holds one wrist while Gohan restrains the other. Quickly defeats one Saibaiman with a short burst. He and Gohan combine their retained Kamehamehas to redirect Vegeta's attack on Piccolo and Krillin; the collision loosens the slab he catches and carries clear. Watching Vegeta, he keeps more previously held-back power flowing rather than acquiring a permanent gain from the wave or lift. Vegeta reads 12,400 in the city, Nappa sees 13,600 at the quarry, and Vegeta reads 15,200 during the defensive-wave charge and 16,300 after the slab, where the output holds at that moment.",
+      "evidence": "O181 O182 O185 O186; selected Chapter 24 O187",
+      "limit": "Cumulative prior growth and earlier mastery remain, as does the potential for rapid substantial development. The displayed values are authored, condition-specific output readings, not proof of fresh permanent growth, a proven maximum, fixed growth rate, new form, immunity or guaranteed result. No single emotion, level of difficulty or situation is a mandatory growth trigger.",
+      "previous_state_before_story_and_nappa_correction_2026_11_04": "Redirects Nappa's arm as he fires; trades several blows without measured maximum; defeats a Saibaiman with his existing Kamehameha. His ki rises during the fight and again while he catches and guides a large falling quarry slab clear of Piccolo and Krillin; the gain remains after the light settles. Vegeta reads 12,400 in the city; Nappa sees 13,600 at the quarry, Vegeta reads 15,200 during the wave charge and 16,300 after the slab, where the reading holds.",
+      "previous_state_before_output_growth_correction_2026_11_04": "Redirects Nappa's arm, catches his punch and decisively knocks him into the crater; later holds one wrist while Gohan restrains the other. Quickly defeats one Saibaiman with a short burst. He and Gohan combine their retained Kamehamehas to redirect Vegeta's attack on Piccolo and Krillin; the collision loosens the slab he catches and carries clear. His increased ki remains afterward. Vegeta reads 12,400 in the city, Nappa sees 13,600 at the quarry, and Vegeta reads 15,200 during the defensive wave charge and 16,300 after the slab, where the reading holds.",
+      "previous_limit_before_output_growth_correction_2026_11_04": "Cumulative growth and earlier mastery remain. The displayed values are authored, condition-specific readings, not a proven maximum, fixed growth rate, new form, immunity or guaranteed result."
+    },
+    "gohan": {
+      "state": "Catches and lowers falling city masonry, helps civilians and independently restrains Nappa's hand when he threatens them. Quickly defeats one Saibaiman with a short burst, then combines his controlled Kamehameha with Goshin's to redirect Vegeta's attack and clears falling debris. Vegeta reads 9,200 in the city and 11,600 while he charges the defensive wave.",
+      "evidence": "O142 O170 O182 O185 O186; selected Chapter 24 O187",
+      "limit": "Independent action and development are real; the authored, condition-specific readings are not a proven maximum or final Saiyan outcome.",
+      "previous_state_before_story_and_nappa_correction_2026_11_04": "Catches and lowers falling city masonry, helps civilians, makes tactical choices in the quarry and defeats a different Saibaiman with his independently learned controlled Kamehameha. Vegeta reads 9,200 in the city and 11,600 while he charges the wave."
+    },
+    "others": {
+      "state": "Piccolo proposes moving the fight and hears the Namekian name; Krillin, Yamcha, Tien and Chiaotzu contribute. Vegeta attacks Piccolo and Krillin and gathers light for another attack at the end. Nappa remains alert to the twins' advantage. Four Saibaimen remain alive, one pinned by Goshin.",
+      "evidence": "O184 O185; selected Chapter 24",
+      "limit": "No off-page Kami knowledge, citywide safety or mandatory canon death.",
+      "previous_state_before_story_and_nappa_correction_2026_11_04": "Piccolo proposes moving the fight and hears the Namekian name; Krillin, Yamcha, Tien and Chiaotzu contribute. Four Saibaimen remain at the ending."
+    }
+  },
+  "review_branch_through_chapter_25": {
+    "Goshin": "Uses his earlier mastered flight, ki redirection and close combat against Vegeta. Vegeta reads 16,300, then 19,400 as Goshin releases further previously built reserves; Vegeta then removes the scouter. Goshin later feels real strength and ki development in the sustained exchange and adjusts his response to Vegeta’s attack. No new named technique, numeric gain, formal level, form, forced trigger or demonstrated maximum.",
+    "Gohan": "Uses independent flight, sensing, ki redirection, physical fighting and his learned Kamehameha against Nappa; knocks him unconscious without killing him. Later redirects a separate Vegeta blast away from the other fighters and joins Goshin. Earlier 9,200 and charged 11,600 remain snapshots, not ceilings or every current strike.",
+    "Yamcha, Krillin, Piccolo, Tien and Chiaotzu": "The five act against the remaining Saibaimen; Yamcha directs the ki ball he practised in Chapter 18 to remove a grappling creature before it self-destructs away from him. No previously unshown special form or power reading is assigned.",
+    "Nappa": "Uses physical attacks, ki blasts, ground explosions and a mouth-fired blast in this authored encounter; the official manga-based source reports the shock-wave and mouth-blast techniques (C293). This does not impose source outcomes or a precise numerical attack strength.",
+    "limit": "All events belong to an unaccepted candidate. No fighter’s measured maximum, fixed power growth rate, universal resistance, Kaiō-ken for either boy or Vegeta defeat is established."
+  }
+}

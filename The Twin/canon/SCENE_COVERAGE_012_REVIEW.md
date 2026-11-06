@@ -1,8 +1,13 @@
 # Episode 12 — research and original candidate coverage
 
+**Owns: the retained episode-12 source notes for the earlier Chapter 13 review candidate.**
+
+**Current Dragon Ball-feel correction, 6 November:** The selected, unaccepted [Chapter 13](../chapters/Chapter_13_The_Sparring_Ring.md) has a more playful, tactically legible father–son spar. Goshin gains strength during the wave clash and retains it after the wave, adapts to Goku's wrist pull and wins the existing ring-out. Gohan tries his own turn and escapes the accidental fissure with independent ki flight; Chi-Chi acts, Tien and Chiaotzu choose their training, and C-6 consents to exterior listening and explicitly asks about a bridge book. King Kai remains unanswered and the scouter unpowered. The selected text and [current correction record](DRAGON_BALL_FEEL_CORRECTION_2026-11-05.md) supersede older planning and object/habit descriptions below, including the disavowed compulsory repeat-back and food-handling rules; they are historical, not requirements. The complete retained episode-12 captions and Toei's short synopsis were reread; origin/cut and complete video/audio remain unverified. The spar, detailed rescue and laboratory scenes are authored branch staging.
+
+**Continuing emotional revision, 5 November:** See the [current continuation record](EMOTIONAL_REVISION_013_PLUS_2026-11-05.md) and selected chapter for the latest unaccepted wording and precise source limits. The original plan below remains historical.
+
 **Later character correction, 3 November:** This pre-draft plan is historical. Its compulsory repeat-back instruction was assistant-invented and rejected by the author; its scope restriction on Chapters 1–5 applied only to that earlier task. The current selected manuscripts and [correction note](SELECTED_CONTINUITY_CORRECTIONS_2026-11-03.md) take precedence.
 
-**Owns: the retained episode-12 source notes for the earlier Chapter 13 review candidate.**
 
 **Selected fight correction, 4 November:** In the current unaccepted Chapter 13, Gohan uses his own ki to fly out of the fissure, rather than escaping solely by the footholds described in the historical plan below (`O176`). His exact first flight lesson is not established.
 

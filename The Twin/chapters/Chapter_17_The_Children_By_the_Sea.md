@@ -14,13 +14,13 @@ Rainwater drips from the edge of Kami's Lookout. A folded drawing rests beneath 
 
 ## A Message for Kami
 
-"He came right down beside the weather station," Chi-Chi says. "The boys were still wet from the storm, and the first thing he wanted to know was why they weren't training."
+"He came right down beside the weather station," Chi-Chi says. "He'd felt the boys and thought the Saiyans had come early. Then he told them to train with him."
 
 Kami stands with his hands on his staff, facing Chi-Chi and the boys while Bulma leans against the bench.
 
 "Did he try to take you?" Kami asks the boys.
 
-"He wanted us to train with him," Gohan says. "We told him we were training here."
+"We told him we were training here," Gohan says.
 
 "He said he'd see what we'd learned," Goshin adds.
 
@@ -82,13 +82,15 @@ Popo sets four stones on the tiles to mark a square. Inside it, Krillin rubs his
 
 "No, no. These two look easier."
 
-Gohan laughs. Goshin grins at Krillin and takes the ball.
+"Did you hear that?" Goshin asks Gohan. He takes the ball, grinning. "Let's get him!"
+
+Gohan laughs and moves beside his brother.
 
 "You can go first," Gohan tells him.
 
 Krillin crouches. "Ready?"
 
-Goshin runs toward the left side of the square and rises off the tiles when Krillin moves to meet him. He changes direction in the air, but Krillin jumps up and reaches for the ball.
+"Here I come!" Goshin darts left and rises off the tiles when Krillin moves to meet him. He changes direction in the air, but Krillin jumps after him, reaching for his shirt and the ball.
 
 Goshin passes it to Gohan.
 
@@ -156,9 +158,7 @@ Chi-Chi glances at the clouds above the distant hills.
 
 "All right."
 
-Gohan folds the drawing again. "I still want to show C-6."
-
-"You can keep it in your pocket until we get there."
+Gohan folds the drawing again.
 
 Goshin looks over his brother's shoulder. "You made the bird bigger."
 
@@ -275,10 +275,6 @@ Rom nods. "There's a hole in our roof. These would cover some of it."
 Gohan turns to his brother. "We could make another boat."
 
 "With a floor," Goshin says.
-
-"Then they can have this one?"
-
-"Yes."
 
 Gohan tells Rom, "You can keep it. We were going to make a better one anyway."
 
@@ -412,7 +408,15 @@ Chiko looks toward the sea. "And our parents."
 
 Gohan takes off his hat and holds it in both hands. He looks toward Chi-Chi, who has stopped beside the broken wall. She does not speak for him.
 
-Goshin stays beside his brother, his tail still against his leg.
+Goshin looks back toward the sea. Yesterday he watched their raft disappear on the water; the broken houses are much farther up the shore.
+
+"Did the wave come all the way up here?"
+
+"Higher," Rom says.
+
+Goshin looks at the hill above the house, then at the broken roof. Yesterday the sea had risen around their little boat. He had found Gohan quickly when he fell, but the water had been everywhere.
+
+Gohan moves closer to Chiko.
 
 "I'm sorry," Gohan says.
 
@@ -456,67 +460,49 @@ On the road rising toward the newer part of town, the boys walk with Rom and Chi
 
 ## The Fruit Stall
 
-In the market square above the old town, a woman sells flowers near the road while a fruit seller stacks oranges and apples in wooden trays outside his shop.
+In the market square above the old town, a woman sells flowers while a fruit seller stacks oranges and apples outside his shop.
 
-Gohan stops in front of the apples. "They're bigger than the ones in my schoolbook."
+Gohan stops at the apples. "They're bigger than the ones in my schoolbook."
 
-"Are they all for one person?" Goshin asks.
+"If we eat them, you won't have to count them," Goshin says.
 
-"They cost money," Chi-Chi says.
+"Mother will want us to pay first."
 
-As Rom and Yordon drift toward the other side of the stall, Hatch crouches beside a water barrel, holding his stomach.
+Hatch crouches beside a water barrel, clutching his stomach. "Ow!"
 
-"Ow," he says.
+The seller bends toward him. The flower seller comes over too, and Rom fills a paper bag with apples while Yordon takes two oranges.
 
-The fruit seller turns. "What's wrong?"
+Gohan sees them. "Those aren't ours!"
 
-"It hurts!"
-
-A woman goes over from the flower stand, and while the seller bends down too, Rom lifts a paper bag from the end of the stall and pushes apples into it. Yordon takes two oranges.
-
-Gohan sees Rom and starts toward him. "Those aren't ours."
-
-"We need them," Rom says.
-
-The bag tears and an apple drops, bounces off Goshin's shoe and rolls across the square.
-
-The seller looks up.
+The bag tears. An apple bounces off Goshin's shoe, and the seller looks up.
 
 "Hey!"
 
-Rom grabs the apple and runs with Yordon, and Hatch stops holding his stomach to follow them.
+Rom snatches the apple and runs. Yordon follows, with Hatch right behind him, his stomach apparently better. An officer cuts across the square toward them.
 
-"My fruit!"
+Gohan chases Rom. Goshin catches up first and cups the bottom of the torn bag before the apples fall out.
 
-An officer near the flower stand cuts across the square toward the road. Gohan starts after Rom, with Chi-Chi close behind.
+"We need them," Rom says, holding the bag tight.
 
-Goshin catches up with Rom and cups the bottom of the torn bag, keeping the other apples from falling as they reach the far corner. The officer steps in front of them.
+The officer steps in front of them. "Give those back."
 
-The officer points at Rom. "Give those back."
+The seller arrives, breathing hard. "They've taken things before. I can't keep giving away my stock."
 
-Rom grips the top of the bag. "We haven't got anything."
+Chi-Chi reaches into her purse. Rom lets the seller take the apples from the torn bag, and Yordon returns the oranges. Goshin folds the empty bag while the seller counts the fruit. The seller takes Chi-Chi's money and puts the apples and oranges in a fresh bag.
 
-The seller reaches them, breathing hard. "They've taken things before. I can't keep giving away my stock."
+"I'm paying for these," she tells Rom. "But don't take his things again."
 
-Gohan and Chi-Chi reach the corner. "Rom, let him count what's in the bag," Chi-Chi says.
-
-Rom holds on for another moment, then lets the seller take the apples from the torn bag while Yordon hands over the two oranges. As the seller counts the fruit, Goshin folds the empty bag and Chi-Chi takes money from her purse. The seller checks it, then pulls a fresh bag from beneath the stall and puts the fruit inside.
-
-"I'm paying for these," Chi-Chi tells Rom. "But don't take his things again."
-
-Rom stares at the bag. "We didn't ask you to pay."
+"We didn't ask you to pay."
 
 "I know. You still took them."
 
-After a moment, Rom takes the bag she offers.
+After a moment, Rom accepts the bag. The officer looks toward the old town.
 
-The officer looks toward the old town. "You live down there, don't you? The people from the home have been looking for you."
+"The people from the home have been looking for you."
 
 Rom pulls the bag close. "We know."
 
-Pigero comes through the square with Chiko and Ena, stopping when he sees the officer.
-
-"What happened?"
+Pigero comes through the square with Chiko and Ena. "What happened?"
 
 "Nothing," Rom says.
 
@@ -524,19 +510,19 @@ Pigero comes through the square with Chiko and Ena, stopping when he sees the of
 
 Rom turns on him. "You didn't have to tell him!"
 
-"He asked," Gohan says.
+"He asked."
 
-Pigero takes the bag from Rom and looks inside, finding enough fruit for each child to have a piece.
+Pigero takes the bag and looks inside, finding enough for each child to have a piece. He hands it back to Rom. "Come on."
 
-"Come on," he says, handing the bag back to Rom.
-
-Chi-Chi buys rice and vegetables before they leave the market. On the way down, Rom walks ahead of everyone else. Chiko hurries after him, but he does not give her a piece of fruit. Gohan watches them go around the bend.
+Chi-Chi buys rice and vegetables before they leave. On the road down, Rom walks ahead, with Chiko hurrying after him. Gohan watches them disappear around the bend.
 
 "Is he angry with me?"
 
 "Yes," Chi-Chi says. "Give him a little time."
 
-*This programme continues after a message.*
+"Do you think he'll still want to be my friend?"
+
+"I hope so, sweetheart."
 
 ---
 
@@ -572,7 +558,7 @@ Hatch leans over his shoulder.
 
 "The bird's too big."
 
-"I know," Gohan says. "I'm making the boat bigger in the next one."
+"I know," Gohan says.
 
 "Give me that." Hatch finds a short pencil in his pocket and draws another boat beside Gohan's. His has a roof, a flag and a row of windows.
 
@@ -600,13 +586,7 @@ Chiko's spoon pauses. "Do you like it?"
 
 "Sometimes."
 
-"I was good at drawing," Hatch says. "I didn't like arithmetic. Or exercise."
-
-"You still don't like exercise," Yordon says.
-
-"I ran all the way back from the market."
-
-"Because the officer was behind you."
+Hatch lowers his spoon. "I was good at drawing. I didn't like arithmetic."
 
 Ena looks down into her bowl. "I've never been to school. I was too little before the wave."
 
@@ -632,9 +612,9 @@ Gohan glances at Chi-Chi. "She makes me do my lessons even when I want to play."
 
 Rom pushes rice around his bowl. "At least she's there."
 
-Gohan's spoon stops as he watches Chi-Chi help Ena reach a piece of carrot in the pot.
+Gohan's spoon stops. Rom keeps his eyes on his rice, but hasn't taken another bite. Across the step, Chi-Chi helps Ena reach a piece of carrot in the pot.
 
-"She is nice," he says.
+Gohan edges closer to Rom. "She is nice," he says.
 
 Chi-Chi looks up. "I heard the first answer too."
 
@@ -758,7 +738,7 @@ Goshin flies up to hold the cloth while Rom ties its corner to a nail from the l
 
 "Can you carry the whole house?"
 
-Goshin looks at the broken wall and the boards on the roof. "It might come apart."
+"Sure!" Goshin looks at the broken wall and the boards on the roof. "But I don't think it would all come with me."
 
 Rom climbs down. "I only asked."
 
@@ -800,7 +780,7 @@ Pigero does not answer, and behind him Rom starts dragging the sack toward the g
 
 The man who held Ena yesterday grabs Rom's arm.
 
-Chiko cries out and pulls at Rom's sleeve.
+Chiko cries out and pulls at Rom's sleeve. Ena rushes up beside her. "Don't hurt him too!"
 
 "Let him go!" the woman calls.
 
@@ -822,9 +802,9 @@ Goshin looks at the officer. "They're hurting him. Will you take them off?"
 
 "He was fighting me."
 
-Pigero holds his hands still. "I'm not fighting now."
+"I'm not fighting now," Pigero says.
 
-The officer reaches for his radio. Goshin slips two fingers between the cuff and Pigero's wrist. "I'll bend the lock away from you. Hold still."
+The officer reaches for his radio. Goshin looks at Pigero's reddened wrists, then slips two fingers under a cuff. "I'll bend the lock away from you. Hold still."
 
 He eases both locks outward, clear of Pigero's skin. The cuffs come free, still joined by their chain. Pigero pulls his hands back and stares.
 
@@ -837,6 +817,8 @@ The officer steps back, his hand on the radio. "You can't just take those off. H
 "He asked me to help him."
 
 The officer looks at the cuffs in Goshin's palm. "Those locks aren't supposed to bend."
+
+His hand tightens around the radio. Rom moves in front of Chiko, and she grips the back of his shirt. Goshin opens his hand so the officer can see the bent locks.
 
 Pigero flexes his hands and looks from the van to the children behind the wall.
 
@@ -1070,9 +1052,11 @@ Gohan nods and folds the drawing beside his hat, whose Four-Star Ball holds the 
 
 ## Far Away
 
-Goku tries the turning step on Snake Way again without breaking stride, then picks up speed around the bend.
+Goku runs up a rise on Snake Way and springs over a wide seam. In midair he throws two quick punches and a kick, then lands running. His shadow is the only one keeping up with him.
 
-"You two had better be ready when I get back!"
+"Gohan, Goshin, you'd better be ready when I get back!" He grins. "And your mother might surprise us all!"
+
+The next bend is still a long way ahead. Goku picks up speed.
 
 On the mountain, Goshin holds Hatch's boat drawing still with one finger while Gohan sets his hat beside it.
 
@@ -1097,6 +1081,12 @@ The paper stays where the boys left it.
 **NARRATOR:** What will their friends discover when Mr. Popo shows them another way to train?
 
 <!--
+## Footer
+
+**6 November 2026 — Dragon Ball-feel revision, unaccepted.** The ball game, market and family interactions were revised for more distinct play, concern and decision. Chi-Chi reports Piccolo's actual mistaken suspicion of early Saiyans; Rom and the others retain their own choices, and Ena protests when Rom is grabbed. Pigero asks for relief from painful cuffs; Goshin acts carefully and the officer objects. The one-night trial, open placement, C-6's book and Hatch's separate drawing remain. Goku stays on his own road and does not learn the children's events. The complete retained episode-16 caption and Toei's short synopsis were reread, not the complete video/audio; origin and cut remain uncertain and detailed family staging is authored. The exact predecessor (SHA-256 `8b3d6506639d10f5e6ef7be35af1e8caf0b594d52d709191aafe98d97064e31b`) is in the [verified 122-member pre-correction archive](../canon/ARCHIVE_INDEX.md#backup-042), ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. Earlier footer entries remain historical where superseded; this is not reader acceptance.
+
+**5 November 2026 — continuing emotional revision, unaccepted.** The visit now gives the brothers distinct ways of meeting the children's loss, lets Gohan worry about Rom's friendship and shows the bystanders' response to Goshin's careful removal of the painful cuffs. Goshin remains capable, compassionate and playful; Pigero requested his help and retains agency, the officer objects, and neither a permanent placement nor a guaranteed right to leave is invented. Goku's road practice is varied rather than reduced to one repeated movement. A subsequent light tightening removes a few repeated boat and school exchanges without changing the children's choices or C-6's consent; the exact intermediate Chapter 17 is in a [separate verified ZIP](../canon/ARCHIVE_INDEX.md#backup-047). The immediately preceding Chapters 17–18 are byte-preserved in the [verified local ZIP](../canon/ARCHIVE_INDEX.md#backup-057). The complete retained episode-16 caption and the Toei synopsis were reread; origin and cut remain uncertain, and no full video or audio was examined. The twin-family visit, invented blocking and changed outcomes are authored.
+
 ```
 ANIME BASE: ep. 16 (anime-only)
 EVIDENCE: Japanese captions of unverified source and cut, selected stills and secondary summaries; visual continuity remains unverified.

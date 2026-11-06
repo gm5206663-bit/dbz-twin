@@ -4,6 +4,8 @@
 
 **Owns: the source-order inventory and actual divergence decisions for the episode-7 adaptation.** Before drafting, the complete local Japanese episode-7 caption file was reread (`W-30`; its source and cut are unverified). `W-56` and `W-57` are secondary episode guides, not complete-video inspection. Captioned words do not establish silent action or exact visual ordering. Times below use the local file, and rows follow the episode, not the chapter's screen order.
 
+**5 November current treatment:** The complete retained episode-7 captions, including preview, ending and unrelated tail, and the short [Toei synopsis](https://lineup.toei-anim.co.jp/ja/tv/dragonz/episode/7/) were reread; no complete video/audio was examined and caption origin and cut remain unverified. In selected Chapter Eight Gohan and Goshin choose to rescue a dinosaur, Piccolo intervenes for his own purposes and continues to pursue them, and Chi-Chi reunites with them at the river. Goku and Gohan each eat a Senzu; Goshin chooses medical care and the third remains with Krillin. The family is told of the moon risk and heads toward Chapter Nine’s doctor. See the [current correction](DRAGON_BALL_FEEL_CORRECTION_2026-11-05.md). The older treatment, including its different bean keeper, doctor transport and road-entrance claims, remains historical below.
+
 | Caption interval / support | Episode-7 baseline | Historical treatment in the older Chapter Eight draft |
 |---|---|---|
 | 03:19–04:21, recap and narration | Kami asks Yemma to send dead Goku to King Kai; the guide shows Goku the road. Piccolo tells Gohan of the coming Saiyans and takes him for training. | The approximate one-year warning remains. Goku lives. Kami's ungranted inquiry for a living, willing and recovered Goku and his view of the road entrance were already staged in Chapter Seven (`O100`). Piccolo failed to take either child; no one begins Snake Way or a year in his custody by fiat. |
@@ -30,3 +32,6 @@
 ## 3 November checker-repair note
 
 The 3 November checker repair adds brief detail to the dinosaur rescue and the family’s conversation about the watched-food rule and Korin’s permission. Goku and Gohan eat a bean each; Goshin does not. These are authored details, not a claim of newly reviewed footage.
+
+
+**5 November 2026 continuing-pass pointer:** The [current Chapters 3–12 source and branch record](EMOTIONAL_REVISION_003_012_2026-11-05.md) documents the local emotional revision, reread caption limits and pre-pass versions. Where this inventory explicitly labels a treatment column historical, follow the selected manuscript and that newer record rather than the older column.

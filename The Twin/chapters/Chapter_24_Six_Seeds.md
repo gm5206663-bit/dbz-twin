@@ -34,6 +34,8 @@ Nappa touches his own scouter and looks at its display. "Both stronger than me? 
 
 A man across the road raises a camera. The flash goes off, and Nappa turns toward him. The man lowers it and backs against a wall.
 
+"You should have asked me to smile," Nappa says. He bares his teeth at him.
+
 Nappa looks from the people to the approaching signals. "If those fighters care about this place, they'll come straight to us."
 
 Vegeta glances at the buildings. "Don't ruin the planet. We may still want to sell it."
@@ -56,7 +58,7 @@ A slab breaks from the damaged building and tips toward the doorway. Gohan catch
 
 "Come out!" Gohan calls.
 
-The father carries his daughter past the slab. Gohan guides it down into the road, clear of them, then lifts a fallen sign from their path.
+The slab shifts in his grip. He steadies it while the father carries his daughter underneath, then guides it down into the road, clear of them. He lifts a fallen sign from their path.
 
 The delivery driver has fallen beside the crossing. The man and woman with him are trying to get him up. Gohan flies to them and takes the driver's uninjured arm. Together they bring him to his feet.
 
@@ -74,7 +76,7 @@ Nappa stares at his arm. Goshin lands in front of him, with the two pods behind 
 
 Nappa's hand closes into a fist. "You knocked that aside?"
 
-He swings at Goshin. Goshin catches the punch in one hand. Nappa drives forward, but Goshin's arm doesn't move.
+He swings at Goshin. Goshin catches the punch in one hand. Nappa drives forward, but Goshin's arm doesn't move. Nappa's grin vanishes. Goshin's feet stay planted beside the cart, and for a moment the larger man can only stare at the hand holding his fist.
 
 Goshin lets go, steps inside Nappa's guard and drives his palm into the armour. Nappa flies off his feet and crashes into the crater, breaking stone beneath him.
 
@@ -148,6 +150,8 @@ Piccolo's eyes narrow. "A what?"
 
 "A Namekian," Vegeta says. "I wondered where the Dragon Balls came from. Some of your people have unusual abilities."
 
+Piccolo repeats the unfamiliar name under his breath. He has known himself as Piccolo all his life. Now this stranger claims to know where he came from.
+
 "I don't know any Namekians."
 
 "You made the Dragon Balls, didn't you?"
@@ -180,9 +184,9 @@ A siren sounds beyond the next block. Piccolo glances toward it, then back at Ve
 
 Goshin looks at Nappa's hand. "We'll stop you here."
 
-Vegeta studies the brothers again. More signals sound from his scouter, approaching from different directions.
+Vegeta's scouter chirps as more signals approach from different directions. Four figures flash across the lens: **1,120**, **1,360**, **1,410** and **700**. He looks back at the brothers.
 
-"Your friends are coming. They'll follow you to the quarry."
+"Your friends are coming. Those are well below you two. They'll follow you to the quarry."
 
 "Vegeta?" Nappa says.
 
@@ -244,7 +248,7 @@ Chi-Chi looks up. Far beyond the roofs, five figures are moving away from the ci
 
 The girl lifts her face from her father's shoulder. "The one in the road helped us."
 
-Chi-Chi reaches out and brushes glass from the girl's coat. "I'm glad you got clear."
+Chi-Chi closes her hand on her own sleeve. One of her boys was in that street when the roof broke. She brushes glass from the girl's coat. "I'm glad you got clear."
 
 Bulma starts the car. Popo lifts the carpet just high enough to pass over the stalled bus and follows her toward the junction.
 
@@ -278,9 +282,13 @@ Yamcha looks toward the roof of the damaged building. "We'll keep the fighting a
 
 "Get everyone back," Chi-Chi says. "Including yourselves."
 
-"We'll try."
+Yamcha gives her a quick smile. "That's the part I was planning to take care of first."
 
-Krillin lifts into the air. "We can feel them moving. Come on."
+"See that you do."
+
+Krillin looks west. "Come on, before she gives us homework too."
+
+Krillin lifts into the air. "We can feel them moving."
 
 Yamcha follows him over the roofs. Chi-Chi watches until they are past the smoke, then turns back to the bus.
 
@@ -318,6 +326,14 @@ The telephone rings. Roshi picks up the receiver.
 
 A man asks if the line is clear. Roshi tells him he has the wrong number and gently puts the receiver down.
 
+"Well?" Oolong asks.
+
+"It was the wrong number."
+
+"Couldn't you have told him to call back later?"
+
+Roshi looks at the silent receiver. "I did."
+
 Oolong looks out across the sea. "How much longer does Goku need?"
 
 "I don't know."
@@ -326,7 +342,7 @@ On Snake Way, Goku runs around a long bend. He carries the small supply capsule 
 
 He looks ahead into the clouds.
 
-"Come on, road."
+"Come on, road. You were long enough the first time."
 
 He leans forward and runs faster.
 
@@ -359,6 +375,8 @@ Piccolo's cape moves in the wind. "You heard how his fight ended."
 Gohan looks up at Piccolo. "Have you ever heard of that planet?"
 
 "No."
+
+Gohan looks at him again. Piccolo is still watching Vegeta, but one hand has tightened beneath his cape.
 
 "Do you think Vegeta knows where it is?"
 
@@ -396,7 +414,7 @@ Gohan says nothing. Vegeta watches his face, then smiles.
 
 "We'll have to make someone talk."
 
-Goshin moves half a step forward. "You can try fighting us instead."
+Goshin moves half a step forward, an eager grin breaking through his anger. "You can try fighting us instead."
 
 "I intend to. But you and your brother could have a much better life than Kakarot chose. You're Saiyans. Why protect a planet full of strangers?"
 
@@ -472,16 +490,6 @@ He swings a leg over the rail and catches the pole beneath the platform. His bow
 
 ---
 
-## Eye-Catch
-
-Six mounds of earth break open in the quarry. Gohan and Goshin hover above the stone, while Piccolo, Krillin and Yamcha face the movement below.
-
-**NARRATOR:** This programme continues after a message.
-
-The first green hand pulls free.
-
----
-
 ## What Came Out
 
 Six green creatures climb from the soil, dirt sliding from their ridged heads and narrow shoulders. Their clawed feet dig into the ground as they spread across the quarry. One crouches with its hands against the dirt; another springs onto a low rock and bares its teeth. Their heads turn together toward the defenders.
@@ -513,6 +521,10 @@ Tien moves in front of Chiaotzu. "Stay close to me."
 "I will. I'm fighting too."
 
 Tien looks at him, then nods. "Watch the ones at the sides."
+
+Krillin eyes the closest creature as it opens its mouth. "I liked them better when they were seeds."
+
+The Saibaiman shrieks at him. "All right, all right. I liked you better underground."
 
 Vegeta points past the brothers. "Attack the others."
 
@@ -648,7 +660,7 @@ The child in Puar's arms points toward the sky. "Are they coming back?"
 
 Chi-Chi follows the pointing hand. The air above the city is clear of the Saiyans.
 
-"We're taking you somewhere safer. Your family can come with us."
+"I don't know," Chi-Chi says. "My sons and their friends are trying to stop them. We're taking you somewhere safer, and your family can come with us."
 
 A woman hurries down the steps and takes the child's hand. Puar lowers them carefully onto the carpet, and Popo makes room for the woman beside them.
 
@@ -706,12 +718,19 @@ On Snake Way, Goku rounds another bend. The road continues into the clouds, and 
 
 <!--
 ## Footer
+
+**6 November 2026 — full-manuscript review correction, unaccepted.** Krillin's two consecutive remarks no longer repeat the same invitation. The joke, urgency, locations, fights and readings are unchanged. The exact immediate predecessor (SHA-256 `d3e607dbf8e4df596d5e30ca08cc4907477dbd00564a34f3c44d6eb55e263e22`) is in the [verified non-private review snapshot](../canon/ARCHIVE_INDEX.md#backup-031); the complete prior footer follows. No new chapter, reader acceptance, full audiovisual source review or remote synchronization is implied.
+
+**6 November 2026 — Dragon Ball-feel revision, unaccepted.** Nappa's cruelty, Piccolo's disquiet at the Namekian name, worried friends' characteristic banter and Chi-Chi's honest reassurance give the changed crisis room to breathe. Gohan independently helps the people, both brothers stop Nappa, and four Saibaimen remain as Vegeta attacks. The existing authored, situational readings and all locations and choices remain; no casualty count or full evacuation is invented. The complete retained episode-22 captions and Toei synopsis were reread, not full audiovisual performance; original caption source and cut remain unknown. Exact selected predecessor SHA-256 `60b071de7ebc1c9ace11f15e572f8aa10443ce5b7f1e97c951ef4a4e67522bf1` is in the [verified 122-member pre-correction archive](../canon/ARCHIVE_INDEX.md#backup-042), and the complete earlier footer follows. No acceptance or remote sync is implied.
+
+**5 November 2026 — continuing emotional revision, unaccepted.** Gohan's rescue remains his independent action; Chi-Chi's work now carries a sharper awareness of where her sons stood, and Goshin can be eager to fight while protecting people. The six Saibaimen, four remaining at the handoff, altered evacuation and the existing authored momentary scouter readings remain. The distant 9,200/12,400 figures now first appear in the preceding Chapter 23 and are rescanned and identified here. Four additional approaching signals now display **1,120**, **1,360**, **1,410** and **700**, without identifying their owners; Vegeta compares them with the brothers. These are authored snapshots, not source readings or maxima. Exact immediate predecessors of Chapters 24–25 are in the [verified local ZIP](../canon/ARCHIVE_INDEX.md#backup-060); the exact Chapter 24 after that pass but before the four additional readouts is in a [separate verified ZIP](../canon/ARCHIVE_INDEX.md#backup-048). The complete retained episode-22 caption member and Toei synopsis were reread; no full video or audio was examined, and caption source/cut remain unknown.
+
 ```
 ANIME BASE: ep. 22, complete retained spoken-caption sequence, with its source events causally altered by the selected branch; the Saibaiman battle continues in the next chapter.
 EVIDENCE: Complete Dragon_Ball_Z_022.srt member from the existing 001–291 archive, including recap, preview, ending and unrelated trailing fragment; source and cut unverified. Toei's episode-22 synopsis and Kanzenshuu's secondary episode guide were checked as short descriptions. No full episode video/audio or new stills were examined.
 WITNESS: W-30 W-115 W-116; C284 C285 C286 C287 C288; canon/SCENE_COVERAGE_022.md.
 STAGING: O155 O163 O170 O174 O175 O177 O181 O182 O183 O184 O185 O186 O187 O188; the earlier-trained brothers reach the city while Nappa prepares his greeting, turning that particular attack away from civilians. The city, aid work, travel, direct confrontation, changed battlefield, seven fighters, individual Saibaiman exchanges and two defeats are authored consequences. No exact branch casualty total, Goku arrival, complete evacuation, new form or Saiyan battle result is asserted.
-SCALE: These scouter readings are authored for this divergent branch, not original-Z measurements. Vegeta identifies Gohan at 9,200 and Goshin at 12,400 in the city. At the quarry Goshin releases more of his existing power and Nappa reads 13,600. After each boy quickly defeats one Saibaiman, Vegeta attacks Piccolo and Krillin; he reads Gohan at 11,600 and Goshin at 15,200 while they charge their defensive Kamehamehas. That 15,200 is a technique-charging snapshot, not an ordinary baseline. After the shock loosens the slab, Goshin keeps more previously held-back ki flowing while he watches Vegeta; the scouter reads 16,300 at that moment. Neither the wave nor the slab grants him a new permanent increase, and no reading establishes a maximum. Four Saibaimen remain alive, one pinned. Both boys carry the full lived chamber year and comfortably exceeded this Piccolo in their prior ordinary spars. Goshin decisively overpowers Nappa in the city, and Gohan restrains him when he threatens civilians; Nappa and Vegeta adapt. Genuine substantial or rapid growth remains possible without a fixed rate or mandatory trigger. No transformation or final Saiyan battle result is established.
+SCALE: These scouter readings are authored for this divergent branch, not original-Z measurements. Vegeta identifies Gohan at 9,200 and Goshin at 12,400 in the city. Four other approaching signals show 1,120, 1,360, 1,410 and 700; their owners are not identified by that scan, and the numbers are not maxima. At the quarry Goshin releases more of his existing power and Nappa reads 13,600. After each boy quickly defeats one Saibaiman, Vegeta attacks Piccolo and Krillin; he reads Gohan at 11,600 and Goshin at 15,200 while they charge their defensive Kamehamehas. That 15,200 is a technique-charging snapshot, not an ordinary baseline. After the shock loosens the slab, Goshin keeps more previously held-back ki flowing while he watches Vegeta; the scouter reads 16,300 at that moment. Neither the wave nor the slab grants him a new permanent increase, and no reading establishes a maximum. Four Saibaimen remain alive, one pinned. Both boys carry the full lived chamber year and comfortably exceeded this Piccolo in their prior ordinary spars. Goshin decisively overpowers Nappa in the city, and Gohan restrains him when he threatens civilians; Nappa and Vegeta adapt. Genuine substantial or rapid growth remains possible without a fixed rate or mandatory trigger. No transformation or final Saiyan battle result is established.
 ```
 The selected Chapter 24 is unaccepted. The separately preserved pre-correction Chapter 20 remains accepted; its selected correction and Chapters 21–24 remain unaccepted. Source captions and synopses do not establish complete video/audio review or reader approval.
 -->

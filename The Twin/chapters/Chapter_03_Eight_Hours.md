@@ -4,183 +4,195 @@
 
 ## The House After They Leave
 
-Nimbus disappears beyond the ridge. Chi-Chi keeps one hand raised until there is nothing left to wave at, then lowers it and turns back toward the house.
+Nimbus vanishes beyond the ridge. Chi-Chi waves until the last speck of yellow is gone, then picks up the three bowls she left by the door.
 
-The yard is suddenly quiet. The wood Goku and Goshin stacked fills one side of the shed; shavings lie around the chopping block, and a bucket stands beside the kitchen step. On the washing line, two small shirts stir above two much larger ones.
+"Supper," she calls after them anyway. "Not bedtime!"
 
-Chi-Chi picks up the three bowls she set near the door and carries them inside. The rice pot is warm. She puts its lid on properly, rinses the bowls and returns them to the shelf.
+The yard doesn't answer. The wood Goku and Goshin stacked fills one side of the shed, and a piece of bark has landed on the washing line. Chi-Chi flicks it off, carries the bowls inside and rinses them at the sink.
 
-The schoolbook is still open on the table. A brush rests beside it, its tip dry, and Goshin's practice characters cover a sheet of paper. Chi-Chi gathers the sheet up before a draught from the window can lift it, then finds the blue book's ribbon and opens it to the sums.
+The schoolbook is open on the table. Beside it lies Goshin's practice sheet, with a brush balanced across one corner. Chi-Chi lifts the sheet. The last character is larger than the others, the missing stroke squeezed in where it belongs.
 
-Two lines are finished in a small, careful hand. On the next page, several more answers sit neatly beneath their questions. After that there are blank spaces.
+"You got it."
 
-"Half done," she says. "And off to an island with their father."
+She props the page where Goku will see it and opens the blue book to the sums. Two lines are finished; several answers follow on the next page, and after that there are blank spaces.
 
-A chicken wanders through the doorway. Chi-Chi nudges it back outside with her foot.
+"Half done? And off to play on an island?"
 
-"You too? Everybody's decided this is a holiday?"
+A chicken wanders through the door and pecks at the corner of the book.
 
-The chicken clucks and pecks at something beside the step. Chi-Chi carries the book into the sun, sets a stool in the middle of the yard and puts the book squarely on top of it.
+"Don't you start."
 
-"There. When they get home, nobody can say they couldn't find it."
+Chi-Chi rescues the page and nudges the chicken outside. It clucks at her from the step. She puts a stool in the middle of the yard, sets the book squarely on top and opens it to the unfinished sums.
 
-She goes back in for the washing. When she comes out, she has a basket against her hip and a wooden peg between her teeth. She hangs a pair of small trousers, then Goku's orange shirt, then another of the boys' shirts. She checks the marks inside the collars before placing each one on the line.
+"There. When they come home, nobody can tell me they couldn't find it."
 
-Something knocks against the bottom of the basket. Chi-Chi fishes a smooth pebble from a pocket and holds it up. A white stripe runs across the dark stone.
+She brings out a basket of washing. A pair of small trousers goes onto the line; Goku's orange shirt stays draped across the basket. The clothes already hanging there shift when the breeze comes up the mountain.
 
-"Goshin, if you want to keep it, it doesn't have to go through the wash."
+"I should have gone with them," she says. "It's been ages since I talked to Bulma."
 
-She sets it on the step. The chicken comes back and pecks at it. Chi-Chi picks the pebble up again and takes it inside, where she puts it on the table beside the paper covered in practice characters.
+She shakes a sheet open, catches it before the wind can carry it over the beans and clips it beside the others. Something rattles in the bottom of the basket, and she fishes a pebble out of a small trouser pocket. A white stripe runs around it.
 
-A second pocket contains a bent scrap of paper. Chi-Chi unfolds it: a little drawing of an animal, with a word written beneath in an uncertain hand. She spreads it beside the stove to dry, weighting the corners with two spoons. When the damp paper begins to curl, she turns one spoon around so its handle holds the edge down.
+"Goshin, if you want to keep a rock, it doesn't have to go through the wash."
 
-Back outside, she takes Goku's shirt off the line and shakes it out. A loose seam has opened beneath one arm. She sighs, fetches her sewing basket and sits on the step to mend it, with the line of wet clothes moving above her. The needle disappears into the orange cloth and comes out again in a row of small stitches.
+The chicken pecks at the pebble when she sets it down. Chi-Chi scoops it up and puts it beside the practice sheet. From another pocket she unfolds a damp drawing of an animal, with a word written underneath in an uncertain hand. She lays it beside the stove to dry and holds its curling corners down with two spoons.
 
-"If he tears this one today, he can bring it straight back to me."
+Back in the yard, she shakes out Goku's shirt. A seam has opened beneath one arm.
 
-She knots the thread, returns the shirt to the line and gathers the sewing things. The wind carries the smell of damp cotton and woodsmoke down the path. Chi-Chi reaches for another peg, hears a bicycle coming up the road and looks toward the gate.
+"Again?"
 
-A boy pedals past with a rolled sheet of paper tucked under one arm. He slips it into the box on the gatepost without getting off his bicycle and rides away downhill.
+She fetches her sewing basket, sits on the step and mends it with quick, neat stitches. The loose gate rattles below the path. When she returns the shirt to the line, an engine growls somewhere beyond the ridge, but it fades without coming any closer.
+
+A bicycle appears instead. A boy pedals past, slips a rolled paper into the box on the gatepost and calls goodbye without stopping.
 
 "Is that from the school?" Chi-Chi calls.
 
-The bicycle is already around the bend. She opens the box and unrolls the paper against her hand. A red circle sits at the top. Beneath it are columns of marks for reading, writing, sums, nature study and conduct.
+The bicycle is already around the bend. She unrolls the paper at the gate. A red circle sits above the columns of marks for reading, writing, sums, nature study and conduct. She reads them twice, then hurries back to the house with the paper held in both hands.
 
-She reads the sheet twice. Then she takes it to the doorway and pins it beside the pencil marks on the frame where she has measured the boys as they grow. She pegs the lower corners so the paper will not flap against the wood, then steps back to look at it.
+"Look at you, Gohan!"
 
-"Eight hours a day," she says. "See what studying does?"
+She pins it to the doorframe beside the pencil marks recording the boys' heights, then steps back to admire it. The chicken comes over to inspect it too.
 
-The chicken comes over to inspect the paper. Chi-Chi shoos it away and smooths a corner that has curled in the breeze.
+"Eight hours a day," Chi-Chi tells it. "See what studying does?"
+
+The chicken pecks at the bottom of the paper. Chi-Chi shoos it away and fastens the lower corners more securely.
 
 "Wait until your father sees this, Gohan."
 
 ## The Teacher at the Gate
 
-Another bicycle appears on the road, this one being pushed. A young woman in a brown coat stops at the gate, sets the bicycle on its stand and adjusts the satchel over her shoulder.
+Another bicycle comes up the road, this one being pushed. A young woman in a brown coat stops at the gate, sets the bicycle on its stand and shifts a satchel higher on her shoulder. Mud speckles the wheels from the climb, and a stack of exercise books is tucked beneath her arm.
 
-"Good afternoon. I'm collecting the exercise books for the second class."
+"Good afternoon. I've come for the second class's exercise books."
 
-Chi-Chi looks toward the stool. "The sums aren't finished. The boys went out with their father."
+Chi-Chi points to the stool. "The sums aren't finished. The boys went out with their father."
 
-"I can come back."
+The teacher glances at the book standing by itself in the middle of the yard. "I can come back."
 
-"They'll finish them when they get home." Chi-Chi gestures to the paper on the frame. "Can you tell me what the red circle means?"
+"They'll finish when they get home." Chi-Chi gestures to the paper on the doorframe. "Did Gohan do as well as this looks?"
 
-The teacher leans forward to see it. "It means Gohan did very well."
+The teacher leans forward. "He did. He worked very hard."
 
-Chi-Chi tries to hold her face still. "Well, good. He worked hard for it."
+Chi-Chi takes the paper down to show her the marks at the bottom. The teacher points to a line of neat answers, and Chi-Chi pins it up again in exactly the same place.
 
-"He asks thoughtful questions, too. Last week he wanted to know why the river on the map changes colour near the sea."
+Chi-Chi folds her arms, but her smile escapes. "He certainly did."
 
-"He asks those questions at home as well. Sometimes while his food is getting cold."
+"He asks good questions, too. Last week he wanted to know why the river on the map changes colour near the sea. I had to find a better map before he came back."
 
-"That's not the worst time to ask a question."
+"He asks those questions at home while his food gets cold."
 
-Chi-Chi lets out a short laugh. She rests her hands on the gate. "Goshin is on the list for the spring too?"
+"At least I don't have to keep his lunch warm."
 
-"Both boys are. I've checked."
+Chi-Chi laughs. She picks up the schoolbook and brushes a bit of chicken feather off its cover. The teacher shifts the books under her arm, and the top one starts to slide; Chi-Chi catches it and hands it back.
 
-"Goshin watches your hands when you show him something. If he can't see the page, he'll move his chair until he can."
+"Both boys are on the list for the spring, aren't they?"
 
-"Then we'll find him a place where he can see." The teacher smiles. "And there will be room for Gohan to ask questions."
+"Both. I've checked."
 
-"Can they sit together?"
+"Goshin will want to know how everything works. He took a little box apart to see the catch and put it back together before I could find the pieces."
+
+"Did the catch work afterward?"
+
+"Better than it did before."
+
+"Then perhaps he can look at the classroom cupboard. The door sticks whenever it rains."
+
+"If you ask him, he'll try."
+
+The teacher glances down at the book in Chi-Chi's hands. "And if he finds a better way to answer a question, I hope he'll tell me."
+
+"He will," Chi-Chi says. "Gohan will want to know why it works, too. You'll have both of them at your desk."
+
+"I'll try to be ready. No promises about the cupboard."
+
+Chi-Chi goes back to the doorway for the practice sheet and carries it to the gate. "He turned this character sideways before he could see which stroke was missing."
+
+The teacher turns her head to read it that way, then smiles.
+
+"Can the boys sit together?" Chi-Chi asks.
 
 "If they want to. There are two places near the window."
 
-Chi-Chi looks back at the shirt moving on the line. "They may want to sit with somebody else once they get there."
+"They might want to sit with the other children once they get there."
 
 "That can happen too."
 
-The teacher opens her satchel and takes out a folded sheet with a list of supplies. Chi-Chi holds it against the gate while they read. Brushes, paper, a small cloth to wipe the desks, and a book the children can choose themselves.
+The teacher opens her satchel and takes out a folded supply list: brushes, paper, a cloth for the desks and a book each child can choose. Chi-Chi holds it against the gate while they read. The wind lifts one corner, and the teacher traps it beneath her bicycle handle until Chi-Chi has reached the end.
 
-"One book each?" Chi-Chi asks.
+"One book each?"
 
-"One each. They can exchange them with the other children if they ask first."
+"They can exchange with the others if they ask first. There's no hurry to choose."
 
-"Gohan has a book about animals he reads over and over. Goshin likes pictures he can ask questions about." Chi-Chi points to the bottom of the list. "Do they have to choose now?"
+"Gohan has an animal book he reads over and over. Goshin likes pictures he can ask questions about." Chi-Chi folds the list and tucks it into the gatepost box, out of the wind. "I'll write their names on everything. Otherwise they'll both come home with somebody else's brush."
 
-"Not until the first day. There's time to find the one they want."
-
-Chi-Chi folds the sheet along its crease and tucks it inside the gatepost box, out of the wind. "I'll have their names on everything. Otherwise they'll both come back with somebody else's brush."
-
-"That happens too," the teacher says. "Sometimes the other child comes back with theirs."
+"Sometimes the other child comes home with theirs," the teacher says.
 
 "Then I'll write their names twice."
 
-The teacher laughs. "If they need help settling in, you can speak to me. They don't have to know everything before they arrive."
+The teacher laughs and takes her bicycle off its stand. "I'll collect the book later. They don't have to know everything before their first day."
 
-Chi-Chi glances at the unfinished sums on the stool. "They do have to finish what they've started."
+"They do have to finish what they've started."
 
 "That's between you and them."
 
-The teacher takes her bicycle off its stand. "I'll collect the book later, when they're back."
-
-"I'll make sure it's ready."
-
-She watches the teacher go, then returns to the washing. The red circle shines against the pale paper whenever the sun clears the roof. Chi-Chi hangs the last shirt where it will not shade it.
+Chi-Chi watches her ride downhill. She puts the practice sheet back by the door, opens the exercise book at the sums again and leaves it on the stool. The red circle shines whenever the sun clears the roof.
 
 ## Work and Waiting
 
-The radio plays in the kitchen while Chi-Chi cuts vegetables for supper. A cheerful voice mentions repairs on the mountain road and asks travellers to take care beyond the ninth marker. She turns the volume down and slides the chopped pieces into a pot.
+A cheerful voice on the kitchen radio warns travellers about repairs beyond the ninth marker on the mountain road. Chi-Chi turns it down and chops vegetables for supper. She feeds two pieces of split wood under the pot, checks the flame and lines up four bowls on the table.
 
-Split wood is stacked beside the stove. She chooses two pieces, sets them under the pot and checks the flame. On the shelf above her are four bowls for the family. She takes them down, wipes each one with a clean cloth and lines them up on the table.
+Outside, a hoe strikes earth beyond the fence. Chi-Chi carries the vegetable skins out and calls to the neighbour working there.
 
-From the yard comes the sound of a hoe striking earth. Chi-Chi steps outside with the vegetable skins in a bowl. A neighbour is working beyond the fence, his hat pulled low against the light.
+"Have you seen a truck on the ridge? My father said he might come up."
 
-"Have you seen a truck on the ridge?" she asks.
-
-"Not today. Why?"
-
-"My father said he might come up."
-
-The neighbour leans on his hoe and looks down the road. "I'll tell him you asked if I see him."
+"Not today. I'll tell him you asked if I see him."
 
 "Tell him to bring his appetite. Goku's supposed to be home for supper too."
 
-"Then you'll need another pot."
+The neighbour looks toward the kitchen. "You'll need another pot."
 
 "I've already got one."
 
-She takes the skins to the compost and comes back past the stool. The book is exactly where she left it. A ribbon hangs over the edge; she tucks it between the pages so it will not blow away.
+She takes the skins to the compost. On the way back she stops beside a row of young beans; two shoots have bent across one another. She frees them and pulls the weeds from between them.
 
-A little row of beans has come up beside the fence. She crouches to pull the weeds between the shoots, leaving a space where two plants have bent across one another. The neighbour works his way along his own patch, the hoe rising and falling at a steady pace.
-
-"Gohan was asking me about these," he says. "Whether they know which way to climb."
+"Gohan asked me about those," the neighbour says. "Wanted to know whether beans know which way to climb."
 
 "What did you tell him?"
 
-"I said to give them a stick and watch."
+"Give them a stick and watch."
 
-Chi-Chi finds a short branch by the shed and pushes it into the soil beside the tallest shoot. She ties the stem loosely to it with a scrap of string.
+Chi-Chi finds a short branch by the shed and pushes it into the soil beside the tallest shoot. She ties the stem loosely to it.
 
 "He can see for himself when he gets back."
 
-"And Goshin?"
+A squat little dinosaur pushes its nose beneath the fence and makes for the bean shoots. Chi-Chi catches it around the middle before it reaches them. Its short legs paddle in the air as she lifts it over the fence and sets it down among the weeds.
 
-"He'll want to know whether it climbs faster if he holds the stick higher."
+"Those are yours. Leave the beans alone."
 
-The neighbour chuckles and goes back to his hoe. Chi-Chi rinses her hands at the well, then lifts the bucket by its handle and carries it into the kitchen.
+The dinosaur takes a mouthful, then waddles back toward the gap. The neighbour plants his hoe across it. Chi-Chi finds a loose length of bamboo and fixes it in place while the animal regards them both. It tests the bamboo with its nose, discovers the gap is blocked and settles down to chew the weeds instead.
 
-For a while she works in the yard. She collects dry shirts, turns the damp ones toward the sun and fills the water jar. The path beyond the gate stays empty.
+"Gohan will ask what kind it is," the neighbour says.
 
-At last an engine labours up the far side of the ridge. Chi-Chi puts down the bucket and goes to the gate. The engine changes gear at the bend, then a horn sounds twice.
+"And Goshin will ask whether it can jump the fence." Chi-Chi points at the dinosaur. "Don't give him ideas."
+
+The neighbour chuckles and returns to his hoe. Chi-Chi collects the dry washing, turns the damp shirts toward the sun and carries the well bucket into the kitchen. Each time she passes the gate, the path beyond it is empty.
+
+At last an engine labours up the far side of the ridge. It changes gear at the bend, and a horn sounds twice.
 
 "Father! Up here!"
 
-A truck noses up the path, loaded so high that a crate rocks above the sides of its bed. It stops outside the gate. The man who climbs out is enormous, broad enough to fill the space between the gateposts. Curved horns rise from his helmet, and a dark beard frames his great grin.
+A truck noses up the path with a crate rocking above the sides of its loaded bed. The man who climbs out is enormous, broad enough to fill the gate. Curved horns rise from his helmet, and a dark beard frames his grin.
 
 "Chi-Chi! Gohan! Goshin!"
 
-The Ox-King lifts a sack of rice from the truck as though it weighs no more than the crate of oranges beside it. Chi-Chi opens the gate for him.
+The Ox-King lifts a sack of rice from the truck as easily as the crate beside it. Chi-Chi opens the gate.
 
 "Put that by the wall, Father. Not in the doorway."
 
 "In the doorway is where they'll see it!"
 
-"In the doorway is where they'll trip over it."
+"It's also where they'll trip over it."
 
-He sets the sack where she points, then wraps her in an embrace that nearly lifts her off the ground. Chi-Chi pats his arm until he lets her go.
+He puts it where she points and wraps her in an embrace that nearly lifts her off the ground. Chi-Chi pats his arm until he lets her go.
 
 "You're crushing me."
 
@@ -188,45 +200,59 @@ He sets the sack where she points, then wraps her in an embrace that nearly lift
 
 "I used to be smaller."
 
-He throws back his head and laughs. "Where are my grandsons?"
+He laughs and takes a crate of mikan from the truck, then peers past her into the house. "Where are my grandsons?"
 
 "At Master Roshi's with Goku. They went this morning."
 
-His smile falters. He looks at the house, then at the empty path beyond it. "Both of them?"
+His smile drops. He looks up at the sky, then down the empty path. "Both of them?"
 
-"Both of them. Gohan had an adventure in the woods before they left, so they were late getting started."
+The Ox-King sets down the crate he has carried in from the truck. The mikan roll against one another as he peers up the path once more.
+
+"Both. Gohan had an adventure in the woods before they left, so they got a late start."
 
 "An adventure?"
 
 "A cat took his hat. Goku found it, and Gohan came home wet enough to fill the well."
 
-The Ox-King's eyes widen. "Was he hurt?"
+"Was he hurt?"
 
 "No. I checked him myself."
 
-"Ha! That's my grandson." He pauses. "Was it a very big cat?"
+"Ha! That's my grandson." The Ox-King pauses. "Was it a very big cat?"
 
 "Very big, according to Gohan."
 
 "Then I hope it knows better than to come back."
 
-Chi-Chi crosses her arms, but she is smiling when she tells him to bring in the rest of his things.
+Chi-Chi crosses her arms, but she's smiling when she tells him to bring in the rest of his things.
 
 ## Gifts for Two
 
-The Ox-King makes several trips from the truck. He brings sacks of rice, a crate of mikan, a wrapped length of cloth and enough food to crowd the shaded side of the yard. The smell of oranges spreads when Chi-Chi opens the crate. A dressed boar hangs from a hook on the truck, and he promises to help her cut and store it before he leaves.
+Her father makes several trips from the truck. There are sacks of rice, a crate of mikan, a length of cloth and enough food to crowd the shaded side of the yard. A dressed boar hangs from a hook on the truck; he promises to help Chi-Chi cut and store it before he leaves.
 
-Two smaller parcels are tied separately. Chi-Chi picks up the one in brown paper.
+He produces two smaller parcels tied separately. Chi-Chi lifts one by its string.
 
-"A puzzle for Goshin," her father says. "The book is for Gohan. I saw them in the village and thought of the boys."
+"A puzzle for Goshin," he says. "The book is for Gohan. I saw them in the village and thought of the boys."
+
+Chi-Chi turns the parcel over. Something wooden knocks gently inside it.
+
+"Did you try the puzzle yourself?"
+
+"Just to make sure it worked."
+
+"Did you solve it?"
+
+"I thought I'd let Goshin have the pleasure."
+
+She looks up at him. He clears his throat and takes the parcel back.
 
 "They'll want to open them themselves."
 
 "Then we'll put them somewhere safe until they get back."
 
-Chi-Chi places the parcels on a high shelf, away from the stove and the open window. Her father brings in one last long package and unwraps it carefully. Inside is a leather schoolbag with a broad flap and a buckle. A name has been burned into the leather with a hot nail.
+Chi-Chi sets the parcels on a high shelf, away from the stove and the open window. Her father brings in one last long package and unwraps it. He has tied the string so tightly that Chi-Chi has to fetch a knife before the paper will come free. Inside is a leather schoolbag with a broad flap and buckle. A name has been burned into the leather with a hot nail.
 
-"For Gohan," he says. "The shopkeeper told me it would last for years."
+"For Gohan. The shopkeeper said it would last for years."
 
 Chi-Chi runs a finger along the strap. "It's too long for him."
 
@@ -234,123 +260,137 @@ Chi-Chi runs a finger along the strap. "It's too long for him."
 
 "Of course you did."
 
-He produces a leather punch from his pocket and holds it out. Chi-Chi lays the strap along the table, folds it to the length she wants and marks the place with the point of a pencil. Her father steadies the leather while she presses the tool through it.
+He produces a leather punch from his pocket. Chi-Chi folds the strap to the length she wants and marks it with a pencil. Her father steadies the leather while she presses the tool through it.
 
 "One hole?" he asks.
 
 "Two. He'll grow."
 
-He watches her make the second, then tests the buckle. It catches neatly in the new hole. Chi-Chi adjusts the flap and lifts the bag by its handle; it hangs straight without touching the floor.
+They test the buckle. It catches neatly, and the bag hangs straight when Chi-Chi lifts it by the handle. The Ox-King holds a finger under the shortened strap, checking that it will not scrape the boy's shoulder.
 
-"There," she says. "He can carry his own books."
+"There. He can carry his own books."
 
 "And I'll carry him if he gets tired."
 
-"You aren't walking him to school every morning from your mountain."
+"You're not walking him to school every morning from your mountain."
 
 "I could start very early."
 
-Chi-Chi gives the strap one last tug. "Let him walk at least as far as the gate."
+"Let him get at least as far as the gate."
 
-She takes the bag into the next room and returns with a fifth bowl for the table. The Ox-King has found the stool in the yard. He sits on it with a mikan in one hand and the schoolbook beside him.
+Chi-Chi takes the bag into the next room and comes back with a fifth bowl. Her father has found the stool in the yard and is sitting on it with a mikan in one hand. The open schoolbook rests precariously against his knee.
 
-"What's this?"
+"Homework?"
 
-"Homework. And don't put orange peel on it."
+"Yes, and don't put orange peel on it."
 
-He moves the peel to his palm. Chi-Chi brings him a cup of water, then takes the book out from under his elbow and sets it on the wall.
+He catches the piece of peel just before it falls. Chi-Chi sets the book on the wall and brings him a cup of water.
 
-"The teacher came by," she says. "Gohan's test came back today."
+"Gohan's test came back today."
 
 "The red circle? Your neighbour told me there was good news."
 
-She points to the paper on the doorframe. Her father gets up to look, bending so far forward that his helmet nearly touches it.
+She points to the doorframe. Her father bends so far forward to see the paper that his helmet nearly touches it.
 
 "That's excellent!"
 
+The Ox-King reaches toward the paper, then stops short of touching it. His fingertip is wider than the red circle, and Chi-Chi has only just smoothed the sheet flat.
+
 "He worked hard."
 
-"Both of them will do well. Remember how Goshin took that little box apart to see how the catch worked?"
+"Both of them will do well. Did Goshin ever put that little box back together?"
 
-"He put it back together too," Chi-Chi says. "After I told him to pick up every piece."
+"He did, and showed me how the catch worked this morning."
 
-The Ox-King laughs. "And Gohan wanted to know where all the pieces came from."
+"And Gohan wanted to know where the pieces came from."
 
-"He wanted to know who made the metal, and who made the tools that made the metal. I was answering questions until bedtime."
+"Who made the metal, who made the tools that made the metal—he kept asking until bedtime."
 
-"Sounds like you have two bright boys."
+"Sounds like two bright boys to me."
 
-Chi-Chi straightens the paper once more. "I know I do."
+"I know they are."
 
-They bring the boar in from the truck together. Her father clears a place at the outdoor table, and Chi-Chi fetches a clean board, a knife and cloth for wrapping the portions. She rolls up her sleeves and tests the edge of the blade against a scrap before setting to work.
+They bring the boar from the truck together. Chi-Chi clears the outdoor table and fetches a knife, a clean board and cloth for wrapping the meat. As her father unties the hook, the knot slips. The boar drops, and Chi-Chi catches it before it can hit the ground.
 
-The Ox-King holds the meat steady. Chi-Chi cuts along the joint, turning the knife rather than forcing it through the bone. When a piece comes free, he lifts it onto the board for her to divide.
+"I've got it!" her father says, reaching down too late.
 
-"Goku will finish that much by himself," he says.
+"I noticed."
+
+She lifts it onto the table. The Ox-King holds a joint steady while she cuts along it, turning the blade rather than forcing it through the bone. When the joint separates, he catches the free end and lays it on the board for her.
+
+"Goku will finish that much by himself," he says as she separates a portion.
 
 "Then this part goes away before he sees it."
 
-She wraps one portion and writes a mark on the cloth. Her father carries it inside to the cool cupboard, then returns for the next. They work until the table is clear, the knife is washed and the scraps have been gathered for the chickens.
+She wraps it and marks the cloth. Her father carries it to the cool cupboard, then comes back for the next piece. A chicken gathers at the edge of the table, joined by another that has heard the chopping. By the time the knife is washed, the table is clear and the chickens have the scraps. Chi-Chi carries the marked packages in while her father fastens the empty hook back onto the truck.
 
-The Ox-King looks at the parcels lined up on the shelf. "He'll find them."
+The Ox-King eyes the parcels on the shelf. "The boys will find them."
 
-"Not if you don't tell him."
+"Not if you don't tell them."
 
-"What if he asks?"
+"What if they ask?"
 
-"Tell him to ask me."
+"Tell them to ask me."
 
-Her father carries the last sack in for her and helps move the big pot closer to the stove. Chi-Chi takes the other handle. Together they lift it across the hearth and set it down without spilling a drop.
+Together they move the big pot across the hearth. Her father takes one handle; Chi-Chi takes the other, and they set it down without spilling a drop.
 
 "You could have let me do that," he says.
 
 "And let you knock the lid off? I used to train with you, remember?"
 
-"I remember a little girl who could swing a blade almost as big as she was."
+"I remember a little girl swinging a blade almost as big as she was."
 
 "And a father who told her to hold it properly."
 
-He grins. "I was right."
+"I was right."
 
 "You usually said so."
 
-She stirs the broth and adds the vegetables. The kitchen fills with the smell of rice and ginger. Her father peels another mikan and puts half on a plate rather than eating it all himself.
+Her father picks up a fresh mikan and demonstrates the grip with it. The fruit bursts in his hand, spraying juice across the table.
 
-"You don't want them to fight," he says.
+Chi-Chi passes him a cloth. "There. The next lesson is not to squeeze so hard."
 
-"I want them to have a choice." She lays the spoon across the pot. "Gohan loves his books. Goshin will make up his own mind about what he loves. I want them to have something besides fighting when they're grown."
+"You didn't tell me it was ripe."
+
+"I didn't know you were going to fight it."
+
+Chi-Chi stirs the broth and adds the vegetables. Her father peels another mikan and leaves half on a plate for her.
+
+"You don't want the boys to fight?" he asks.
+
+"I want them to have a choice. Gohan loves his books. Goshin will make up his own mind about what he loves. I want them to have something besides fighting when they're grown."
 
 "Their father will want to teach them."
 
 "Their father wants to teach everybody. I haven't forgotten how to say no to him."
 
-The Ox-King chuckles. Chi-Chi picks up the plate of mikan and offers it to him. He takes one piece, leaving the rest for her.
+"You liked training with me."
 
-"Do they ever want different things?" he asks.
+"I did. And when I was old enough to choose, you didn't stop me going after what I wanted."
 
-"Often. Gohan will sit with a book until he has an answer. Goshin wants to try the answer and see what happens." She picks up the spoon again. "Sometimes Gohan goes along with him. Sometimes Goshin sits down and listens to the book."
+The Ox-King looks at her over his cup. "I wasn't much good at saying no to you."
 
-"And sometimes they argue?"
+"You could try now."
 
-"Of course they argue. Yesterday Gohan wanted to finish a story before bed, and Goshin wanted to hear the ending right away."
+He chuckles and takes another piece of mikan. Chi-Chi sits opposite him for a moment, with the pot simmering between them.
 
-"What did you do?"
+Her father asks whether the twins keep her as busy as she used to keep him.
 
-"Told them both it was bedtime."
+"Yesterday Gohan wanted to finish a story before bed, and Goshin wanted to hear the ending right away. I told them both it was bedtime."
 
 "That must have settled it."
 
-"It settled it until I found them with the book under the blanket." She shakes her head. "Goshin was holding the edge up so Gohan could see the page."
+"Until I found them with the book under the blanket. Goshin was holding the edge up so Gohan could see the page."
 
 The Ox-King laughs so loudly that Chi-Chi reaches past him to close the kitchen window.
 
-"I sent them back to their own beds," she says. "This morning Gohan finished the story while Goshin listened. Then they told me what happened, and I had to hear the whole thing twice."
+"This morning Gohan finished the story while Goshin listened. Then they both told me what happened, and I had to hear the whole thing twice."
 
 "Was it a good ending?"
 
 "Ask them when they get home. They'll be pleased to tell you."
 
-He nods and chooses another piece of mikan. Chi-Chi turns the pot down to a simmer, wipes her hands and brings the bowls to the table.
+The Ox-King slides the untouched half of the mikan toward her. She takes a piece and leaves the rest on the plate between them, close enough for both to reach.
 
 ## Five Places
 
@@ -358,7 +398,7 @@ The sun moves past the roof. Shadows stretch across the yard and reach the stool
 
 "They've still got light," the Ox-King says. "Goku promised they'd be home."
 
-"He did." Chi-Chi folds the cloth over her arm. "But if he starts telling stories, he'll forget what time it is."
+"He did. But if he starts telling stories, he'll forget what time it is."
 
 "Roshi will remind him."
 
@@ -368,27 +408,27 @@ The sun moves past the roof. Shadows stretch across the yard and reach the stool
 
 She gives him a look.
 
-"All right," he says. "Perhaps Bulma will remind them."
+"All right. Perhaps Bulma will remind them."
 
-Chi-Chi goes back to the stove. Her father follows with his helmet under one arm and sets it by the door. She serves rice and soup into five bowls, arranging the boys' chopsticks beside the smaller places. Steam rises between the empty chairs.
+Inside, Chi-Chi serves rice and soup into five bowls and lays the boys' chopsticks beside the smaller places. Her father sets his helmet by the door and pulls out his chair. Steam rises between the empty seats.
 
-The afternoon light reaches through the doorway and crosses the table. Chi-Chi straightens one pair of chopsticks, then moves Goku's bowl farther from the edge to make room for the larger pot. Her father draws his chair back carefully, leaving the place beside him clear. From outside comes the rattle of the loose gate, followed by the neighbour calling to someone farther down the road.
+She has put the largest helping at Goku's place. The Ox-King surveys it, then his own bowl, and Chi-Chi adds another scoop to his before he can say anything.
 
 "Shall we wait?" he asks.
 
 "We can eat before it goes cold. They'll have more when they get here."
 
-They sit. The Ox-King eats readily, praising the broth and asking for another helping. Chi-Chi takes a mouthful, then lifts the lid of the larger pot to make sure enough remains.
+A breeze lifts the corner of Gohan's test paper. Chi-Chi steps outside, fastens the peg again and comes back to the table. Her father praises the broth and asks for another helping; she passes the pot and checks how much is left.
 
-"You know," her father says, "a few hours with Goku and his friends won't do the boys any harm."
+"A few hours with Goku and his friends won't do the boys any harm," he says.
 
-"I know that. I wanted to go too." She sets down the lid. "But Gohan had just fallen in a river, the washing wasn't finished, and somebody had to cook."
+"I know. I wanted to go too. But Gohan had just fallen in a river, the washing wasn't finished, and somebody had to cook."
 
 "We could have all come back here together."
 
 "Next time we will."
 
-The Ox-King reaches across the table for the dish of vegetables, but Chi-Chi slides it closer before his sleeve can dip into the soup. He helps himself and pushes it back.
+Her father reaches for the vegetables. Chi-Chi slides the dish closer before his sleeve can dip into the soup.
 
 "Roshi taught Goku, didn't he?" he asks.
 
@@ -398,11 +438,11 @@ The Ox-King reaches across the table for the dish of vegetables, but Chi-Chi sli
 
 "And ploughing fields. And swimming away from sharks, if you believe every story exactly as Goku tells it."
 
-"I trained under Roshi as well," her father says. "The sharks may be the part I'd believe."
+"I trained under Roshi as well. The sharks may be the part I'd believe."
 
 Chi-Chi lifts her chopsticks. "You could have told me that before I let them go to an island."
 
-He opens his mouth, sees her expression and puts another piece of vegetable in it instead. She lets him chew for a moment before her own mouth begins to curve.
+He opens his mouth, sees her expression and puts another piece of vegetable in it instead. She lets him chew for a moment before she smiles.
 
 "Goku wanted his friends to meet the boys," she says. "They should know the people who matter to him."
 
@@ -414,7 +454,7 @@ He opens his mouth, sees her expression and puts another piece of vegetable in i
 
 "Both of everything."
 
-Her father looks at the door. "I wanted to see Goshin show me that puzzle. And Gohan can tell me about the cat."
+Her father looks toward the door. "I wanted to see Goshin show me that puzzle. And Gohan can tell me about the cat."
 
 "They'll be delighted you brought presents."
 
@@ -424,11 +464,13 @@ Chi-Chi raises an eyebrow.
 
 "Well," he admits, "not *only* for that."
 
-He makes her laugh, but when the sound of a cart comes from the road, both of them turn toward the gate. The cart passes below the house without stopping.
+A cart rattles along the road. They both turn toward the gate, but it passes below the house without stopping. The neighbour calls a greeting to its driver, and the sound of wheels fades around the bend.
 
-After the meal, Chi-Chi carries two used bowls and three untouched ones to the sink. Her father rises to help. He is too large to stand beside her at the narrow counter, so she hands him the dry dishes to put away.
+The Ox-King gets up and looks over the fence. His truck is still parked where he left it. Farther down the mountain, the road disappears among the trees; there is no yellow cloud above them.
 
-"You can stop at the coast on your way back," she says. "If they aren't here by then, perhaps someone there can tell you whether the cloud passed."
+Chi-Chi clears the two used bowls and the three untouched ones after the meal. Her father is too large to stand beside her at the narrow sink, so she gives him the dry dishes to put away.
+
+"You can stop at the coast on your way back," she says. "If they're not home, perhaps someone saw the cloud pass."
 
 "I'll take you with me if you want to go."
 
@@ -436,19 +478,21 @@ She looks at the telephone by the door. "I'll call first."
 
 ## The Call
 
-Chi-Chi lifts the black receiver and dials Kame House. The dial turns beneath her finger and clicks back after each number. Her father waits beside the table, his helmet in his hands.
+Chi-Chi dials Kame House. The dial clicks back beneath her finger after each number. Her father fetches his helmet from beside the door and waits at the table, turning it in his hands.
 
-The line rings. It rings again, and again.
+The line rings. It rings again, and again. Chi-Chi shifts the receiver to her other ear and looks toward the gate; her father stops moving his helmet from one hand to the other.
 
-A recorded voice answers, cheerful and unmistakably Master Roshi's. It announces that nobody is available and invites the caller to leave a message after the tone. There are separate instructions for the household, for Krillin and for Turtle.
+Master Roshi's recorded voice answers cheerfully. Nobody is available, it says, but callers can leave a message after the tone. There are separate instructions for the household, for Krillin and for Turtle.
 
-Chi-Chi listens to the whole thing. When the tone sounds, she holds the receiver for another moment, then puts it down without speaking.
+Chi-Chi listens to the whole thing. The tone sounds. She holds the receiver a moment longer, then puts it down without speaking.
 
-"Nobody answered," she says.
+"Nobody answered."
 
-"Maybe they're all outside. It's a small island."
+"Maybe they're all outside," her father says. "It's a small island."
 
-She picks up the receiver again and calls the exchange. A woman answers through a faint crackle.
+Chi-Chi lifts the receiver again. A steady dial tone sounds. Her father puts his helmet on the table and takes a folded scrap of paper from his coat pocket.
+
+She calls the exchange. A woman answers through a faint crackle.
 
 "Can you check whether this line is working?"
 
@@ -462,36 +506,38 @@ She picks up the receiver again and calls the exchange. A woman answers through 
 
 "Tell us the number and we'll check it."
 
-Chi-Chi thanks her and hangs up. She sets a pencil beside the folded paper on the telephone table, then smooths the paper flat with her palm.
-
-Her father takes the pencil and writes Kame House's number across the top. His large hand covers most of the paper. He checks the last digit against the dial and leaves the pencil beside it.
+Chi-Chi thanks her and hangs up. She finds a pencil beside the telephone and tells her father Kame House's number. He writes it across the scrap of paper and repeats it back to her.
 
 "If we have to call from the road, we won't need to look it up."
 
-Chi-Chi turns the paper toward herself and adds the name of the village below the number. She folds it once and gives it to him. He opens a pocket in his coat and slips it inside.
+Chi-Chi adds the village name, folds the paper and gives it to him. He slips it into his coat pocket. From the kitchen comes the soft ticking of the stove as it cools; outside, the loose gate taps once in the wind.
 
-From the kitchen comes the soft ticking of the stove as it cools. Chi-Chi goes to check the pot, covers it and moves it away from the heat. Her father checks the window latch while she puts the washed bowls back on their shelf. She moves the two wrapped presents to a lower shelf where the boys can reach them when they return.
+She covers the pot and moves it away from the heat. Her father checks the window latch while she puts the washed bowls back on the shelf. She moves the two wrapped presents lower, where the boys can reach them when they return.
 
-Back at the table, she looks once more at the receiver.
+Back at the table, she looks at the receiver.
 
-"I didn't leave a message."
+"I didn't leave a message. I was listening so hard for one of them, I nearly missed the tone."
 
 "What would you have said?"
 
-"That supper's ready. That Gohan has a test to show his father. That Goshin's grandfather brought him a puzzle." She looks at the silent receiver. "They should have been back by now."
+"That supper's ready. That Gohan has a test to show his father. That Goshin's grandfather brought him a puzzle." She looks toward the road. "They should have been back by now."
 
 The Ox-King pulls out a chair for her. "If they don't answer, we'll take the truck to the coast and ask someone which way to the island."
 
-"I'm coming with you."
+"One more call," Chi-Chi says. "Then I'm coming with you."
 
 "Of course."
 
-Chi-Chi sits beside the telephone. Her father puts his helmet on the table and takes the chair opposite. Outside, the end of a sheet lifts on the washing line. The red-circled paper remains pinned where the boys and their father will see it when they come through the gate.
+Chi-Chi sits beside the telephone. Her father takes the chair opposite, with his helmet on the table between them. Outside, the end of a sheet lifts on the washing line. Gohan's paper stays pinned where the boys and their father will see it when they come through the gate.
 
 > **NEXT TIME — Goku and Piccolo pursue Raditz, while Gohan tries to protect his brother.**
 
 <!--
 ## Footer
+
+**5 November 2026 — Dragon Ball-feel revision from the opening, unaccepted.** This complete household chapter has been reworked as story: Chi-Chi's active personality, practical strength, warmth, impatience and humor share the page with her father's affection and their different views of training; a small dinosaur belongs to the authored household staging. Gohan and Goshin are both valued as capable children, with distinct curiosity and choices. The single day, one Ox-King visit, unfinished homework, Gohan's test and schooling remark, teacher, gifts and schoolbag, five places, first unanswered call and exchange, and the plan to travel remain; Chapter Seven still resumes at the telephone before the second call. The episode-3 homework, episode-4 test and eight-hours comment, episode-5 Ox-King visit and episode-6 call/concern are caption-supported cues, not a claim that the invented teacher, dinosaur, twin-specific events, English dialogue or blocking are source scenes. Eight hours concerns schooling, not a countdown. The immediate predecessor is byte-preserved in the [verified pre-correction project and accepted-original snapshot](../canon/ARCHIVE_INDEX.md#backup-042), Chapter Three member SHA-256 `4818685ffbfad6447b6ec9772c0247a22a6a4e04d7810e30ed7ec09d69fa4d2e`, ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. The retained captions' origin and cut and complete audiovisual performances remain unverified. This revision is not reader acceptance. Earlier footer entries below are historical where superseded.
+
+**5 November 2026 — continuing emotional revision, unaccepted.** The full chapter received a further pass for Chi-Chi's pride and agency, her distinct knowledge of both sons, her relationship with her father and the growing uncertainty at home. The external camera and single shared day are retained. The exact preceding selected file is preserved with Chapters 4–6 in the [verified local backup](../canon/ARCHIVE_INDEX.md#backup-050). Complete retained episode 3–5 caption files were reread; their origin and cut are unverified. Toei synopses and secondary guides are not a full video or audio review. The twins, new words and detailed staging are authored.
 
 **4 November 2026 — immersion correction, unaccepted.** The home thread is rewritten as story while retaining the chapter-specific external camera: the schoolbook and returned paper, teacher, one Ox-King visit, five places, unanswered call, exchange and planned trip remain. The exact previous selected chapter is in the verified pre-Chapter-25 handoff. The household staging, the twin, gifts and new dialogue are authored; unverified-origin captions do not establish every visual. No complete episode footage was viewed.
 

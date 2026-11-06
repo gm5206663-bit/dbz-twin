@@ -1,16 +1,8 @@
 # Chapter Sixteen — The Sea All Around
 
-*Immersion-revised review draft; not yet accepted.*
-
-*Continuity-checked review candidate, continuing the separate Chapter Fifteen voice rewrite. The earlier Chapter Sixteen draft remains unchanged.*
+*Revised story draft; not yet accepted.*
 
 A drop of rain rests on the Four-Star Ball. It trembles when the wind reaches the hat, then rolls down the brim and falls onto an open book.
-
-**THE SEA ALL AROUND**
-
-**NARRATOR:** Goku is on his way to King Kai. At Kami's Lookout, Gohan and Goshin are training for the Saiyans who are coming to Earth.
-
----
 
 ## The Third Basket
 
@@ -30,7 +22,9 @@ Goshin measures the hole in the drawing with his finger. "It would depend how bi
 
 Gohan looks at the three apples he has drawn. "These are bigger than the hole."
 
-"Then they're all right."
+"Then they're all right." Goshin covers one with his thumb. "Unless Father gets here first."
+
+Gohan pushes his hand away. "I'm trying to count them!"
 
 Chi-Chi gives Gohan the pencil. "How many apples altogether?"
 
@@ -48,7 +42,7 @@ Gohan grins. "Father would have eaten one before I finished counting."
 
 Both boys laugh. Chi-Chi takes the pan off the stove and divides the rice between their bowls.
 
-A fourth bowl stands at the end of the table. Goshin put it there for Goku the day before. When Chi-Chi reaches across, he watches to see whether she will move it. She moves Gohan's book instead, and the bowl keeps its place.
+A fourth bowl stands at the end of the table, where Goshin put it for Goku the day before. Chi-Chi clears Gohan's book away from the rice and leaves the bowl in its place.
 
 Gohan looks at it. "Do you think Father found King Kai yet?"
 
@@ -114,27 +108,19 @@ The double comes at him through the rain.
 
 Chi-Chi lands Dr. Brief's borrowed aircar outside Capsule Corporation. Gohan climbs out with the bridge book under his arm, and Goshin follows him across the courtyard.
 
-At the laboratory door, Gohan stops to check the knot again.
+Gohan reaches the laboratory door first, hugging the wrapped book. Bulma opens it with a screwdriver tucked behind one ear.
 
-"It's still tied," Goshin says.
+"Did you bring C-6 something?"
 
-"I'm making sure."
+"Mina said he could borrow it. It has a bridge on the cover, and there's a little one behind another bridge inside. We nearly missed it."
 
-"You made sure in the car."
+"He counted seven bridges," Goshin says. "I'm going to look for eight."
 
-"I can make sure twice."
+"They're not all on one page," Gohan tells Bulma.
 
-"Then I'll make sure you remember you did."
+"I'd have liked to see that," she says, and ushers them in.
 
-Gohan looks at him. "How?"
-
-"I'll tell you."
-
-The door opens before Gohan can answer. Bulma stands there with a screwdriver tucked behind one ear.
-
-"Are you coming in, or are you going to inspect that knot all afternoon?"
-
-Gohan brings the book inside. C-6 is on the laboratory table with a padded support beneath his bent arm. Dr. Brief's cat sits on the back of a chair, watching a length of cord on the floor.
+C-6 is on the laboratory table with a padded support beneath his bent arm. Dr. Brief's cat sits on the back of a chair, watching a length of cord on the floor.
 
 "Mina said you could borrow it," Gohan tells C-6. "She wants it back when you're finished."
 
@@ -152,6 +138,12 @@ Gohan opens the book to the picture they counted on the Lookout. The smaller bri
 
 C-6 studies it. "I see it now."
 
+"I found it," Goshin says.
+
+"And I counted it," Gohan says.
+
+"Then I suppose I owe both of you a thank-you."
+
 The cat jumps onto the table. Gohan catches the edge of the book as the cat steps onto the wrapping cloth.
 
 "Not on the pages," C-6 says.
@@ -166,7 +158,7 @@ On the next bench, the scouter lies where Bulma left it. Its power cell is in th
 
 "Leave it where it is," Chi-Chi says.
 
-Goshin puts his hands behind his back and leans forward instead. The lens gives his nose a green edge. He steps to one side, and the green edge moves with him.
+Goshin leans closer without touching it. The lens gives his nose a green edge. He steps to one side, and the green edge moves with him.
 
 "It makes my nose look green."
 
@@ -344,7 +336,11 @@ Gohan crouches on the board. His knees come up nearly to his chin.
 
 Goshin climbs on behind him. The other end of the board rises, and Gohan puts both hands down before he tips off.
 
-"Maybe we need a longer one."
+Goshin lifts the whole board over his head, Gohan and all. "Now it can fly!"
+
+"Put me down!" Gohan laughs. "We haven't made the sail yet."
+
+Goshin sets the board on the sand. "Maybe we need a longer one."
 
 They find two pieces they can fasten side by side. Gohan threads a length of cord through a gap in the wood. Goshin holds the pieces level while Gohan pulls the cord tight, then passes the loose end around a second time.
 
@@ -405,8 +401,6 @@ Piccolo draws back and lands on the opposite bank. He looks at the cut in the ri
 "I had the shot sooner."
 
 The double raises his hands. Piccolo raises his own.
-
-*This programme continues after a message.*
 
 ---
 
@@ -528,7 +522,7 @@ At the following seam he tries it again, faster. His first step after the turn l
 
 "King Kai," he says, grinning into the wind. "I wonder what kind of training you do."
 
-He lifts off and flies around the bend.
+If the training is as good as the road is long, it ought to be something. Goku laughs and lifts off, flying around the bend.
 
 ---
 
@@ -640,15 +634,15 @@ Cold water closes over his head. For a moment the rain and the voices disappear,
 
 He kicks. The net is still in his hand, tugging at his wrist. He lets it go, finds the light above him and gathers his ki to rise.
 
-Goshin sees the place where Gohan went under and dives after him. Cold water closes over his head as he reaches his brother, who is already starting upward. With one arm around Gohan, he lifts him clear while holding the branch above the tiger with his ki. Both boys break the surface together.
+Goshin sees the place where Gohan went under. He keeps the branch suspended above the tiger without strain and dives after his brother. Gohan is already starting upward when Goshin reaches him. With one arm around Gohan, Goshin lifts him clear, still holding the branch aloft with his ki. Both boys break the surface together.
 
 Gohan coughs against Goshin's shoulder. Nimbus darts beneath them, and Goshin sets him on it.
 
-"I can't swim," Gohan says, pulling in a breath.
+"I can't swim," Gohan says, pulling in a breath. "I thought I was going to stay down there."
 
-"I have you."
+Goshin takes his hand. "You're here now. I've got you."
 
-Gohan wipes water from his face. The tiger is still on the ledge, its leg caught in the net. The wind pushes against the raised branch, but Goshin holds it clear of the animal and shifts it farther from the water.
+Gohan grips his fingers until he can breathe without coughing. Then he wipes water from his face. The tiger is still on the ledge, its leg caught in the net. The wind pushes against the raised branch, but Goshin holds it clear of the animal and shifts it farther from the water.
 
 "The loop is almost off," Gohan says.
 
@@ -702,21 +696,17 @@ Goshin gives her a wet, sandy grin. "The tiger got away."
 
 She checks them both before letting go. Bulma brings the aircar closer to the sand, where they can climb in without returning to the rocks.
 
-"I saw the sail from the shed," Chi-Chi says. "I didn't know you were going onto the water."
+"I saw the sail from the shed," Chi-Chi says. "I didn't know you'd gone onto the water until I saw you by those rocks. And then Gohan went under."
 
-Gohan looks down at his wet shoes. "We wanted to try the boat. We were going to come around the point."
+Gohan looks down at his wet shoes. "I wanted to see if the boat would float. We thought we could come around the point."
 
-"Tell me before you go somewhere I can't see you."
+"I got him out," Goshin says, taking his brother's hand.
 
-Goshin takes Gohan's hand and looks back toward the cove.
+"I saw." Chi-Chi pulls him close again, then looks at Gohan. "You frightened me half to death. If you're going out of sight, tell me first."
 
-"We should have come back first," Gohan says.
+"I'm sorry, Mother."
 
-Goshin looks toward the headland. "We knew where you were, but you didn't know where we were."
-
-"That's right."
-
-Gohan takes Chi-Chi's hand. "We'll tell you next time."
+She squeezes his shoulder. "Come on. Your grandfather's waiting for us."
 
 The tiger appears briefly on the higher ridge. It shakes water from its coat and watches the car. Then it turns away among the trees.
 
@@ -748,17 +738,17 @@ Gohan climbs out on one side of her. Goshin rises on the other, his feet just ab
 
 Piccolo looks from one brother to the other. His gaze settles on the wet net above the tide.
 
-"I felt you from the wasteland. What are you doing here?"
+"I felt both of you from the wasteland. I thought the Saiyans might have come early. What are you doing here?"
 
 "We came with Mother," Gohan says. "A tiger was caught in the net."
 
-"You're supposed to be getting stronger."
+"You're supposed to be getting stronger. Come train with me."
 
-"We are. We're training at the Lookout."
+"We are getting stronger," Gohan says. "We're training at the Lookout."
 
-Piccolo's eyes narrow. "With Kami?"
+Piccolo's eyes narrow. "With Kami? He won't push you hard enough."
 
-"With the others too," Gohan says.
+"With the others too. And I'm staying with my family."
 
 Chi-Chi keeps her hands raised. "They chose where they want to train. They aren't going with you."
 
@@ -874,17 +864,16 @@ Gohan looks at the sky with him. "We can ask when he gets home."
 
 Chi-Chi closes the door before the rain reaches the table.
 
-**NARRATOR:** Goku is still travelling toward King Kai. On Earth, his family and friends continue preparing for the Saiyans' arrival.
-
----
-
-## Preview
-
-*The rain clears above Kami's Lookout. Gohan carries a folded drawing while Goshin looks toward the hills. Far away, Goku follows another bend in the road.*
-
-**NARRATOR:** What will Piccolo do to make his new training harder? And how much farther must Goku travel before he reaches King Kai?
+> **NEXT TIME — The lost boat leads the family toward children living by the sea.**
 
 <!--
+## Footer
+
+**6 November 2026 — story-wide Dragon Ball-feel correction, unaccepted.** The brothers' play, C-6's book visit, the island, the rescue, Chi-Chi's fear and Piccolo's motives are revised in the actual scenes. Gohan has independent flight and frees the tiger; Goshin easily holds the branch with ki while lifting Gohan, and the mother and Bulma help. Piccolo believes the Saiyans might have arrived, invites the boys to train and leaves when the family refuses. The missing raft still leads into Chapter Seventeen. The exact immediate predecessor is member `The Twin/chapters/Chapter_16_The_Sea_All_Around.md` in the [verified 122-member local project archive](../canon/ARCHIVE_INDEX.md#backup-042), SHA-256 `4779ddfcfb3f969ecf85d6bf522d2e863edb1e8f97190db918438c2d424699bc`. Retained captions and short synopses informed the branch; no complete episode video or audio was reviewed.
+
+
+**5 November 2026 — continuing emotional revision, unaccepted.** The brothers' play and choices remain their own, and Gohan has a moment to name his fear after Goshin lifts him from the water. Chi-Chi can say she was frightened without reducing either child's initiative. The episode retains Goshin's simultaneous branch support and rescue, Gohan's role in freeing the tiger, the shared pot, the missing raft and Piccolo's actual encounter. The prior selected chapter is byte-preserved with Chapter Fifteen in the [verified local backup](../canon/ARCHIVE_INDEX.md#backup-056). The complete retained episode-15 caption was reread with Toei's short synopsis and earlier secondary coverage; origin/cut, continuous video, audio and performance remain unverified. The family outing, changed rescue and C-6 are authored branch staging, not source footage.
+
 ```
 ANIME BASE: ep. 15
 EVIDENCE: Local Japanese captions of unverified origin and cut, plus secondary episode summaries; visual continuity remains unverified.

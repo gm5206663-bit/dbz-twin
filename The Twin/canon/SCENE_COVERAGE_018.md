@@ -1,6 +1,10 @@
 # Episode 18 → Chapter 19 · source coverage and divergence
 
+**5 November — current selected wording:** The [continuing prose/source record](EMOTIONAL_REVISION_013_PLUS_2026-11-05.md) records the latest local unaccepted pass. The separately accepted Chapter 20 original remains byte-preserved; older candidate-specific descriptions below are historical where superseded.
+
 **Owns: ordered source evidence, its limits and its treatment in the unaccepted Chapter 19 review draft.**
+
+**6 November — current Dragon Ball-feel pass:** The brothers' emotional response, Gohan's personal aiming insight and Goshin's playful teaching are in the actual selected draft. The boys recognize a resemblance between Piccolo's split and Tien's earlier display, not a proven shared technique. Goku imitates Bubbles. The retained physical wave-and-four-stone and separate slab actions, machine uncertainty and handoff remain. This latest wording supersedes older candidate-specific descriptions below; the full prior chapter and footer are preserved. Episode-18 captions and Toei's synopsis were reread, not full video/audio.
 
 ## Witnesses and boundaries
 

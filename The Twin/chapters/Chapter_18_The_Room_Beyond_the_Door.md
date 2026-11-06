@@ -80,9 +80,11 @@ When Chi-Chi hangs up, Ox-King takes the lid off the pot. Steam rises around his
 
 Gohan laughs. "If it fits."
 
-Goshin returns to the table and draws a small window beside the school.
+Goshin returns to the table and draws a small window beside the school. Above it he adds a chimney with smoke curling from the top.
 
-When the rice is ready, Chi-Chi fills their bowls. Goshin finishes his first helping and holds his bowl out for another while Gohan adds a window to the school. Ox-King gives Goshin another spoonful, then helps Gohan find room on the page for the teacher's desk.
+"Now everyone can smell lunch while they're studying."
+
+When the rice is ready, Chi-Chi fills their bowls. Goshin finishes his first helping and holds his bowl out for another. Ox-King gives him a generous spoonful, then helps Gohan find room on the page for the teacher's desk.
 
 ---
 
@@ -104,7 +106,7 @@ The blast strikes the double's shoulder and turns him sideways. Piccolo fires fr
 
 A strip of rock drops from the ridge. Piccolo and his double watch it strike the ground.
 
-"Closer," Piccolo says.
+"Closer," Piccolo says. Next time he will aim for where his opponent is going, not where he has been.
 
 The double rises. Piccolo takes his place across the crater again.
 
@@ -116,7 +118,7 @@ Goku runs along Snake Way with the supply capsule tucked securely inside his clo
 
 He reaches a seam in the stone and turns around it, trying the step he practised after his match with Goshin. This time he plants his foot too close to the edge and has to put out a hand to steady himself.
 
-"That one wouldn't have worked."
+"That one wouldn't have worked. Goshin would laugh at me!"
 
 He takes the next seam at a slower pace, turns and keeps running. At the third he changes direction without touching the ground with his hand.
 
@@ -210,7 +212,11 @@ After the exercise, Yamcha rolls his shoulders and looks toward Kami, who has be
 
 "We've been working hard," he says. "Is there something else we can try? Something Goku did when he trained here?"
 
-"There were many things," Kami answers. "Popo gave him work, and Goku found work for himself."
+"I taught him almost nothing," Kami says.
+
+"Almost nothing?" Krillin stares at him.
+
+Kami's eyes crinkle. "Popo gave him work, and Goku found plenty for himself."
 
 Yajirobe shifts his sword onto his other knee. "If you've got a shortcut to that kind of strength, this would be a good time to tell us."
 
@@ -304,9 +310,13 @@ A small device lies half buried beside a broken doorway. Its coloured lens catch
 
 "Bulma has one like that."
 
-Chi-Chi looks at the lens, then toward the roofs. "Leave it there."
+Gohan remembers the lens against Raditz's face, and Father pinned beneath him. His tail curls close to his waist as he looks up at the broken roofs.
 
-Goshin takes a last look at the lens before stepping back beside Gohan.
+"Could it still see us?" he asks.
+
+"I don't know," Chi-Chi says. "Leave it there."
+
+Goshin scans the rooftops too as he steps back beside Gohan.
 
 A short electronic sound comes from above them. Chiaotzu turns toward the broken roof across the street.
 
@@ -316,15 +326,15 @@ Two figures stand against the sky. One has a bare head and armour over his chest
 
 Krillin moves in front of Chiaotzu. "They're dressed like Raditz."
 
-The long-haired fighter touches the side of his device. He looks at the group, then at Gohan's tail and Goshin's.
+The long-haired fighter touches the side of his device. **2,840** appears across the lens, a combined reading for all seven. His gaze stops at Gohan's tail and Goshin's.
 
-"You brought children with you?"
+"Two thousand eight hundred and forty together," he tells the other fighter. "You brought children with you?"
 
 "We came with them," Gohan says.
 
 The bald fighter drops from the roof and lands in the middle of the street. Dust rises around his boots. He looks past the brothers toward Tien and Yamcha.
 
-"Which of you wants to start?"
+"All seven? Good. Which of you wants to start?"
 
 "We didn't come here looking for a fight," Chi-Chi says.
 
@@ -350,7 +360,7 @@ The fighter turns, letting the blast strike the wall behind him. Goshin flies ac
 
 The fighter slides several paces, his boots cutting two tracks through the dust. He looks at Goshin, then grins and charges again.
 
-Goshin meets his first punch with an open palm and turns it aside. The second catches his forearm and knocks him upward. He rolls in the air, comes down behind the fighter and drives both feet into the back of his armour.
+Goshin moves to meet him, keeping the fighter away from Chiaotzu. He catches the first punch with an open palm and turns it aside. The second catches his forearm and knocks him upward. He rolls in the air, comes down behind the fighter and drives both feet into the back of his armour.
 
 The fighter strikes the wall. Bricks break away and tumble toward Chiaotzu.
 
@@ -366,11 +376,11 @@ Krillin follows with a burst of ki. The fighter jumps over it, lands on the wall
 
 Gohan pushes the stone sideways with his ki. It hits the road beside Krillin instead of striking him.
 
-"I thought you had that one," Krillin says.
+"I could have ducked," Krillin says.
 
-"It was going to hit you!"
+"You were looking the other way!"
 
-"Then I'm glad you didn't wait."
+"All right, then. Thanks!"
 
 The long-haired fighter drops from the wall. Chi-Chi pulls Gohan clear of his landing, and Tien moves in beside Krillin. The fighter swings at Tien; Tien blocks, but the blow drives him back against a broken pillar.
 
@@ -378,7 +388,7 @@ The bald fighter tears himself free of the wall and comes at Goshin from behind.
 
 "Goshin, behind you!"
 
-Goshin turns, bringing his tail close around his waist. The fighter catches his sleeve instead. Goshin twists his arm free and strikes the fighter across the chest, sending him back toward the crater in the road.
+Goshin turns, bringing his tail close around his waist. The fighter catches his sleeve instead. Goshin twists his arm free and strikes the fighter across the chest, sending him back toward the crater in the road. His uncle had reached for that same tail. He won't leave it dangling for this man.
 
 The long-haired fighter plants a foot against the pillar pinning Tien and drives it down. Tien rolls clear, but the pillar breaks across the street, throwing a cloud of dust between him and the others.
 
@@ -389,8 +399,6 @@ He turns toward the sound, just as Krillin showed him on the Lookout. The bald f
 "He's on that side!" Gohan calls.
 
 Chiaotzu rises. Tien clears the broken pillar and catches the fighter's next punch before it reaches him.
-
-*This programme continues after a message.*
 
 ---
 
@@ -412,7 +420,9 @@ Yamcha brings his hands together. A ball of light forms between them, larger tha
 
 "Tien, get clear of that wall!"
 
-Tien jumps away from the bald fighter. Yamcha sends the ball across the street, then curves it sharply toward the long-haired fighter. The fighter leaps from the roof, but Yamcha changes the ball's course again.
+Tien jumps away from the bald fighter.
+
+"Sokidan!" Yamcha sends the ball across the street, then curves it sharply toward the long-haired fighter. The fighter leaps from the roof, but Yamcha changes the ball's course again.
 
 It strikes the fighter and drives him into the side of a tall building. Cracks spread through the wall above him.
 
@@ -432,7 +442,7 @@ Goshin lifts all four pieces with his ki. They stop above the road while he shif
 
 The long-haired fighter sees him holding the pieces and dives toward him. Gohan sends a small burst against a loose brick in the fighter's path. The brick strikes the fighter's arm and changes his course just enough for Krillin to meet him.
 
-Krillin catches the fighter around the waist. They hit the ground together, roll past the broken pillar and separate.
+Krillin catches the fighter around the waist. They hit the ground together and roll past the broken pillar. Krillin keeps his arms locked as the fighter braces an elbow against the street.
 
 "I can't hold him for long!" Krillin calls.
 
@@ -478,7 +488,9 @@ Krillin rubs his shoulder and glances toward the doorway. "They're still getting
 
 "We can keep going," Tien says, watching the fighter in the road.
 
-Gohan looks at both opponents, then at the people beside him. "We said we'd visit Rom and Chiko after training."
+Gohan looks at both opponents, then at the people beside him. The fight has felt real, down to the pavement breaking beneath them. Chiaotzu hit it hard, and the men are getting up. Rom and Chiko are waiting to see them.
+
+"We said we'd visit Rom and Chiko after training."
 
 Chi-Chi keeps her eyes on the fighters. "Do you want to leave?"
 
@@ -511,6 +523,8 @@ Goshin flexes the arm that blocked the fighter's punch. "It hurt there when he h
 Gohan touches his own shoulder. "I felt the stones break, but I don't have any marks."
 
 "Your bodies stayed here," Popo says. "The things you experienced still felt real to you."
+
+Chiaotzu touches his shirt where he struck the street. There isn't a mark. He looks at Goshin and lifts his thumb; Goshin grins back.
 
 Yajirobe looks around the circle. "You were standing there the whole time. I couldn't tell whether anything was happening."
 
@@ -572,7 +586,7 @@ The common room has two windows, a long table and six beds arranged along the wa
 
 Chiko jumps up when she sees Gohan. "You found us!"
 
-"Pigero was at the gate."
+Gohan runs over to her, grinning. "Pigero was at the gate."
 
 "I told him to wait there. He thought you might go to the old house first."
 
@@ -672,6 +686,10 @@ While Dr. Brief checks the padding beneath C-6's arm, Bulma brings Gohan a clean
 
 "Then keep me informed. I can come with you next time if they want me there."
 
+Gohan looks up from the drawing. "You could help us work out how to make the wheel turn."
+
+"Ask Hatch if he'd like that," Bulma says. "I've got a few ideas."
+
 Gohan folds his new drawing and puts it beside his hat. C-6 looks at the door on Hatch's boat once more before Gohan puts the original away.
 
 "That should make getting aboard much easier," C-6 says.
@@ -682,7 +700,9 @@ Bulma drives Chi-Chi and the boys back to the mountain house before returning to
 
 ## The Road and the Window
 
-Goku reaches another bend in Snake Way. He slows, sets his feet and turns around the seam without losing his balance. Then he runs on, with the road stretching ahead of him.
+Goku crests a rise in Snake Way and sees the road curling into the distance. He stops just long enough to look, then leans into the downhill run.
+
+"You're a long way off, King Kai!"
 
 At the mountain house, Gohan places Hatch's drawing beneath his hat again. The new picture lies beside it, with a space left for the library shelves.
 
@@ -698,18 +718,25 @@ Chi-Chi closes the window before the evening breeze can lift either drawing. Goh
 
 ## Preview
 
-*Goku runs toward another bend in the long road. At the Lookout, Gohan sets a stone on the tiles while Goshin watches the sky.*
+*Goku runs toward another bend in the long road. At the mountain clearing, Goshin lifts four stones while Gohan watches.*
 
 **NARRATOR:** How far will Goku travel before he finds the end of Snake Way? And what will the family learn when their training continues?
 
 <!--
 ## Footer
+
+**6 November 2026 — cross-chapter handoff review, unaccepted.** The next-time image now previews the actual Chapter Nineteen mountain-clearing lesson rather than an unshown Lookout scene. The training, choices and all earlier scenes remain unchanged. The exact immediately preceding selected chapter (SHA-256 `d1a5a0fd3cb0efc9b0830d37890596841dd7165996346e4aed7c59bd523dcc01`) is in the [verified immediate pre-review snapshot](../canon/ARCHIVE_INDEX.md#backup-041); the entire predecessor footer follows. No new source viewing, acceptance, chapter or remote synchronization is implied.
+
+**6 November 2026 — Dragon Ball-feel revision, unaccepted.** Family play and Goku's training retain warmth; Kami's answer, Gohan's memory and the seven-person fight have more distinct character and intent. Yamcha names his guided Sokidan, and Krillin holds the opponent until pushed away, correcting the previous contradictory staging. The children's second shared night, conditional wheel-help invitation, C-6's consent and drawing handoffs remain; the opponents' fate is unknown. Goshin's four-piece hold and wave occur in the authored mind-travel experience; the **2,840** group reading is not a physical-body measurement or maximum. Episode-17's full retained caption and Toei's short synopsis were reread, not complete video/audio; origin/cut and exact silent action remain unverified. The exact predecessor (SHA-256 `5b8d42180e400adf43cefa3be7d5263406fd1dc25e0cc6c4d517ae3391f21731`) is in the [verified 122-member pre-correction archive](../canon/ARCHIVE_INDEX.md#backup-042), ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. Earlier footer entries remain historical where superseded; this is not reader acceptance.
+
+**5 November 2026 — continuing emotional revision, unaccepted.** The room encounter keeps the family's consent, separate actions and the team's changed outcome; Chiaotzu and Goshin share their relief on returning. Gohan's delight at seeing Chiko and the open placement questions follow the children's actual circumstances. The scouter's **2,840 combined** is an authored readout of the seven signals in the experienced room scene, not the source's **1,507** for four fighters, a verified measurement of the group's physical bodies, either opponent's strength, or a maximum. Goku's long road and the children's drawing continue. The exact preceding Chapters 17–18 are in the [verified local ZIP](../canon/ARCHIVE_INDEX.md#backup-057). The entire retained episode-17 caption and official synopsis were reread; source/cut and full audiovisual performance remain unverified. All current prose remains unaccepted.
+
 ```
 ANIME BASE: Dragon Ball Z episode 17; the next-episode preview is separate from that episode.
 EVIDENCE: Full local Japanese spoken captions of unverified origin and cut; Toei's official promotional synopsis; eight selected Kanzenshuu stills and one Toei still; secondary episode descriptions. Full video and audio were not examined.
 WITNESS: canon/captions/Dragon_Ball_Z_017.srt; https://lineup.toei-anim.co.jp/ja/tv/dragonz/episode/17/ ; https://www.kanzenshuu.com/episode/dbz/eps-017/ ; https://dragonball.neoseeker.com/wiki/DBZ_Episode_17_-_Pendulum_Room_Peril ; Dragon Ball Official's Tien technique compendium, https://en.dragon-ball-official.com/news/01_144.html (W-84).
 STAGING: Living Goku's journey, the family training together, the seven-person room exercise and its recall mechanism, changed fight and outcome, the children's follow-up and the laboratory visit are authored branch events, not claims about the source episode.
-SCALE: Current abilities are unmeasured. Goshin uses retained flight, physical strikes, ki control and his Kamehameha; Gohan acts with his own demonstrated ki. Tien's four-body technique divides his strength and speed between the four bodies; the team exploits its extra angles without treating each body as his unsplit self. The opponents and room do not establish the arriving Saiyans' exact strength.
+SCALE: The authored 2,840 combined scouter readout is a momentary feature of the mind-travel experience, not a verified physical-body measurement or maximum. Goshin uses retained flight, physical strikes, ki control and his Kamehameha; Gohan acts with his own demonstrated ki. Tien's four-body technique divides his strength and speed between the four bodies; the team exploits its extra angles without treating each body as his unsplit self. The opponents and room do not establish the arriving Saiyans' exact strength.
 ```
 This is an unaccepted continuation of the selected review sequence. The captions do not establish the entire silent choreography, the precise location shown by the room or a numerical comparison with the arriving Saiyans.
 -->

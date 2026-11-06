@@ -38,19 +38,21 @@ Goshin sits beside him on the edge of the bed while Gohan explains what he saw: 
 
 "Father got up," Goshin says.
 
-"I know."
+"I know. I wanted to help him sooner. When I woke up, I thought he was still under Raditz's foot."
 
-"He got up, and we helped him."
+Goshin grips the edge of the blanket. "I can still hear him telling us to get away. I wanted to pull Raditz off him."
 
-Gohan looks at his brother. "I wanted to help him sooner. When I woke up, I thought he was still under Raditz's foot."
+"We didn't get away," Gohan says.
 
-Goshin is quiet for a moment. Then he puts his hand over Gohan's clenched fist.
+"No. And we helped him."
 
-"You did help."
+Goshin puts his hand over Gohan's clenched fist.
 
-"I know. He got up, and then he went away to train."
+"I wish Father was home," Gohan says.
 
-Goshin leaves his hand there until Gohan opens his fingers. They both look at the creases the blanket has left in Gohan's palm.
+"Me too."
+
+Gohan opens his fingers. The blanket has left creases in his palm.
 
 "In the room at the Lookout," Gohan says, "I could move the stone away from Krillin. I want to get better at that."
 
@@ -66,7 +68,7 @@ Goshin's eyes widen. "You want to learn it?"
 
 "Yes. You did it when Father needed help. And yesterday you used it while you were holding all those pieces of the wall."
 
-"That was in the room," Goshin says. "I'll show you the one I do here."
+"I can show you how I do it," Goshin says.
 
 Gohan smiles. "Will you?"
 
@@ -192,25 +194,11 @@ Chi-Chi smiles from her place near the trees.
 
 "Try both," she says.
 
-"I'll hold on. You try to get past me," Goshin tells Gohan.
+Goshin takes Gohan's wrist again. Instead of pulling straight back, Gohan shifts his weight, slips around Goshin's side and touches his shoulder.
 
-They do. Goshin takes Gohan's wrist again, and Gohan shifts his weight rather than pulling straight back. He slips around Goshin's side and touches his shoulder.
+"Now you," Gohan says, and takes hold of Goshin's wrist. Goshin turns and steps clear. When they try again, Gohan anticipates the turn, but Goshin changes direction and leaves them facing one another.
 
-Then they change places. Gohan holds Goshin's wrist while Goshin turns, lowers his centre of balance and steps clear.
-
-On the third try, Gohan anticipates the turn. Goshin changes direction before Gohan can reach him, and the two of them end up facing one another again.
-
-They laugh.
-
-"That one didn't work," Gohan says.
-
-"It almost did."
-
-"Again?"
-
-Goshin steps back into place and raises his hands. Gohan comes forward again.
-
-Gohan scuffs his shoe to Goshin's right. When Goshin glances at the moving dirt, Gohan steps left and touches his arm.
+"Almost!" Gohan says. He scuffs his shoe to Goshin's right. When Goshin glances at the moving dirt, Gohan steps left and touches his arm.
 
 "You looked over there," Gohan says.
 
@@ -296,13 +284,9 @@ Goshin raises the four stones again. They circle at different heights while he g
 
 This wave is narrower. Goshin turns his hands, bending the stream across the stone to the edge of the hollow. He stops it there, knocking one loose piece free. He catches the piece with his ki before it lands and guides it down while the other stones continue to circle.
 
-Gohan watches the chip settle beneath them.
+Gohan watches the chip settle beneath them. "You didn't drop the others!"
 
-"You were still moving the others."
-
-Goshin guides the four stones into a new pattern without interrupting their motion. "I can change the wave's direction or stop it where I choose. I've been practising that since I saw Father use it."
-
-He lowers the stones before he turns back to Gohan.
+Goshin grins and sends the four stones circling in the other direction. He has practised the wave and the stones together; now he lets the stones come gently to the ground and turns back to Gohan.
 
 "Did you do that the first time?"
 
@@ -314,11 +298,7 @@ Goshin comes back beside him and shows him where to place his hands. Gohan copie
 
 "Do I have to say the words?" he asks.
 
-"I do."
-
-"Father does too."
-
-"Then you can."
+"I don't know. Father does, and I like shouting them."
 
 Gohan takes a breath and cups his hands, but his shoulders are pulled high.
 
@@ -358,7 +338,7 @@ Gohan watches the dirt settle short of the seam he had chosen on the bank.
 
 "Your hands went down."
 
-Gohan looks at his hands. "They did."
+Gohan looks at them. "I was watching the rock. Maybe I can feel where my hands are, like the stone."
 
 Chi-Chi rises and comes closer, stopping behind the boys.
 
@@ -716,7 +696,9 @@ Piccolo pulls free and jumps back.
 
 Two Piccolos stand where one stood before, and Gohan looks from one to the other.
 
-Goshin raises four loose stones. Two travel toward the figure on the left; the others move toward the one on the right.
+"Like Tien!" he says.
+
+"Then let's keep both of them busy!" Goshin raises four loose stones. Two travel toward the figure on the left; the others move toward the one on the right.
 
 Both figures dodge, one rising over the stones while the other steps left. The stones aimed at the left-hand figure skim the dry ground, throwing dust across Gohan's view.
 
@@ -922,7 +904,11 @@ The monkey climbs down and begins moving around the tree. Goku follows, copying 
 
 "This is training already?"
 
-The monkey moves one way. Goku moves the same way. The monkey hops; Goku attempts the hop and lands heavily on both feet. The monkey scrambles back up the tree, shaking an apple loose. It drops into the grass and starts to roll.
+The monkey moves one way. Goku moves the same way. The monkey hops; Goku attempts the hop and lands heavily on both feet.
+
+"Ooh! Ooh!" the monkey calls.
+
+"Ooh! Ooh!" Goku answers. If this is a lesson, he doesn't want to miss any of it. The monkey scrambles back up the tree, shaking an apple loose. It drops into the grass and starts to roll.
 
 A voice comes from behind the house. A small, round blue man stands watching, dressed in dark robes with a circular emblem on the front. Two antennae rise above his head, and dark glasses hide his eyes.
 
@@ -952,7 +938,7 @@ Ox-King sets the screwdriver on the gatepost. "You've both been busy."
 
 "Then we can do it together."
 
-Chi-Chi comes to the doorway. "After you've both had more practice."
+Chi-Chi comes to the doorway. "I hope he gets to see it soon. Now wash your hands, both of you."
 
 Goshin grins at Gohan.
 
@@ -978,6 +964,11 @@ Ox-King picks up the screwdriver, and the family goes inside together, leaving t
 
 <!--
 ## Footer
+
+**6 November 2026 — Dragon Ball-feel revision, unaccepted.** The brothers speak personally about the Raditz nightmare and spar more fluidly; Gohan develops his own aiming insight while Goshin demonstrates his already retained wave-and-stone control with pleasure. The boys connect Piccolo's splitting to Tien's earlier display without establishing the same technique. The projected machine is still covered and unidentified, the physical four-rock hold and separate slab diversion remain, and neither boy transforms. Goku imitates Bubbles on the heavy little planet, but King Kai's identity is not yet confirmed. Complete retained episode-18 captions and Toei's short synopsis were reread, not full video or audio; original caption source and cut remain unverified. The exact preceding selected chapter (SHA-256 `060e0545b2c382c26a95548cf2c2bec77cf31bccc1b59808981b00cd98b044cc`) is in the [verified 122-member pre-correction archive](../canon/ARCHIVE_INDEX.md#backup-042); earlier footer contents follow unchanged. No acceptance or remote sync is implied.
+
+**5 November 2026 — continuing emotional revision, unaccepted.** Gohan's dream now lets both brothers share their distinct memories and wish for their father without requiring identical reactions; Chi-Chi's own hope for Goku's return appears alongside her ordinary care. Goshin still teaches a mastered, deliberately restrained wave, learns from Gohan's feint and remains capable; Gohan independently learns, aims and applies his Kamehameha. The machine remains unidentified and covered, neither boy transforms, both retain their tails, and the voluntary Piccolo spar and children's call continue. The exact preceding Chapters 19–20 are in the [verified local ZIP](../canon/ARCHIVE_INDEX.md#backup-058). The retained episode-18 caption and official synopsis were reread; source/cut and full audiovisual performance remain unverified. These revised words are not accepted.
+
 ```
 ANIME BASE: ep. 18.
 EVIDENCE: Full local Japanese spoken captions of unverified original source and cut; Toei's official synopsis and one promotional still; eight individually inspected Kanzenshuu stills and its secondary episode guide. The public Jimaku SRT is byte-identical to the verified Drive archive member; this does not authenticate the broadcast cut. Full episode video and audio were not examined.

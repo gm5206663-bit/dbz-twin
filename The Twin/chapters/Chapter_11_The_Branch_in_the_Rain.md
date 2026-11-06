@@ -1,14 +1,8 @@
 # Chapter Eleven — The Branch in the Rain
 
-*Immersion-revised review draft; not yet accepted.*
+*Revised story draft; not yet accepted.*
 
 A length of red string hangs from the fork of a fallen tree. Beneath it, the river has left a dark line on the stones.
-
-**THE BRANCH IN THE RAIN**
-
-**NARRATOR:** Goku and his family have brought C-6 out of the ruins. Krillin is searching for Yamcha, while two Saiyans travel toward Earth.
-
----
 
 ## A Telephone for C-6
 
@@ -18,11 +12,13 @@ Gohan turns another page of Mina's book. C-6's light follows the picture, althou
 
 "I know what a wheel is."
 
-"It goes around the outside of the machine."
+Goshin spreads his arms. "It goes all the way around the machine."
 
 C-6 looks again. "Then that's a very large wheel."
 
-Goku crouches beside him. "Hey, Bulma knows all about machines. Want me to call her right now?"
+"I wonder where the driver sits," Gohan says. He turns the book sideways, but the other side of the machine still isn't in the picture.
+
+Goku crouches beside C-6. "Hey, want me to call Bulma right now?"
 
 "You can tell her about my arm and the energy leak. Tell her I want to speak to her before she opens anything."
 
@@ -66,21 +62,23 @@ Gohan closes the book around his finger. "Can we come too?"
 
 "Sure! You and Goshin can come on Nimbus."
 
-Mina's father comes through the gate, holding a length of damp string. "I found this by the fallen tree. The other parcel was above it, caught in the branches."
+Mina's father comes back through the gate with a length of damp string. "I found this by the fallen tree. The other parcel was above it, caught in the branches."
 
 "Is it still there?" Gohan asks.
 
 "I think so. I couldn't reach it from the road."
 
-Chi-Chi looks toward the dark clouds over the hills. "The bank gave way yesterday. We aren't going back onto it."
+Chi-Chi looks toward the dark clouds over the hills. "That bank gave way this morning. We aren't going back onto it."
 
-"There's a higher path," Mina's father says. "We can see the tree from there."
+"There's a higher path. We can see the tree from there."
 
 "Then we'll look from the path. If it isn't safe, we'll leave the parcel."
 
-"Maybe I can reach it from the path," Goshin says.
+"Maybe I can reach it from there," Goshin says.
 
 Gohan looks at Mina's father. "We promised to help find the other books."
+
+He has kept Mina's first book safe through the fall, but he remembers the one that slipped from his hand into the river. If they can reach the parcel, at least that one won't be lost too.
 
 "Oh, yeah!" Goku says. "I'll take C-6 to Bulma and meet you after you've looked for them."
 
@@ -112,7 +110,11 @@ Nimbus waits above the gate after Goku has turned toward the city.
 
 ## The High Path
 
-Chi-Chi washes rice at the doctor's basin and puts it on the stove. Goshin lays out clean cloths, and when the rice is ready he helps her shape it into balls and wrap them. She washes two apples and cuts each into quarters, setting the pieces in a second bundle.
+At the doctor's basin, Chi-Chi washes rice and puts it on the stove. Goshin helps her shape the cooked rice into balls. His first one comes out a little flat.
+
+"It's rice," Chi-Chi says, "not a rock. You don't have to squeeze it so hard."
+
+He tries again, carefully rounding the next ball between his hands. Chi-Chi wraps them in cloth, then cuts two apples for a second bundle.
 
 "The apples too?" Goshin asks.
 
@@ -122,7 +124,7 @@ Chi-Chi washes rice at the doctor's basin and puts it on the stove. Goshin lays 
 
 "Then he'll have to be quick."
 
-Goshin looks toward the window. A moment later he smiles and takes the bundle she offers.
+Goshin glances toward the window and smiles. He takes the rice bundle she offers, holding it a little more gently than the first ball.
 
 Outside, Ox-King has parked his truck beside the doctor's gate. He carries two boards toward the damaged bridge, where a pair of villagers are putting up a warning.
 
@@ -142,17 +144,17 @@ Gohan pats the bag at his side. "I'll bring it back when C-6 has seen the pictur
 
 A shallow pool sits beside the path where the hillside has caught some of the rainwater. A fish turns beneath the surface, then noses against a stone.
 
-"How did it get up here?" Goshin asks.
+"How did it get up here?" Goshin asks. "Did it climb?"
 
 "The river was much higher last night," Mina's father says. "It must have been left behind when the water fell."
 
-Gohan kneels at the edge. The fish slips away from his first attempt, and water splashes over his sleeve. He waits until it turns, then catches it gently in both hands.
+Gohan kneels at the edge. The fish slips away from his first attempt, splashing his sleeve. He waits until it turns, then catches it gently in both hands.
 
-"Can we take it home?" he asks Chi-Chi. "Father could cook it."
+"Can we take it home? Father could cook it."
 
-"If we get home before supper. Give me a leaf to wrap it in."
+"If we get home before supper," Chi-Chi says. "Goshin, find me a leaf to wrap it in."
 
-Goshin searches the branches beside the wall, picks a broad leaf and hands it to her. Chi-Chi wraps the fish and puts it in a separate bag.
+Goshin chooses a broad one from the branches beside the wall. Chi-Chi wraps the fish and puts it in a separate bag; Gohan wipes his wet hands on the grass.
 
 Farther along, the fallen tree reaches from the road toward the water. Mina's parcel hangs in its upper branches, well above the broken bank.
 
@@ -162,13 +164,13 @@ Gohan starts toward the string, then stops. A snake lies along the branch beneat
 
 "Then let it sleep," Chi-Chi says. "Can we reach the string from here?"
 
-Goshin crouches to see the snake. "We can go around it."
+Goshin crouches for a better look. "I don't think he'd like us waking him up."
 
-Mina's father offers Gohan a long stick. Gohan hooks it around the string and draws the parcel toward the road, but the branch bends with it.
+Gohan thinks of C-6's switch and smiles despite the snake. Mina's father offers him a long stick; he hooks it around the string and draws the parcel toward the road. The branch bends with it.
 
 Goshin reaches out. His ki catches the branch and holds it still while Gohan frees the string. One end tears away and stays caught in the fork. The parcel drops into Gohan's arms without disturbing the snake.
 
-"We found it!"
+"We found it!" He turns the wet package over, looking for a tear, but the paper has held.
 
 As Gohan backs away, a thorn catches the inside of his wrist. He pulls free and holds up his hand. A narrow scratch runs across the skin.
 
@@ -194,13 +196,15 @@ Puar, a small blue, catlike figure floating beside him, looks from the ball to Y
 
 "Most players would be happy about three."
 
-"Most players are baseball players."
+"Most players are baseball players. I'm a martial artist."
 
 The scoreboard shows six runs for the visiting team and three for Yamcha's. Two runners stand on the bases while the next batter approaches the plate.
 
 Puar settles on the bench beside him. "You said you needed the money."
 
 "I do. I didn't say I needed to enjoy the uniform."
+
+He tugs at the brim of his cap. The crowd is still cheering, but there hasn't been a decent opponent in his path all afternoon.
 
 A shout comes from the far end of the bench. The coach is pushing between the players, waving a scorecard over their heads.
 
@@ -240,27 +244,25 @@ The pitcher sends the ball across the plate. The batter leans toward it, but the
 
 The next pitch strikes the batter's helmet. He throws the bat down and charges the mound. The pitcher meets him halfway, and both benches empty onto the field.
 
-Yamcha gets up.
+Yamcha gets up and leans his bat against the rail.
 
 "Please don't," Puar says. "Somebody will get hurt."
 
 "I'll hold back."
 
-Yamcha ducks under one player's arms and catches another by the shoulders. He turns the second player away from the pitcher, then steps between two men swinging at each other.
+Yamcha grins for the first time that afternoon and plunges into the brawl. He ducks under one player's arms, turns another by the shoulders and sends him stumbling into a teammate. Both sit down hard in the grass, too surprised to keep swinging.
 
-"All right, that's enough."
+"See?" Yamcha calls to Puar. "Holding back!"
 
-One of them tries to punch him. Yamcha bends aside, and the punch passes in front of his shirt. He catches the man's wrist before it can hit the other player.
+A punch whistles past his shirt. He bends aside and catches the man's wrist before it reaches the player behind him.
 
-A hand closes on Yamcha's shoulder. He turns and raises his free arm, but the hand moves with him.
+Then a hand closes on Yamcha's shoulder. He turns and raises his free arm, but the hand moves with him. For an instant he feels the difference between this grip and the ones he has been dodging.
 
-Yamcha stops.
-
-"Krillin?"
+He stops. "Krillin?"
 
 "Hi, Yamcha. Can we talk somewhere without a baseball bat coming at us?"
 
-Puar flies over the players and lands on Yamcha's shoulder. Together they leave the field through the gate by the bench while the umpire blows his whistle behind them.
+Puar flies over the players and lands on Yamcha's shoulder. Yamcha retrieves his bat from the rail, and they leave with Krillin through the gate by the bench while the umpire blows his whistle behind them.
 
 The coach runs after them. "Yamcha! Where are you going?"
 
@@ -283,6 +285,8 @@ He waits until the coach has gone back through the gate. Puar turns toward him, 
 Yamcha lowers the bat. "Where's Goku?"
 
 "He's alive. He was hurt badly, but I brought a Senzu from Korin. He and the boys are with Chi-Chi now."
+
+"Good," Yamcha says quietly. He keeps hold of the bat, but his grip loosens. For a moment the noise from the stadium seems a long way off.
 
 Puar lets go of the collar. "And the Saiyan?"
 
@@ -338,25 +342,23 @@ Gohan lifts Mina's other book from under his shirt. Only the edge is damp. He gi
 
 Chi-Chi unwraps the rice and apples on the ledge. Goshin takes a rice ball, and Gohan chooses a piece of apple. Outside, rainwater runs down the face of the fallen tree.
 
-A shape moves past the opening. Gohan hears leaves tearing, then sees a long neck reaching around the side of the shelter.
+Something tears leaves beyond the opening. Gohan turns in time to see a long neck reach around the shelter and take an apple piece from the ledge.
 
-The dinosaur takes one of the apple pieces from the ledge.
-
-Gohan freezes with his own piece in his hand. The dinosaur takes a second one and chews it while rain runs down its back.
+He freezes with his own piece in his hand. The dinosaur takes a second and chews it while rain runs down its back.
 
 "Those were for all of us," Goshin says.
 
-Chi-Chi draws the remaining food nearer. "You can have one, but leave something for us."
+Chi-Chi pulls the remaining food closer. "You can have one, but leave something for us."
 
-The dinosaur lowers its head again. Gohan puts his apple piece on the ledge and takes a step back. The animal eats that too.
+The dinosaur lowers its head again. Gohan puts his apple on the ledge and steps back. Its wide mouth closes over the fruit, and a drop of rain falls from its nose onto his shoe.
 
-Chi-Chi moves the bags away from its feet and sets them against the wall.
+Chi-Chi moves the bags away from its feet.
 
-"The book I read at home said some dinosaurs eat plants," he says. "I didn't know they'd eat Mother's apples."
+"The book I read at home said some dinosaurs eat plants," Gohan says. "I didn't know they'd eat Mother's apples."
 
 "You should have asked the author," Chi-Chi says.
 
-Goshin takes a leaf from the bag and offers it at arm's length. The dinosaur closes its mouth around the leaf, then pushes farther beneath the shelter.
+Goshin offers a leaf at arm's length. The dinosaur closes its mouth around it, then pushes farther beneath the shelter.
 
 Its body knocks against the stone. The dinosaur gives a low cry and sinks onto its front legs.
 
@@ -394,9 +396,11 @@ Gohan looks at the cloth. "Would Father's leaf help?"
 
 He pulls his coat over his head and sets off through the rain. Gohan holds an apple piece where the dinosaur can reach it, while Goshin folds another cloth beside Chi-Chi.
 
-The dinosaur eats slowly. When its head comes down again, it rests beside Gohan's knees.
+The dinosaur eats slowly. When its head comes down again, it rests beside Gohan's knees. He can feel its breath through the damp cloth of his trousers.
 
-*This programme continues after a message.*
+"It's all right," he tells it, keeping the apple where it can reach.
+
+Goshin sits close enough to help Chi-Chi but gives the animal's tail room to move. When it closes its eyes, Gohan stays still so it won't have to lift its head again.
 
 ---
 
@@ -408,11 +412,11 @@ Goku lands outside Capsule Corporation with C-6 held against his chest. Bulma op
 
 "Is the table strong?" C-6 asks.
 
-"Stronger than it looks."
+"It held an engine I dropped on it last week."
 
 "That's what someone said about the floor of my temple."
 
-Goku lowers him carefully onto the table. Bulma holds up a folded pad. "May I put this beneath your arm?"
+Bulma raises an eyebrow. Goku lowers C-6 carefully onto the table, and she holds up a folded pad. "May I put this beneath your arm?"
 
 "You may. Don't pull it straight."
 
@@ -500,13 +504,15 @@ Bulma looks at Yamcha's uniform, then at the bag. "So you were at the stadium."
 
 Puar drifts behind Yamcha. Krillin finds a place for his hands inside his sleeves.
 
-"I didn't have any money to take you out," Yamcha says. "I should have told you."
+"I was trying to earn enough to take you somewhere nice."
 
-"You should have called. I waited."
+"A telephone call would have been cheaper. I waited."
 
-"I'm sorry."
+Yamcha opens his mouth, then shuts it. "I should have told you. I'm sorry."
 
 Bulma looks away toward the open lab door. "All right. We've got more important things to do today."
+
+Puar's shoulders come down. Krillin takes his hands back out of his sleeves.
 
 Krillin takes a breath. "Korin has a message from Kami. We're supposed to gather at the tower. Yamcha's coming."
 
@@ -562,7 +568,7 @@ Goku rests a hand on the edge of the table. "I'll bring Gohan and Goshin back to
 
 "Bring the book too. Gohan had just reached the part about the tunnel."
 
-"I will."
+"I will. They'll be happy you want to hear the rest."
 
 Outside, Goku rises above the buildings and turns toward the village. The aircar opens below him, its roof unfolding as Bulma presses the capsule switch.
 
@@ -612,9 +618,7 @@ The rain begins to thin. Chi-Chi checks the cloth against the dinosaur's side wh
 
 "Long enough to reach the village and find the veterinarian. Keep the food where this one can see it."
 
-Goshin takes another piece of apple from the bag.
-
-He puts the apple piece on the stone in front of the dinosaur. Its tongue curls around the fruit and draws it away.
+Goshin puts another apple piece on the stone. The dinosaur's tongue curls around the fruit and draws it away. Gohan smiles, but he keeps glancing toward the path; the animal hasn't tried to stand again.
 
 Something strikes a tree beyond the shelter. Goshin turns toward the sound.
 
@@ -638,11 +642,11 @@ Gohan steps beside her. The carnivore lowers its head and pushes into the shelte
 
 Nimbus drops from above the roof. Gohan jumps onto the cloud, and it carries him between the dinosaurs as the carnivore's jaws close around the edge of the other's hide.
 
-Gohan plants both hands against the lower jaw and pushes. The teeth come apart, and the wounded dinosaur pulls free. Chi-Chi guides its head toward the back of the shelter.
+Gohan plants both hands against the lower jaw and pushes. The teeth come apart, and the wounded dinosaur pulls free. Chi-Chi guides its head toward the back of the shelter, bracing her feet when its front legs skid.
 
-The carnivore swings its tail across the entrance. Goshin raises one hand. His ki catches the tail before it reaches Chi-Chi and bends it down against the wet ground.
+The carnivore swings its tail across the entrance. Goshin raises one hand. His ki catches the tail before it reaches Chi-Chi and drives it down against the wet ground.
 
-The impact throws mud across the path. The carnivore twists, pulling its tail free, and turns toward Goshin.
+Mud splashes over his shoes. The carnivore twists its tail free and turns toward him. Goshin shifts to the side, drawing its attention away from his mother and the injured animal.
 
 "This way," Gohan calls.
 
@@ -660,21 +664,19 @@ The carnivore's tail lashes the tree as it turns. A heavy branch breaks above Ch
 
 The carnivore wheels around again. Goku steps between it and Chi-Chi, leaving the path clear for Gohan.
 
-Goku plants one foot in the mud and raises his hands, watching the carnivore's legs as it circles.
+Gohan reaches the ledge and takes the wrapped fish from Chi-Chi's bag. "Father, I have an idea!"
 
-Gohan reaches the ledge and takes the wrapped fish from Chi-Chi's bag.
-
-"Hey, that's the fish we were going to have for supper!" Goku says.
+"Hey, that's our supper!"
 
 "I know."
 
-Gohan opens the leaf and tosses the fish down the path. It lands beyond the fallen tree. The carnivore follows it, picks it up and disappears between the trunks with the fish in its mouth.
+Goku plants one foot in the mud, keeping the carnivore's attention while Gohan opens the leaf. Gohan tosses the fish down the path, beyond the fallen tree. The carnivore turns after it, picks it up and disappears between the trunks with the fish in its mouth.
 
-Gohan watches the branches move until they settle. Nimbus comes down beside him, and he gets off.
+Gohan watches the branches move until they settle. Nimbus comes down beside him, and he gets off. He keeps a hand on the cloud until his legs feel steady.
 
 "You gave it your fish," Chi-Chi says.
 
-"It was trying to eat this one."
+"I didn't want it to come back for this one."
 
 Goku looks down the path. "It'll still be hungry later."
 
@@ -742,7 +744,7 @@ Goku leans toward the bundle. "Oh, rice balls!"
 
 "Then we'd better make a lot!"
 
-Goshin takes the rice bundle from her and hands it to Goku. "Father, you said aiming was good to practise. Can we do it now?"
+Goshin takes the rice bundle from her and hands it to Goku. "Can we practise aiming again? I held the branch for Gohan."
 
 Goku unwraps a rice ball and takes a bite, looking toward an empty patch of ground beside the road where the rain has pressed the grass down. Three stones lie there, with a few green blades standing between them.
 
@@ -784,7 +786,17 @@ Gohan retrieves his pebble. "Can I keep practising too?"
 
 "Yes. We'll make time for both."
 
-Beyond the gate, the dinosaur pulls at another branch. Goshin picks up the first leaf and puts it in his pocket.
+He looks toward Mina's book, tucked safely in its bag. "Do scholars get to dig up temples?"
+
+"Some do," Chi-Chi says. "After a great deal of studying."
+
+Gohan imagines the carving under the riverbank and the side of the machine the picture never showed. "Then I could make a book that has both sides."
+
+"I'll draw the machines," Goshin says.
+
+"And I'll read it!" Goku reaches for another rice ball. "As long as you tell me what the hard words mean."
+
+Beyond the gate, the dinosaur pulls at a branch. Goshin picks up the practice leaf and puts it in his pocket.
 
 Goku pops the last rice ball into his mouth and wipes his fingers on his trousers.
 
@@ -802,14 +814,16 @@ The red string hangs from the fork of the fallen tree. Below it, the river runs 
 
 ---
 
-## Preview
-
-*Two space pods pass above a distant world. On Earth, Gohan opens a book while Goshin sets a leaf between two stones.*
-
-**NARRATOR:** Yamcha is on his way to prepare with the others. Where will the two Saiyans stop on their journey, and what will Goku's sons learn before they arrive?
+> **NEXT TIME — The family sets out for home, while the approaching Saiyans make a stop of their own.**
 
 <!--
 ## Footer
+
+**6 November 2026 — Dragon Ball-feel revision from the opening, unaccepted.** The complete chapter, the episode-ten source inventory and retained captions, Toei's short synopsis and the Chapter Twelve opening were reviewed. This pass strengthens Yamcha's lively baseball entrance, his relief and friction with Bulma, the brothers' distinct reactions and choices, the family, the dinosaur's danger and Gohan's wish to learn. The doctor's-yard continuation is the same day as Chapter Ten: Chi-Chi says the bank fell that morning, not yesterday. The dinosaur's recovery, C-6's energy and bent arm remain uncertain; he agrees to the proposed outside inspection and no panel is opened without permission. Gohan acts on his own, Goshin retains his strength and precise ki, Chi-Chi and Goku contribute, and the nonlethal outcome follows the people present rather than a mandatory source death. The scouter remains unpowered, Krillin carries the last whole bean and Yamcha leaves toward Korin Tower with Bulma, Krillin and Puar. Retained captions have unverified origin and cut; they and the short synopsis are not complete video or audio review. The family rescue, laboratory scenes and changed outcomes are authored. The exact immediate predecessor is in the [verified pre-correction project and accepted-original snapshot](../canon/ARCHIVE_INDEX.md#backup-042), Chapter Eleven member SHA-256 `6028d38dead9b99f721a9b943ae3df0155cc30f60c6c574d16032bbf1dbd3c53`, ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. Earlier footer entries remain historical; this revision is not reader acceptance.
+
+
+
+**5 November 2026 — continuing emotional revision, unaccepted.** This pass lets Yamcha's relief and delight in movement, Gohan's care and fear, and C-6's connection to the boys inform their scenes without replacing their actions. The doctor and Sato's caution, the dinosaur's unguaranteed recovery, the brothers' independent choices, C-6's unresolved condition and consent, Yamcha's recruitment and the unpowered scouter remain. The preceding selected file is preserved with Chapter Twelve in the [verified local backup](../canon/ARCHIVE_INDEX.md#backup-054). The full retained episode-10 caption was reread with Toei's short synopsis; origin and cut remain unverified. Neither establishes complete video or audio review. The family dinosaur rescue and C-6/laboratory sequence are authored branch staging.
 ```
 ANIME BASE: Dragon Ball Z episode 10.
 EVIDENCE: Local Japanese episode-10 captions, with original provenance and exact cut unverified; secondary accounts as identified in the coverage record. Captions and selected stills do not establish full video or all silent action.

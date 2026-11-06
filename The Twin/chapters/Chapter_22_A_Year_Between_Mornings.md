@@ -26,15 +26,9 @@ Gohan draws his hands to his side. Blue light gathers between his palms, and his
 
 The wave strikes inside the left circle. Gohan closes his hands, and the light vanishes. A black mark reaches the circle's edge but leaves the right side untouched.
 
-Gohan runs to the board. "I stopped it sooner."
+Gohan checks the scorched board. "I stopped it sooner. There's room for yours, Goshin!"
 
-"You did," Chi-Chi says. "Is the board still strong enough?"
-
-Gohan presses the scorched wood. "For another one."
-
-He carries it to the rock below the slope and sets it back in place. Goshin sends the six rocks along separate paths, well clear of the target.
-
-"I'm ready," Gohan says from the path.
+He returns to the path while Goshin sends the six rocks along separate paths, well clear of the target.
 
 Goshin cups his hands. The rocks keep moving as blue light grows between his palms. He aims at the right circle and fires.
 
@@ -42,9 +36,9 @@ The wave passes through the board and cuts a channel into the rock behind it. Go
 
 Gohan goes to the board. "There's a hole all the way through."
 
-Chi-Chi looks at the solid rock behind it. "We'll need another board. That one has done its work."
+"We'll need another board," Chi-Chi says.
 
-Goshin turns the fallen piece in his hands. The cut edge is smooth where the wave passed through.
+Goshin turns the fallen piece in his hands. Its cut edge is smooth.
 
 "Can we use it for a smaller target?" he asks.
 
@@ -98,17 +92,13 @@ Goshin leans on the table. "Could the roof come off?"
 
 "Could it fold?"
 
-Gohan draws a line above the back of the boat. Chi-Chi comes in with the board from the clearing and stops beside them.
+Gohan draws a folding roof above the deck. Chi-Chi comes in with the board from the clearing.
 
 "What happens when it rains?" she asks.
 
-"The roof goes over the deck. When it's sunny, it folds back here."
+Gohan adds two short lines for drains. "The water goes down these."
 
-Goshin touches the corner of the new drawing. "Where does the water go?"
-
-Gohan adds two short lines along the roof. "Down these."
-
-Chi-Chi looks at the page. "That would keep it away from the door."
+"Away from the door," Chi-Chi says.
 
 The telephone rings before Gohan can finish the second line. Chi-Chi answers it and passes the receiver to him.
 
@@ -120,9 +110,9 @@ Gohan tells Hatch about the folding roof. He holds the pencil between his finger
 
 Goshin waits at his shoulder. Gohan asks Hatch whether he can speak too, then holds out the receiver.
 
-"Does it need a drain?" Goshin asks.
+"Will this drain be in the way of the stairs?" Goshin asks.
 
-He listens, then looks at Gohan's page. "All right. We'll leave room for one."
+He listens, then looks at Gohan's page. "All right. We can move it."
 
 Gohan takes the receiver back. "I'll show you the page when we visit."
 
@@ -302,7 +292,7 @@ Beyond the living space, white floor stretches into a white distance. There are 
 
 "We should stay near the door today," Gohan says.
 
-"I want to know where it is," Goshin agrees. He puts Hatch's drawing beside the clock, where both of them can see it.
+"I want to know where it is," Goshin agrees. Gohan hands him Hatch's drawing, and Goshin puts it beside the clock, where both of them can see it.
 
 They unpack the capsules together. Gohan puts the schoolbooks on the shelf; Goshin carries the extra food to the cupboard. They find the beds, the washroom and the kitchen, with the door in sight from the table. An hourglass stands beside it.
 
@@ -338,6 +328,12 @@ On another day, a cold wind reaches them across the white floor. The boys hurry 
 
 They do not go out again until the wind has eased. In the days that follow, the air still makes them work for each breath, but they can stay on the marked floor longer before needing to rest.
 
+On a hot afternoon, the white distance shimmers. Gohan hangs their washed shirts near the living space, and the water dries almost as fast as he can fasten them.
+
+"I wish they'd do that while we were wearing them," Goshin says, tugging at his damp collar.
+
+Gohan laughs and hands him the last shirt. Goshin lifts it with his ki and flaps it toward his brother until Gohan grabs the other end. For a moment they pull it back and forth, laughing, before they hang it up to dry.
+
 ---
 
 ## A Week Without Sky
@@ -359,16 +355,6 @@ When the laughter stops, Goshin touches the little house on the page. "I miss Mo
 Gohan puts the drawing beside Hatch's. "We'll show them both when we get home."
 
 Goshin sits with him until they are ready to go back to the marked floor.
-
----
-
-## Eye-Catch
-
-Gohan and Goshin stand on either side of the target block. Behind them, the door to the living space remains in sight.
-
-**NARRATOR:** This programme continues after a message.
-
-Gohan touches one of the marks on the floor, then moves it farther to the left.
 
 ---
 
@@ -396,23 +382,15 @@ His wave strikes the second block above the line he drew. Goshin stops beside hi
 
 Goshin shifts the nearer mark. Gohan tries a shorter turn, then a longer one, recording each attempt on the paper Chi-Chi left.
 
-At lunch, Goshin lays out the vegetables while Gohan carries the pan to the table.
-
-Water runs down the handle, and the pan slips in Gohan's hands. Goshin catches it with his ki and guides it down. Gohan takes hold of the dry end.
-
-"That handle's slippery," he says.
-
-Goshin passes him a cloth. "Try this."
-
-Gohan dries the handle and sets the pan on the table.
-
-They finish cooking and eat. Goshin leaves the pencil beside the page for the next morning's mark.
+After lunch, Goshin leaves the pencil beside the page for the next morning's mark.
 
 The lines fill. Gohan reads aloud after breakfast, and Goshin follows the words with a finger. They practise writing on the spare paper, wash their clothes and take turns checking the supplies. They cook together often; on other evenings one sets the table while the other tends the stove. Sometimes they sit beside Hatch's drawing and add ideas to a separate sheet.
 
-One afternoon Goshin wants another round after Gohan has put the blocks away. Gohan stands with his hands on his knees, catching his breath, and shakes his head.
+One afternoon Goshin wants another round after Gohan has put the blocks away. "Come on! I nearly caught you that time."
 
-"After we eat?" Goshin asks.
+Gohan stands with his hands on his knees, catching his breath. "Not yet!" he says, more sharply than he meant to.
+
+Goshin's grin falls. "After we eat?"
 
 "After we eat and rest."
 
@@ -457,6 +435,10 @@ Goshin stops folding his shirt. He sits beside Gohan and looks at the unfinished
 "I know. What if you still want to stay?"
 
 Goshin looks toward the door. "I miss her too. And Father. Sometimes I think he might come home while we're in here."
+
+He glances toward the stove. "When the pot rattles, I keep thinking I'll hear her in the kitchen."
+
+"She'd tell us to turn it down," Gohan says, managing a small smile.
 
 Gohan touches Hatch's drawing. "Would you be angry with me for leaving?"
 
@@ -728,7 +710,7 @@ In the mountains, Tien stops beside Chiaotzu. They look toward the Lookout too, 
 
 Back at the doorway, Gohan's voice is muffled against Chi-Chi's shoulder. "You're here."
 
-"I said I would be."
+"I said I would be." Chi-Chi holds them a moment longer. "I missed you both."
 
 She holds them away from her and looks at both their faces. Goshin sets down his bag and pages, smiling back at her. His sleeves fit now, but the old shoes tied to his bag are too small. Gohan reaches up and touches her cheek, as if checking that she is really there.
 
@@ -747,6 +729,8 @@ Popo carries their bags out to the bench and sets them beside it. Gohan stops at
 "The sky's still here."
 
 "And the mountain," Chi-Chi says. "We'll go home together."
+
+Goshin springs up, shoots above the nearest tree and laughs at how easily he rises. He turns in the air and lands beside Gohan, who is already grinning at him.
 
 Goshin takes a capsule from his bag and presses its button. A puff of smoke clears to reveal eight of the training blocks. He lifts one hand, and six rise and circle above the tiles. He brings up the other two, guides them between the trees and back again, then lowers each one beside Popo without touching the floor hard.
 
@@ -792,6 +776,11 @@ The ships continue toward Earth.
 
 <!--
 ## Footer
+
+**6 November 2026 — Dragon Ball-feel revision, unaccepted.** The full continuous physical chamber year remains with both brothers, not Chapter 18's mental experience. They study, train, grow, disagree briefly, play with a shirt on a hot day and miss home; Goshin enjoys the lighter gravity on return. A missing handoff of Hatch's original drawing from Gohan to Goshin is now shown. A repetitive lunch-pan catch and some target/roof procedure are tightened; the roof idea and planned page remain. Their strength and ki growth, voluntary choices, Chi-Chi's waiting, the Kaiō-ken/Genki-dama preparation and the approaching but not landed Saiyans remain. Complete retained episode-21 captions and the short Toei synopsis were reread, not full video/audio; later room mechanics remain based on separately identified partial cues, with source/cut unverified. The exact predecessor (SHA-256 `1c5a7ce56b53ca9e14149a52a7920bf163d4aa4034054cde13cbf859ad5dfd81`) is in the [verified 122-member pre-correction archive](../canon/ARCHIVE_INDEX.md#backup-042); the entire earlier footer follows. No acceptance or remote synchronization is implied.
+
+**5 November 2026 — continuing emotional revision, unaccepted.** The lived chamber year retains Goshin's homesickness, eagerness and developing strength, Gohan's real choice whether to stay, and Chi-Chi's affection at their return. Their cooking, play, study, independent growth and full continuous year remain, as do the later Saiyan arrival and Goku's own timeline. The exact immediately preceding Chapters 21–23 are in the [verified local ZIP](../canon/ARCHIVE_INDEX.md#backup-059). The complete retained episode-21 captions and official synopsis were reread; the two-brother physical chamber year is authored branch material, not an event claimed in that source episode. Origin/cut and full video/audio remain unverified.
+
 ```
 ANIME BASE: ep. 21, first part; later source beats explicitly continue in the immediately following chapter.
 EVIDENCE: Complete local Japanese spoken captions of episode 21, original source and cut unverified; Toei's official synopsis and promotional still; eight inspected Kanzenshuu guide stills. Selected later episode-147, 155 and 168 caption cues were checked for capacity, provisions, Goku's childhood visit, the lifetime limit and closed-door sensing (C232, C234–C236), not as complete episode viewings. Dragon Ball Official describes the room's relative time, gravity and environment. Full episode video and audio were not examined.

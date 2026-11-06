@@ -60,7 +60,7 @@ The structured fact register preserves previous statements and relevant source m
 
 The separately preserved pre-correction Chapter 20 is the accepted original. Its selected character-corrected revision, Chapter 19 and Chapters 21–23 remain unaccepted. Targeted revisions to previously accepted Chapters 1–3 were authorized, but their selected implementations are not silently re-accepted. In this audit, Chapter 1's manga card/footer and Chapter 3's footer were corrected without changing either story body; Chapter 2's dialogue/position and Chapter 21's source-memory dialogue were revised. No new chapter was written.
 
-The non-private 99-entry [pre-audit project snapshot](../../Research/The%20Twin/Chapter%20Research/Complete%20canon%20audit/Before%20complete%20canon%20audit%20%282026-11-04%29.zip) was byte-verified and excludes the private self-files; its SHA-256 is `5466d2d4a560dc373ed9035e34f66e9f1d0ad9f93b6baa9b639c1b1a68709a1b`. The accepted Chapter 20 original remains separately preserved. A separate private backup was also made. Local edits and seals do not synchronize or publish Drive or GitHub copies.
+The non-private 99-entry [pre-audit project snapshot](ARCHIVE_INDEX.md#backup-028) was byte-verified and excludes the private self-files; its SHA-256 is `5466d2d4a560dc373ed9035e34f66e9f1d0ad9f93b6baa9b639c1b1a68709a1b`. The accepted Chapter 20 original remains separately preserved. A separate private backup was also made. Local edits and seals do not synchronize or publish Drive or GitHub copies.
 
 ## Outstanding work
 

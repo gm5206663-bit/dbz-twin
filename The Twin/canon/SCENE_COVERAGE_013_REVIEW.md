@@ -1,8 +1,13 @@
 # Episode 13 — research and original candidate coverage
 
+**Owns: the retained episode-13 source notes for the earlier Chapter 14 review candidate.**
+
+**6 November story-wide correction — selected Chapter 14, unaccepted:** The live family branch now has Yemma permit living Goku to take Snake Way; King Kai has not agreed to teach him. Chi-Chi and the boys, then the fighters, reach the Lookout and begin training. The riverbank spar belongs to Gohan and Goshin, with Gohan flying independently; older descriptions below of an orchard, Goku–Goshin tag, a pending Yemma answer and a family return with fish describe earlier candidates. Gohan returns Mina's first book and drawing, borrows her bridge book for C-6, and visits the recovering dinosaur; no full recovery is shown. Tien, Chiaotzu and Krillin voluntarily climb; Launch threatens and fires at Upa, Bora secures the gun, and blue-haired Launch apologizes. These are selected authored changes, not episode-footage claims. The compulsory habits and generalized camera rule in the historical plan are superseded; Chapter 3 retains its specific restriction. Entire retained episode-13 captions and Toei's short synopsis were reread; source/cut and complete audiovisual staging remain unverified. See the [current correction](DRAGON_BALL_FEEL_CORRECTION_2026-11-05.md).
+
+**Continuing emotional revision, 5 November:** See the [current continuation record](EMOTIONAL_REVISION_013_PLUS_2026-11-05.md) and selected chapter for the latest unaccepted wording and precise source limits. The original plan below remains historical.
+
 **Later character/provenance correction, 3 November:** This dated audit or plan records earlier assistant assumptions. The automatic repeat-back requirement was assistant-invented and rejected by the author; absolute food, emotional and family-habit explanations are not verified user commands. Use the current selected chapters and `canon/SELECTED_CONTINUITY_CORRECTIONS_2026-11-03.md` (or that note in this canon folder) for current continuity; retain the earlier material below as history.
 
-**Owns: the retained episode-13 source notes for the earlier Chapter 14 review candidate.**
 
 These are the original planning and review notes combined for convenience. The later power-scale review changed portions of Chapters 6–14; where these historical descriptions differ, the selected manuscript and `REVIEW_CHAPTERS_06-14.md` control. This is not reader acceptance or a full-video claim. References to old `notes/` or `audit/` paths refer to the Drive archive, not a live local folder.
 

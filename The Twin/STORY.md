@@ -16,7 +16,7 @@
 8. **The gate.** He cannot take Super Saiyan God **as a form.** The ritual would adapt into a divine Talent and promote his baseline, with no way back down (`STATUS §12`, O031, O032). **Late, once, one direction — and the base afterwards is what he is.**
 9. **The ladder is a floor, not a staircase.** Super Saiyan 1–3 are perfected, so they are never announced; **Rage** is his, **Super Saiyan 4** is earned at the ape, and **Blue is impossible** — and because the Talent **never lets a thing be lost** (`O041`), **every golden rung he reaches for comes back divine** — God 1, 2, 3, each louder than the last — crowned by **GOD 4**, the god worn inside the ape's body (`STATUS §13`).
 10. **The promotion is total, and it subtracts nothing.** The Talent becomes divine and works on everything (`STATUS §14`): his forms, his techniques and **his children** — born divine, not mortal. **And he loses nothing** — temper, appetite, jokes, grief, mistakes. A secondary source describes a cool-headed form but does not prove emotion is erased in canon (`C119`); Goshin can be calm or emotional for contextual reasons without losing himself. (`O042`–`O044`)
-11. **The era lock.** ~~At four, and through the Z-era arcs, he is mortal and ordinary, and the entire ladder is a locked ceiling.~~ **Clarified, 3 November:** he is mortal, not divine; he is already an exceptionally adaptive, growing Saiyan–Earthling child with ordinary ki, flight and techniques (`O045`). No early golden transformation or god ki. Natural Great Ape biology is not prohibited, though no ape event has happened; his first eventual transformation is conscious and controlled.
+11. **The era lock.** ~~At four, and through the Z-era arcs, he is mortal and ordinary, and the entire ladder is a locked ceiling.~~ **Clarified, 3 November:** he is mortal, not divine; he is already an exceptionally adaptive, growing Saiyan–Earthling child with ordinary ki, flight and techniques (`O045`). No early golden transformation or god ki. Natural Great Ape biology is not prohibited. In the later unaccepted Chapter 26 he transforms for the first time with immediate awareness and control.
 12. **Canon where canon speaks; ours where it does not — and ours says so.** Every rung canon printed is played by canon's rules. Every rung it did not print is declared in `STATUS`, with the mark that it is ours.
 13. **The current abduction correction.** The user rules that Raditz cannot take Goshin conscious in this encounter. His ~400 is a snapshot and his output can rise in anger; he must fight and be knocked unconscious before Raditz carries him (`O080`). This is not a general equation between battle powers or an assertion of invulnerability.
 14. **Master what he has first.** In deliberate training Goshin works toward mastering or perfecting the abilities he already has before pursuing new ones. The user clarified that instinctive copying in an emergency is still allowed; the priority concerns training choices, not a ban on protecting someone (`O104`).
@@ -77,16 +77,56 @@ In the unchanged anime, she does not reach the Raditz battlefield in eps 3–6 a
 | Children / C-6 | The telephone call confirms Pigero’s permitted afternoon visit; longer room and placement decisions are unresolved. Mina’s book remains C-6’s loan; no completed repair, return or onward permission is shown. |
 | Tails, moon and continuity | Both tails and the natural moon remain; no boy transforms. Goshin’s eventual first Great Ape is aware and controlled from the beginning. The actual four-rock-plus-wave action in Chapter 19 is distinct from Chapter 18’s mental wall-piece scene and remains unmeasured. |
 
-## Latest continuation for review — Chapter 25 (unaccepted)
+## Author clarification — first Great Ape and lasting growth
+
+The first controlled Great Ape experience is a genuine adaptive input for Goshin's already innate, whole-being Talent, working with his Saiyan nature and battle growth. In the revised unaccepted Chapters 26–28 his physical strength and ki grow **substantially** and remain much greater in his normal body after reversion; Piccolo and Gohan can sense that gain (`O214`). It is not just remembered technique or previously held power. No new measurement, forced near-death event, fixed multiplier or separate named ordinary-sized mode is assigned; further development is not delayed or prohibited. See the [clarification and predecessor](canon/FIRST_GREAT_APE_GROWTH_2026-11-05.md).
+
+## Latest continuation for review — Chapter 30 (unaccepted)
+
+[Chapter 30 — The House That Waited](chapters/Chapter_30_The_House_That_Waited.md) now preserves Episode 37’s spaceship adventure while following the actual changed Chapter 29 endpoint. By author direction Goshin’s current ordinary body can destroy Earth; the father-and-son wave is controlled and not a cap. Bulma accidentally destroys one of the two Saiyan pods during a cautious lab test, then joins Popo, living Kami and Piccolo, and both boys at Yunzabit. The boys obtain their parents’ permission; Gohan, Goshin and Piccolo accompany Bulma and Popo aboard the voice-operated craft to Jupiter while Kami waits on Earth. One second pod remains outside the camera view and the Saiyans remain under temporary watch. No return, Namek route or Namek departure is shown (`O221`–`O225`). See [source coverage](canon/SCENE_COVERAGE_037_CH30.md) and the [world-scale author direction](canon/WORLD_POWER_AND_EPISODE_37_2026-11-06.md). This is local and unaccepted.
+
+## Previous continuation for review — Chapter 29 (unaccepted; earlier checkpoint)
+
+[Chapter 29 — The Day Is Not Finished](chapters/Chapter_29_The_Day_Is_Not_Finished.md) starts with the reunited family's meal and continues the actual temporary guard and city response. Goshin applies his substantial retained ordinary-body and ki growth during the stair rescue while Gohan independently rescues a woman through a rear window. An informed doctor offers limited assessments, respecting the hostile Saiyans' choices; safe transport remains unresolved. Bulma removes the found scouter cells without a scan, and Piccolo learns only Popo's limited childhood recollection (`O214`–`O219`). The [source comparison](canon/SCENE_COVERAGE_037.md) records what remains unknown. The draft is local and not accepted or remotely synced.
+
+## Earlier continuation for review — Chapter 28 (unaccepted; historical endpoint)
+
+[Chapter 28 — What We Carry](chapters/Chapter_28_What_We_Carry.md) follows the actual quarry endpoint. Nappa gives limited authored Namek claims, Vegeta wakes and is prevented from again threatening Nappa, Launch and Yajirobe arrive through the damaged city, and Bulma seeks a safe response. Goku completes Snake Way, meets Kami at Yemma's office and returns via the Lookout before reuniting with his family (`O209`–`O213`).
+
+Both Saiyans are alive, awake, injured and only temporarily guarded; scouter transmissions, pod condition, safe care, citywide casualties and longer custody remain unknown. No Namekian Dragon Balls, voyage or new scan is established. The [source comparison](canon/SCENE_COVERAGE_036.md) separates the authored branch from the limited episode evidence. The draft is not accepted or remotely synced.
+
+## Earlier continuation for review — Chapter 27 (unaccepted)
+
+[Chapter 27 — The Space to Stand](chapters/Chapter_27_The_Space_to_Stand.md) continues the giant-form fight and wider world. The [episode-33–36 comparison](canon/SCENE_COVERAGE_033.md) distinguishes source and branch; delivery is not acceptance.
+
+| Thread | Proposed end of Chapter 27 |
+|---|---|
+| The brothers and Vegeta | Goshin remains conscious as a giant, demonstrates further real unnumbered growth and redirects Vegeta's attack on Chi-Chi. Gohan independently shoots the artificial light with Piccolo guiding his aim and Goshin preventing interception; both fighters revert. Vegeta attacks again, and Goshin ultimately knocks him unconscious while checking that he lives. Gohan never transforms; both boys retain their tails (`O201`–`O203`). |
+| Nappa and the defenders | Nappa wakes injured, is guarded by Gohan, Tien and Chiaotzu, and hears their account of Vegeta's attack on him. Piccolo asks about Namek; he has not answered. Krillin watches Vegeta, holds Nappa's scouter separately and retains the whole Senzu; Vegeta's scouter is on stone out of his reach. Yamcha's forearm cut remains. |
+| Family and elsewhere | The city team reports unchecked rooms and the next street before approaching; citywide evacuation is unknown. Chi-Chi witnesses Goshin in giant form and later covers him in a gym blanket. Bulma and Puar find Yamcha. Goku remains on Snake Way after King Kai's limited report; Launch and Yajirobe remain on the road with Upa's flask (`O204`, `O205`). |
+| Boundaries | The artificial-light destruction and double reversion are authored branch events, not separately verified full-video footage. The natural moon is intact, present phase unknown; no numeric Goshin multiplier, new scan, separate ordinary-sized ape mode, long-term Saiyan custody, Goku reunion or Namek answer is established at that checkpoint. The substantial ordinary-body gain from his first transformation is already real (`O214`). |
+
+## Previous continuation for review — Chapter 26 (unaccepted; earlier checkpoint)
+
+[Chapter 26 — The Light Above](chapters/Chapter_26_The_Light_Above.md) continues the corrected Chapter 25. [Episodes 25–32 coverage](canon/SCENE_COVERAGE_025.md) records the source inventory, changed causes and limits; no acceptance is inferred.
+
+| Thread | Proposed end of Chapter 26 |
+|---|---|
+| Goshin, Gohan and Vegeta | The brothers continue fighting together. Vegeta deliberately makes an artificial moon despite both boys' tails and transforms, wrongly expecting them to lose control. After avoiding it and trying to hit the light with Piccolo's guidance, Goshin deliberately looks and has his first immediately aware, controlled transformation. He catches transformed Vegeta, keeps his tail and footing clear of friends, and directs falling blocks away. Gohan remains untransformed by choice and independently acts; the two giant fighters face one another at the end. Goshin's clothing and shoes tear. No new scan, exact Goshin multiplier or final result (`O196`–`O199`). |
+| Defenders and Nappa | Gohan intercepts Vegeta's shot toward the unconscious Nappa. Tien, Yamcha and Chiaotzu move him to a gully; he remains breathing. Tien uses Solar Flare and Krillin's cutting disc misses Vegeta's tail and cuts the ridge. Gohan and Piccolo protect the gully from falling stone. Krillin keeps the unused whole Senzu. |
+| City and elsewhere | Chi-Chi, Bulma, Popo and Puar continue rescuing people. Chi-Chi sees the artificial light but not her sons; she and Bulma plan to get closer after the immediate rescue. Launch returns to Korin Tower, asks for Tien and drives toward East City with Yajirobe, who has Upa's borrowed flask. Goku remains on Snake Way with his supply capsule; the agreed Kami meeting and return are not shown (`O200`). |
+| Boundaries | Both boys retain their tails and the natural moon remains. Nappa and Vegeta's scouters remain last clipped to their armour. No complete evacuation, casualties, Gohan transformation, reunion or final Saiyan outcome is established. The pre-Chapter-26 handoff preserves the immediately preceding local project; it is not a remote sync. |
+
+## Previous continuation for review — Chapter 25 (unaccepted; earlier checkpoint)
 
 [Chapter 25 — Two Battles](chapters/Chapter_25_Two_Battles.md) continues the quarry and city scenes of the selected review branch. The [source comparison](canon/SCENE_COVERAGE_023.md) distinguishes the original episode-23/24 sequence from these changed outcomes. Delivery is not acceptance.
 
 | Thread | Proposed end of Chapter 25 |
 |---|---|
-| Gohan and Nappa | Gohan prevents Nappa attacking the others, overpowers him, sends his mouth blast into the sky and uses a controlled Kamehameha at the empty wall. Nappa is unconscious but breathing. Piccolo moves him clear of falling stone and wants to question him about Namek. |
-| Goshin and Vegeta | Goshin defeats the pinned Saibaiman and faces Vegeta. Vegeta reads 16,300 then 19,400 when Goshin releases more previously developed ki; he removes and clips his scouter. Later Goshin feels real further strength and ki development during the sustained exchange, unnumbered. Gohan redirects Vegeta's later blast away from the others and joins Goshin; their first impact is shown. Vegeta remains active. |
+| Gohan and Nappa | Gohan prevents Nappa attacking the others, overpowers him, sends his mouth blast into the sky and uses a controlled Kamehameha at the empty wall. Nappa is unconscious but breathing. Piccolo and Krillin carry him clear of Vegeta's line of fire and shield him from fragments; Piccolo wants to question him about Namek. |
+| Goshin and Vegeta | Goshin defeats the pinned Saibaiman and faces Vegeta. Vegeta reads 16,300 then 19,400 when Goshin releases more previously developed ki; he removes and clips his scouter. Later Goshin feels real further strength and ki development during the sustained exchange, unnumbered. Vegeta commits the power he can muster to a Galick Gun aimed at Goshin and Earth. Goshin intercepts with his Kamehameha, and Gohan independently adds his wave; together they force the clash skyward. Vegeta breaks off and evades, remains active and rushes the brothers; their first shared physical impact is shown (`O195`). |
 | Friends and creatures | Piccolo, Tien and Chiaotzu defeat one creature; Yamcha's existing guided ki ball carries another away before it self-destructs, and Krillin helps Yamcha reach cover. Piccolo and Krillin defeat the last. All six planted creatures are accounted for; Yamcha has a minor forearm cut. |
-| City and elsewhere | Bulma takes the family to the gym and calls Roshi with the information she has; the driver a volunteer mentions is not conclusively identified. Chi-Chi, Popo and Puar continue helping. Goku remains on Snake Way with his capsule; Yajirobe was last descending Korin Tower. No complete casualty count, Goku reunion or Vegeta result is established. Both tails and the natural moon remain (`O190`–`O194`). |
+| City and elsewhere | Bulma takes the family to the gym and calls Roshi with the information she has; the driver a volunteer mentions is not conclusively identified. Chi-Chi, Popo and Puar continue helping. Chi-Chi later sees the violet-and-blue flash and steadies a passenger, but cannot see her sons. Goku remains on Snake Way with his capsule; Yajirobe was last descending Korin Tower. No complete casualty count, Goku reunion or Vegeta result is established. Both tails and the natural moon remain (`O190`–`O195`). |
 
 ## Previous continuation for review — Chapter 24 (unaccepted)
 
@@ -138,7 +178,7 @@ In the unchanged anime, she does not reach the Raditz battlefield in eps 3–6 a
 
 ## Current accepted checkpoint — Chapter 20
 
-**Accepted earlier version:** [Chapter 20 before character corrections](../Research/The%20Twin/Chapter%20Research/Character%20and%20continuity%20corrections/Chapter%2020%20-%20accepted%20original%20before%20character%20corrections%20%282026-11-03%29.md) was explicitly accepted. Its selected [corrected version](chapters/Chapter_20_The_Weight_of_a_Step.md) awaits review. The following describes the accepted earlier end state; Chapter 19 remains an unaccepted review revision. The author-requested [checker repair](canon/CHECKER_REPAIR_2026-11-03.md) preserved previous versions of Chapters 6–15 locally. Complete custody and knowledge are in `foundation/WORLD_STATE.md`.
+**Accepted earlier version:** [Chapter 20 before character corrections](https://drive.google.com/file/d/1yeojAxNUHQIsqnrwrfQm1ET_f6uTuKnD/view) was explicitly accepted. Its selected [corrected version](chapters/Chapter_20_The_Weight_of_a_Step.md) awaits review. The following describes the accepted earlier end state; Chapter 19 remains an unaccepted review revision. The author-requested [checker repair](canon/CHECKER_REPAIR_2026-11-03.md) preserved previous versions of Chapters 6–15 locally. Complete custody and knowledge are in `foundation/WORLD_STATE.md`.
 
 | Thread | End of accepted Chapter 20 |
 |---|---|
@@ -158,7 +198,7 @@ In the unchanged anime, she does not reach the Raditz battlefield in eps 3–6 a
 | Children / Pigero | The six may use the common room for a second night. Pigero says he slept at the old house and may visit the next afternoon; no permanent placement is promised. |
 | Goku / Piccolo | Goku remains on Snake Way and has not met King Kai. Piccolo separately practised against his double. |
 | C-6 / Mina / aircar | C-6 saw Hatch's original drawing and still holds Mina's book; his arm clicks. Chi-Chi returned Dr. Brief's borrowed car. |
-| Room / threats | Seven chose a mind-travel exercise; their physical bodies stayed at the Lookout, and the group's requested return is an authored mechanism. Its outcome does not identify the approaching pair or establish a physical measurement. Both tails and the moon remain; no transformation or new power reading is shown. |
+| Room / threats | Seven chose a mind-travel exercise; their physical bodies stayed at the Lookout, and the group's requested return is an authored mechanism. The experienced scouter reads 2,840 combined for all seven, not an independent physical measurement or an individual number. The outcome does not identify the approaching pair. Both tails and the moon remain; no transformation is shown. |
 
 ### Previous checkpoint — end of Chapter 17 (historical)
 
@@ -225,6 +265,8 @@ Chapters One–Three contain user-authorized targeted revisions of earlier accep
 
 ## 6 · The scale — snapshots, not a locked ladder
 
+**World-scale author correction, 6 November:** Present ordinary-bodied Goshin can destroy Earth; his sustained battle, first controlled Great Ape and existing Talent/Saiyan development contribute real retained growth (`O214`, `O225`). Source Roshi and Piccolo destroyed the Moon; source Vegeta threatened Earth with his Galick Gun (`C294`, `C307`). The author places Goku at light speed or higher already in original Dragon Ball; use that as the branch’s working speed interpretation without presenting an invented precise official speed or making every journey a maximum-speed run. The natural Moon remains intact in this branch. Do not mistake ki control or a small rescue task for a planet-level fighter’s limit.
+
 | Reading | Source and condition |
 |---|---|
 | Goshin at birth: **100** | authored initial design (O002) |
@@ -232,7 +274,7 @@ Chapters One–Three contain user-authorized targeted revisions of earlier accep
 | Goshin **1,500** | authored brief Chapter Six surge, separately scanned after the earlier 1,450 Kamehameha charge (O089); not a canon number or lifetime ceiling |
 | Goshin **1,450** | authored Chapter Five scouter snapshot while charging his first Kamehameha, not a resting power or fixed limit (O084, O088) |
 | Gohan **9,200; 11,600**; Goshin **12,400; 13,600; 15,200; 16,300** | Authored Chapter 24 snapshots, not a growth sequence: 11,600 and 15,200 are respective wave charges, and 16,300 is previously held-back output sustained on guard after the slab rescue. None is a maximum (`O187`, `O188`). |
-| Goshin **16,300; 19,400** | Authored Chapter 25 readings before Vegeta removes his scouter: the increase is released preexisting reserve, not a new gain from one move. Later actual growth in the prolonged fight is unnumbered; neither reading is a maximum (`O192`). |
+| Goshin **16,300; 19,400** | Authored Chapter 25 readings before Vegeta removes his scouter: the increase is released preexisting reserve, not a new gain from one move. The latter exceeds the power Vegeta had been using, not an established maximum; Vegeta subsequently raises his own ki. Later actual growth in the prolonged fight is unnumbered; neither Goshin reading is a maximum (`O192`). |
 | Krillin **206** | episode-8 captioned source reading; the selected Chapter Nine does not perform a powered scouter test. It is not a selected-branch measurement or permanent ranking (C124, O117) |
 | **710** near the pod | original episode-3 caption context places the signal near Gohan; in the two-child draft it is not assigned to either brother (C091, O076) |
 | Gohan **1,307 / 1** | episode-5 moments; 1 follows the outburst, not a lifelong resting value |

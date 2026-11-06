@@ -1,6 +1,6 @@
 # Chapter Six — The Brothers' Attack
 
-*Immersion-revised review draft; not yet accepted.*
+*Revised story draft; not yet accepted.*
 
 The scouter's long signal breaks into rapid beeps.
 
@@ -24,7 +24,7 @@ His small body hits the centre of Raditz's armour headfirst. The breastplate cra
 
 Goku rolls clear, dragging in a ragged breath. Raditz crashes against the crater wall. A ledge breaks away above him and pours stones over his shoulders, half burying the cracked armour.
 
-Gohan lands on his hands and knees. His hat has slipped across his eyes, and his forehead stings where it struck the plate. He pushes the brim up, looks through the dust and turns toward Goku.
+Gohan lands on his hands and knees, his hat slipped across his eyes and his forehead stinging where it struck the plate. He pushes the brim up, looks through the dust and turns toward Goku.
 
 "Father?"
 
@@ -38,13 +38,13 @@ Raditz comes through them.
 
 Goshin meets him with a punch. Raditz catches his wrist, but Goshin twists free, flies up and kicks him across the cracked breastplate. Raditz strikes back, sending Goshin against the slope.
 
-Goshin plants his feet. Raditz follows, with one boot sinking into the loose stone. Goshin fires beside that boot, and the ground bursts under it. Raditz lifts his foot. Goshin pushes off the slope and comes up beneath his guard.
+Goshin plants his feet as Raditz follows, one boot sinking into the loose stone. Goshin fires beside it; the ground bursts, and Raditz lifts his foot. Goshin pushes off the slope and comes up beneath his guard.
 
 The scouter flashes as Raditz looks up.
 
 "Broc. 1,500?"
 
-Dust rises around the silent Goshin, then scatters when he comes forward.
+"Stop hurting them!" Goshin shouts, his voice cracking. Dust rises around him, then scatters when he comes forward.
 
 Raditz blocks the first blow, but the next hits his injured shoulder and turns him toward the broken wall. He catches Goshin by the arm and throws him over it.
 
@@ -74,9 +74,7 @@ Gohan picks up the stone and throws it at him. Raditz knocks it away and strikes
 
 Goshin rises from behind the wall, one sleeve torn at the shoulder. Raditz aims at him, and Goshin turns the blast down into the crater floor. Rock bursts between them.
 
-Raditz comes around the dust toward Gohan again. Gohan tries to get up, but Raditz is already reaching for him.
-
-Goku seizes Raditz from behind.
+Raditz comes around the dust toward Gohan again. Gohan tries to get up, but Raditz is already reaching for him when Goku seizes Raditz from behind.
 
 ---
 
@@ -84,49 +82,37 @@ Goku seizes Raditz from behind.
 
 Goku locks his arms beneath Raditz's and clasps his hands behind his neck. Raditz's fingers miss Gohan's collar by inches.
 
-"Gohan!" Goku calls. "Get back!"
+"Gohan! Get back!"
 
-As Gohan crawls away, holding his shoulder, Goshin drops between him and Raditz, then turns at Goku's voice.
+As Gohan crawls away holding his shoulder, Goshin drops between him and Raditz and turns at Goku's voice.
 
-"Goshin, get Gohan behind the wall."
+"Goshin, get him behind the wall."
 
-"Gohan, hold on to me."
+"Hold on to me."
 
-Goshin puts an arm around Gohan and flies him the short distance to the broken stone, with Gohan keeping his hat on as they land.
+Goshin puts an arm around Gohan and flies him to the broken stone. Gohan keeps his hat on as they land, then looks back across the open ground.
 
-"Father's still there," he says.
+"Father's still there."
 
-Across the open ground, Goshin sees Raditz dragging Goku toward the crater, but Goku digs his heel into the loose soil and holds on.
-
-Goshin rises above the wall, keeping Gohan in sight.
-
-Piccolo's light is brighter now. His missing arm leaves a dark tear in the side of his clothes, but his right hand does not move from his forehead.
+Raditz drags Goku toward the crater. Goku digs a heel into the loose soil and hangs on. Across the slope, Piccolo's raised fingers glow against his forehead.
 
 "Piccolo!" Goku calls. "How much longer?"
 
 "A little. Hold him there."
 
-Raditz drives an elbow back into Goku's ribs. Goku gasps, and his grip slips. Goshin flies in and hits the moving arm before Raditz can strike again. Raditz kicks at him, but Goshin drops below the boot and comes back up on the other side.
+Raditz drives an elbow into Goku's ribs, and Goku gasps as his grip slips. Goshin flies in and hits the moving arm before Raditz can strike again. Raditz kicks at him; Goshin drops below the boot and comes up on the other side.
 
 "You can't hold me," Raditz says.
 
 "I'm holding you now."
 
-Raditz braces both feet. He pulls at Goku's wrists, but the cracked armour shifts against his chest and he cries out. Goku tightens his hold.
+As Raditz braces both feet and pulls at Goku's wrists, his cracked armour shifts; he cries out, and Goku tightens his grip.
 
-Goshin circles to Raditz's other side and reaches for the arm Goku is trying to keep pinned. Raditz turns with him, forcing Goku to stagger across the broken ground. Goshin changes direction, and Raditz has to plant his foot before he can follow.
+Goshin circles to Raditz's free arm. Raditz turns with him, forcing Goku to stagger sideways. One boot sinks into the loose dirt, and Goshin fires at the edge of the hole. The soil collapses. Raditz wrenches his foot free, but Goku has regained his balance.
 
-The heel sinks into the loose dirt. Goshin strikes the edge of the hole with a short burst, making the soil collapse around it. Raditz wrenches his foot free, but Goku has regained his balance by then.
+Behind the wall, Gohan looks from the light at Piccolo's forehead to his father, directly behind Raditz.
 
-"Can you hold him?" Goshin asks.
-
-"For a little while," Goku says.
-
-Goshin looks toward Piccolo's raised hand, then back to the two men. He stays beside them, where he can reach Raditz without standing between Piccolo and his father.
-
-Gohan takes a step from behind the wall. Goshin looks back at him, and Gohan points toward Piccolo.
-
-"If he shoots, he'll hit Father too."
+"If he shoots, he'll hit Father too!"
 
 Piccolo hears him. "The shot will go through both of them."
 
@@ -134,9 +120,9 @@ Piccolo hears him. "The shot will go through both of them."
 
 "If Raditz gets free, he'll kill all of you."
 
-Raditz strains against Goku's arms. "He wants you dead, Kakarot. You heard him."
+"He wants you dead, Kakarot," Raditz says. "You heard him."
 
-"I heard," Goku says.
+"I heard."
 
 "And you still think he'll help you?"
 
@@ -144,51 +130,33 @@ Raditz strains against Goku's arms. "He wants you dead, Kakarot. You heard him."
 
 Piccolo lowers his chin, aiming along his raised fingers. "I won't miss another chance because you're in the way, Son Goku."
 
-Goku looks toward his sons, his face tightening when Raditz shoves back against his ribs.
+Goku's face tightens as Raditz shoves against his ribs. "If that's the only way, Piccolo, take it."
 
-"If that's the only way," he says, "take it."
+"Father!"
 
-"Father!" Gohan starts toward him.
-
-Goshin catches Gohan's sleeve. Gohan pulls free and runs toward Piccolo instead.
-
-"Wait!"
-
-Gohan reaches Piccolo and catches the edge of his torn gi, but Piccolo does not lower his hand.
+Gohan runs toward Piccolo and catches the edge of his torn gi, but Piccolo keeps his fingers at his forehead.
 
 "Please. My father's there."
 
 "I can see him."
 
-"You can't shoot him!"
+Gohan looks along the line of Piccolo's raised arm. Goku is directly behind Raditz. Loose earth beside the broken wall leads down toward them.
 
-Gohan moves around Piccolo and looks along the line of his raised arm. Goku is directly behind Raditz; there is no open ground between them, no place for the narrow beam to pass.
-
-Gohan looks toward the broken wall where Goshin set him down. A strip of loose earth runs beside it and reaches the slope below Goku's feet. It would bring Gohan closer, but Raditz can see that side of the crater.
-
-"If Father gets away, can you hit Raditz by himself?" Gohan asks.
+"If Father gets away, can you hit Raditz by himself?"
 
 "If he gets away in time."
 
-Gohan watches his father try to hold on as Raditz twists. Goku cannot let go while Raditz has a hand free to reach him, and Goshin is still moving around them, looking for an opening.
-
-Piccolo looks down at Gohan. "Your father is hurt. If he lets go while Raditz can still reach him, who stops him?"
-
-Gohan looks back across the crater, where Raditz is dragging Goku sideways, one step at a time, leaving two furrows behind Goku's feet.
-
-Goshin hovers close to them, looking from Raditz's hand to Goku's. He lifts his hands to his side. Light forms between his palms and spreads unevenly over his fingers. Goshin turns his wrists, and the light draws back between them.
-
-Raditz sees it and twists, pulling Goku between himself and the boy.
+Raditz jerks against Goku's hold as Goshin brings his hands to his side, light forming between his palms. Raditz sees it and twists, pulling Goku between himself and the boy.
 
 Goshin lets the light go out.
 
-Raditz smiles at him. "Go on. Use your father's attack."
+"Go on," Raditz says. "Use your father's attack."
 
-Goshin drops toward his injured shoulder instead. Raditz throws his head back, striking Goku's face, and reaches for Goshin with his free hand. Goshin slips under it and hits the wrist, but Raditz catches hold of Goku's arm before Goku can change his grip.
+Goshin drops toward the injured shoulder instead. Raditz throws his head back into Goku's face and reaches for him. Goshin slips under the grasp and hits the wrist, but Raditz catches hold of Goku's arm.
 
-"There," Raditz says. "Now neither of us can move away."
+"There. Now neither of us can move away."
 
-Goku pulls, and Raditz pulls with him. Raditz looks toward Piccolo, and the scouter begins to sound.
+Goku pulls, and Raditz pulls with him. The scouter sounds.
 
 "1,480! Kakarot, let me go. I'll leave."
 
@@ -198,7 +166,7 @@ Goku pulls, and Raditz pulls with him. Raditz looks toward Piccolo, and the scou
 
 "You took my sons."
 
-The light leaves Piccolo's forehead as he draws his hand back.
+Piccolo draws his hand back from his forehead, light burning at his extended fingers.
 
 Gohan releases Piccolo's clothes.
 
@@ -212,17 +180,17 @@ Gohan runs down the slope toward his father, and his hat slips off and tumbles i
 
 Gohan stops a few steps away. Raditz's hand is closed around Goku's wrist. Goshin is pulling at Raditz's other arm, using his good hand; his burned palm scrapes against the armour and makes him flinch.
 
-Gohan bends and scoops up a handful of loose dirt.
+Gohan bends and scoops up a handful of loose dirt. Behind Raditz, the light at Piccolo's hand grows brighter, and Goku's boots carve new furrows in the ground.
 
 Raditz looks at him. "You again?"
 
-Gohan throws the dirt at his face.
+Gohan's hand shakes and grains slip between his fingers; he closes them tightly and throws the dirt at Raditz's face.
 
 Grit strikes Raditz's eyes and catches beneath the scouter. He flinches, turning his head and opening his grip for an instant. Goshin catches Goku around the waist from Raditz's side and pulls him sideways as Goku releases his hold.
 
 Raditz reaches after them. Goshin knocks the arm away, and Goku drops hard onto the slope, rolling toward Gohan. Gohan scrambles to reach him. Behind them, Raditz catches Goshin by the torn sleeve and jerks him across Piccolo's aim.
 
-Piccolo's fingers remain extended. He can see the child struggling in front of Raditz's chest.
+Piccolo keeps his fingers extended, with the child struggling in front of Raditz's chest.
 
 Goshin hooks his foot behind Raditz's forward ankle, plants both palms against the cracked breastplate and pushes. His ki surges through him. The plate scrapes his burned hand, but Raditz's boot slides on the loose stone. He falls backward, still gripping the sleeve and dragging Goshin with him.
 
@@ -232,17 +200,19 @@ Goshin catches the sleeve with his good hand and tears it free at the shoulder. 
 
 Piccolo waits until Goshin is clear. "Makankosappo!"
 
-The beam leaps from his fingers. Raditz twists toward it and starts to dodge, but his slipping foot gives him no purchase. The narrow centre punches through his cracked breastplate and into his chest. Its spiralling edge passes close enough to tear Goku's sleeve and burn a strip along his arm.
+The beam leaps from his fingers as Raditz twists and starts to dodge; his slipping foot gives him no purchase. The narrow centre punches through his cracked breastplate and into his chest. Its spiralling edge passes close enough to tear Goku's sleeve and burn a strip along his arm.
 
 The beam goes on through Raditz and bores through the ridge beyond. Light flashes from the far face and streaks toward the horizon; stone splits along its path and crashes down both slopes. Gohan drops over Goku's legs as pieces hammer the ground around them.
 
 Then the light is gone. Grit patters against Gohan's hat where it lies in the dirt. The smell of scorched stone hangs in the crater.
 
-Raditz stands with one hand still outstretched. He looks down at the hole in his armour. His fingers open, and he falls backward onto the broken ground.
+Raditz stands with one hand still outstretched, looking down at the hole in his armour. His fingers open, and he falls backward onto the broken ground.
 
 Piccolo lowers his hand, then catches himself as his knees bend beneath him.
 
-Goshin lands beside Goku. He reaches for him, stops when Goku makes a sound, then puts his good hand against the ground instead.
+Goshin lands beside Goku, his torn sleeve trailing in the dust. Gohan sees him through the haze and crawls closer, keeping one hand over the ear still ringing from the blast.
+
+Goshin reaches for their father, stops when Goku makes a sound, then puts his good hand against the ground instead.
 
 "Father?"
 
@@ -250,7 +220,7 @@ Goku opens his eyes and draws a short breath.
 
 "Are you two hurt?"
 
-Gohan shakes his head. Goshin looks at Goku's arm.
+Gohan shakes his head, though he keeps a hand pressed to his shoulder. Goshin looks at Goku's arm.
 
 "It's burned."
 
@@ -308,7 +278,7 @@ Raditz stares at him. "Bring him back?"
 
 Piccolo's mouth curls. "There are things on this planet called Dragon Balls. Gather them, and they'll grant a wish. Even someone who's died can be restored."
 
-For a moment Raditz is silent. Then he laughs, though it catches in his throat.
+For a moment Raditz is silent; then he laughs, though it catches in his throat.
 
 "You fool."
 
@@ -334,7 +304,7 @@ Raditz smiles. "You needed all of them to beat me. What will you do when the oth
 
 Piccolo raises his hand.
 
-"Piccolo," Goku says.
+"Piccolo, wait," Goku says.
 
 Raditz laughs again. Piccolo fires into his chest. Raditz's head falls to one side, and the scouter goes on glowing beside his closed eye.
 
@@ -364,7 +334,11 @@ Gohan follows his gaze. "Was he really your brother?"
 
 "No. I didn't."
 
-Goshin goes to pick up Gohan's hat. He brushes a streak of dirt from the ball with the edge of his sleeve and brings it back. Gohan takes it without putting it on.
+Goshin looks toward Raditz. "Does that mean he was our uncle?"
+
+Goku takes a breath. "I reckon it does."
+
+Goshin picks up Gohan's hat, brushes a streak of dirt from the ball with the edge of his sleeve and brings it back. Gohan takes it without putting it on.
 
 At the mountain house, the Ox-King's truck stands outside the gate. Chi-Chi lifts a small shirt from the washing line and turns it so the sun can reach the other side. Her father sits on the stool, watching the road.
 
@@ -376,7 +350,7 @@ At the mountain house, the Ox-King's truck stands outside the gate. Chi-Chi lift
 
 "I've been washing both their shirts since they were born. You'll have to find me a harder question."
 
-The Ox-King chuckles. Chi-Chi fastens the last peg and looks down the road with him.
+The Ox-King chuckles as Chi-Chi fastens the last peg and looks down the road with him.
 
 A breeze lifts the two small shirts together. Chi-Chi holds the line steady until they settle, then checks the pegs before bringing the empty basket inside.
 
@@ -394,53 +368,69 @@ Chi-Chi lifts the lid to check what is left, then closes it again. There is time
 
 ## The Visitors
 
-Gohan looks up first as an engine sounds beyond the ridge.
+An engine sounds beyond the ridge. Gohan looks up as Bulma's aircraft circles the crater.
 
-Bulma's aircraft circles over the crater. Krillin leans against the window, trying to see through the dust.
+Krillin leans against the window. "There! By the wall!"
 
-"There! By the wall!"
-
-Roshi grips the back of his seat. "Goku's down."
+"Goku's down," Roshi says.
 
 "Piccolo's the one standing," Bulma says.
 
-Krillin is already reaching for the door. "Bulma, land!"
+"Land!" Krillin is already reaching for the door.
 
-She brings the aircraft down on the open ground beside the pod. Krillin jumps out and runs to Goku. Bulma and Roshi follow, with Roshi carrying the medical case from under the seat.
+The aircraft comes down beside the broken pod. Krillin jumps out and runs to Goku; Bulma and Roshi follow with the medical case from under the seat.
 
-"Goku!" Krillin drops beside him. "Where are you hit?"
+"Goku! Where are you hurt?"
 
-"Mostly here." Goku keeps his hand against his ribs. "And my arm."
+"Mostly here." Goku holds his ribs. "And my arm."
 
-Krillin looks at the burned skin, then at the torn front of his gi. "What happened to the other guy?"
+Krillin sees the burn, then the torn front of Goku's gi. "What happened to the other guy?"
 
 Goku looks toward the crater floor. Krillin follows his gaze to Raditz and goes quiet.
 
-Bulma kneels in front of Gohan. "Can you move your shoulder?"
+"From up there, all I could see was Piccolo standing. I thought I'd lost you."
 
-Gohan lifts his arm a little and winces.
+Goku reaches for his wrist. "You didn't."
 
-"All right. That's enough."
+"Goshin pulled Father away," Gohan says.
 
-"I'm all right," he says. "Goshin hit his head before. On the island."
+"And Gohan broke his armour," Goshin adds. He presses his good hand against the middle of his own chest to show Krillin where.
 
-Bulma turns toward Goshin. Dust mats his black hair, but the spikes still stand like Goku's. His face is almost his father's in miniature; his eyes are Chi-Chi's. One side of his sleeve is torn.
+Krillin looks from one boy to the other. "You both fought him?"
+
+Gohan nods. Goshin looks toward the crater floor, then back at Goku.
+
+"You flew after him on the island," Krillin says. "Since when can you do that?"
+
+"Since he threw me at the ocean."
+
+Krillin lets out a short laugh. "Well, that's one way to learn."
+
+Bulma drops to her knees in front of Gohan. "Can you move your shoulder?"
+
+He lifts his arm a little and winces.
+
+"That's enough."
+
+"I'm all right. Goshin hit his head before. On the island."
+
+Bulma turns to Goshin. Dust mats his black hair, but the spikes still stand like Goku's. His face is almost his father's in miniature; his eyes are Chi-Chi's. One sleeve is torn.
 
 "Show me your hand."
 
-"It is getting better," Goshin says.
+"It's getting better." He holds out the burned palm.
 
-He holds out the burned palm. Bulma looks at it without touching. "I'll get something clean for that. Your head hurts too?"
+"I'm glad, but let's put something clean on it. Does your head hurt too?"
 
 "A little. Not as much as before."
 
-Gohan looks at Goshin's hand. "It was bleeding when we were up there."
+Roshi opens the case. Gohan holds the end of the bandage out of the dirt while Roshi wraps Goshin's palm. Goshin flexes his fingers.
 
-"It's stopped now," Bulma says.
+"Too tight?" Roshi asks.
 
-Roshi puts the case down beside them. "I have clean bandages here."
+"A little."
 
-Goshin stays beside Gohan.
+Roshi loosens it, and Goshin nods. Bulma checks the side of his head without pressing on the place Raditz struck.
 
 Krillin looks up at Piccolo. "What did you do to Goku?"
 
@@ -450,63 +440,33 @@ Krillin looks up at Piccolo. "What did you do to Goku?"
 
 "Stronger," Piccolo says. "Raditz said they'll be here in a year."
 
-Roshi's hand stops on the latch of the case. "How do they know where to come?"
+Roshi's hand stops as he puts the roll of bandage away. "How do they know where to come?"
 
 Piccolo holds out the dark scouter. "Because this sent them everything."
 
-Bulma reaches for it, then stops. "You said it sent everything?"
+Bulma reaches for it, then stops. "Put it down. The lens is off, but that doesn't mean the rest is."
 
-"That's what Raditz told us."
+Piccolo lays it on a flat stone. She takes a small tool from her pocket and kneels beside it while Krillin brings a torch from the aircraft.
 
-"Put it down."
-
-Piccolo lays it on a flat stone. Bulma takes a small tool from her pocket and crouches beside it. Krillin comes over with a torch from the aircraft while Roshi opens the case.
-
-Bulma turns the earpiece until she finds a seam. "The lens is off, but that doesn't mean the rest is."
-
-She works the tool beneath a narrow cover. It slides aside, exposing a small cell and a pin of light.
-
-"There you are."
-
-She pulls the cell free, and the light goes out.
+"There you are." She slides aside a narrow cover, revealing a small cell and a pin of light. Bulma pulls the cell free. The light goes out.
 
 "Was it still talking to them?" Gohan asks.
 
 "I don't know. I'm not putting the power back until I find out how it works."
 
-Krillin looks toward the sky. "They heard about the Dragon Balls?"
+"They heard about the Dragon Balls?" Krillin asks.
 
 "They did," Piccolo says.
 
-Bulma wraps the scouter and the cell separately in her handkerchief. "Then we've got a year to do something about it. First, we're getting Goku out of here."
+Bulma wraps the scouter and the cell separately in her handkerchief. "Then we've got a year to do something about it. First we're getting Goku out of here."
 
-Goshin crouches beside Gohan while Roshi unrolls a clean bandage. Gohan holds the end off the ground as Roshi wraps Goshin's palm. When Roshi finishes, Goshin tries bending his fingers.
+Roshi unfolds the stretcher beside Goku while Krillin helps clear the loose stones from underneath it.
 
-"Too tight?" Roshi asks.
-
-"A little."
-
-Roshi loosens the last turn, and Goshin opens and closes his hand again.
-
-"That's better."
-
-Gohan picks up the discarded end of the bandage and holds it while Roshi puts the roll away. Bulma brings a small bottle from the aircraft and sets it beside the case for cleaning Goku's arm.
-
-"Can you move your fingers?" she asks Goku.
-
-Goku spreads them, then curls them around the edge of the stretcher. The movement pulls at the burn, and he lets go before the cloth can rub against it.
-
-"The rest of me needs a minute," he says.
-
-Krillin has finished looking over the ground where Raditz fell. He comes back without touching anything and kneels beside Goku, keeping his knees clear of the medical case.
-
-"Is Piccolo going to stay?" Krillin asks.
+"Is Piccolo going to stay?" Krillin asks quietly.
 
 "I don't know," Goku says.
 
-Roshi checks the fastenings on the folded stretcher while Bulma gathers the separate pieces of the scouter. She leaves the wrapped cell apart from the device and closes the case around them.
-
-Gohan watches the scouter disappear under the lid. Goshin shifts closer when Goku takes another shallow breath.
+Gohan watches Bulma put the wrapped scouter in the case. Goshin moves closer when Goku takes another shallow breath.
 
 ---
 
@@ -514,13 +474,19 @@ Gohan watches the scouter disappear under the lid. Goshin shifts closer when Gok
 
 On another planet, a broken wall collapses into an empty street. Smoke drifts between the ruined buildings, and the inhabitants who fought there lie among the fallen stone.
 
-Vegeta sits on a high piece of masonry with a piece of meat in his hand. His black hair rises to a sharp peak above a severe brow; battle armour covers his dark suit. He stops eating and touches the scouter over one eye.
+Vegeta sits on a high piece of masonry, eating meat from the jointed arm of a fallen insect-like warrior. His black hair rises to a sharp peak above a severe brow; battle armour covers his dark suit. He stops eating and touches the scouter over one eye.
 
 Beside the fire, Nappa looks up. He is much broader than Vegeta, bald above a thick dark moustache, his massive arms bare beneath his armour. The flames throw light across both Saiyans and the devastation below them.
 
 "Raditz is dead," Nappa says.
 
 "Beaten by a handful of fighters."
+
+Nappa prods an abandoned shield with his boot. Its edge snaps, and the pieces tumble down the steps into the street.
+
+"Kakarot and his children? Raditz couldn't handle them?"
+
+Vegeta strips another piece of meat from the arm. "Apparently not."
 
 "Are we going to Earth? We haven't finished here."
 
@@ -548,7 +514,7 @@ Nappa's grin returns. "Now that's worth a journey."
 
 ## A Little Longer
 
-Roshi has spread a folded stretcher beside Goku. Krillin crouches at the other end.
+The stretcher lies beside Goku. Krillin crouches at the other end.
 
 "Korin has Senzu," he says. "I'll go to the tower."
 
@@ -576,13 +542,17 @@ Goku reaches for Gohan's hand. "So did I."
 
 Gohan holds on. "I didn't know what else to do."
 
-"You came back."
+"You came back. That dirt you threw gave us the chance we needed."
+
+Gohan holds his hand tighter. "I thought you were going to die."
+
+Goku's fingers close around his. "I was scared too."
 
 Gohan looks at his father's torn sleeve. Goku leaves his hand in Gohan's until the boy leans against his shoulder.
 
 Goshin comes closer and takes the loose end of Goku's sash in his good hand. His eyes are wet.
 
-"Father, can you stay awake?"
+"Gohan said I wouldn't wake up," Goshin says. "What if you can't either? Father, can you stay awake?"
 
 "I'll try."
 
@@ -704,14 +674,15 @@ Goshin lets go of the blanket long enough to take Gohan's hand. The aircraft car
 
 ---
 
-## Preview
-
-*An aircraft crosses the sea. Far away, Krillin flies toward Korin's tower. At the mountain house, a telephone rests in its cradle.*
-
-**NARRATOR:** The fight is over, but the two Saiyans are on their way. What will Krillin find at the tower? And what will Chi-Chi hear when the telephone rings?
+> **NEXT TIME — As Goku and the boys leave the battlefield, Chi-Chi searches for news and Piccolo follows their trail.**
 
 <!--
 ## Footer
+
+**5 November 2026 — Dragon Ball-feel revision from the opening, unaccepted.** The full chapter was reviewed and substantially revised, especially the compressed struggle around Piccolo's firing line, the brothers' separate choices and the friends' reunion. Gohan still throws the dirt; Goshin pulls Goku clear, disrupts Raditz's balance and clears the shot; Piccolo fires, Goku survives injured and Piccolo later kills Raditz despite Goku's objection. The source-based **1,307**, **1** and **1,480** and authored **1,500** Goshin snapshot remain distinct. The scouter disclosure, one-year warning, Bulma's separate cell removal, one Chi-Chi/Ox-King visit, Krillin's departure, Piccolo's departure and aircraft handoff to Chapter Seven remain. The distant Saiyans' meal is written as an insect-like warrior's arm, as reported by secondary accounts; no complete audiovisual footage was checked. The precise dialogue, twin action, alternative survival, staging and additional characterization are authored. The retained caption file's origin and cut remain unverified. The immediate predecessor is byte-preserved in the [verified pre-correction project and accepted-original snapshot](../canon/ARCHIVE_INDEX.md#backup-042), Chapter Six member SHA-256 `be3918cd5e85d39176464c325097aa50f4cec84144a2b99444d4a06f60e5a2fe`, ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. This revision is not reader acceptance; earlier footer entries remain historical where superseded.
+
+
+**5 November 2026 — continuing emotional revision, unaccepted.** The full chapter received a pass for the brothers' fear and determination, Gohan's active choice at the firing line, Goku's conflict with Piccolo, and the family's and friends' reactions after surviving. The children still jointly open the shot, Goku survives, and the Chi-Chi and Ox-King cut is the same uninformed visit established in Chapter Three. In the actual selected prose, Raditz threatens and mocks but does not attempt a new attack before Piccolo finishes him; an older `O091`/episode-5 coverage description claiming otherwise is corrected in the continuity records. The preceding selected file is preserved with Chapters 3–5 in the [verified local backup](../canon/ARCHIVE_INDEX.md#backup-050). The full retained episode-5 captions were reread; their origin and cut are unverified, and written accounts are not a full video or audio review. The living-Goku result and added dialogue and staging are authored.
 ```
 ANIME BASE: Dragon Ball Z episode 5.
 EVIDENCE: Local Japanese episode-5 captions, with original provenance and exact cut unverified; secondary accounts as identified in the coverage record. Captions and selected stills do not establish full video or all silent action.

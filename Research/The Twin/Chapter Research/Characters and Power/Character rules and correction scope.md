@@ -1,5 +1,7 @@
 # Corrected character rules and revision scope
 
+**Later scope clarification, 3 November:** The protections and no-edit instructions in this dated pass applied to that particular work, not a permanent ban on Chapters 1–5. The author later clarified the scope and requested small appearance additions in selected Chapters 1 and 2; their immediately prior versions are preserved. Chapter 20 is accepted; Chapters 21 and 22 remain unaccepted. Use the current project foundation and author instructions for later work.
+
 **Working candidate, 1 November 2026.** The user asked for the corrections and delegated where to start. This independent candidate follows the protected Chapters 1–5 and revises the separate, unaccepted Chapter 6–10 candidates in order. It does not replace them or imply reader acceptance. It does not modify the protected project, history or remotes.
 
 When old skill-centered wording conflicts with the user's later direction, use the later direction for this candidate. Preserve the old files as historical records rather than rewriting them in place.

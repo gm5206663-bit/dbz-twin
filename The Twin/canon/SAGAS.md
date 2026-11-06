@@ -9,6 +9,10 @@ The separately bounded [original-Dragon-Ball review](SOURCE_REVIEW_DB_OFFICIAL_S
 
 ## Working map
 
+**Latest local continuation:** Unaccepted [Chapter 29](../chapters/Chapter_29_The_Day_Is_Not_Finished.md) advances the altered city response, temporary guard and limited medical care while leaving a Namek route and voyage unestablished. [Episode 37–39 coverage](SCENE_COVERAGE_037.md) records the pre-draft source comparison and boundaries; no complete video/audio was examined.
+
+**Earlier continuation at the aftermath:** Unaccepted [Chapter 28](../chapters/Chapter_28_What_We_Carry.md) follows Chapter 27 without the source's Saiyan escape or assumed death list; living Goku completes his actual return. [Episodes 36–37 coverage](SCENE_COVERAGE_036.md) records a pre-draft ordered comparison and its limits. No Namek voyage is yet established.
+
 | Range | Baseline to study | Main question for a divergence |
 |---|---|---|
 | **1–36 · Saiyan** | Raditz, separation, survival, training, the Saiyans and Great Ape. | What changes when Raditz takes both capable children and their family prevents Piccolo from retaining custody? |

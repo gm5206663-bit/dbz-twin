@@ -1,5 +1,7 @@
 # Saiyan recovery, Zenkai and Goshin's Adaptation Talent
 
+**Later scope clarification, 3 November:** The protections and no-edit instructions in this dated pass applied to that particular work, not a permanent ban on Chapters 1–5. The author later clarified the scope and requested small appearance additions in selected Chapters 1 and 2; their immediately prior versions are preserved. Chapter 20 is accepted; Chapters 21 and 22 remain unaccepted. Use the current project foundation and author instructions for later work.
+
 **A separate research and correction note, not an accepted chapter or an edit to the protected project.** Prepared after the user's correction that Goshin's recovery, Saiyan biology and exceptional, broadly applicable Adaptation Talent have been underestimated. Chapters 6–10 remain separate, unaccepted candidates. The first five chapters, previous candidate files, the original project and remotes are not changed by this note.
 
 ## The correction

@@ -4,6 +4,8 @@
 
 **Owns: the retained episode-11 source notes for the earlier Chapter 12 review candidate.**
 
+**6 November selected-chapter update:** The [current Chapter Twelve](../chapters/Chapter_12_The_Planet_Between.md) carries the changed family afternoon through fish, predator, home and training. Both boys act; Goshin's visual resemblance is shown without an invented eye colour, and the book and next-morning C-6 handoff remain. Arlia's separately motivated destruction remains; no Earth-side knowledge or escape is invented. The prior treatment and automatic habit assertions below are historical. The complete retained episode-eleven SRT and [Toei's short synopsis](https://lineup.toei-anim.co.jp/ja/tv/dragonz/episode/11/) were reread. The destruction is also reported in the earlier identified secondary guide; the short official synopsis ends before stating it. Captions, synopsis and prior stills are not a complete audiovisual review; caption origin and cut are unverified. See the [current correction record](DRAGON_BALL_FEEL_CORRECTION_2026-11-05.md).
+
 These are the original planning and review notes combined for convenience. The later power-scale review changed portions of Chapters 6–14; where these historical descriptions differ, the selected manuscript and `REVIEW_CHAPTERS_06-14.md` control. This is not reader acceptance or a full-video claim. References to old `notes/` or `audit/` paths refer to the Drive archive, not a live local folder.
 
 ---
@@ -84,3 +86,6 @@ The source episode's lonely survival morning and afterlife journey are not silen
 The local episode-11 caption file was read for the episode's full spoken/sound cues; its provenance and exact cut remain unverified. The official Toei synopsis, the Kanzenshuu guide, a secondary episode rewatch, eight Kanzenshuu stills and one Toei still provide the limited evidence described in the before-prose plan. **No complete episode video was watched and no new complete manga reread was performed.** Captions and isolated stills do not prove all silent action or sequence. Source-inspired details beyond those witnesses, including the staging of the fights, are authored, and a complete-video review remains open.
 
 The cold open and final pods form a loop; the title, narrator, hard cuts, inserts, sound-before-sight, eye-catch and preview provide the episode form. Word, sentence and quoted-line counts in `audit/VERIFICATION_AND_STYLE_METRICS.txt` are approximate mechanical measurements, not proof of literary quality or full character/source compliance.
+
+
+**5 November 2026 continuing-pass pointer:** The [current Chapters 3–12 source and branch record](EMOTIONAL_REVISION_003_012_2026-11-05.md) documents the local emotional revision, reread caption limits and pre-pass versions. Where this inventory explicitly labels a treatment column historical, follow the selected manuscript and that newer record rather than the older column.

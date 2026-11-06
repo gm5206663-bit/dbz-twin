@@ -1,6 +1,10 @@
 # Episode 19 — source order and Chapter 20 coverage
 
+**5 November — current selected wording:** The [continuing prose/source record](EMOTIONAL_REVISION_013_PLUS_2026-11-05.md) records the latest local unaccepted pass. The separately accepted Chapter 20 original remains byte-preserved; older candidate-specific descriptions below are historical where superseded.
+
 **Owns: the bounded source inventory and comparison for author-accepted Chapter 20.**
+
+**6 November — selected unaccepted Dragon Ball-feel revision:** Goku and King Kai's English jokes and meal exchange are authored adaptations; Goku's chase has more playful resistance. During the visit Bulma offers a motor idea for the wheel and Hatch draws his own big motor on the picture. This does not build or promise a physical boat. The three-week catch, private Kaiō-ken thought and other handoffs remain. Complete episode-19 captions and Toei's synopsis were reread; source/cut and full audiovisual performance remain unverified. The separately accepted original, including its earlier joke wording and no added motor scene, is unchanged; this selected revision is unaccepted.
 
 **Later version boundary, 3 November:** This comparison recorded the author-accepted pre-character-correction Chapter 20. That earlier version remains accepted and is separately preserved; the selected character-corrected chapter is unaccepted. See [correction note](SELECTED_CONTINUITY_CORRECTIONS_2026-11-03.md).
 

@@ -1,22 +1,20 @@
 # Chapter Eight — The Dinosaur by the River
 
-*Immersion-revised review draft; not yet accepted.*
+*Revised story draft; not yet accepted.*
 
-A strip of bandage catches on a low branch. Beneath it, two pairs of shoes press into the wet ground.
-
-**THE DINOSAUR BY THE RIVER**
-
-**NARRATOR:** Gohan and Goshin have escaped Piccolo's grasp, but he is still close behind. Downriver, their injured father is coming after them.
-
----
+As the brothers hurry through the trees, a low branch catches Goshin's bandage and pulls loose the knot Gohan tied beside the ravine.
 
 ## The Other Bank
 
-Gohan pulls the strip of bandage free and tucks it around Goshin's palm, but his own shoulder hurts when he lifts his arm, so Goshin holds the end while he ties it.
+Gohan frees the end and winds it around his brother's palm again, but his shoulder hurts when he lifts his arm, so Goshin holds the cloth while he ties it.
 
-"Can you see Nimbus?" Gohan asks.
+"The rocks fell everywhere," Gohan says. "I didn't mean to break the cliff."
 
-Goshin looks through the branches. A yellow edge moves above the trees.
+"He shouldn't have thrown you," Goshin says. He looks back through the trees, toward the place where Piccolo disappeared.
+
+Gohan pulls the knot snug. "Can you see Nimbus?"
+
+Through the branches, Goshin sees a yellow edge moving above the trees.
 
 "He's up there."
 
@@ -52,13 +50,13 @@ Goshin looks at the mud beneath his shoes. "It's wet."
 
 "Then find somewhere dry."
 
-"Mother has beds," Gohan says.
+"Mother has beds," Gohan says. "And books, and supper. She'll be waiting for us."
 
 "Your mother won't be there when the Saiyans come."
 
 Gohan takes Goshin's good hand. "She'll be with us."
 
-Piccolo lifts one hand, and Goshin pulls Gohan behind the tree. The trunk shudders as a blast strikes the place where they stood.
+Piccolo's expression hardens, and he raises a hand. Goshin pulls Gohan behind the tree before the blast strikes; the trunk shudders, showering them with bark.
 
 "Go toward the river," Goshin says.
 
@@ -66,7 +64,7 @@ Gohan runs down the sloping path, and Goshin rises and flies beside him, keeping
 
 Piccolo comes over the fallen branches and raises his hand again, but a heavy crash sounds farther ahead. Another follows it, and the ground shakes under Gohan's feet.
 
-A tree bends. Something pushes through it.
+A tree bends as something pushes through it.
 
 Gohan stops so abruptly that Goshin nearly flies past him.
 
@@ -76,13 +74,17 @@ A dinosaur's head rises above the ferns. Its pebbled hide is streaked with mud, 
 
 "I see it."
 
-The dinosaur lunges. Goshin catches Gohan around the waist and lifts him clear. The jaws snap shut beneath their shoes. Its head drives into the tree behind them, and the trunk shakes from roots to crown.
+As the dinosaur lunges, Goshin catches Gohan around the waist and lifts him clear. Its jaws snap shut beneath their shoes; its head hits the tree behind them, shaking loose a rain of leaves.
 
-As branches come down, Goshin carries Gohan above the first row, but Piccolo is waiting over the canopy.
+Goshin carries his brother above the first row of branches, where Piccolo is waiting over the canopy.
 
-"I'll stop you here," Piccolo says.
+"I'll stop you here."
 
-He reaches for Gohan, but Goshin twists away and all three drop through the leaves toward the riverbank.
+"There's something with teeth down there!" Gohan says.
+
+"Then stay up here."
+
+Piccolo reaches for him. Goshin twists away, and all three drop through the leaves toward the riverbank.
 
 Goshin sets Gohan on his feet and puts his weight on the ankle Piccolo gripped; the red mark has already faded. Gohan scrambles beneath a fallen trunk, and Goshin follows with both hands free.
 
@@ -102,7 +104,7 @@ Goshin fires at the ground beside its feet, and mud bursts against its legs, mak
 
 The dinosaur swings back, and Goshin flies to the other side so the boys can lead it around the rock instead of toward the river.
 
-Gohan's foot slides on wet stones. He grabs a hanging vine and swings out of the dinosaur's reach. The vine carries him into a patch of nettles.
+Gohan's foot slides on the wet stones. He grabs a hanging vine and swings clear of the dinosaur's jaws, straight into a patch of nettles.
 
 "Ow!"
 
@@ -110,9 +112,11 @@ Gohan's foot slides on wet stones. He grabs a hanging vine and swings out of the
 
 "No. The plants got me."
 
+The vine bounces back and taps the dinosaur on the nose, drawing an indignant roar.
+
 The dinosaur reaches past the rock, and Gohan ducks, but its teeth catch the vine above him. It pulls, shaking leaves down over his hat.
 
-Goshin fires a narrow burst at the end of the vine. It breaks above the dinosaur's jaws. The animal recoils with a mouthful of leaves, and Gohan runs clear.
+Goshin fires a narrow burst at the end of the vine, breaking it above the dinosaur's jaws. The animal recoils with a mouthful of leaves, and Gohan runs clear.
 
 "That wasn't lunch," Gohan calls back.
 
@@ -138,13 +142,15 @@ The cry comes a second time.
 
 ## The Aircraft
 
-Bulma kneels beside the damaged tail, where a bent control rod hangs out of its housing with blackened wiring caught beneath it.
+Bulma kneels beside the damaged tail, where a bent control rod juts from its housing with blackened wiring wrapped around it.
 
-She opens her toolkit and takes out a pair of pliers. The rod will not move until she cuts the wire away.
+"Come on," she tells the rod, pulling with a pair of pliers. It doesn't budge.
 
-"That's one problem," she says. "Now I only have the rest of the aircraft."
+She cuts the wire away and tries again, pulling the rod free and leaving a smear of soot across her cheek.
 
-A shadow passes over the clearing. Bulma looks up.
+"That's one problem. Now I only have the rest of the aircraft."
+
+Bulma looks up as a shadow passes over the clearing.
 
 Mr. Popo descends on a carpet and lands beside her.
 
@@ -172,9 +178,7 @@ Popo nods and rises above the clearing. Bulma wraps the scouter again, puts it a
 
 ## The Road
 
-Ox-King's truck rounds a bend on the way to the coast. Chi-Chi leans forward in her seat, watching the sky above the trees.
-
-Chi-Chi opens the window as a figure in orange flies over the road.
+Ox-King's truck rounds a bend on the way to the coast. Chi-Chi has been watching the sky above the trees; when a figure in orange flies over the road, she opens the window.
 
 "Krillin!"
 
@@ -186,7 +190,7 @@ Chi-Chi is out before the wheels have stopped. "Where are Goku and the boys? Tur
 
 "Are the boys hurt?"
 
-"They were both awake when I left. Gohan hurt his shoulder. Goshin's head and hand were hurt."
+"They were both awake when I left. Gohan hurt his shoulder. Goshin hurt his head and hand."
 
 "And Goku?"
 
@@ -194,13 +198,15 @@ Krillin touches the bag inside his shirt. "He's alive, but he was hurt badly. I 
 
 "How badly?"
 
-"I saw burns on his arm, and he was holding his ribs. He was talking to us when I left."
+"His arm was burned, and he was holding his ribs. He was talking to us when I left."
 
 "When was that?"
 
 "Before the aircraft took off."
 
-Chi-Chi catches his arm. "Take me to them."
+For a moment Chi-Chi grips the open door. The last time she saw Goku, he had a sack of rice over one shoulder and their boys climbing onto his cloud. She had called after them to bring their shoes home.
+
+She catches Krillin's arm. "Take me to them."
 
 "I'm going there now. I can feel the boys, and Piccolo's near them, but I don't know what he's doing."
 
@@ -232,125 +238,73 @@ The truck starts below them.
 
 ## The Small Cry
 
-Gohan edges around the rock. Beyond it, river water has forced a narrow channel between the bank and a fallen slab. A small dinosaur is caught beneath a thick root, its hide slick with water. It struggles as the current rises around its feet; every tug draws another thin cry from it.
+Gohan edges around the rock to a narrow channel cut by the river between the bank and a fallen slab. Beneath a thick root, a small dinosaur struggles to pull its leg free, giving another thin cry with each tug.
 
 The larger animal roars on the other side of the rock. Gohan looks from the trapped youngster to the teeth he has just escaped.
 
-The large dinosaur comes after Gohan. Goshin flies between them and fires into the water. The spray strikes its face, and Gohan gets back behind the rock.
+"There's a little one," he tells Goshin. "It's stuck."
 
-"There's a little one," he says. "It's stuck."
+The big dinosaur charges around the rock, and Goshin flies between it and Gohan and fires into the water. Spray hits its face, and it turns away long enough for Gohan to reach the channel.
 
-Goshin looks around the edge. The small dinosaur pulls at its leg, but the root holds it fast.
-
-"That rock might have come from the cliff," Gohan says. "When I broke it."
+Gohan touches the edge of the slab. "This might have come from the cliff. When I broke it."
 
 "Let's get it out."
 
-"What about the big one?"
+Goshin crouches beneath the slab and heaves, rock scraping against rock. Water rushes into the space he opens, but the root is wedged into a crack and still pins the little dinosaur's leg.
 
-"We'll have to keep it away."
+"I'll lift it higher," he says.
 
-Goshin rises above the rock. The dinosaur snaps at him, and he flies across the channel. It follows him, leaving Gohan room to reach the root.
+The small dinosaur snaps at Gohan when he reaches underneath. He jerks back, then sees a broken branch floating beside the bank. He pulls it out, pushes the end into the crack and levers at the root.
 
-Gohan puts both hands under it and pulls, but his shoulder catches and the root does not move.
+It moves, but not enough, so Gohan plants a stone under the branch and bears down again. This time the root lifts, and the little dinosaur drags its leg free.
 
-Goshin lands beside him. "I can lift the rock."
+"There! Come on!"
 
-He wedges both hands beneath the slab and pushes. The slab lifts, but the root is caught in a crack under it. Water rushes into the space he has opened.
+Instead of coming out, the youngster scrambles farther under the slab. Gohan crawls after it, his injured shoulder brushing the stone.
 
-"There's a stick," Gohan says. "I can get it under the root."
+The big dinosaur roars behind them, its footsteps shaking the bank. Goshin braces the slab against his shoulder and thrusts his free hand toward the animal. His burst strikes the water at its feet, throwing up a sheet of spray. The dinosaur slips sideways, catches itself and comes on again.
 
-He retrieves a broken branch and feeds its end into the crack while the small dinosaur twists away, tugging its trapped leg.
+Gohan reaches for the youngster. It snaps at his sleeve; he folds the cloth over his hand and tries again.
 
-"Easy," Gohan says. "I'm trying to help."
+"I'm not going to hurt you. Please come out."
 
-The dinosaur snaps at his sleeve. Gohan jerks his hand back, then reaches for the branch again. The wet wood slips, and the end of the branch catches under the wrong root.
+The large dinosaur opens its jaws above them. Goshin starts to raise his hand again, but a blast tears into the bank in front of it. Mud flies up between the teeth and the boys. The dinosaur skids back, roaring.
 
-"I can't see its foot."
+Piccolo stands among the trees, smoke curling from his fingertips.
 
-Goshin lowers his head to look beneath the slab. "The other root is holding it. The one by the water."
-
-Gohan shifts the branch and pushes it into the crack again as water covers the toe of his shoe.
-
-The end slides beneath the root but will not stay there when he lets go. He finds a flatter piece of wood beside the bank and places it under the branch, making a firm point to push against.
-
-Goshin holds the slab as steady as he can while Gohan tests the lever. A thin stream runs out from beneath the rock, carrying leaves against Gohan's shoe.
-
-"This one?"
-
-"That's it."
-
-Gohan presses down. The root moves a little, but the slab tilts toward the small dinosaur. Goshin catches the weight against his shoulder before it can fall.
-
-"I don't want to break the rock," he says. "It'll land on you."
-
-"Can you keep it there?"
-
-"Yes."
-
-Gohan pulls a loose stone from the edge of the channel and wedges it under the branch. The branch holds its place this time. He takes a breath and looks at Goshin.
-
-"Lift it on three," he tells him.
-
-"I'm ready."
-
-"One. Two. Three!"
-
-Goshin raises the slab. Gohan pushes the branch down. The root rises enough for the small dinosaur to pull its leg free, but it scrambles the wrong way, deeper beneath the slab.
-
-"No, this way!"
-
-The large dinosaur charges down the bank. Goshin cannot leave the slab without dropping it onto Gohan and the small dinosaur.
-
-He shifts his feet and raises his bandaged palm toward the teeth. He fires into the shallow water ahead of the dinosaur, and its leading foot slips on the wet stones.
-
-It catches itself and comes on.
-
-Gohan crawls farther under the slab, where the small dinosaur presses against the bank and snaps at him each time he reaches for it.
-
-"I won't hurt you," he says, although his voice shakes.
-
-As the jaws open above him, Goshin keeps one shoulder against the rock and pulls his good hand free to aim.
-
-Piccolo fires from the trees. His blast strikes the bank in front of the dinosaur, throwing up a wall of mud. The dinosaur skids sideways, and the small dinosaur cries out beneath Gohan's arm.
-
-"You're no use to me dead," Piccolo calls.
+"You're no use to me dead."
 
 Goshin blinks mud from his eyes. "We didn't ask you."
 
 "I didn't ask you to stop for an animal."
 
-The slab presses down. Goshin plants his feet and pushes it up again. Gohan puts his torn sleeve between his hand and the small dinosaur's teeth, then catches it around the middle.
-
-The small dinosaur kicks and wriggles, but Gohan keeps hold and pulls it out of the channel despite his aching shoulder.
+The slab shifts. Goshin sets his feet and pushes it up while Gohan catches the small dinosaur around the middle. It kicks and wriggles, but he holds on and pulls it out, his shoulder aching.
 
 "Goshin, it's clear!"
 
-Goshin pushes the slab away. It lands in the empty channel with a heavy splash. He flies over it and comes down beside Gohan.
+Goshin lifts the slab away and drops it in the empty channel with a splash, then comes around it as the large dinosaur breaks through the falling mud.
 
-The large dinosaur breaks through the falling mud. Gohan sets the small one down and backs away.
+Gohan sets the young dinosaur down and backs away. It limps once, finds its footing and runs to the larger animal. For a moment both dinosaurs look at the boys. Then the adult turns and pushes through the ferns, with the youngster hurrying after it.
 
-The small dinosaur runs to the larger animal, turns once, then follows as the adult pushes through the ferns and takes it up the bank.
+Gohan sinks into the wet grass, watching the ferns sway long after the dinosaurs have gone.
 
-Gohan's knees give way. He sits in the wet grass and watches the ferns settle.
+"It got out."
 
-"It got out," he says.
-
-The reeds continue moving where the dinosaurs went through them, but neither animal returns to the channel. The loose branch Gohan used as a lever lies in the water, and the slab rests farther downstream, away from the bank.
-
-Gohan looks for the smaller dinosaur once more before letting his hand fall from the rock. Goshin comes around the end of the slab, checking the ground for the other animal as he approaches.
-
-Goshin helps him up. "You got it out."
+Goshin offers him a hand. "You got it out."
 
 "We did. I was afraid it would bite you."
 
-"I saw it snap at your sleeve," Goshin says. "You kept helping it."
+"It nearly bit you!"
 
-Gohan takes his hand, and they hurry toward the river together. A red apple hangs above them, and Gohan snatches it as they pass. He takes a bite without stopping.
+Gohan looks up the bank. "Its mother found it."
+
+Goshin gives his hand a tug. "We'll find ours too."
+
+They hurry toward the river, and Gohan snatches a red apple hanging above the path. He takes a bite without stopping.
 
 His face folds. "Sour!"
 
-Goshin looks at the apple. "Mother didn't wash it."
+"Let me try." Goshin takes the apple, bites it and gives it back. His face folds too. "It is sour."
 
 "Mother would make curry."
 
@@ -398,8 +352,6 @@ A voice answers through the trees.
 
 Nimbus carries Gohan toward it, with Goshin flying close beside him.
 
-*This programme continues after a message.*
-
 ---
 
 ## The Carpet
@@ -414,25 +366,23 @@ A carpet drops through the gap above them with Popo standing on it.
 
 Roshi helps Goku onto the carpet and climbs on with the medical case, and Popo lifts them above the water.
 
-Nimbus comes around the bend, carrying Gohan, with Goshin flying at its side. Goku reaches out. Gohan guides Nimbus alongside the carpet, and Goshin catches the edge to keep the two level.
+Nimbus comes around the bend, carrying Gohan, with Goshin flying beside him. Goku reaches out. Gohan guides Nimbus alongside the carpet, and Goshin catches the edge to keep the two level.
 
 "Father!"
 
-"You're both here."
-
-Gohan steps across and wraps his good arm around Goku while Goshin lands beside him and keeps hold of Goku's hand.
+Gohan steps across and flings his good arm around him. Goshin lands at his other side. Goku gathers them both close; the movement hurts, but he doesn't let go until Gohan pulls back to see his face.
 
 "Are you hurt again?" Goku asks.
 
-"My shoulder," Gohan says. "The dinosaur didn't bite us."
+"My shoulder. The dinosaur didn't bite us."
 
-Goku looks at Goshin. "What happened?"
+"Dinosaur?"
 
-"There were two dinosaurs. Piccolo stopped the big one."
+"There were two," Goshin says. "Piccolo stopped the big one."
 
-"Then he chased us again," Gohan says.
+"Then he chased us again," Gohan adds.
 
-Piccolo rises above the trees behind them.
+Goku feels Piccolo close behind them, and a moment later the green figure rises above the trees.
 
 Roshi puts the medical case between Goku and the edge of the carpet as Popo turns to face Piccolo.
 
@@ -458,9 +408,9 @@ Piccolo watches him.
 
 "You're not taking my sons," Goku says.
 
-Chi-Chi reaches the carpet and steps aboard. She draws Gohan close with one arm and Goshin with the other, gathering damp, torn cloth and muddy children against her. Gohan buries his face in her shoulder. Goshin holds onto her sleeve but keeps looking past her at Piccolo.
+Chi-Chi reaches the carpet and steps aboard. She draws Gohan close with one arm and Goshin with the other, gathering damp, torn cloth and muddy children against her. Gohan buries his face in her shoulder. Goshin catches her sleeve but keeps looking past her at Piccolo.
 
-Only then does she look up.
+She follows his gaze.
 
 "You stay away from them."
 
@@ -468,25 +418,31 @@ Only then does she look up.
 
 "Then we'll prepare for them," Goku says. "Together."
 
-Piccolo looks at Goku and the two boys, then at Krillin on the bank and Popo and Roshi on the carpet.
+Piccolo looks at the recovered Goku, then at Krillin on the bank and Popo and Roshi on the carpet. Both boys are watching him too.
 
 "Don't expect me to save you."
 
-He flies above the trees and disappears over the ridge.
+He flies above the trees and disappears over the ridge. Goshin watches until he is gone, then turns back toward his mother.
 
-Goshin stays facing the ridge until Goku puts a hand on his shoulder. Only then does he turn back toward his mother.
+Chi-Chi catches Goku's hand. Turtle had told her he was hurt, and Krillin had gone for the beans; a moment ago she had seen him lying on the carpet. Now his hand is warm and steady against hers.
+
+"You frightened me," she says.
+
+"I'm sorry."
+
+"All three of you."
+
+Gohan presses closer. Goku puts his arm around them, and Chi-Chi holds on.
 
 Across the ridge, Piccolo lands among the stones and touches the place on his chest where Goshin struck him, then lets his hand fall.
 
 "Goku's recovered. Both boys are with him."
 
-He faces a tall rock pillar and raises his new arm. Light gathers in his palm, and the shot cuts through the stone. The upper half crashes into the ravine.
+He faces a tall rock pillar and raises his new arm. Light gathers in his palm, and his shot cuts through the stone. The upper half crashes into the ravine, taking a smaller boulder with it.
 
-Piccolo looks at the broken end.
+Piccolo looks at the broken end. Against Raditz, his best attack had needed time he could scarcely find. The two Saiyans coming to Earth would be stronger.
 
-"The Saiyans are stronger than Raditz. I need more than that."
-
-He sets his feet and begins again.
+He sets his feet and gathers his strength again.
 
 ---
 
@@ -502,23 +458,15 @@ Gohan presses against her. "Goshin couldn't wake up. I stayed with him."
 
 Chi-Chi holds them both for a moment. "Turtle didn't know where that man had taken you. I didn't know if I'd see you again."
 
-Goku rests his hand on her shoulder. Goshin watches them, then touches Goku's wrist.
+Goku rests his hand on Chi-Chi's shoulder. Goshin catches her sleeve.
 
-"What is it?" Goku asks.
+"I wanted you to come."
 
-Goshin looks at Chi-Chi. "When did you know?"
+"I came as soon as I could."
 
-"Turtle told me after you left the island. I came as soon as I could."
+Chi-Chi's face crumples for an instant. She hugs him again, taking care of his hand, then draws back to look at it.
 
-"I didn't know if you knew."
-
-"You don't have to worry about telling me now. I'm here."
-
-When she draws back to look at him, he opens his injured hand for her.
-
-"Show me your hand."
-
-"The middle is better," Goshin says.
+"The middle is better," Goshin tells her.
 
 He brings the bandaged palm forward, and Chi-Chi unwraps the dirty cloth. New pink skin covers the middle of the burn, though the edge is still red.
 
@@ -552,25 +500,25 @@ Goshin studies the bean. "How many are left?"
 
 Goshin looks at Gohan's shoulder, then opens and closes his own hand. "Give one to Gohan. My hand is getting better. What if somebody else gets hurt?"
 
-"Are you sure?" Chi-Chi asks.
+"Are you sure? You can have one too," Chi-Chi says.
 
-He touches the side of his head. "I still want the doctor to look. We can keep the last bean."
+He touches the side of his head. "I know. I still want the doctor to look. We can keep the last bean in case somebody needs it."
 
 Chi-Chi draws him close. "Then the doctor looks, and you tell me if anything changes."
 
 "Did you see where Korin grows them?" Goshin asks Krillin.
 
-"Not this batch. He took these from a jar."
+"He took these out of a jar."
 
-"Can I see another time?"
+"Can I see the jar?"
 
-"We can ask him," Krillin says. He keeps the bean for Gohan and folds the bag around the remaining one.
+"I expect he'll show you that much," Krillin says. "We can ask about the rest."
 
-"You can come with us," Goku tells him. "Korin can show you what he does."
+Goku smiles. "He might even give you a tour."
 
-"If he says yes," Chi-Chi adds.
+"If Korin wants to," Chi-Chi says.
 
-"If he says yes," Goku agrees.
+"If he wants to," Goku agrees. Krillin keeps one bean ready for Gohan and folds the bag around the last one.
 
 Gohan moves closer to see the bandage around Goshin's palm. Chi-Chi checks that the cloth is not pulling against the new skin before she settles the first-aid box beside her.
 
@@ -594,25 +542,19 @@ Gohan gets up. "That's back too."
 
 Goku grins at him. "Good."
 
-Goshin watches Gohan move his shoulder, then looks at the remaining bean. Goku notices.
+Goshin watches Gohan swing his arm, then looks at the bag. The bean worked so quickly that his brother is already moving as if nothing had happened.
 
-"What is it?" he asks.
+"You really don't mind saving the last one?" Gohan asks.
 
-"Gohan got better all at once."
+Goshin shakes his head. "We might need it later."
 
-Goku looks at Goshin's newly wrapped hand. "Yours is getting better too."
-
-"I still want to see where Korin makes them."
-
-Goku puts an arm around him. "We'll ask."
-
-"I'll go with you to ask Korin," Gohan says.
+"I'll come with you to ask Korin about the jar," Gohan says.
 
 "You don't have to."
 
 "I want to."
 
-As Goshin leans against Gohan, Krillin ties the bag shut and puts it away.
+Goshin leans against him while Krillin ties the bag shut and puts it away.
 
 "I'll keep it safe," he says.
 
@@ -790,13 +732,15 @@ Goku's hand stops on Goshin's shoulder. "That was me?"
 
 "Yes."
 
-"Grandpa used to warn me about the full moon. He died, and I thought a monster had killed him." Goku looks at Roshi. "Could it have been me?"
+Goku stares at him. "Grandpa used to warn me about the full moon. I thought a monster killed him."
 
-Roshi's expression changes behind his dark glasses. He takes off the glasses and holds them in both hands.
+Roshi takes off his sunglasses.
 
-"I wasn't there," he says. "I don't know. I should have told you what I saw at the tournament. I'm sorry."
+"Could it have been me?" Goku asks.
 
-For once, Goku has no quick answer. He looks down at his hands, opening and closing them as the river sounds beyond the clearing. Chi-Chi reaches across the boys and takes one of them.
+"I wasn't there. I don't know." Roshi turns the glasses in his hands. "I should have told you what I saw at the tournament. I'm sorry."
+
+The river murmurs beyond the clearing. Goku looks down at his hands, the same hands Grandpa Gohan once guided through a fighting stance. Chi-Chi reaches across the boys and takes one of them.
 
 "You were a child," she says. "And you don't know what happened."
 
@@ -812,15 +756,19 @@ Chi-Chi draws the boys closer. "Could it happen to them?"
 
 Gohan's tail curls around his ankle. "Are we monsters?"
 
-"No," Chi-Chi says. "You're my sons."
+"No," Chi-Chi says at once. "You're my sons."
 
 "What if I look by accident?"
 
-"We'll make sure you know when it's dangerous," Goku says. "You don't have to work it out alone."
+"If we close the curtains, we can't see it," Goshin says.
 
-Gohan leans against Chi-Chi, who keeps one arm around him and her other hand in Goku's.
+"How will we know when it's full?" Gohan asks.
 
-She kisses the top of Gohan's head, then waits until Goshin lifts his face before she kisses him too.
+"We'll find out," Chi-Chi says.
+
+Goku puts his arm around both boys. "We'll watch out for each other. You won't have to work it out alone."
+
+Gohan leans against Chi-Chi, who keeps one arm around him and her other hand in Goku's. She kisses the top of his head and draws Goshin close enough to kiss him too.
 
 Bulma puts the damaged rod in her toolkit and closes it. She presses the aircraft's capsule switch; the vehicle contracts into its capsule, which she slips into her case. The scouter remains wrapped in her pocket, with its cell separate.
 
@@ -834,14 +782,16 @@ Goku lifts him carefully. Gohan takes his mother's hand. Behind them, Nimbus wai
 
 ---
 
-## Preview
-
-*A yellow cloud rises above the river. At the Lookout, Kami steps toward the edge with his staff. Far away, a crystal ball carries Baba toward Earth.*
-
-**NARRATOR:** Goku and his family are together again, but Piccolo is still at large and two Saiyans are on their way. What will Kami tell them? And can Bulma learn to use the alien device without alerting its owners?
+> **NEXT TIME — A doctor examines Goshin, and the family faces a night beneath the full moon.**
 
 <!--
 ## Footer
+
+**5 November 2026 — Dragon Ball-feel revision from the opening, unaccepted.** The chapter was read in full alongside the Chapter Nine handoff and substantially revised. The brothers' dangerous dinosaur rescue is driven by their distinct choices rather than a step-by-step equipment report; Goshin uses his established strength and ki, Gohan risks approaching the trapped youngster, and Piccolo's intervention remains limited and coercive. Chi-Chi's first reunion, Goku's relief, their concern and the family conversation about the moon are given more particular emotional and character beats. Goku and then Gohan consume one Senzu each; Goshin chooses the doctor and reserves the third with Krillin. Bulma keeps the separated scouter and cell, Kami's inquiry remains ungranted, and the family proceeds toward Chapter Nine's doctor. The twin staging, altered branch, dinosaur rescue and English dialogue are authored. The entire retained episode-seven caption file was reread, including its ending and unrelated tail; origin and exact cut remain unverified. The short official Toei synopsis was consulted. Neither captions nor the synopsis establish full motion or voice performance. The exact immediate predecessor is byte-preserved in the [verified pre-correction project and accepted-original snapshot](../canon/ARCHIVE_INDEX.md#backup-042), Chapter Eight member SHA-256 `d439618631ad4178b181d1d7b7984ab5b36ba2246161af9b07728e10f35792c4`, ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. This is not reader acceptance. Earlier footer entries remain historical where superseded.
+
+
+
+**5 November 2026 — continuing emotional revision, unaccepted.** A full pass carries Gohan's concern about the damaged cliff into the brothers' rescue, lets both children show fear and play, gives the separated parents a moment of reunion, and makes Goshin's choice about the Senzu explicit without treating food-watching as a rule. The dinosaur rescue, Piccolo's coercion and limited intervention, Goku and Gohan's separate beans, the reserved third bean, Chi-Chi's insistence on medical examination, and the moon conversation remain. The exact preceding selected file is preserved with Chapter Seven in the [verified local backup](../canon/ARCHIVE_INDEX.md#backup-052). The complete retained episode-7 captions were reread; their origin and cut remain unverified. Toei's synopsis and secondary guides are not a full video or audio review. The twin rescue, family reunion and added words and staging are authored.
 ```
 ANIME BASE: Dragon Ball Z episode 7.
 EVIDENCE: Local Japanese episode-7 captions, with original provenance and exact cut unverified; secondary accounts as identified in the coverage record. Captions and selected stills do not establish full video or all silent action.

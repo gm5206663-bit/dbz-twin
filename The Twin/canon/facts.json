@@ -7,7 +7,7 @@
     "II": "Secondary source, inference, or unverified visual",
     "III": "Authored OC/AU; not canon"
   },
-  "source_note": "W-30 comprises redistributed Japanese SRTs; official/broadcast origin is unverified. Tier I caption wording is provisional. Some files contain identifiable unrelated post-ending material; the pre-existing 29-minute index boundary is heuristic, not a verified cut. Selected W-17 fan-gallery stills were inspected for episode 3, with release provenance unverified; no complete episode video was examined. Episode timestamps refer to local files. Episode 15 and 16 local captions were reread for the post-draft source-order inventories; selected episode-16 stills and secondary summaries were inspected. No complete episode video or audio was examined. Episode 17 local captions were reread and retained for the Chapter 18 review; Toei’s synopsis and a still, and eight secondary guide stills, were inspected. No complete episode video or audio was examined. Episode 20 captions were reread and retained before Chapter 21; the official and secondary episode-20 synopses and nine individual stills were inspected, not complete video or audio. Episode 19 was reread before Chapter 20 and episode 21 before Chapter 22; each had its source synopsis and nine selected stills checked, not full video or audio. Selected episode-147, 155 and 168 chamber cues were checked only in part; full later episodes, video and audio were not reviewed. Episode 21 is covered in canon/SCENE_COVERAGE_021.md.",
+  "source_note": "W-30 comprises redistributed Japanese SRTs; official/broadcast origin is unverified. Tier I caption wording is provisional. Some files contain identifiable unrelated post-ending material; the pre-existing 29-minute index boundary is heuristic, not a verified cut. Selected W-17 fan-gallery stills were inspected for episode 3, with release provenance unverified; no complete episode video was examined. Episode timestamps refer to local files. Episode 15 and 16 local captions were reread for the post-draft source-order inventories; selected episode-16 stills and secondary summaries were inspected. No complete episode video or audio was examined. Episode 17 local captions were reread and retained for the Chapter 18 review; Toei’s synopsis and a still, and eight secondary guide stills, were inspected. No complete episode video or audio was examined. Episode 20 captions were reread and retained before Chapter 21; the official and secondary episode-20 synopses and nine individual stills were inspected, not complete video or audio. Episode 19 was reread before Chapter 20 and episode 21 before Chapter 22; each had its source synopsis and nine selected stills checked, not full video or audio. Selected episode-147, 155 and 168 chamber cues were checked only in part; full later episodes, video and audio were not reviewed. Episode 21 is covered in canon/SCENE_COVERAGE_021.md. For unaccepted Chapter 26, complete retained Japanese caption members 025–032 were reread from the local archive; source/cut remain unverified, no complete audiovisual viewing occurred, and these were already within the 125 distinct full-caption index. Official Toei synopses and separate manga-based technique features supply bounded comparisons; see canon/SCENE_COVERAGE_025.md. For unaccepted Chapter 27, complete retained Japanese caption members 033–036 were independently reread with their recaps, previews, endings and trailing fragments; they were already among the 125 distinct full spoken-caption reads. Toei and Kanzenshuu short episode synopses were compared separately; no full audio/video or new stills were examined. See canon/SCENE_COVERAGE_033.md. For unaccepted Chapter 28, complete retained episode 36–37 spoken-caption members were independently reread, already within the 125 distinct caption count; Toei 36–39 and secondary 37–38 short summaries were consulted separately, without complete video/audio or new stills. See canon/SCENE_COVERAGE_036.md. For unaccepted Chapter 29, complete retained episodes 37–39 were independently reread in bounded outputs with recaps, previews and trailing fragments, and Toei 37–39 and secondary 38–39 brief synopses were consulted. They were already among the 125 distinct caption reads; no complete video/audio or new stills were examined. See canon/SCENE_COVERAGE_037.md. For unaccepted Chapter 30, the complete retained episode-37 caption was reread, with Toei 37–38 and the secondary episode-37 synopsis consulted separately; no new full episode video/audio or stills were examined. See canon/SCENE_COVERAGE_037_CH30.md.",
   "facts": [
     {
       "id": "C001",
@@ -26,14 +26,16 @@
       "id": "C002",
       "tier": "II",
       "topic": "Goku / firewood",
-      "statement": "W-65 reports that Goku fells a tree with one punch and carries it home. The local episode-1 captions give the falling-tree sound and subsequent conversation (05:13–05:52), not the punch or tree size. The chapter’s claim that it was the biggest on that side is authored rather than established by this secondary synopsis.",
-      "source": "W-65; episode-1 local captions for the sound and conversation",
-      "source_class": "secondary episode synopsis; redistributed caption text for sound",
+      "statement": "W-65 reports Goku felling a tree with one punch and carrying it home. The local episode-1 captions give the falling-tree sound and subsequent conversation, not the punch or tree size. A selected fan-gallery still (W-127; cut unverified) shows him poised to strike a tree, not the complete action. An earlier draft claimed it was the biggest on that side; the current selected chapter does not. The punch and Goshin’s accompanying woodpile work are staged in the unaccepted chapter.",
+      "source": "W-65; W-30 episode-1 captions; W-127 selected gallery still",
+      "source_class": "secondary episode synopsis, redistributed caption text, and isolated fan-hosted still",
       "witnesses": [
         "W-65",
-        "W-30"
+        "W-30",
+        "W-127"
       ],
-      "strength": "C"
+      "strength": "C",
+      "previous_statement_before_episode1_still_recheck_2026_11_05": "W-65 reports that Goku fells a tree with one punch and carries it home. The local episode-1 captions give the falling-tree sound and subsequent conversation (05:13–05:52), not the punch or tree size. The chapter’s claim that it was the biggest on that side is authored rather than established by this secondary synopsis."
     },
     {
       "id": "C003",
@@ -107,15 +109,17 @@
       "id": "C008",
       "tier": "I",
       "topic": "Gohan / river",
-      "statement": "Gohan names a butterfly and later cries that he cannot get down (episode 1, 10:18–11:00 and 19:36–19:44). The captions do not establish the river or log; W-65 describes both as secondary visual evidence, not verified footage.",
-      "source": "Dragon_Ball_Z_001.srt (W-30; original source/cut unverified); separate W-65 where identified",
-      "source_class": "Japanese caption text, read directly; origin unverified",
+      "statement": "Gohan names a butterfly and later cries that he cannot get down (episode 1, 10:18–11:00 and 19:36–19:44). Captions alone do not establish a river or log. W-65 describes them, and selected fan-hosted images (W-127; source/cut unverified) depict Gohan on a log and clinging to it in water. Isolated stills do not establish continuous action, timing or a verified master.",
+      "source": "W-30 episode-1 captions; W-65 synopsis; W-127 selected gallery stills",
+      "source_class": "redistributed Japanese caption text, secondary synopsis and selected fan-hosted stills",
       "witnesses": [
         "W-30",
-        "W-65"
+        "W-65",
+        "W-127"
       ],
       "strength": "B",
-      "previous_source_before_complete_canon_audit_2026_11_04": "same"
+      "previous_source_before_complete_canon_audit_2026_11_04": "same",
+      "previous_statement_before_episode1_still_recheck_2026_11_05": "Gohan names a butterfly and later cries that he cannot get down (episode 1, 10:18–11:00 and 19:36–19:44). The captions do not establish the river or log; W-65 describes both as secondary visual evidence, not verified footage."
     },
     {
       "id": "C009",
@@ -263,18 +267,21 @@
       "id": "C019",
       "tier": "II",
       "topic": "ep2 Krillin",
-      "statement": "In the episode-2 baseline Krillin tries to see the alien off the island. W-03 reports Raditz striking Krillin through Kame House with his tail; the captions include the subsequent unlabelled tail-noticing lines (C074), but silent impact and exact choreography have not been checked against complete footage.",
-      "source": "Dragon_Ball_Z_002.srt (W-30; source and cut unverified), with secondary W-03 and W-05",
-      "source_class": "secondary visual synopsis plus provisional direct caption dialogue",
+      "statement": "In the episode-2 baseline Krillin tries to see the alien off the island. W-03 and W-43 report Raditz striking Krillin through Kame House with his tail; W-129 includes a selected fan-hosted image of a tail crossing Krillin’s face. The captions include the subsequent unlabelled tail-noticing lines (C074); the image attribution and cut are unverified, and one still does not establish the full choreography or a verified broadcast.",
+      "source": "W-30 episode-2 captions; W-03 and W-43 episode accounts; W-129 selected gallery still",
+      "source_class": "redistributed caption text, secondary accounts and isolated fan-hosted image",
       "witnesses": [
         "W-03",
         "W-05",
-        "W-30"
+        "W-30",
+        "W-43",
+        "W-129"
       ],
       "strength": "B",
       "previous_statement_before_complete_canon_audit_2026_11_04": "Krillin tries to see the alien off the island; Raditz puts him through the wall of the house with his tail.",
       "previous_source_before_complete_canon_audit_2026_11_04": "dragonballupdates summarised + CBR",
-      "previous_source_class_before_complete_canon_audit_2026_11_04": "summary"
+      "previous_source_class_before_complete_canon_audit_2026_11_04": "summary",
+      "previous_statement_before_episode2_still_and_caption_recheck_2026_11_05": "In the episode-2 baseline Krillin tries to see the alien off the island. W-03 reports Raditz striking Krillin through Kame House with his tail; the captions include the subsequent unlabelled tail-noticing lines (C074), but silent impact and exact choreography have not been checked against complete footage."
     },
     {
       "id": "C020",
@@ -321,15 +328,18 @@
       "id": "C023",
       "tier": "I",
       "topic": "ep2 the knee",
-      "statement": "Raditz sees Gohan's tail, says he will borrow the boy, and fells Goku with a single blow that Krillin calls one hit (CC 00:22:04–00:23:27). The captions do not name the limb; the knee is Ch. 2's choice (R-19).",
-      "source": "Dragon_Ball_Z_002.srt (W-30; original source/cut unverified); separate W-05 where identified",
-      "source_class": "Japanese caption text, read directly; origin unverified",
+      "statement": "Raditz notices Gohan’s tail, says he will borrow the boy, and fells Goku with a single blow that Krillin calls one hit (episode 2, 22:04–23:27). The captions do not name the limb. W-43 reports a knee; a W-129 fan-hosted still shows Raditz’s raised knee against the bent Goku. The image’s source and cut are unverified and neither a still nor a synopsis proves full motion or a broadcast master. The selected branch uses a knee, while the second son and changed outcome are authored.",
+      "source": "W-30 episode-2 captions; W-43 secondary scene account; W-129 selected fan-hosted still",
+      "source_class": "redistributed caption text, secondary scene account and isolated unverified image",
       "witnesses": [
         "W-30",
-        "W-05"
+        "W-05",
+        "W-43",
+        "W-129"
       ],
       "strength": "A",
-      "previous_source_before_complete_canon_audit_2026_11_04": "dragonballupdates + Kanzenshuu"
+      "previous_source_before_complete_canon_audit_2026_11_04": "dragonballupdates + Kanzenshuu",
+      "previous_statement_before_episode2_still_and_caption_recheck_2026_11_05": "Raditz sees Gohan's tail, says he will borrow the boy, and fells Goku with a single blow that Krillin calls one hit (CC 00:22:04–00:23:27). The captions do not name the limb; the knee is Ch. 2's choice (R-19)."
     },
     {
       "id": "C024",
@@ -364,13 +374,14 @@
       "tier": "I",
       "source_class": "Japanese caption text, read directly; origin unverified",
       "topic": "ep2 Goku's refusal",
-      "statement": "Goku's refusal in the episode's own Japanese: he does not care what planet he came from or that the man is his brother, Krillin is right that such people are the lowest, \"I am Son Goku, I grew up here — get off my island\", and he would rather die than lend a hand (CC 00:19:48–00:21:47). The familiar English refusal (\"this is my home and these are my friends\") is the dub's wording (R-15).",
+      "statement": "Goku's refusal in the episode's own Japanese: he does not care what planet he came from or that the man is his brother, Krillin is right that such people are the lowest, \"I am Son Goku, I grew up here — get off my island\", and he would rather die than lend a hand (CC 00:19:48–00:21:47). The familiar English refusal (\"this is my home and these are my friends\") is the dub's wording (R-15). The continuing captions have Bulma agree and Roshi affirm Goku is an admirable Earthling; a following unlabelled line says he saved the world. The revised branch gives that latter line to Krillin, an authored/contextual attribution.",
       "source": "Dragon_Ball_Z_002.srt (W-30; original source/cut unverified)",
       "witnesses": [
         "W-30"
       ],
       "strength": "A",
-      "previous_source_before_complete_canon_audit_2026_11_04": "dragonball.fandom.com/wiki/Reunions — episode header quote"
+      "previous_source_before_complete_canon_audit_2026_11_04": "dragonball.fandom.com/wiki/Reunions — episode header quote",
+      "previous_statement_before_episode2_still_and_caption_recheck_2026_11_05": "Goku's refusal in the episode's own Japanese: he does not care what planet he came from or that the man is his brother, Krillin is right that such people are the lowest, \"I am Son Goku, I grew up here — get off my island\", and he would rather die than lend a hand (CC 00:19:48–00:21:47). The familiar English refusal (\"this is my home and these are my friends\") is the dub's wording (R-15)."
     },
     {
       "id": "C029",
@@ -795,13 +806,16 @@
       "id": "C057",
       "tier": "II",
       "topic": "ep2 anime-only",
-      "statement": "Anime-only in ep. 2: Bulma brings a box of manju to Kame House and Krillin eats them.",
-      "source": "W-03",
-      "source_class": "plot-record",
+      "statement": "At episode 2, 05:07–05:26, the local captions give Bulma bringing manju, Roshi making a coarse sexual request and both exchanging remarks; W-43 describes a rebuff. W-03 separately reports Krillin eating the sweets. The current branch softens the request to a kiss and writes Bulma’s response and the twins’ later scene as authored; selected captions do not establish silent choreography.",
+      "source": "W-30 episode-2 captions; W-43 secondary episode guide; W-03 secondary scene report",
+      "source_class": "redistributed Japanese caption text and separate secondary accounts",
       "witnesses": [
-        "W-03"
+        "W-03",
+        "W-30",
+        "W-43"
       ],
-      "strength": "C"
+      "strength": "C",
+      "previous_statement_before_episode2_still_and_caption_recheck_2026_11_05": "Anime-only in ep. 2: Bulma brings a box of manju to Kame House and Krillin eats them."
     },
     {
       "id": "C058",
@@ -1103,13 +1117,14 @@
       "id": "O007",
       "tier": "III",
       "topic": "OC staging",
-      "statement": "Goshin lands on his back in the sand and says “We live on the wrong mountain.” The former “face-first” wording in this row did not match the accepted Chapter Two body.",
+      "statement": "Goshin lands on his back in the sand and says “We live on the wrong mountain.” The former “face-first” wording in this row did not match the then-selected Chapter Two body. The current emotionally revised chapter is unaccepted.",
       "source": "OC — Chapter Two",
       "source_class": "authored",
       "witnesses": [
         "OC"
       ],
-      "strength": "D"
+      "strength": "D",
+      "previous_statement_before_episode2_emotional_pass_2026_11_05": "Goshin lands on his back in the sand and says “We live on the wrong mountain.” The former “face-first” wording in this row did not match the accepted Chapter Two body."
     },
     {
       "id": "O008",
@@ -1765,14 +1780,15 @@
       "id": "O019",
       "tier": "III",
       "topic": "OC staging — Ch. 3",
-      "statement": "Chapter Three uses the yard, household spaces visible to the external-camera scene and the road below the trees: chicken, gate, stool, squared book and sleeping mats are authored domestic details, not caption-established silent staging.",
+      "statement": "Chapter Three uses the yard, household spaces visible to the external camera and the road below the trees. The chicken, gate, stool, squared book, household work, teacher, small dinosaur and other staging are authored, not caption-established silent action. The sleeping mats named in an older row are not present in the selected scene; both sons remain absent.",
       "source": "authored — declared in the chapter that uses it",
       "source_class": "authored (O)",
       "witnesses": [
         "OC"
       ],
       "strength": "D",
-      "previous_statement_before_complete_canon_audit_2026_11_04": "The yard as the only set: the chicken, the gate, the stool with the book squared on it, the two sleeping mats, the road below the trees. Authored furniture, not canon's."
+      "previous_statement_before_complete_canon_audit_2026_11_04": "The yard as the only set: the chicken, the gate, the stool with the book squared on it, the two sleeping mats, the road below the trees. Authored furniture, not canon's.",
+      "previous_statement_before_dragon_ball_feel_correction_2026_11_05": "Chapter Three uses the yard, household spaces visible to the external-camera scene and the road below the trees: chicken, gate, stool, squared book and sleeping mats are authored domestic details, not caption-established silent staging."
     },
     {
       "id": "O020",
@@ -2081,13 +2097,14 @@
       "id": "O035",
       "tier": "III",
       "topic": "OC ladder — Super Saiyan 4",
-      "statement": "Super Saiyan 4 is his planned physical apex, earned on the ape road with his tail kept and a future Golden Ape route, not the Daima gift. The earlier wording that the ape must cost him fear is superseded by the later author direction: Goshin is aware and in control from his first Great Ape, without mandatory fear of the form or a required loss-of-control arc. His Saiyan traits and ape power develop with him; the first trigger and future scenes are not yet written. OPEN-3 remains closed: the tail is kept.",
+      "statement": "Super Saiyan 4 is his planned physical apex, earned on the ape road with his tail kept and a future Golden Ape route, not the Daima gift. The earlier wording that the ape must cost him fear is superseded by the later author direction: Goshin is aware and in control from his first Great Ape, without mandatory fear of the form or a required loss-of-control arc. His Saiyan traits and ape power develop with him; the first trigger is staged in the unaccepted Chapter 26 candidate when Goshin deliberately looks at Vegeta's artificial moon; later development and SS4 scenes remain unwritten. OPEN-3 remains closed: the tail is kept.",
       "source": "author ruling — STATUS §13",
       "source_class": "authored (O)",
       "witnesses": [
         "OC"
       ],
-      "strength": "D"
+      "strength": "D",
+      "previous_statement_before_chapter_26_2026_11_04": "Super Saiyan 4 is his planned physical apex, earned on the ape road with his tail kept and a future Golden Ape route, not the Daima gift. The earlier wording that the ape must cost him fear is superseded by the later author direction: Goshin is aware and in control from his first Great Ape, without mandatory fear of the form or a required loss-of-control arc. His Saiyan traits and ape power develop with him; the first trigger and future scenes are not yet written. OPEN-3 remains closed: the tail is kept."
     },
     {
       "id": "O036",
@@ -2223,13 +2240,14 @@
       "id": "O045",
       "tier": "III",
       "topic": "OC — the era lock",
-      "statement": "At four and through the Z-era arcs Goshin is mortal and uses ordinary ki, flight and techniques; no early golden transformation, god ki or divine promotion. Mortal means not divine, not an ordinary-human body or ordinary rate of growth. Natural Saiyan Great Ape biology is not prohibited by this era rule, but no transformation has occurred in the selected branch.",
+      "statement": "At four and through the Z-era arcs Goshin is mortal and uses ordinary ki, flight and techniques; no early golden transformation, god ki or divine promotion. Mortal means not divine, not an ordinary-human body or ordinary rate of growth. Natural Saiyan Great Ape biology is not prohibited by this era rule, and in unaccepted Chapter 26 Goshin deliberately enters his first Great Ape, aware and controlled; no golden or divine transformation is implied.",
       "source": "author ruling — STATUS era lock",
       "source_class": "authored (O)",
       "witnesses": [
         "OC"
       ],
-      "strength": "D"
+      "strength": "D",
+      "previous_statement_before_chapter_26_2026_11_04": "At four and through the Z-era arcs Goshin is mortal and uses ordinary ki, flight and techniques; no early golden transformation, god ki or divine promotion. Mortal means not divine, not an ordinary-human body or ordinary rate of growth. Natural Saiyan Great Ape biology is not prohibited by this era rule, but no transformation has occurred in the selected branch."
     },
     {
       "id": "C120",
@@ -2555,8 +2573,8 @@
       "id": "O047",
       "tier": "III",
       "topic": "craft — the episode grammar",
-      "statement": "Chapters One through Three are substantively rebuilt as story in the 4 November unaccepted immersion pass; Chapter Three retains its specific external-camera restriction and Eight Hours schooling reference. Chapter Four has extensive fight and rescue revisions. Chapters Five through Twenty-Four received targeted scene-level changes, and Chapter Twenty-Five has expanded confrontations. Every revised chapter remains unaccepted. Episode devices and the checker’s numerical bands are not proof of literary quality or acceptance.",
-      "source": "4 November immersion pass through the selected Chapters 1–25 and writing guidance; earlier form and partial-pass statements preserved historically",
+      "statement": "The author-authorized 5–6 November Dragon Ball-feel correction is installed locally in all Twenty-Nine existing selected chapters. An earlier 4 November immersion pass rebuilt Chapters One through Three, extensively revised Chapter Four, targeted Chapters Five through Twenty-Four and expanded Chapter Twenty-Five; later unaccepted continuations reached Chapter Twenty-Nine. Chapter Three keeps its external-camera restriction and Eight Hours schooling reference. Every selected revised chapter remains unaccepted; the separately preserved original Chapter Twenty is accepted. Episode devices and numerical checks do not prove literary quality or acceptance.",
+      "source": "The Twin/canon/DRAGON_BALL_FEEL_CORRECTION_2026-11-05.md and canon/COMPLETE_LOCAL_REVIEW_2026-11-06.md; earlier form and partial-pass statements preserved historically",
       "source_class": "authored (O)",
       "witnesses": [
         "OC"
@@ -2565,7 +2583,10 @@
       "previous_statement_before_2026_11_04_immersion": "FORM: EPISODE remains the default for new chapters, with anime grammar and the form-aware 4,400–6,600 word band. Chapters One and Two retain legacy scene length after authorized targeted revisions; a complete episode-form rebuild is not implied. Chapter Three uses the title and schooling reference Eight Hours without a literal countdown. Camera movement does not confer canon-character interiority.",
       "historical_source_before_immersion": "author ruling — chapters read as scenes, not episodes",
       "status": "active-draft",
-      "previous_statement_before_completion_2026_11_04_immersion": "Chapters One and Two are rebuilt as episode-based scene adaptations in the 4 November unaccepted immersion correction. Chapter Three is unchanged and retains its specific external-camera restriction and Eight Hours schooling reference. Chapter Four has a partial story correction, not a complete immersion pass. Episode devices and the checker's numerical bands are not proof of literary quality or acceptance."
+      "previous_statement_before_completion_2026_11_04_immersion": "Chapters One and Two are rebuilt as episode-based scene adaptations in the 4 November unaccepted immersion correction. Chapter Three is unchanged and retains its specific external-camera restriction and Eight Hours schooling reference. Chapter Four has a partial story correction, not a complete immersion pass. Episode devices and the checker's numerical bands are not proof of literary quality or acceptance.",
+      "previous_statement_before_dragon_ball_feel_correction_2026_11_05": "Chapters One through Three are substantively rebuilt as story in the 4 November unaccepted immersion pass; Chapter Three retains its specific external-camera restriction and Eight Hours schooling reference. Chapter Four has extensive fight and rescue revisions. Chapters Five through Twenty-Four received targeted scene-level changes, and Chapter Twenty-Five has expanded confrontations. Every revised chapter remains unaccepted. Episode devices and the checker’s numerical bands are not proof of literary quality or acceptance.",
+      "previous_statement_before_complete_local_review_2026_11_06": "The author-authorized 5 November Dragon Ball-feel correction is installed locally in Chapters One through Nine; Chapters Ten through Twenty-Nine have not yet received this particular pass. An earlier 4 November immersion pass rebuilt Chapters One through Three, extensively revised Chapter Four, targeted Chapters Five through Twenty-Four and expanded Chapter Twenty-Five; later unaccepted continuations reached Chapter Twenty-Nine. Chapter Three keeps its external-camera restriction and Eight Hours schooling reference. Every selected revised chapter remains unaccepted; the separately preserved original Chapter Twenty is accepted. Episode devices and numerical checks do not prove literary quality or acceptance.",
+      "previous_source_before_complete_local_review_2026_11_06": "4 November immersion pass through the selected Chapters 1–25 and writing guidance; earlier form and partial-pass statements preserved historically"
     },
     {
       "id": "O048",
@@ -3191,14 +3212,15 @@
       "id": "O074",
       "tier": "III",
       "topic": "corrected island fight — surge",
-      "statement": "At Kame House, Goshin actively defends his father and brother using flight, ki and a learned deflection. His output rises beyond the authored ~400 island snapshot as he fights; no exact new reading is assigned.",
+      "statement": "At Kame House, Goshin actively defends his father and brother using flight, ki and a learned deflection. Raditz reads an authored 640 during the island fight; later crater scans show authored 760 and 1,100. These are particular active moments, not source-proven figures, permanent levels, limits, a fixed growth rate or a damage formula. Raditz earns the knockout before taking him.",
       "source": "user correction and authored corrected Chapter Four",
       "source_class": "authored rule and draft staging",
       "witnesses": [
         "OC"
       ],
       "strength": "D",
-      "status": "active-draft"
+      "status": "active-draft",
+      "previous_statement_before_dragon_ball_feel_correction_2026_11_05": "At Kame House, Goshin actively defends his father and brother using flight, ki and a learned deflection. His output rises beyond the authored ~400 island snapshot as he fights; no exact new reading is assigned."
     },
     {
       "id": "O075",
@@ -3309,15 +3331,17 @@
       "id": "C162",
       "tier": "II",
       "topic": "ep2 crab and stones",
-      "statement": "At 08:31 the local episode-2 caption contains a rock-paper-scissors call. W-03 and W-43 describe Gohan playing the game with a crab on Turtle; W-03's episode page/gallery describes that scene and reports Goku and Krillin throwing stones, including Goku throwing one far over the sea. Absence of an action in captions is not evidence it did not occur. W-03 and W-43 are separate publisher groups; the stone detail is not independently video-verified.",
-      "source": "W-30 episode-2 caption, W-03 episode synopsis/gallery, W-43 filler guide",
-      "source_class": "caption with secondary visual reports; full video unverified",
+      "statement": "At 08:31 the local episode-2 caption contains a rock-paper-scissors call. W-03 and W-43 describe Gohan playing with a crab on Turtle, and W-129 includes a fan-hosted image showing him facing a crab on Turtle’s shell. W-03 also reports Goku and Krillin throwing stones, including Goku throwing one far over the sea. The image attribution and cut are unverified, a still does not show the full game, and absence of action in captions is not evidence it did not occur. W-03 and W-43 are separate publisher groups; the stone detail is not independently video-verified.",
+      "source": "W-30 episode-2 captions; W-03 and W-43 episode guides; W-129 selected gallery still",
+      "source_class": "redistributed caption text, secondary episode guides and isolated fan-hosted image",
       "witnesses": [
         "W-30",
         "W-03",
-        "W-43"
+        "W-43",
+        "W-129"
       ],
-      "strength": "C"
+      "strength": "C",
+      "previous_statement_before_episode2_still_and_caption_recheck_2026_11_05": "At 08:31 the local episode-2 caption contains a rock-paper-scissors call. W-03 and W-43 describe Gohan playing the game with a crab on Turtle; W-03's episode page/gallery describes that scene and reports Goku and Krillin throwing stones, including Goku throwing one far over the sea. Absence of an action in captions is not evidence it did not occur. W-03 and W-43 are separate publisher groups; the stone detail is not independently video-verified."
     },
     {
       "id": "C163",
@@ -3348,7 +3372,7 @@
       "id": "O082",
       "tier": "III",
       "topic": "restored episode-2 island moments",
-      "statement": "The selected Chapter Two retains the approved island moments: Krillin eats manju; both brothers meet Turtle and the crab; Gohan and Goshin play; the family and Krillin throw stones; Roshi recounts Goku's childhood and Raditz's raid description is pictured; Goshin is present for Krillin's objection. The twin-specific actions, detailed imagery, dialogue and blocking are authored. The separate earlier supplement remains historical.",
+      "statement": "The selected Chapter Two retains the earlier author-authorized island moments: Krillin eats manju; both brothers meet Turtle and the crab; Gohan and Goshin play; the family and Krillin throw stones; Roshi recounts Goku's childhood and Raditz's raid description is pictured; Goshin is present for Krillin's objection. The twin-specific actions, detailed imagery, dialogue and blocking are authored. The separate earlier supplement remains historical. Permission to integrate those beats did not accept the present chapter.",
       "source": "authored passages integrated into revised Chapter Two, adapting C162 and C163",
       "source_class": "authored story staging",
       "witnesses": [
@@ -3356,21 +3380,24 @@
       ],
       "strength": "D",
       "status": "active-draft",
-      "previous_statement_before_2026_11_04_immersion": "With explicit user approval, revised Chapter Two integrates the five prior passages: Krillin eats manju; the brothers meet Turtle and the crab; Gohan plays and Goshin joins; the family and Krillin throw stones; the reported childhood and Saiyan-raid flashbacks accompany the accounts; and Goshin is present for Krillin’s objection. The twin-specific actions, dialogue and blocking are authored. The separate earlier supplement is retained as historical material."
+      "previous_statement_before_2026_11_04_immersion": "With explicit user approval, revised Chapter Two integrates the five prior passages: Krillin eats manju; the brothers meet Turtle and the crab; Gohan plays and Goshin joins; the family and Krillin throw stones; the reported childhood and Saiyan-raid flashbacks accompany the accounts; and Goshin is present for Krillin’s objection. The twin-specific actions, dialogue and blocking are authored. The separate earlier supplement is retained as historical material.",
+      "previous_statement_before_episode2_emotional_pass_2026_11_05": "The selected Chapter Two retains the approved island moments: Krillin eats manju; both brothers meet Turtle and the crab; Gohan and Goshin play; the family and Krillin throw stones; Roshi recounts Goku's childhood and Raditz's raid description is pictured; Goshin is present for Krillin's objection. The twin-specific actions, detailed imagery, dialogue and blocking are authored. The separate earlier supplement remains historical."
     },
     {
       "id": "C164",
       "tier": "II",
       "topic": "ep2 flashback visuals",
-      "statement": "W-43 reports anime-only flashback imagery accompanying Roshi's account of Grandpa Gohan finding Goku in a pod and Raditz's account of Saiyan invasions. W-03 also lists the anime flashbacks and has related gallery stills. The full episode and its visual chronology were not directly inspected; prose transitions and twin reactions are authored.",
-      "source": "W-43 episode-2 filler guide; W-03 episode page/gallery; W-30 caption context",
-      "source_class": "secondary episode comparison and gallery; full video unverified",
+      "statement": "W-43 reports anime-only flashback imagery accompanying Roshi’s account of Grandpa Gohan finding Goku in a pod and Raditz’s account of Saiyan invasions. W-03 also lists the flashbacks; a W-129 fan-hosted image depicts Grandpa Gohan tending bandaged child Goku. The source and cut of the image are unverified. Neither a single image nor a synopsis establishes the complete visual chronology; transitions and twin reactions are authored.",
+      "source": "W-43 secondary guide; W-03 episode account; W-30 episode-2 captions; W-129 selected fan-hosted still",
+      "source_class": "secondary episode guides, redistributed caption text and isolated fan-hosted image",
       "witnesses": [
         "W-43",
         "W-03",
-        "W-30"
+        "W-30",
+        "W-129"
       ],
-      "strength": "B"
+      "strength": "B",
+      "previous_statement_before_episode2_still_and_caption_recheck_2026_11_05": "W-43 reports anime-only flashback imagery accompanying Roshi's account of Grandpa Gohan finding Goku in a pod and Raditz's account of Saiyan invasions. W-03 also lists the anime flashbacks and has related gallery stills. The full episode and its visual chronology were not directly inspected; prose transitions and twin reactions are authored."
     },
     {
       "id": "C165",
@@ -3457,14 +3484,15 @@
       "id": "O087",
       "tier": "III",
       "topic": "overlap and changed cliffhanger",
-      "statement": "The provisional Chapter Five revisits the same Chi-Chi, red-circle paper and eight-hours-of-schooling moment in revised Chapter Three; it is not a second paper, delivery or test. Both brothers are free and act as Raditz threatens Goku. The approved same-day timeline does not use a literal eight-hour countdown.",
+      "statement": "The unaccepted Chapter Five home cut revisits the early Chi-Chi, red-circle paper and chicken moment already shown in Chapter Three, before the same day's single Ox-King visit. It is not a second delivery or test. Chapter Three's eight hours concerns schooling; Chapter Five does not repeat that phrase and the timeline does not use a literal eight-hour crisis countdown. Both brothers remain free and act as Raditz threatens Goku.",
       "source": "Chapter Five draft, authored continuation and overlap with C099",
       "source_class": "authored story staging",
       "witnesses": [
         "OC"
       ],
       "strength": "D",
-      "status": "active-draft"
+      "status": "active-draft",
+      "previous_statement_before_dragon_ball_feel_correction_2026_11_05": "The provisional Chapter Five revisits the same Chi-Chi, red-circle paper and eight-hours-of-schooling moment in revised Chapter Three; it is not a second paper, delivery or test. Both brothers are free and act as Raditz threatens Goku. The approved same-day timeline does not use a literal eight-hour countdown."
     },
     {
       "id": "O088",
@@ -3581,14 +3609,15 @@
       "id": "O091",
       "tier": "III",
       "topic": "chapter six — final warning and death",
-      "statement": "In the Chapter Six draft, mortally wounded Raditz learns of the Dragon Balls through Piccolo’s altered boast and reveals the scouter broadcast and one-year threat. Gohan spots Raditz's attempted last attack on the boys; Piccolo kills him. Goku is alive to see and dispute the death. Piccolo immediately switches the scouter display off, uncertain whether that stops transmission. The altered boast, attempted attack, response and provisional switch are authored.",
+      "statement": "In the selected, unaccepted Chapter Six, mortally wounded Raditz learns of the Dragon Balls through Piccolo's altered boast and reveals the scouter broadcast and one-year threat. Raditz taunts the group but does not attempt another attack in the actual selected prose. Goku says 'Piccolo, wait'; Piccolo fires and kills Raditz. Goku disputes the killing. Piccolo switches off the scouter display, uncertain whether that stops transmission. The altered boast, Goku's objection, response and provisional switch are authored; the older claim that Gohan spots a last attack is not in the selected page.",
       "source": "authored Chapter Six, adapting C103 C168",
       "source_class": "authored draft staging and consequence",
       "witnesses": [
         "OC"
       ],
       "strength": "D",
-      "status": "active-draft"
+      "status": "active-draft",
+      "previous_statement_before_continuous_emotional_revision_2026_11_05": "In the Chapter Six draft, mortally wounded Raditz learns of the Dragon Balls through Piccolo’s altered boast and reveals the scouter broadcast and one-year threat. Gohan spots Raditz's attempted last attack on the boys; Piccolo kills him. Goku is alive to see and dispute the death. Piccolo immediately switches the scouter display off, uncertain whether that stops transmission. The altered boast, attempted attack, response and provisional switch are authored."
     },
     {
       "id": "O092",
@@ -3705,14 +3734,15 @@
       "id": "O100",
       "tier": "III",
       "topic": "chapter seven — Kami asks about King Kai",
-      "statement": "Kami independently asks Yemma for help against the coming Saiyans. Yemma reports restraining and sending dead Raditz to Hell; the question about Piccolo's victim is brought forward from the baseline's later discussion without declaring Piccolo reformed. Kami asks about living Goku seeking King Kai's training. Yemma does not grant permission and asks for a later request when Goku is willing and fit; a guide shows Kami the road's entrance only. Goku is not in Otherworld and has not started Snake Way.",
+      "statement": "In selected unaccepted Chapter Seven, Kami independently asks Yemma for help against the approaching Saiyans and whether King Kai might see living Goku. Yemma reports judging and restraining dead Raditz, says King Kai decides whom he helps and agrees to ask, without promising an answer or granting passage. He describes the road's traditional length, but no guide shows Kami its entrance in this selected scene. Kami and Popo discuss Raditz's arrival in the afterlife in Chapter Eight without declaring Piccolo reformed. Goku is alive, not in Otherworld, and has not started Snake Way. A guide's road tour and the explicit later-fit-request conditions belonged to an older treatment.",
       "source": "authored Chapter Seven, adapting C114 C128 C170",
       "source_class": "authored draft staging and consequence",
       "witnesses": [
         "OC"
       ],
       "strength": "D",
-      "status": "active-draft"
+      "status": "active-draft",
+      "previous_statement_before_dragon_ball_feel_correction_2026_11_05": "Kami independently asks Yemma for help against the coming Saiyans. Yemma reports restraining and sending dead Raditz to Hell; the question about Piccolo's victim is brought forward from the baseline's later discussion without declaring Piccolo reformed. Kami asks about living Goku seeking King Kai's training. Yemma does not grant permission and asks for a later request when Goku is willing and fit; a guide shows Kami the road's entrance only. Goku is not in Otherworld and has not started Snake Way."
     },
     {
       "id": "O101",
@@ -4064,7 +4094,7 @@
       "id": "O117",
       "tier": "III",
       "topic": "chapter nine — limited scouter test and Yamcha lead",
-      "statement": "Selected Chapter Nine: Bulma opens the scouter casing at Kame House, sketches the wiring and says she needs her laboratory before dismantling more. The cell remains out and the device is not powered. She and Krillin intend to look for Yamcha, then go toward her lab. A powered 206 reading is a separate source-baseline or older-branch claim, not a selected Chapter Nine measurement.",
+      "statement": "Selected Chapter Nine: Bulma opens the scouter casing at Kame House, sketches the wiring and says she needs her laboratory before dismantling more. The cell remains out and the device is not powered. Bulma and Krillin leave for her lab first and plan to look for Yamcha afterward; they have not found him on-page. A powered 206 reading is a separate source-baseline or older-branch claim, not a selected Chapter Nine measurement.",
       "source": "authored Chapter Nine; adaptation tracked in canon/SCENE_COVERAGE_008.md",
       "source_class": "authored episode-8 divergence and current draft state",
       "witnesses": [
@@ -4072,13 +4102,14 @@
       ],
       "strength": "D",
       "status": "active-draft",
-      "previous_statement_before_character_continuity_correction_2026_11_03": "Bulma disconnects a suspected transmitter and microphone, translates the display and tests the scouter on an external supply inside a mesh enclosure with Krillin present. The original cell remains out. The device reports 206 for Krillin in this authored test, matching the baseline episode's number; his reading rises when he raises energy. She explicitly cannot guarantee that the shielding prevents an unknown alien transmission or that the reading is accurate, and powers the test off. The scouter is not cleared for open use. Bulma mentions seeing Yamcha's name in sports pages, and Krillin leaves intending to ask at the city stadium; he has not located or recruited Yamcha, Tien or Chiaotzu. Bulma explains that she has learned what she can with the device off and is now choosing a limited powered test despite the unresolved risk; this is not proof of safety or a claim that the original cell was replaced."
+      "previous_statement_before_character_continuity_correction_2026_11_03": "Bulma disconnects a suspected transmitter and microphone, translates the display and tests the scouter on an external supply inside a mesh enclosure with Krillin present. The original cell remains out. The device reports 206 for Krillin in this authored test, matching the baseline episode's number; his reading rises when he raises energy. She explicitly cannot guarantee that the shielding prevents an unknown alien transmission or that the reading is accurate, and powers the test off. The scouter is not cleared for open use. Bulma mentions seeing Yamcha's name in sports pages, and Krillin leaves intending to ask at the city stadium; he has not located or recruited Yamcha, Tien or Chiaotzu. Bulma explains that she has learned what she can with the device off and is now choosing a limited powered test despite the unresolved risk; this is not proof of safety or a claim that the original cell was replaced.",
+      "previous_statement_before_dragon_ball_feel_correction_2026_11_05": "Selected Chapter Nine: Bulma opens the scouter casing at Kame House, sketches the wiring and says she needs her laboratory before dismantling more. The cell remains out and the device is not powered. She and Krillin intend to look for Yamcha, then go toward her lab. A powered 206 reading is a separate source-baseline or older-branch claim, not a selected Chapter Nine measurement."
     },
     {
       "id": "O118",
       "tier": "III",
       "topic": "chapter nine — family returns and doctor follows up",
-      "statement": "Selected Chapter Nine: the village doctor examines Goshin's head, healing hand and ankle and says to return if concerning symptoms arise. At the covered bridge Gohan and Goshin help rescue Mina; Goshin flies and holds a board while Chi-Chi and Goku watch for symptoms. The damaged bridge makes the family accept the doctor's offer of a room for the night. They do not go home or receive the older home-visit examination in this chapter.",
+      "statement": "Selected Chapter Nine: the village doctor examines Goshin's head, quickly healing hand and ankle, cautions that one examination cannot reveal everything and says to return for concerning symptoms; she would like another look if they remain. At the covered bridge, Gohan volunteers Nimbus to reach Mina, Goshin flies and braces the broken board, and Chi-Chi, Goku, Ox-King and Mina's father contribute. Chi-Chi checks Goshin's symptoms afterward. The damaged bridge makes the family accept the doctor's offer of a room for the night. They do not go home or receive the older home-visit examination in this chapter.",
       "source": "authored Chapter Nine; adaptation tracked in canon/SCENE_COVERAGE_008.md",
       "source_class": "authored episode-8 divergence and current draft state",
       "witnesses": [
@@ -4086,7 +4117,8 @@
       ],
       "strength": "D",
       "status": "active-draft",
-      "previous_statement_before_character_continuity_correction_2026_11_03": "After the doctor permits a gentle, monitored journey, Yajirobe takes Ox-King in his aircar to the ninth road marker. Gohan and Goshin ride Nimbus beside Goku, who carries Chi-Chi; Ox-King, Chi-Chi and both boys go home in the recovered truck with Goku flying alongside. At home the doctor checks Goshin's head and burned hand. He reports less head pain but is not declared recovered; warning signs, monitoring and another follow-up remain. No hard exercise, sparring or flight practice is cleared, and a long trip must wait for a further check. At home Chi-Chi brings out the previously promised schoolbag; the grandfather additionally gives Gohan an animal book and Goshin a puzzle. No agreement that Gohan will carry the bag is asserted."
+      "previous_statement_before_character_continuity_correction_2026_11_03": "After the doctor permits a gentle, monitored journey, Yajirobe takes Ox-King in his aircar to the ninth road marker. Gohan and Goshin ride Nimbus beside Goku, who carries Chi-Chi; Ox-King, Chi-Chi and both boys go home in the recovered truck with Goku flying alongside. At home the doctor checks Goshin's head and burned hand. He reports less head pain but is not declared recovered; warning signs, monitoring and another follow-up remain. No hard exercise, sparring or flight practice is cleared, and a long trip must wait for a further check. At home Chi-Chi brings out the previously promised schoolbag; the grandfather additionally gives Gohan an animal book and Goshin a puzzle. No agreement that Gohan will carry the bag is asserted.",
+      "previous_statement_before_dragon_ball_feel_correction_2026_11_05": "Selected Chapter Nine: the village doctor examines Goshin's head, healing hand and ankle and says to return if concerning symptoms arise. At the covered bridge Gohan and Goshin help rescue Mina; Goshin flies and holds a board while Chi-Chi and Goku watch for symptoms. The damaged bridge makes the family accept the doctor's offer of a room for the night. They do not go home or receive the older home-visit examination in this chapter."
     },
     {
       "id": "O119",
@@ -4122,7 +4154,7 @@
       "id": "O121",
       "tier": "III",
       "topic": "chapter nine — Gohan chooses to help and Piccolo trains alone",
-      "statement": "At the covered bridge in selected Chapter Nine, Gohan takes initiative with Nimbus to rescue Mina and her book, while Goshin holds the board and both parents and Ox-King contribute. Gohan chooses to retain the Four-Star Ball. Piccolo independently hears the full-moon warning from concealment. Gohan is not shown flying independently in this chapter; his exact first acquisition date is unspecified, and he demonstrates it by Chapter Fourteen (O176).",
+      "statement": "At the covered bridge in selected Chapter Nine, Gohan takes initiative with Nimbus to rescue Mina and her book while Goshin holds and secures the broken board. When Goshin offers to shoot the branch jamming the bridge, Gohan notices the pier in the line of fire; both move to a clear angle and Goshin precisely breaks the branch. Both parents and Ox-King contribute. Gohan chooses to retain the Four-Star Ball. Piccolo hears Goku's full-moon warning from concealment, not via an unearned earlier source. Gohan is not shown flying independently in this chapter; his exact first acquisition date is unspecified, and he demonstrates it by Chapter Thirteen (O176).",
       "source": "authored Chapter Nine; adaptation tracked in canon/SCENE_COVERAGE_008.md",
       "source_class": "authored episode-8 divergence and current draft state",
       "witnesses": [
@@ -4131,20 +4163,23 @@
       "strength": "D",
       "status": "active-draft",
       "previous_statement_before_character_continuity_correction_2026_11_03": "At home Gohan observes a small creature and works out how to free a bird without hurting its wing, then chooses a short, supervised step-back-and-call exercise with his parents nearby. His studies and wish to help remain his own; he has not independently flown. Piccolo trains alone against two targets in the wasteland, with neither child in his custody. No six-month solitary sentence, original outfit and sword, or unearned knowledge of Raditz's moon explanation is imported.",
-      "previous_statement_before_flight_chronology_clarification_2026_11_03": "At the covered bridge in selected Chapter Nine, Gohan takes initiative with Nimbus to rescue Mina and her book, while Goshin holds the board and both parents and Ox-King contribute. Gohan chooses to retain the Four-Star Ball. Piccolo independently hears the full-moon warning from concealment. Gohan does not yet fly independently."
+      "previous_statement_before_flight_chronology_clarification_2026_11_03": "At the covered bridge in selected Chapter Nine, Gohan takes initiative with Nimbus to rescue Mina and her book, while Goshin holds the board and both parents and Ox-King contribute. Gohan chooses to retain the Four-Star Ball. Piccolo independently hears the full-moon warning from concealment. Gohan does not yet fly independently.",
+      "previous_statement_before_dragon_ball_feel_correction_2026_11_05": "At the covered bridge in selected Chapter Nine, Gohan takes initiative with Nimbus to rescue Mina and her book, while Goshin holds the board and both parents and Ox-King contribute. Gohan chooses to retain the Four-Star Ball. Piccolo independently hears the full-moon warning from concealment. Gohan is not shown flying independently in this chapter; his exact first acquisition date is unspecified, and he demonstrates it by Chapter Fourteen (O176)."
     },
     {
       "id": "C181",
       "tier": "II",
       "topic": "episode 1 forest, hat recovery and city — secondary report",
-      "statement": "W-65 describes Gohan’s forest encounter and river rescue: the sabertooth takes his hat, Goku sees it on the cat, the frightened cat leaves it, Goku rescues Gohan on Nimbus and returns the hat to him. It then reports Raditz passing over a city before meeting Piccolo. The local captions support the lost-hat dialogue and Goku questioning the cat, but not the silent recovery, return, river or city images. The synopsis is secondary, not independently checked video; the user-authorized Chapter One revision now dramatizes the recovery and return.",
-      "source": "Kanzenshuu detailed episode-1 synopsis; local Japanese episode-1 captions",
-      "source_class": "secondary episode synopsis plus redistributed caption text",
+      "statement": "W-65 describes Gohan’s forest encounter and river rescue: the sabertooth takes his hat, Goku sees it on the cat, the frightened cat leaves it, Goku rescues Gohan on Nimbus and returns the hat to him. It then reports Raditz passing over a city before Piccolo. The local captions support the lost-hat dialogue and Goku questioning the cat, not the silent recovery, return, river or city images. Selected stills in W-127 show the cat wearing the hat, Gohan with the log and the father-son reunion; their source/cut are unverified and they do not show the whole sequence. The unaccepted chapter dramatizes the recovery and return.",
+      "source": "W-65 detailed episode-1 synopsis; W-30 captions; W-127 selected published stills",
+      "source_class": "secondary synopsis, redistributed caption text and selected fan-hosted stills",
       "witnesses": [
         "W-65",
-        "W-30"
+        "W-30",
+        "W-127"
       ],
-      "strength": "C"
+      "strength": "C",
+      "previous_statement_before_episode1_still_recheck_2026_11_05": "W-65 describes Gohan’s forest encounter and river rescue: the sabertooth takes his hat, Goku sees it on the cat, the frightened cat leaves it, Goku rescues Gohan on Nimbus and returns the hat to him. It then reports Raditz passing over a city before meeting Piccolo. The local captions support the lost-hat dialogue and Goku questioning the cat, but not the silent recovery, return, river or city images. The synopsis is secondary, not independently checked video; the user-authorized Chapter One revision now dramatizes the recovery and return."
     },
     {
       "id": "O122",
@@ -4325,8 +4360,8 @@
     {
       "id": "O126",
       "tier": "III",
-      "topic": "chapter ten — Gohan’s book and survey contact",
-      "statement": "Mina's machine book helps Gohan and Goshin identify the Nemurian carving and the buried SSS-series robot during their Chapter Ten search for her books. Goku and Chi-Chi search from outside; the brothers speak through a slit. No desert survey crew, Lookout radio lesson or remote SSS identification is shown in this selected chapter.",
+      "topic": "chapter ten — book, carving and robot contact",
+      "statement": "Mina's machine book helps the brothers recognize the Nemurian carving. Gohan sees three S's on the buried robot; C-6 identifies his own SSS series. Goku and Chi-Chi search from outside, and the brothers speak through a slit. No desert survey crew, Lookout radio lesson or remote identification is shown.",
       "source": "authored provisional Chapter Ten; episode-9 adaptation tracked in canon/SCENE_COVERAGE_009.md",
       "source_class": "authored episode-9 divergence and current draft state",
       "witnesses": [
@@ -4334,13 +4369,15 @@
       ],
       "strength": "D",
       "status": "active-draft",
-      "previous_statement_before_character_continuity_correction_2026_11_03": "Gohan and Goshin examine a machine book; Gohan asks about the Nemurian site and Popo tunes a regional survey bulletin about an unstable desert excavation. Goku volunteers, demonstrates controlled lifting and works under the survey crew’s directions. By radio Gohan identifies the likely SSS type, Goshin answers Goku after an explicit invitation and identifies the orientation of the old exit; Goshin remains at the lookout under his medical limits. The workers, bulletin and radio are authored, not episode footage."
+      "previous_statement_before_character_continuity_correction_2026_11_03": "Gohan and Goshin examine a machine book; Gohan asks about the Nemurian site and Popo tunes a regional survey bulletin about an unstable desert excavation. Goku volunteers, demonstrates controlled lifting and works under the survey crew’s directions. By radio Gohan identifies the likely SSS type, Goshin answers Goku after an explicit invitation and identifies the orientation of the old exit; Goshin remains at the lookout under his medical limits. The workers, bulletin and radio are authored, not episode footage.",
+      "previous_statement_before_dragon_ball_feel_2026_11_06": "Mina's machine book helps Gohan and Goshin identify the Nemurian carving and the buried SSS-series robot during their Chapter Ten search for her books. Goku and Chi-Chi search from outside; the brothers speak through a slit. No desert survey crew, Lookout radio lesson or remote SSS identification is shown in this selected chapter.",
+      "previous_topic_before_dragon_ball_feel_2026_11_06": "chapter ten — Gohan’s book and survey contact"
     },
     {
       "id": "O127",
       "tier": "III",
       "topic": "chapter ten — C-6’s consent and damaged sensor",
-      "statement": "Gohan switches on the buried robot C-6, who asks to be left to sleep, warns that noise and digging can collapse the chamber and describes his long entrapment. His eye is impaired. The brothers wake him again after finding the exit blocked; later C-6 considers and agrees to a supported rescue. Goku did not first activate him in this draft.",
+      "statement": "Gohan switches on buried C-6, who wants to sleep, warns about noise and digging and recounts about eighty years trapped. After the blocked exit is found, the brothers wake him again. Goshin wipes the impaired eye only after C-6 agrees; it remains limited. C-6 later agrees to a supported rescue; Goku did not first activate him.",
       "source": "authored provisional Chapter Ten; episode-9 adaptation tracked in canon/SCENE_COVERAGE_009.md",
       "source_class": "authored episode-9 divergence and current draft state",
       "witnesses": [
@@ -4348,13 +4385,14 @@
       ],
       "strength": "D",
       "status": "active-draft",
-      "previous_statement_before_character_continuity_correction_2026_11_03": "Goku activates buried C-6; the robot asks for sleep, accepts one question and then asks about a supported rescue. C-6 recounts about eighty years trapped, warns that digging can bring down the roof and agrees to an attempt after considering the plan. Goku clears loose sand only with permission; the sensor remains cracked and works imperfectly. The altered initial encounter and consent are branch staging."
+      "previous_statement_before_character_continuity_correction_2026_11_03": "Goku activates buried C-6; the robot asks for sleep, accepts one question and then asks about a supported rescue. C-6 recounts about eighty years trapped, warns that digging can bring down the roof and agrees to an attempt after considering the plan. Goku clears loose sand only with permission; the sensor remains cracked and works imperfectly. The altered initial encounter and consent are branch staging.",
+      "previous_statement_before_dragon_ball_feel_2026_11_06": "Gohan switches on the buried robot C-6, who asks to be left to sleep, warns that noise and digging can collapse the chamber and describes his long entrapment. His eye is impaired. The brothers wake him again after finding the exit blocked; later C-6 considers and agrees to a supported rescue. Goku did not first activate him in this draft."
     },
     {
       "id": "O128",
       "tier": "III",
-      "topic": "chapter ten — tremor, extraction and uncertain recovery",
-      "statement": "In selected Chapter Ten, Gohan draws out a wood wedge despite C-6's warning, causing the beam and roof to shift; Goshin catches a falling stone. Goku holds the outer slab, the boys prop the beam and C-6 consents to Gohan connecting the emergency wires. Together they extract the still-responsive robot, whose arm and energy are damaged. He is not shown choosing shutdown.",
+      "topic": "chapter ten — fallen beam and chosen rescue",
+      "statement": "Gohan draws out a wooden wedge despite C-6's warning, shifting the beam and roof; Goshin catches a falling stone. Goku holds the outer slab and Chi-Chi helps outside. The boys prop the beam; C-6 knowingly chooses to spend reserve despite a worsening leak and directs Gohan to connect the emergency wires. He catches Gohan as Goshin supports the beam with ki, and they extract him awake, with a bent arm and uncertain energy. No shutdown or repair is shown.",
       "source": "authored provisional Chapter Ten; episode-9 adaptation tracked in canon/SCENE_COVERAGE_009.md",
       "source_class": "authored episode-9 divergence and current draft state",
       "witnesses": [
@@ -4362,7 +4400,9 @@
       ],
       "strength": "D",
       "status": "active-draft",
-      "previous_statement_before_character_continuity_correction_2026_11_03": "An independent new tremor destabilizes the site; Goku holds a slab while C-6 agrees to a red-and-blue emergency connection, uses remaining energy to move and is carried out. This authored rescue and its different outcome depend on additional help. C-6 is responsive afterward but nearly out of energy, declines unauthorized reconnection and elects to be switched off. It is unknown whether he can wake; no refill or completed repair is asserted."
+      "previous_statement_before_character_continuity_correction_2026_11_03": "An independent new tremor destabilizes the site; Goku holds a slab while C-6 agrees to a red-and-blue emergency connection, uses remaining energy to move and is carried out. This authored rescue and its different outcome depend on additional help. C-6 is responsive afterward but nearly out of energy, declines unauthorized reconnection and elects to be switched off. It is unknown whether he can wake; no refill or completed repair is asserted.",
+      "previous_statement_before_dragon_ball_feel_2026_11_06": "In selected Chapter Ten, Gohan draws out a wood wedge despite C-6's warning, causing the beam and roof to shift; Goshin catches a falling stone. Goku holds the outer slab, the boys prop the beam and C-6 consents to Gohan connecting the emergency wires. Together they extract the still-responsive robot, whose arm and energy are damaged. He is not shown choosing shutdown.",
+      "previous_topic_before_dragon_ball_feel_2026_11_06": "chapter ten — tremor, extraction and uncertain recovery"
     },
     {
       "id": "O129",
@@ -4500,7 +4540,7 @@
       "id": "O131",
       "tier": "III",
       "topic": "chapter 16 review — island, storm and Piccolo",
-      "statement": "The family accompanies Bulma to a weather station. The boys make a raft, assist a trapped tiger and face a storm. Already able to fly independently, Gohan is washed underwater, releases the net and gathers ki to rise; Goshin reaches and lifts him clear while holding the branch easily with his ki. Bulma and Chi-Chi help clear the net; Gohan frees the loop. The raft drifts away. Piccolo senses the boys, visits and leaves after the family refuses his taking them; they return home.",
+      "statement": "The family accompanies Bulma to a weather station. The boys make a raft, assist a trapped tiger and face a storm. Already able to fly independently, Gohan is washed underwater, releases the net and gathers ki to rise; Goshin reaches and lifts him clear while holding the branch easily with his ki. Bulma and Chi-Chi help clear the net; Gohan frees the loop. The raft drifts away. Piccolo senses both boys, initially thinks the Saiyans might have come early and asks them to train with him; the family refuses, and he leaves without taking them. They return home.",
       "source": "selected Chapter 16 continuity-checked review candidate",
       "source_class": "authored selected review-branch event; not accepted canon or approval",
       "witnesses": [
@@ -4509,26 +4549,28 @@
       "strength": "D",
       "status": "review-branch-unaccepted",
       "previous_statement_before_holistic_correction_2026_11_03": "The family accompanies Bulma to a weather station. The boys make a raft, assist a trapped tiger and face a storm; Goshin lifts Gohan from the water, and the raft drifts away. Piccolo senses the boys, visits and leaves after the family refuses his taking them; they return home.",
-      "previous_statement_before_story_and_nappa_correction_2026_11_04": "The family accompanies Bulma to a weather station. The boys make a raft, assist a trapped tiger and face a storm. Already able to fly independently, Gohan is washed underwater, releases the net and gathers ki to rise; Goshin reaches him and lifts him clear while holding the branch. The raft drifts away. Piccolo senses the boys, visits and leaves after the family refuses his taking them; they return home."
+      "previous_statement_before_story_and_nappa_correction_2026_11_04": "The family accompanies Bulma to a weather station. The boys make a raft, assist a trapped tiger and face a storm. Already able to fly independently, Gohan is washed underwater, releases the net and gathers ki to rise; Goshin reaches him and lifts him clear while holding the branch. The raft drifts away. Piccolo senses the boys, visits and leaves after the family refuses his taking them; they return home.",
+      "previous_statement_before_dragon_ball_feel_2026_11_06": "The family accompanies Bulma to a weather station. The boys make a raft, assist a trapped tiger and face a storm. Already able to fly independently, Gohan is washed underwater, releases the net and gathers ki to rise; Goshin reaches and lifts him clear while holding the branch easily with his ki. Bulma and Chi-Chi help clear the net; Gohan frees the loop. The raft drifts away. Piccolo senses the boys, visits and leaves after the family refuses his taking them; they return home."
     },
     {
       "id": "O132",
       "tier": "III",
       "topic": "chapter 17 review — seven children and first visit",
-      "statement": "At the Lookout Chi-Chi reports Piccolo to Kami. The family finds the raft near an old town, meets Pigero, Rom, Chiko, Ena, Jink, Hatch and Yordon, intervenes when Ena is grabbed, visits the market and prepares supper. Chi-Chi offers a night at home; Pigero chooses to stay with the children that night.",
+      "statement": "At the Lookout Chi-Chi tells Kami that Piccolo thought the boys' ki might mean the Saiyans had arrived early and then asked them to train. The family finds the raft near an old town, meets Pigero, Rom, Chiko, Ena, Jink, Hatch and Yordon, intervenes when Ena is grabbed, and prepares supper. At the market Rom and Yordon take fruit and Chi-Chi pays for it; Gohan and Rom disagree. Chi-Chi offers a night at home; Pigero chooses to stay with the children that night.",
       "source": "selected Chapter 17 synergy-checked review candidate",
       "source_class": "authored selected review-branch event; not accepted canon or approval",
       "witnesses": [
         "OC"
       ],
       "strength": "D",
-      "status": "review-branch-unaccepted"
+      "status": "review-branch-unaccepted",
+      "previous_statement_before_dragon_ball_feel_2026_11_06": "At the Lookout Chi-Chi reports Piccolo to Kami. The family finds the raft near an old town, meets Pigero, Rom, Chiko, Ena, Jink, Hatch and Yordon, intervenes when Ena is grabbed, visits the market and prepares supper. Chi-Chi offers a night at home; Pigero chooses to stay with the children that night."
     },
     {
       "id": "O133",
       "tier": "III",
       "topic": "chapter 17 review — cuffs and one-night trial",
-      "statement": "The family returns with Bulma; workers and police arrive. Pigero says the cuffs are too tight and asks for help. Goshin asks the officer to remove them, tells Pigero how he will bend the locks and carefully opens both while protecting his wrists; he checks for injury. The officer objects and takes the bent cuffs. Rom, Chiko, Pigero and Bulma inspect the home, and the six younger children choose one shared common-room trial night. Pigero may stay for supper; later placement remains open.",
+      "statement": "The family returns with Bulma; workers and police arrive. Ena protests when the man who hurt her grabs Rom, and Gohan also intervenes. Pigero says the cuffs are too tight and asks for help. Goshin asks the officer to remove them, tells Pigero how he will bend the locks and carefully opens both while protecting his wrists; he checks for injury. The officer objects and takes the bent cuffs. Rom, Chiko, Pigero and Bulma inspect the home, and the six younger children choose one shared common-room trial night. Pigero may stay for supper; later placement remains open.",
       "source": "selected Chapter 17 synergy-checked review candidate; replaces no earlier manuscript",
       "source_class": "authored selected review-branch event; not accepted canon or approval",
       "witnesses": [
@@ -4537,7 +4579,8 @@
       "strength": "D",
       "status": "review-branch-unaccepted",
       "previous_statement_before_character_continuity_correction_2026_11_03": "The following morning the family returns with Bulma; workers and police arrive. Pigero asks for his cuffs off, Goshin repeats the instruction and removes both linked cuffs, and the officer takes them. Rom, Chiko, Pigero and Bulma inspect the home; the six younger children choose to try one shared common-room night. Pigero may have supper; later placement and arrangement remain open.",
-      "previous_statement_before_visible_followthrough_2026_11_03": "The family returns with Bulma; workers and police arrive. Pigero asks for the cuffs off. Goshin asks the officer to remove them, then carefully bends both locks open; the officer objects and takes the bent cuffs. Rom, Chiko, Pigero and Bulma inspect the home, and the six younger children choose one shared common-room trial night. Pigero may stay for supper; later placement remains open."
+      "previous_statement_before_visible_followthrough_2026_11_03": "The family returns with Bulma; workers and police arrive. Pigero asks for the cuffs off. Goshin asks the officer to remove them, then carefully bends both locks open; the officer objects and takes the bent cuffs. Rom, Chiko, Pigero and Bulma inspect the home, and the six younger children choose one shared common-room trial night. Pigero may stay for supper; later placement remains open.",
+      "previous_statement_before_dragon_ball_feel_2026_11_06": "The family returns with Bulma; workers and police arrive. Pigero says the cuffs are too tight and asks for help. Goshin asks the officer to remove them, tells Pigero how he will bend the locks and carefully opens both while protecting his wrists; he checks for injury. The officer objects and takes the bent cuffs. Rom, Chiko, Pigero and Bulma inspect the home, and the six younger children choose one shared common-room trial night. Pigero may stay for supper; later placement remains open."
     },
     {
       "id": "O134",
@@ -4680,7 +4723,7 @@
       "id": "O139",
       "tier": "III",
       "topic": "chapter 18 review — altered encounter",
-      "statement": "The seven meet two unnamed fighters in an apparent ruined street. All contribute. In the mind-travel experience Goshin protects Chiaotzu, holds four wall pieces and fires his retained Kamehameha while they remain aloft; Gohan redirects a hazard and disrupts an attacker. Tien's Four Bodies divide his strength and speed among four; he, Yamcha and Goshin combine angles, a low attack and a hold to bring one opponent down. The group asks to leave while the opponents are on a knee or attempting to rise. No death, measured power or definite victory is established.",
+      "statement": "The seven meet two unnamed fighters in an apparent ruined street. All contribute. In the mind-travel experience Goshin protects Chiaotzu, holds four wall pieces and fires his retained Kamehameha while they remain aloft; Gohan redirects a hazard and disrupts an attacker. Yamcha names his guided Sokidan; Krillin maintains his hold until the opponent pushes him away. Tien's Four Bodies divide his strength and speed among four; he, Yamcha and Goshin combine angles, a low attack and a hold to bring one opponent down. The group asks to leave while the opponents are on a knee or attempting to rise. The experienced scouter displays an authored combined 2,840 for the seven (`O208`); it is not an independently measured physical-body power or either opponent's strength. No death or definite victory is established.",
       "source": "new Chapter 18 review draft and canon/SCENE_COVERAGE_017.md",
       "source_class": "authored selected review-branch event; not source canon or reader acceptance",
       "witnesses": [
@@ -4688,20 +4731,23 @@
       ],
       "strength": "D",
       "status": "review-branch-unaccepted",
-      "previous_statement_before_fight_and_power_correction_2026_11_04": "The seven meet two unnamed fighters in an apparent ruined street. All contribute. In the mind-travel experience Goshin protects Chiaotzu, handles four wall pieces and fires his retained Kamehameha while they remain aloft; Gohan redirects a hazard and disrupts an attacker; the others fight and protect each other. The group asks to leave while the opponents are on a knee or attempting to rise. No death, measured power or definite victory is established."
+      "previous_statement_before_fight_and_power_correction_2026_11_04": "The seven meet two unnamed fighters in an apparent ruined street. All contribute. In the mind-travel experience Goshin protects Chiaotzu, handles four wall pieces and fires his retained Kamehameha while they remain aloft; Gohan redirects a hazard and disrupts an attacker; the others fight and protect each other. The group asks to leave while the opponents are on a knee or attempting to rise. No death, measured power or definite victory is established.",
+      "previous_statement_before_scouter_clarification_2026_11_05": "The seven meet two unnamed fighters in an apparent ruined street. All contribute. In the mind-travel experience Goshin protects Chiaotzu, holds four wall pieces and fires his retained Kamehameha while they remain aloft; Gohan redirects a hazard and disrupts an attacker. Tien's Four Bodies divide his strength and speed among four; he, Yamcha and Goshin combine angles, a low attack and a hold to bring one opponent down. The group asks to leave while the opponents are on a knee or attempting to rise. No death, measured power or definite victory is established.",
+      "previous_statement_before_dragon_ball_feel_2026_11_06": "The seven meet two unnamed fighters in an apparent ruined street. All contribute. In the mind-travel experience Goshin protects Chiaotzu, holds four wall pieces and fires his retained Kamehameha while they remain aloft; Gohan redirects a hazard and disrupts an attacker. Tien's Four Bodies divide his strength and speed among four; he, Yamcha and Goshin combine angles, a low attack and a hold to bring one opponent down. The group asks to leave while the opponents are on a knee or attempting to rise. The experienced scouter displays an authored combined 2,840 for the seven (`O208`); it is not an independently measured physical-body power or either opponent's strength. No death or definite victory is established."
     },
     {
       "id": "O140",
       "tier": "III",
       "topic": "chapter 18 review — visit and promises",
-      "statement": "After training the family visits the children. Their first shared night happened and the director offers the same room for a second night, not a permanent guarantee. Pigero says he slept at the old house and returned; he is allowed a following-afternoon visit. Gohan shows Hatch’s school-boat drawing to C-6; the larger drawing remains with the children, and Mina’s loan remains with C-6.",
+      "statement": "After training the family visits the children. Their first shared night happened and the director offers the same room for a second night, not a permanent guarantee. Pigero says he slept at the old house and returned; he is allowed a following-afternoon visit. Gohan shows Hatch’s school-boat drawing to C-6; the larger drawing remains with the children, and Mina’s loan remains with C-6. Gohan suggests Bulma could help work out the wheel; she asks him to check whether Hatch would like that. No actual boat or guaranteed building plan is established.",
       "source": "new Chapter 18 review draft and canon/SCENE_COVERAGE_017.md",
       "source_class": "authored selected review-branch event; not source canon or reader acceptance",
       "witnesses": [
         "OC"
       ],
       "strength": "D",
-      "status": "review-branch-unaccepted"
+      "status": "review-branch-unaccepted",
+      "previous_statement_before_dragon_ball_feel_2026_11_06": "After training the family visits the children. Their first shared night happened and the director offers the same room for a second night, not a permanent guarantee. Pigero says he slept at the old house and returned; he is allowed a following-afternoon visit. Gohan shows Hatch’s school-boat drawing to C-6; the larger drawing remains with the children, and Mina’s loan remains with C-6."
     },
     {
       "id": "O141",
@@ -5254,14 +5300,15 @@
       "id": "O159",
       "tier": "III",
       "topic": "chapter 21 review — drawings and belongings",
-      "statement": "The children add a rail and accessible slope on a second boat page. Gohan leaves his smaller library drawing with them to keep alongside the larger picture and writes his name on it; the original Hatch drawing remains last shown under his hat at home. Mina’s book remains last shown with C-6; return, onward permission and completed arm repair are not shown. The unidentified machine remains covered in Bulma’s lab by her report.",
+      "statement": "The three boat doors described on the visit include the front door Ena added in Chapter Eighteen, the library door and the door at the top of the stairs; no three newly added doors are asserted. The children add a rail and accessible slope on a second boat page. Gohan leaves his smaller library drawing with them to keep alongside the larger picture and writes his name on it; the original Hatch drawing remains last shown under his hat at home. Mina’s book remains last shown with C-6; return, onward permission and completed arm repair are not shown. The unidentified machine remains covered in Bulma’s lab by her report.",
       "source": "unaccepted Chapter 21 and canon/SCENE_COVERAGE_020.md",
       "source_class": "authored selected-branch review draft, not source canon or reader acceptance",
       "witnesses": [
         "OC"
       ],
       "strength": "D",
-      "status": "review-branch-unaccepted"
+      "status": "review-branch-unaccepted",
+      "previous_statement_before_dragon_ball_feel_ch21_23_2026_11_06": "The children add a rail and accessible slope on a second boat page. Gohan leaves his smaller library drawing with them to keep alongside the larger picture and writes his name on it; the original Hatch drawing remains last shown under his hat at home. Mina’s book remains last shown with C-6; return, onward permission and completed arm repair are not shown. The unidentified machine remains covered in Bulma’s lab by her report."
     },
     {
       "id": "O160",
@@ -5436,7 +5483,7 @@
       "id": "O164",
       "tier": "III",
       "topic": "chapter 22 review — childhood, provisions and belongings",
-      "statement": "Chi-Chi teaches the boys practical cooking before entry; the boys cook together often and sometimes divide other meal tasks; Goshin watches some food preparation, but an every-meal ritual is not required. The boys study, play, rest, share decisions about continuing and record the days. Both grow physically; Goshin remains recognizably like Goku with Chi-Chi’s eyes and both retain their tails. Hatch’s original drawing enters and returns with Gohan, while the separate roof plan was last at home. The school forms Bulma carries are blank copies, not confirmed school places.",
+      "statement": "Chi-Chi teaches the boys practical cooking before entry; the boys cook together often and sometimes divide other meal tasks; Goshin watches some food preparation, but an every-meal ritual is not required. The boys study, play, rest, share decisions about continuing and record the days. Both grow physically; Goshin remains recognizably like Goku with Chi-Chi’s eyes and both retain their tails. Hatch’s original drawing enters and returns with Gohan; inside he hands it to Goshin, who places it beside the clock. The separate roof plan was last at home. The school forms Bulma carries are blank copies, not confirmed school places.",
       "source": "unaccepted Chapter 22 and canon/SCENE_COVERAGE_021.md",
       "source_class": "authored selected-branch review draft, not source canon or reader acceptance",
       "witnesses": [
@@ -5445,7 +5492,8 @@
       "strength": "D",
       "status": "review-branch-unaccepted",
       "previous_statement_before_holistic_correction_2026_11_03": "Chi-Chi teaches the boys practical cooking before entry; Goshin watches food preparation during the stay. The boys study, play, rest, share decisions about continuing and record the days. Both grow physically; Goshin remains recognizably like Goku with Chi-Chi’s eyes and both retain their tails. Hatch’s original drawing enters and returns with Gohan, while the separate roof plan was last at home. The school forms Bulma carries are blank copies, not confirmed school places.",
-      "previous_statement_before_complete_canon_audit_2026_11_04": "Chi-Chi teaches the boys practical cooking before entry; The boys cook together often and sometimes divide other meal tasks; Goshin watches some food preparation, but an every-meal ritual is not required. The boys study, play, rest, share decisions about continuing and record the days. Both grow physically; Goshin remains recognizably like Goku with Chi-Chi’s eyes and both retain their tails. Hatch’s original drawing enters and returns with Gohan, while the separate roof plan was last at home. The school forms Bulma carries are blank copies, not confirmed school places."
+      "previous_statement_before_complete_canon_audit_2026_11_04": "Chi-Chi teaches the boys practical cooking before entry; The boys cook together often and sometimes divide other meal tasks; Goshin watches some food preparation, but an every-meal ritual is not required. The boys study, play, rest, share decisions about continuing and record the days. Both grow physically; Goshin remains recognizably like Goku with Chi-Chi’s eyes and both retain their tails. Hatch’s original drawing enters and returns with Gohan, while the separate roof plan was last at home. The school forms Bulma carries are blank copies, not confirmed school places.",
+      "previous_statement_before_dragon_ball_feel_ch21_23_2026_11_06": "Chi-Chi teaches the boys practical cooking before entry; the boys cook together often and sometimes divide other meal tasks; Goshin watches some food preparation, but an every-meal ritual is not required. The boys study, play, rest, share decisions about continuing and record the days. Both grow physically; Goshin remains recognizably like Goku with Chi-Chi’s eyes and both retain their tails. Hatch’s original drawing enters and returns with Gohan, while the separate roof plan was last at home. The school forms Bulma carries are blank copies, not confirmed school places."
     },
     {
       "id": "O165",
@@ -5580,7 +5628,7 @@
     {
       "id": "O170",
       "tier": "III",
-      "statement": "In the author-corrected, unaccepted Chapter Twenty-Three, Piccolo recognizes that both post-chamber boys far exceed him, removes his weighted cape and turban, and uses his speed during their chosen ordinary aerial spars. Gohan comfortably stops a punch, evades Piccolo's extended arm and bursts, and releases a stronger controlled Kamehameha safely into the sky. Goshin also comfortably avoids Piccolo's attacks, lets more of his existing ki flow and uses turns practised in the chamber; he eases his ki down after steering his mastered wave while moving eight blocks. Piccolo recognizes how much he held back. At Piccolo's suggestion the brothers briefly spar each other under control; Gohan attacks and changes direction, and Goshin responds and touches his shoulder. Both land breathing easily. Chi-Chi watches and coaches, Piccolo remains a tactician, and no present scouter figure, fresh permanent gain from this easy exchange, new form, universal permanent ranking or Saiyan battle outcome is established.",
+      "statement": "In the author-corrected, unaccepted Chapter Twenty-Three, Piccolo recognizes that both post-chamber boys far exceed him, removes his weighted cape and turban, and uses his speed during their chosen ordinary aerial spars. Gohan comfortably stops a punch, evades Piccolo's extended arm and bursts, and releases a stronger controlled Kamehameha safely into the sky. Goshin also comfortably avoids Piccolo's attacks, lets more of his existing ki flow and uses turns practised in the chamber; he eases his ki down after steering his mastered wave while moving eight blocks. Piccolo recognizes how much he held back. At Piccolo's suggestion the brothers briefly spar each other under control; Gohan attacks and changes direction, and Goshin responds and touches his shoulder. Both land breathing easily. Chi-Chi watches and coaches, Piccolo remains a tactician, and no scouter figure during this spar, fresh permanent gain from this easy exchange, new form, universal permanent ranking or Saiyan battle outcome is established. The later landing does show two authored unidentified distant scouter readings.",
       "witnesses": [
         "OC"
       ],
@@ -5596,7 +5644,8 @@
       "previous_statement_before_fight_and_power_correction_2026_11_04": "Unaccepted corrected Chapter Twenty-Three: Piccolo arrives already recognizing both boys' greatly increased separate ki and deliberately increases his effort. Gohan chooses an aerial exchange, maneuvers and turns his Kamehameha in clear sky; he ends his turn himself. Goshin chooses the next exchange, moves the spar farther from the Lookout and starts far stronger than before the chamber. He learns from Piccolo's sudden turn, intercepts him as his speed and ki rise further and drives him across the sky. He shapes, steers and stops his established Kamehameha during the fight. Piccolo senses the gained strength still present after the aura fades. Chi-Chi supports and coaches without repeatedly halting the rounds. The prior assistant-authored eye-blast breach and light burn are superseded, not user-mandated. No maximum, fixed ranking against Piccolo, transformation or required winner is established.",
       "previous_statement_before_author_piccolo_correction_2026_11_04": "Unaccepted revised Chapter Twenty-Three: Piccolo arrives already recognizing both boys' greatly increased separate ki and raises his effort. Gohan chooses an aerial exchange, counters Piccolo's extending arm by moving inside the grip, pushes off his guard, and uses a controlled moving Kamehameha with clear sky behind the target. Goshin chooses the next exchange and moves farther from the Lookout; Piccolo uses two bursts and lands a forearm strike, then Goshin intercepts his next turn as his speed and ki rise and drives him across the sky. He shapes and stops his established Kamehameha, then resists another pull after his flare settles. Piccolo senses the gain remains. The participants end their rounds; Chi-Chi supports and coaches. No maximum, fixed ranking against Piccolo, new form or required winner is established.",
       "previous_source_before_author_piccolo_correction_2026_11_04": "The Twin/chapters/Chapter_23_The_Way_Back.md, What Gohan Can Do and Goshin's Turn",
-      "previous_statement_before_output_growth_correction_2026_11_04": "In the author-corrected, unaccepted Chapter Twenty-Three, Piccolo recognizes that both post-chamber boys far exceed him, removes his weighted cape and turban, and uses his speed during their chosen ordinary aerial spars. Gohan comfortably stops a punch, evades Piccolo's extended arm and bursts, and releases a stronger controlled Kamehameha safely into the sky. Goshin also comfortably avoids Piccolo's attacks; his speed and ki rise further during their exchange and the gain remains when the light settles. He controls eight blocks while firing and steering his retained wave. At Piccolo's suggestion the brothers briefly spar each other under control; Gohan attacks and changes direction, and Goshin responds and touches his shoulder. Both land breathing easily. Chi-Chi watches and coaches, Piccolo remains a tactician, and no present scouter figure, new form, universal permanent ranking or Saiyan battle outcome is established."
+      "previous_statement_before_output_growth_correction_2026_11_04": "In the author-corrected, unaccepted Chapter Twenty-Three, Piccolo recognizes that both post-chamber boys far exceed him, removes his weighted cape and turban, and uses his speed during their chosen ordinary aerial spars. Gohan comfortably stops a punch, evades Piccolo's extended arm and bursts, and releases a stronger controlled Kamehameha safely into the sky. Goshin also comfortably avoids Piccolo's attacks; his speed and ki rise further during their exchange and the gain remains when the light settles. He controls eight blocks while firing and steering his retained wave. At Piccolo's suggestion the brothers briefly spar each other under control; Gohan attacks and changes direction, and Goshin responds and touches his shoulder. Both land breathing easily. Chi-Chi watches and coaches, Piccolo remains a tactician, and no present scouter figure, new form, universal permanent ranking or Saiyan battle outcome is established.",
+      "previous_statement_before_dragon_ball_feel_ch21_23_2026_11_06": "In the author-corrected, unaccepted Chapter Twenty-Three, Piccolo recognizes that both post-chamber boys far exceed him, removes his weighted cape and turban, and uses his speed during their chosen ordinary aerial spars. Gohan comfortably stops a punch, evades Piccolo's extended arm and bursts, and releases a stronger controlled Kamehameha safely into the sky. Goshin also comfortably avoids Piccolo's attacks, lets more of his existing ki flow and uses turns practised in the chamber; he eases his ki down after steering his mastered wave while moving eight blocks. Piccolo recognizes how much he held back. At Piccolo's suggestion the brothers briefly spar each other under control; Gohan attacks and changes direction, and Goshin responds and touches his shoulder. Both land breathing easily. Chi-Chi watches and coaches, Piccolo remains a tactician, and no present scouter figure, fresh permanent gain from this easy exchange, new form, universal permanent ranking or Saiyan battle outcome is established."
     },
     {
       "id": "O171",
@@ -5657,7 +5706,7 @@
     {
       "id": "O175",
       "tier": "III",
-      "statement": "Unaccepted Chapter Twenty-Three: later the same morning as the brothers' chamber exit, Vegeta and Nappa land in East City. Civilians react, the children's-home director moves the children into the hall, and Gohan and Goshin sense the two unfamiliar ki. Piccolo and the boys fly toward the city, while Chi-Chi and Popo head for its outskirts on the carpet and Bulma looks for a pickup point by car. They plan to help people away from the fighting; their success is not shown. The chapter ends before the responding group arrives or a battle is resolved; no casualty total or exact clock time is established.",
+      "statement": "Unaccepted Chapter Twenty-Three: later the same morning as the brothers' chamber exit, Vegeta and Nappa land in East City. Vegeta scans two distant, as-yet-unidentified signals at authored 9,200 and 12,400, which are not maxima. Civilians react, the children's-home director moves the children into the hall, and Gohan and Goshin sense the two unfamiliar ki. Piccolo and the boys fly toward the city, while Chi-Chi and Popo head for its outskirts on the carpet and Bulma looks for a pickup point by car. They plan to help people away from the fighting; their success is not shown. The chapter ends before the responding group arrives or a battle is resolved; no casualty total or exact clock time is established.",
       "witnesses": [
         "OC"
       ],
@@ -5667,7 +5716,8 @@
       "status": "review-continuation-unaccepted",
       "previous_statement_before_ki_sensing_correction_2026_11_03": "Unaccepted Chapter 23: later the same morning as the boys’ chamber exit, Vegeta and Nappa land in East City, civilians react, the children’s-home director moves the children into the hall, and established fighters depart toward the city. The chapter ends before the responding group arrives or a battle is resolved; no casualty total or exact clock time is established.",
       "previous_statement_before_visible_followthrough_2026_11_03": "Unaccepted Chapter Twenty-Three: later the same morning as the brothers' chamber exit, Vegeta and Nappa land in East City. Civilians react, the children's-home director moves the children into the hall, Gohan and Goshin sense the two unfamiliar ki, and established fighters depart toward the city. The chapter ends before the responding group arrives or a battle is resolved; no casualty total or exact clock time is established.",
-      "previous_source_before_visible_followthrough_2026_11_03": "The Twin/chapters/Chapter_23_The_Way_Back.md, In the Hall, Before the Sky Opens and Two Lights"
+      "previous_source_before_visible_followthrough_2026_11_03": "The Twin/chapters/Chapter_23_The_Way_Back.md, In the Hall, Before the Sky Opens and Two Lights",
+      "previous_statement_before_dragon_ball_feel_ch21_23_2026_11_06": "Unaccepted Chapter Twenty-Three: later the same morning as the brothers' chamber exit, Vegeta and Nappa land in East City. Civilians react, the children's-home director moves the children into the hall, and Gohan and Goshin sense the two unfamiliar ki. Piccolo and the boys fly toward the city, while Chi-Chi and Popo head for its outskirts on the carpet and Bulma looks for a pickup point by car. They plan to help people away from the fighting; their success is not shown. The chapter ends before the responding group arrives or a battle is resolved; no casualty total or exact clock time is established."
     },
     {
       "id": "O176",
@@ -5689,7 +5739,7 @@
       "id": "O177",
       "tier": "III",
       "topic": "selected chronology — Goshin integrates Kamehameha mastery and growth",
-      "statement": "Goshin sees Goku's wave once and first fires it against Raditz in Chapter Five under O088's first-use conditions. He later clashes with Goku in Chapter Thirteen, keeps moving stones stable while stopping his wave in Chapter Fifteen, and demonstrates deliberate shape, direction and stopping while teaching Gohan in Chapter Nineteen. In the full chamber year he applies that mastery alongside substantially greater strength and ki; in Chapter Twenty-Three he uses it in open sky while controlling eight moving blocks, comfortably beyond Piccolo in the ordinary spar and releasing more power he already had. Mastery is earned and retained, not a ban on further growth, an exact numerical grade or a permanent universal ranking.",
+      "statement": "Goshin sees Goku's wave once and first fires it against Raditz in Chapter Five under O088's first-use conditions. He later clashes with Goku in Chapter Thirteen, gains strength during the wave contest that remains after the wave, and wins their ring-out by adapting to his father’s wrist pull. He keeps moving stones stable while stopping his wave in Chapter Fifteen, and demonstrates deliberate shape, direction and stopping while teaching Gohan in Chapter Nineteen. In the full chamber year he applies that mastery alongside substantially greater strength and ki; in Chapter Twenty-Three he uses it in open sky while controlling eight moving blocks, comfortably beyond Piccolo in the ordinary spar and releasing more power he already had. Mastery is earned and retained, not a ban on further growth, an exact numerical grade or a permanent universal ranking.",
       "source": "selected corrected Chapters 5, 13, 15, 19, 22 and 23; user training direction O104",
       "source_class": "authored selected-branch continuity plus separately documented user direction",
       "witnesses": [
@@ -5698,7 +5748,8 @@
       "strength": "D",
       "status": "review-branch-unaccepted",
       "previous_statement_before_author_piccolo_correction_2026_11_04": "Goshin sees Goku's wave once and first fires it against Raditz in Chapter Five under O088's first-use conditions. He later clashes with Goku in Chapter Thirteen, keeps moving stones stable while stopping his wave in Chapter Fifteen, and demonstrates deliberate shape, direction and stopping while teaching Gohan in Chapter Nineteen. In the full chamber year he applies that mastery alongside substantially greater strength and ki; Chapter Twenty-Three carries it into his Piccolo exchange. Mastery is earned and retained, not a ban on further power growth, an exact numerical grade or a claim of universal superiority.",
-      "previous_statement_before_output_growth_correction_2026_11_04": "Goshin sees Goku's wave once and first fires it against Raditz in Chapter Five under O088's first-use conditions. He later clashes with Goku in Chapter Thirteen, keeps moving stones stable while stopping his wave in Chapter Fifteen, and demonstrates deliberate shape, direction and stopping while teaching Gohan in Chapter Nineteen. In the full chamber year he applies that mastery alongside substantially greater strength and ki; in Chapter Twenty-Three he uses it in open sky while controlling eight moving blocks, comfortably beyond Piccolo in the ordinary spar and growing further. Mastery is earned and retained, not a ban on further growth, an exact numerical grade or a permanent universal ranking."
+      "previous_statement_before_output_growth_correction_2026_11_04": "Goshin sees Goku's wave once and first fires it against Raditz in Chapter Five under O088's first-use conditions. He later clashes with Goku in Chapter Thirteen, keeps moving stones stable while stopping his wave in Chapter Fifteen, and demonstrates deliberate shape, direction and stopping while teaching Gohan in Chapter Nineteen. In the full chamber year he applies that mastery alongside substantially greater strength and ki; in Chapter Twenty-Three he uses it in open sky while controlling eight moving blocks, comfortably beyond Piccolo in the ordinary spar and growing further. Mastery is earned and retained, not a ban on further growth, an exact numerical grade or a permanent universal ranking.",
+      "previous_statement_before_dragon_ball_feel_2026_11_06": "Goshin sees Goku's wave once and first fires it against Raditz in Chapter Five under O088's first-use conditions. He later clashes with Goku in Chapter Thirteen, keeps moving stones stable while stopping his wave in Chapter Fifteen, and demonstrates deliberate shape, direction and stopping while teaching Gohan in Chapter Nineteen. In the full chamber year he applies that mastery alongside substantially greater strength and ki; in Chapter Twenty-Three he uses it in open sky while controlling eight moving blocks, comfortably beyond Piccolo in the ordinary spar and releasing more power he already had. Mastery is earned and retained, not a ban on further growth, an exact numerical grade or a permanent universal ranking."
     },
     {
       "id": "O178",
@@ -6563,15 +6614,17 @@
     {
       "id": "O184",
       "tier": "III",
-      "topic": "chapter 24 confrontation and Namekian name",
-      "statement": "In unaccepted Chapter Twenty-Four, Vegeta scans the two approaching powers before they arrive, then identifies their readings with Gohan and Goshin in the city. Piccolo and the twins confront the Saiyans; Vegeta recognizes Piccolo's voice from Raditz's transmitting scouter and requests the Dragon Balls. Nappa identifies Piccolo as a Namekian from Planet Namek; Piccolo does not claim to have made the Balls. Vegeta accepts Piccolo's proposed quarry while seeking the Balls, a saleable world and information about the brothers. Nappa reports a changed Goshin reading at the quarry before removing his scouter; Vegeta keeps his on. Gohan quietly suggests asking Kami later; Kami is not shown hearing the exchange.",
-      "source": "The Twin/chapters/Chapter_24_Six_Seeds.md; canon/SCENE_COVERAGE_022.md",
+      "topic": "chapter 23–24 scouter, confrontation and Namekian name",
+      "statement": "In unaccepted Chapter Twenty-Three, Vegeta scans two distant signals at 9,200 and 12,400 without identifying their owners. In Chapter Twenty-Four he scans approaching signals at those values again, then identifies the readings with Gohan and Goshin in the city. Four other approaching signals display 1,120, 1,360, 1,410 and 700 without on-page target identifications; Vegeta compares them with the brothers before departing. Piccolo and the twins confront the Saiyans; Vegeta recognizes Piccolo's voice from Raditz's transmitting scouter and requests the Dragon Balls. Nappa identifies Piccolo as a Namekian from Planet Namek; Piccolo does not claim to have made the Balls. Vegeta accepts Piccolo's proposed quarry while seeking the Balls, a saleable world and information about the brothers. Nappa reports a changed Goshin reading at the quarry before removing his scouter; Vegeta keeps his on. Gohan quietly suggests asking Kami later; Kami is not shown hearing the exchange.",
+      "source": "The Twin/chapters/Chapter_23_The_Way_Back.md; The Twin/chapters/Chapter_24_Six_Seeds.md; canon/SCENE_COVERAGE_022.md",
       "source_class": "authored selected-branch event; review draft, not accepted canon or reader acceptance",
       "witnesses": [
         "OC"
       ],
       "strength": "D",
       "status": "review-continuation-unaccepted",
+      "previous_statement_before_additional_scouter_readings_2026_11_05": "In unaccepted Chapter Twenty-Three, Vegeta scans two distant signals at 9,200 and 12,400 without identifying their owners. In Chapter Twenty-Four he scans approaching signals at those values again, then identifies the readings with Gohan and Goshin in the city. Piccolo and the twins confront the Saiyans; Vegeta recognizes Piccolo's voice from Raditz's transmitting scouter and requests the Dragon Balls. Nappa identifies Piccolo as a Namekian from Planet Namek; Piccolo does not claim to have made the Balls. Vegeta accepts Piccolo's proposed quarry while seeking the Balls, a saleable world and information about the brothers. Nappa reports a changed Goshin reading at the quarry before removing his scouter; Vegeta keeps his on. Gohan quietly suggests asking Kami later; Kami is not shown hearing the exchange.",
+      "previous_statement_before_continuous_emotional_revision_2026_11_05": "In unaccepted Chapter Twenty-Four, Vegeta scans the two approaching powers before they arrive, then identifies their readings with Gohan and Goshin in the city. Piccolo and the twins confront the Saiyans; Vegeta recognizes Piccolo's voice from Raditz's transmitting scouter and requests the Dragon Balls. Nappa identifies Piccolo as a Namekian from Planet Namek; Piccolo does not claim to have made the Balls. Vegeta accepts Piccolo's proposed quarry while seeking the Balls, a saleable world and information about the brothers. Nappa reports a changed Goshin reading at the quarry before removing his scouter; Vegeta keeps his on. Gohan quietly suggests asking Kami later; Kami is not shown hearing the exchange.",
       "previous_statement_before_scouter_readings_2026_11_04": "In unaccepted Chapter Twenty-Four, Piccolo and the twins confront the Saiyans; Vegeta recognizes Piccolo's voice from Raditz's transmitting scouter and requests the Dragon Balls. Nappa identifies Piccolo as a Namekian from Planet Namek; Piccolo does not claim to have made the Balls. Vegeta accepts Piccolo's proposed quarry as a fighting place while seeking the Balls and a saleable world. Nappa detects changing readings but speaks no number. Gohan quietly suggests asking Kami later; Kami is not shown hearing this exchange.",
       "previous_statement_before_story_and_nappa_correction_2026_11_04": "In unaccepted Chapter Twenty-Four, Piccolo and the twins confront the Saiyans; Vegeta recognizes Piccolo's voice from Raditz's transmitting scouter and requests the Dragon Balls. Nappa identifies Piccolo as a Namekian from Planet Namek; Piccolo does not claim to have made the Balls. Vegeta accepts Piccolo's proposed quarry as a fighting place while seeking the Balls and a saleable world. Vegeta reads the twins' battle powers in the city; Nappa reports a changed Goshin reading at the quarry before removing his scouter, while Vegeta keeps his on. Gohan quietly suggests asking Kami later; Kami is not shown hearing this exchange."
     },
@@ -6727,7 +6780,7 @@
       "id": "O191",
       "tier": "III",
       "topic": "chapter 25 Gohan faces Nappa",
-      "statement": "In unaccepted Chapter Twenty-Five Gohan intercepts Nappa as he attempts to attack the other fighters, prevents his blasts and ground attack from reaching them, and physically overpowers him. He turns Nappa’s mouth blast skyward and uses his learned Kamehameha against him at a bare quarry wall. Nappa falls unconscious but remains breathing; Gohan moves a falling slab away from him. Piccolo later moves Nappa clear of falling stone while wanting to question him about Namek. This does not fix Nappa’s later fate.",
+      "statement": "In unaccepted Chapter Twenty-Five Gohan intercepts Nappa as he attempts to attack the other fighters, prevents his blasts and ground attack from reaching them, and physically overpowers him. He turns Nappa’s mouth blast skyward and uses his learned Kamehameha against him at a bare quarry wall. Nappa falls unconscious but remains breathing; Gohan moves a falling slab away from him. Piccolo and Krillin later carry Nappa clear of Vegeta's line of fire and shield him from debris; Piccolo wants to question him about Namek. This does not fix Nappa’s later fate.",
       "source": "The Twin/chapters/Chapter_25_Two_Battles.md; O189 C293",
       "source_class": "authored continuation of unaccepted branch",
       "witnesses": [
@@ -6739,7 +6792,7 @@
       "id": "O192",
       "tier": "III",
       "topic": "chapter 25 Goshin and Vegeta readings and battle growth",
-      "statement": "In unaccepted Chapter Twenty-Five Vegeta reads Goshin at 16,300, then 19,400 after Goshin deliberately releases more of the power built before this fight. Vegeta removes and clips on his scouter, raises his own ki and fights Goshin. During the subsequent sustained exchange Goshin feels real further growth in ki and strength, holds a later kick that had previously pushed him back and lands blows; no numerical gain, fixed growth trigger, maximum or final Vegeta result is established. The earlier 3,100 increase between the displayed readings is released reserve, not a newly acquired permanent gain from one attack.",
+      "statement": "In unaccepted Chapter Twenty-Five Vegeta reads Goshin at 16,300, then 19,400 after Goshin deliberately releases more of the power built before this fight. Vegeta recalls his earlier concern about Kakarot's children and recognizes that the new reading is above the power he had been using; this comparison establishes neither Vegeta's maximum nor a new numerical reading for him. He clips away the scouter, raises his own ki and fights Goshin, whose first punch pushes back his guard. During the subsequent sustained exchange Goshin feels real further growth in ki and strength, holds a later kick that had previously pushed him back and lands blows; no numerical gain, fixed growth trigger, maximum or final Vegeta result is established. The earlier 3,100 increase between the displayed readings is released reserve, not a newly acquired permanent gain from one attack.",
       "source": "The Twin/chapters/Chapter_25_Two_Battles.md; O187 O188 O189",
       "source_class": "authored continuation of unaccepted branch",
       "witnesses": [
@@ -6751,7 +6804,7 @@
       "id": "O193",
       "tier": "III",
       "topic": "chapter 25 city support and telephone",
-      "statement": "Chi-Chi, Puar and Popo continue helping people at the bus. Bulma takes the mother, father and daughter to the gym. A volunteer says a driver with an injured arm is being treated, but the identity is not conclusively established on-page. Bulma calls Roshi from the gym and reports Chi-Chi’s sighting of Krillin and Yamcha heading west; she does not claim to see the fight. Puar stays to help by choice. Full evacuation and citywide casualties remain unknown.",
+      "statement": "Chi-Chi, Puar and Popo continue helping people at the bus. Bulma takes the mother, father and daughter to the gym. A volunteer says a driver with an injured arm is being treated, but the identity is not conclusively established on-page. Bulma calls Roshi from the gym and reports Chi-Chi’s sighting of Krillin and Yamcha heading west; she does not claim to see the fight. Puar stays to help by choice. Later Chi-Chi sees violet and blue light in the western sky, remembers the brothers' training and steadies a passenger; she cannot see her sons. Full evacuation and citywide casualties remain unknown.",
       "source": "The Twin/chapters/Chapter_25_Two_Battles.md; O183",
       "source_class": "authored continuation of unaccepted branch",
       "witnesses": [
@@ -6763,13 +6816,605 @@
       "id": "O194",
       "tier": "III",
       "topic": "chapter 25 selected frontier and remaining battle",
-      "statement": "At the unaccepted Chapter Twenty-Five endpoint all six Saibaimen are gone, Nappa is unconscious but breathing, and Vegeta remains active. Gohan redirects Vegeta’s later attack away from the others, then joins Goshin against him; their first impact occurs before the endpoint. Piccolo wants to question Nappa about Namek. Krillin, Tien, Chiaotzu and a lightly cut Yamcha are together beyond the tracks. Goku continues physically along Snake Way with his supply capsule; Kami’s Yemma meeting and Goku’s return are not shown. Yajirobe was last descending Korin Tower; the boys retain their tails and no form or final Vegeta outcome occurs.",
-      "source": "The Twin/chapters/Chapter_25_Two_Battles.md; O174 O186 O189",
+      "statement": "At the unaccepted Chapter Twenty-Five endpoint all six Saibaimen are gone, Nappa is unconscious but breathing, and Vegeta remains active. After Goshin intercepts Vegeta's full-power Galick Gun, Gohan joins him and their combined Kamehamehas drive it back into the open sky; Vegeta breaks off and avoids the wave. Goshin then presses him, Gohan follows, and their first shared physical impact against Vegeta occurs before the endpoint. Piccolo and Krillin are at the western wall with Nappa; Piccolo wants to question him about Namek. Tien, Chiaotzu and a lightly cut Yamcha are together beyond the tracks. Goku continues physically along Snake Way with his supply capsule; Kami’s Yemma meeting and Goku’s return are not shown. Yajirobe was last descending Korin Tower; the boys retain their tails and no form or final Vegeta outcome occurs.",
+      "source": "The Twin/chapters/Chapter_25_Two_Battles.md; O174 O186 O189 O195",
       "source_class": "authored continuation of unaccepted branch",
       "witnesses": [
         "OC"
       ],
       "strength": "A"
+    },
+    {
+      "id": "C294",
+      "tier": "II",
+      "topic": "Saiyan-arc Vegeta's Galick Gun and Earth threat",
+      "statement": "Dragon Ball Official's manga-based Vegeta profile identifies Galick Gun as his signature technique, describing condensed ki fired from the palms in a distinctive stance. In that separate source, wounded pride and anger prompt Vegeta to threaten Earth despite his earlier Dragon Ball goal; Goku counters with a Kaiō-ken-times-four Kamehameha. Toei's original-Z episode-31 synopsis separately describes Vegeta firing a full-force Galick Gun at Goku and Earth and Goku answering with a Kamehameha. Selected retained episode-31 Japanese caption cues name ギャリック砲 and include the threat to Earth; the source and cut of those captions are unverified. The original confrontation is later and differently staged; these accounts do not establish an attack number, fixed outcome or full audiovisual review for the divergent branch.",
+      "source": "Dragon Ball Official Saiyan-arc Vegeta profile; Toei episode-31 synopsis; selected Dragon_Ball_Z_031.srt cues",
+      "source_class": "official manga-based profile and TV synopsis, with directly checked unverified-origin caption cues",
+      "witnesses": [
+        "W-119",
+        "W-120",
+        "W-30"
+      ],
+      "strength": "B"
+    },
+    {
+      "id": "O195",
+      "tier": "III",
+      "topic": "chapter 25 Vegeta's Galick Gun and the brothers' response",
+      "statement": "In unaccepted Chapter Twenty-Five, after Goshin's demonstrated growth and Nappa's defeat, Vegeta sets aside his wish for the Dragon Balls and commits all the power he can muster to a Galick Gun aimed at Goshin and Earth. Goshin intercepts it with his established Kamehameha; Gohan independently joins him with his own learned wave. Their combined attacks stop the descent and force the clash upward, and Vegeta cuts off his attack and moves aside. The combined light continues into open sky; Vegeta remains active. The pressure tears rock and rails loose, other fighters protect the unconscious Nappa from debris, and Chi-Chi sees the flash from the city without seeing her sons. This authored outcome does not assign a numerical Vegeta maximum, a fixed technique multiplier, a rule that either brother could not succeed alone, a new transformation or an ultimate Vegeta defeat.",
+      "source": "The Twin/chapters/Chapter_25_Two_Battles.md; O187 O188 O192 C294",
+      "source_class": "authored continuation of unaccepted branch",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "C295",
+      "tier": "I",
+      "topic": "original Z Power Ball and transformed Vegeta",
+      "statement": "The retained episode-31 captions (21:23–22:33) give Vegeta's account of Blutz-wave exposure through the eyes and an artificial moon created with a Power Ball and atmospheric oxygen; Goku notices Vegeta's ki decrease as he produces the light. The retained episode-32 dialogue (08:18–08:24) says Great Ape Saiyans have ten times battle power; Toei's short episode-32 synopsis independently describes Vegeta's tenfold strength. Dragon Ball Official's separate manga-based profile identifies the Power Ball. These sources do not establish a permanent multiplier for the author's evolving Goshin or dictate the altered branch, a present natural-moon phase, complete visuals or a fixed outcome.",
+      "source": "Dragon_Ball_Z_031.srt and 032.srt; Toei original-Z episode 32 synopsis; Dragon Ball Official Saiyan-arc Vegeta profile",
+      "source_class": "direct redistributed captions with unverified origin/cut; separately official TV synopsis and manga-based character feature",
+      "witnesses": [
+        "W-30",
+        "W-119",
+        "W-123"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "C296",
+      "tier": "II",
+      "topic": "Tien Solar Flare and Krillin cutting disc sources",
+      "statement": "Dragon Ball Official's manga-based Tenshinhan compendium names Taiyo-Ken / Solar Flare as a blinding flash used in the earlier 22nd tournament. The episode-27 Japanese captions call Krillin's 気円斬 and have Vegeta warn Nappa to dodge (14:23–15:14). A separate official game/manga commentary describes the disc as useful against stronger opponents; do not turn its promotional wording into an absolute all-target guarantee. Toei's episode-32 synopsis independently describes Goku using Solar Flare. These sources do not settle each visual detail or a particular branch attack's outcome.",
+      "source": "Dragon Ball Official Tenshinhan compendium; Dragon_Ball_Z_027.srt; Dragon Ball Official game/manga comparison; Toei original-Z episode 32 synopsis",
+      "source_class": "official manga-based feature and commentary, official TV synopsis, and directly read unverified-origin captions",
+      "witnesses": [
+        "W-30",
+        "W-121",
+        "W-122",
+        "W-123"
+      ],
+      "strength": "B"
+    },
+    {
+      "id": "O196",
+      "tier": "III",
+      "topic": "chapter 26 brothers and Nappa protection",
+      "statement": "In unaccepted Chapter 26 Goshin and Gohan continue fighting Vegeta together, applying their prior strength and independent choices. Vegeta fires toward the unconscious Nappa after hearing Piccolo wants answers; Gohan protects the people carrying him while Goshin presses Vegeta. Tien, Yamcha and Chiaotzu move Nappa into a sheltered gully; he remains unconscious and breathing. Krillin retains the unused whole Senzu. No numerical maximum or final outcome is established.",
+      "source": "The Twin/chapters/Chapter_26_The_Light_Above.md; O190 O192 O195",
+      "source_class": "authored continuation of unaccepted branch",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "O197",
+      "tier": "III",
+      "topic": "chapter 26 artificial moon and enemy choices",
+      "statement": "Vegeta notices both brothers retain tails and makes a Power Ball despite its ki cost, gambling that the boys would lose control and endanger their allies. Piccolo warns them; both turn away, while Vegeta looks and consciously transforms. The natural moon remains intact and its current phase is unspecified. Vegeta intercepts Gohan's attempt, guided by Piccolo, to hit the artificial moon; this does not establish whether it could be destroyed if reached.",
+      "source": "The Twin/chapters/Chapter_26_The_Light_Above.md; C295 O046 O196",
+      "source_class": "authored continuation of unaccepted branch",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "O198",
+      "tier": "III",
+      "topic": "chapter 26 coordinated defenders and Gohan choice",
+      "statement": "Tien uses Solar Flare and Krillin throws his cutting disc at Vegeta's tail; Vegeta hears it and moves his tail, so the disc cuts the ridge instead. Piccolo and Gohan keep the falling slab from the gully. Gohan then attacks the artificial light using Piccolo's directions, but Vegeta intercepts. After discussion Gohan decides not to look, independently helps the others, remains involved in the fight and deflects Vegeta's aim; no Gohan transformation or fixed maximum is asserted.",
+      "source": "The Twin/chapters/Chapter_26_The_Light_Above.md; C296 O197",
+      "source_class": "authored continuation of unaccepted branch",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "O199",
+      "tier": "III",
+      "topic": "chapter 26 first conscious controlled Great Ape",
+      "statement": "In unaccepted Chapter 26, having protected his friends and knowing the prior moon warning, Goshin deliberately looks at Vegeta's artificial full moon. From the beginning of his first transformation he remains aware and controls his footing, tail, speech and choices. He feels the unfamiliar first-form power while his body responds naturally and the strength in him continues building. He senses his brother and friends, catches Vegeta's attack, directs falling rocks away with ki and pushes him toward empty ground. His ordinary clothing and shoes tear during the change; his tail remains. He is still in the giant form at the endpoint, facing active transformed Vegeta. No compulsory fear, new scouter reading, fixed form multiplier, golden or divine form, a separate normal-sized ape mode, or ultimate battle outcome is shown.",
+      "source": "The Twin/chapters/Chapter_26_The_Light_Above.md; O035 O197 O198",
+      "source_class": "authored continuation following standing first-form control direction",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "O200",
+      "tier": "III",
+      "topic": "chapter 26 city, Launch, Yajirobe and Goku",
+      "statement": "In unaccepted Chapter 26 Chi-Chi, Bulma, Popo and Puar continue helping civilians; Chi-Chi notices the artificial light and plans with Bulma to approach the quarry after the immediate rescue, not blindly enter the fight. Launch returns to Bora and Upa at the base of Korin Tower asking after Tien; Yajirobe comes down, Upa lends him a flask and he and Launch drive toward East City without reaching the quarry. Goku remains on Snake Way with his supply capsule and flies across one visible bend; King Kai observes from his planet. Kami's meeting, Goku's arrival, a complete evacuation and casualty count remain unshown.",
+      "source": "The Twin/chapters/Chapter_26_The_Light_Above.md; O174 O193",
+      "source_class": "authored continuation of unaccepted branch",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "C297",
+      "tier": "I",
+      "topic": "original Z episode 33 tail and transferred Genki-dama",
+      "statement": "The retained episode-33 dialogue has Krillin plan to cut the tail while the opponent is distracted (07:02–07:05), later includes Vegeta reacting to his lost tail (12:19–12:22), and has Goku say he will transfer the energy he gathered from Earth to Krillin while Gohan fights (22:18–22:57). Toei’s short synopsis and Kanzenshuu’s guide separately describe Yajirobe cutting the tail; the captions alone do not establish all silent sword choreography. Neither this source sequence nor a transferred Genki-dama determines the divergent outcome.",
+      "source": "Dragon_Ball_Z_033.srt; Toei episode 33; Kanzenshuu episode 33",
+      "source_class": "direct redistributed captions with unverified source/cut; separately official TV and secondary episode synopses",
+      "witnesses": [
+        "W-30",
+        "W-124",
+        "W-125"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "C298",
+      "tier": "I",
+      "topic": "original Z episode 34 Genki-dama and Gohan",
+      "statement": "The retained episode-34 dialogue names the Genki-dama held by Krillin (05:33–05:52) and has Goku urge Gohan to bounce it back, saying it is on their side (12:58–13:05). The source and cut are unverified, and the caption wording alone does not prove every uncaptioned motion. The altered branch has neither Goku nor a transferred sphere at this encounter.",
+      "source": "Dragon_Ball_Z_034.srt; Toei episode 34; Kanzenshuu episode 34",
+      "source_class": "direct redistributed captions with unverified source/cut; separately official TV and secondary episode synopses",
+      "witnesses": [
+        "W-30",
+        "W-124",
+        "W-125"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "C299",
+      "tier": "II",
+      "topic": "original Z episodes 35–36 transformation, departure and Namek",
+      "statement": "In the retained episode-35 captions Goku appeals to Gohan as a giant ape, the speakers discuss his lost and partially recovered reason (08:12–12:33), Vegeta estimates his artificial moon has an hour left (12:45–12:51), and Goku asks Krillin to let Vegeta go (21:20–21:27). Retained episode-36 dialogue discusses Namekians and a possible journey to Namek (16:52 onward). The separate short episode guides describe the tail and departure sequence; source/cut and full audiovisual staging remain unverified. This particular estimate and knowledge belong to those source circumstances, not automatically to the changed branch.",
+      "source": "Dragon_Ball_Z_035.srt and 036.srt; Toei episodes 35–36; Kanzenshuu episodes 35–36",
+      "source_class": "direct redistributed captions with unverified source/cut and separate bounded synopsis context",
+      "witnesses": [
+        "W-30",
+        "W-124",
+        "W-125"
+      ],
+      "strength": "B"
+    },
+    {
+      "id": "O201",
+      "tier": "III",
+      "topic": "chapter 27 controlled giant fight and further growth",
+      "statement": "In the unaccepted continuation Goshin remains conscious in his first giant form and stops transformed Vegeta’s descending fist one-handed after earlier using both hands against a giant fist while ordinary-sized; the earlier action does not establish that both hands were necessary. His existing strength continues developing during the sustained exchange; his body responds to the power of his first Great Ape experience, contributing to additional genuine growth without a number or universal compulsory trigger. Vegeta uses a thrown slab and an attempted tail grab as tactics; Goshin and Gohan divert the slab. After Vegeta targets Chi-Chi, Goshin redirects his mouth-fired attack with his controlled giant-form Kamehameha and Gohan independently blocks the follow-up. The previous Galick Gun remains a real named threat.",
+      "source": "The Twin/chapters/Chapter_27_The_Space_to_Stand.md; O192 O195 O199",
+      "source_class": "authored continuation following standing conscious-control and growth directions",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A",
+      "previous_statement_before_cross_chapter_review_2026_11_06": "In the unaccepted continuation Goshin remains conscious in his first giant form and catches transformed Vegeta’s fist one-handed after needing two hands at the preceding endpoint. His existing strength continues developing during the sustained exchange; his body responds to the power of his first Great Ape experience, contributing to additional genuine growth without a number or universal compulsory trigger. Vegeta uses a thrown slab and an attempted tail grab as tactics; Goshin and Gohan divert the slab. After Vegeta targets Chi-Chi, Goshin redirects his mouth-fired attack with his controlled giant-form Kamehameha and Gohan independently blocks the follow-up. The previous Galick Gun remains a real named threat.",
+      "status": "review-continuation-unaccepted"
+    },
+    {
+      "id": "O202",
+      "tier": "III",
+      "topic": "chapter 27 Gohan destroys artificial light and both revert",
+      "statement": "Gohan independently proposes another shot at the artificial light. Piccolo directs his lowered-face aim, and Goshin agrees despite not knowing whether he will revert and holds Vegeta away from the firing line. Gohan’s Kamehameha breaks the Power Ball; both Goshin and Vegeta revert, their tails intact. This result and its immediate effect are authored branch staging, not a claim of separately verified original-Z episode footage. Gohan does not transform; no exact multiplier, new scan or natural-moon phase is established.",
+      "source": "The Twin/chapters/Chapter_27_The_Space_to_Stand.md; O197 O198 O199; canon/SCENE_COVERAGE_033.md",
+      "source_class": "authored continuation; not source footage",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "O203",
+      "tier": "III",
+      "topic": "chapter 27 Vegeta defeat, Nappa awakening and scouters",
+      "statement": "Vegeta continues fighting after reversion and attempts a dust-screen attack and a grab at Gohan’s tail. Both brothers counter; Goshin feels that fighting and his first giant transformation have left his ordinary-sized body and ki much stronger than before he looked at the light, and Piccolo senses the increased ki. Goshin uses his accumulated unnumbered strength to knock Vegeta unconscious, catches him before the wall and checks that he is breathing. Krillin watches the prince. Piccolo removed Vegeta’s scouter and placed it on stone out of reach without touching its controls; earlier Krillin removed Nappa’s and kept it in an outside pocket. Nappa wakes injured in the gully, learns Gohan and Piccolo’s account of Vegeta firing at him, and is guarded by Gohan, Tien and Chiaotzu. Piccolo asks about Namek; no answer, long-term custody, pod use or escape is shown. Krillin retains the unused whole Senzu.",
+      "source": "The Twin/chapters/Chapter_27_The_Space_to_Stand.md; O196 O200 O202",
+      "source_class": "authored continuation; exact unaccepted endpoint",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "O204",
+      "tier": "III",
+      "topic": "chapter 27 city handoff and reunions",
+      "statement": "Chi-Chi, Bulma, Popo and Puar finish removing the people found in the damaged building; Chi-Chi reports unchecked rooms and the next street to volunteers, and an officer drives that way. No complete citywide evacuation is claimed. Bulma calls the children’s-home director, who says all six remain together in the hall, and calls Roshi with limited news. The group approaches the quarry; Chi-Chi witnesses controlled giant Goshin, later covers him with the gym blanket and checks both brothers. Bulma and Puar reunite with Yamcha, whose minor forearm cut remains. Goshin reports a sore side and has cheek and shoulder marks; Gohan has a sore shoulder and a glancing hip blow, without diagnosis.",
+      "source": "The Twin/chapters/Chapter_27_The_Space_to_Stand.md; O193 O200",
+      "source_class": "authored continuation of the wider response",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "O205",
+      "tier": "III",
+      "topic": "chapter 27 separate journeys and knowledge",
+      "statement": "Launch and Yajirobe help free a truck obstructed by metal and continue toward East City using the lower road; the city and quarry have not been reached. Yajirobe still has Upa’s flask. King Kai tells the running Goku that the artificial light transformed Goshin, who is talking and protecting the others, and that Chi-Chi and Bulma are approaching while the fight continues. Goku remains on Snake Way with his supply capsule; neither Yemma-end meeting nor family reunion is shown.",
+      "source": "The Twin/chapters/Chapter_27_The_Space_to_Stand.md; O200",
+      "source_class": "authored continuation; no early return or remote report beyond what is said",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "C300",
+      "tier": "I",
+      "topic": "episode 2 Goku and Krillin confront Raditz’s danger",
+      "statement": "At episode 2, 16:36–16:57, the retained caption sequence has an inquiry after Krillin, a warning to Goku that the stranger is not normal, and a response that merely facing him is frightening and that this has never happened before. The individual lines here lack speaker tags; their contextual Goku–Krillin attribution is also described in W-43, not directly labelled by the caption. The revised Chapter Two uses authored English and additional family responses.",
+      "source": "Dragon_Ball_Z_002.srt, 16:36–16:57 (W-30); W-43 secondary episode comparison",
+      "source_class": "redistributed Japanese caption text, unverified source/cut; speaker assignment contextual and separately described",
+      "witnesses": [
+        "W-30",
+        "W-43"
+      ],
+      "strength": "B"
+    },
+    {
+      "id": "O206",
+      "tier": "III",
+      "topic": "chapter two emotional and original-anime evidence pass",
+      "statement": "In the unaccepted local Chapter Two revision, Gohan remembers the river while flying above the sea, finds courage to greet Goku’s friends and is frightened when Goku admits fear of Raditz. Goshin reassures Gohan during introductions, learns about their father’s training, attempts to go to injured Krillin and chooses to stand before Gohan after Goku is felled. Bulma keeps the boys close; Gohan puts his hat on again before Goshin straightens it. Goku asks after Krillin, admits his fear while holding his ground, reflexively denies the children before warning Raditz away, and is explicitly backed by his friends. The two-child reactions, dialogue and blocking are authored; C300 records the distinct bounded source exchange. No fight, knockout or abduction is moved forward from Chapter Four and no power ceiling is established.",
+      "source": "The Twin/chapters/Chapter_02_The_Second_Name.md; canon/SCENE_COVERAGE_002_003.md; C300 and O080",
+      "source_class": "authored local review revision, informed by bounded source text",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A",
+      "status": "unaccepted"
+    },
+    {
+      "id": "O207",
+      "tier": "III",
+      "topic": "Chapter 1–2 and 4–5 scouter snapshots and action",
+      "statement": "In unaccepted Chapters One and Two, Raditz sees authored 322 and 334 on two distant strength scans alongside separate distance markers. The moving signal shows an authored repeat of 334 during the Nimbus sea crossing, and 334 appears again on Goku at the island; 400 flashes without a named target before his later 400 scan of Goshin. Those added early power displays are branch snapshots, not source-proven numbers at those moments or maxima. The exact emotional-pass Chapters One–Two are preserved in the 1–2 pre-clarification ZIP. In unaccepted Chapters Four and Five, Raditz's previously unspecified active scans show authored Goshin readings 640, 760 and 1,100; Goku's wave shows 936 at release; then Gohan shows 830 and Goshin 1,420, and Gohan reaches 1,000 leading into Chapter Six's existing 1,307. The separate 1,450 Goshin first-wave snapshot remains. Raditz guards the lens, assesses changed output and responds to the children. These numbers are specific branch moments, not canon measurements, fixed growth, baselines, ceilings, guaranteed maxima or damage formulae. The immediate preceding chapters are preserved in the 4–5 pre-clarification ZIP.",
+      "source": "canon/SCOUTER_READINGS_2026-11-05.md and selected Chapters One, Two, Four and Five",
+      "source_class": "authored local clarification following user scouter direction",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "D",
+      "status": "review-branch-unaccepted",
+      "previous_statement_before_opening_scouter_clarification_2026_11_05": "In unaccepted Chapters Four and Five, Raditz's previously unspecified active scans now show authored Goshin readings 640, 760 and 1,100; Goku's wave shows 936 at release; then Gohan shows 830 and Goshin 1,420, and Gohan reaches 1,000 leading into Chapter Six's existing 1,307. The separate 1,450 Goshin first-wave snapshot remains. Raditz guards the lens, assesses changed output and responds to the children. These numbers are specific branch moments, not canon measurements, fixed growth, baselines, ceilings, guaranteed maxima or damage formulae. The immediate preceding chapters are preserved in the 4–5 pre-clarification ZIP.",
+      "previous_statement_before_dragon_ball_feel_correction_2026_11_05": "In unaccepted Chapters One and Two, Raditz sees authored 322 and 334 on two distant strength scans alongside separate distance markers, then 334 on Goku at the island; 400 flashes without a named target before his later 400 scan of Goshin. Those added early power displays are branch snapshots, not source-proven numbers at those moments or maxima. The exact emotional-pass Chapters One–Two are preserved in the 1–2 pre-clarification ZIP. In unaccepted Chapters Four and Five, Raditz's previously unspecified active scans now show authored Goshin readings 640, 760 and 1,100; Goku's wave shows 936 at release; then Gohan shows 830 and Goshin 1,420, and Gohan reaches 1,000 leading into Chapter Six's existing 1,307. The separate 1,450 Goshin first-wave snapshot remains. Raditz guards the lens, assesses changed output and responds to the children. These numbers are specific branch moments, not canon measurements, fixed growth, baselines, ceilings, guaranteed maxima or damage formulae. The immediate preceding chapters are preserved in the 4–5 pre-clarification ZIP."
+    },
+    {
+      "id": "O208",
+      "tier": "III",
+      "topic": "Chapter 18 experienced group scouter snapshot",
+      "statement": "In the unaccepted Chapter Eighteen mind-travel experience, one fighter's scouter displays the authored combined 2,840 for all seven signals; both opponents react to the group. This is not the source episode's 1,507 for four, an independent physical-body measurement, an opponent's power, a maximum or a defined ratio. The group returns before the opponents' fates are known.",
+      "source": "canon/SCOUTER_READINGS_2026-11-05.md, selected Chapter Eighteen, C201",
+      "source_class": "authored local experience, distinct from source baseline",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "D",
+      "status": "review-branch-unaccepted"
+    },
+    {
+      "id": "C301",
+      "tier": "I",
+      "topic": "original Z episode 36 Namek aftermath",
+      "statement": "In the retained episode-36 captions Krillin recounts Vegeta’s statement that Namekians have unusual abilities and proposes that Namek might have Dragon Balls (16:23–17:46). Gohan adds that he heard the ability claim. King Kai subsequently gives a tentative Earth-style location, recounts a past disaster and reports detecting surviving Namekians (18:35–22:28). These are the captioned speakers’ source-continuity statements, not proof that they reached characters in the altered branch or a guarantee of a journey or wish.",
+      "source": "Dragon_Ball_Z_036.srt, 16:23–22:28; canon/SCENE_COVERAGE_036.md",
+      "source_class": "direct redistributed Japanese caption text, original source and cut unverified",
+      "witnesses": [
+        "W-30"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "C302",
+      "tier": "I",
+      "topic": "original Z episode 37 medical treatment, pod and Popo",
+      "statement": "In the retained episode-37 dialogue the recovering group discusses medical treatment and a later Senzu crop (04:55–07:01). Bulma operates a device while watching a Saiyan pod on television; a reporter says the pod exploded, and Bulma wonders whether she pressed a self-destruct control (07:45–09:31). Popo later recounts Kami’s childhood in Yunzabit, proposes the former home might be a ship, and helps Bulma test voice commands (10:21–25:21). The text does not alone establish all silent staging, authenticity of its source/cut, or any corresponding altered-branch event.",
+      "source": "Dragon_Ball_Z_037.srt; canon/SCENE_COVERAGE_036.md",
+      "source_class": "direct redistributed Japanese caption text, original source and cut unverified",
+      "witnesses": [
+        "W-30"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "O209",
+      "tier": "III",
+      "topic": "chapter 28 Nappa’s Namek claims and Piccolo’s question",
+      "statement": "In unaccepted Chapter 28 Nappa tells Piccolo he has seen Namekians on another world, identifies Namek as their planet, says he has not visited it and cannot give its location without a ship, and repeats Vegeta’s earlier suspicion about unusual abilities and Earth’s Dragon Balls. These are Nappa’s authored statements, not independent confirmation. Gohan proposes asking Kami, but Kami is not shown receiving or answering the question. No Namekian Dragon Ball set, coordinates or trip is learned or established. Nappa also claims the two scouters can summon the Saiyan ships; no one tests that claim.",
+      "source": "The Twin/chapters/Chapter_28_What_We_Carry.md; canon/SCENE_COVERAGE_036.md; O203",
+      "source_class": "authored divergent continuation; no source knowledge automatically transferred",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A",
+      "status": "review-branch-unaccepted"
+    },
+    {
+      "id": "O210",
+      "tier": "III",
+      "topic": "chapter 28 awakened Vegeta, guard and bean",
+      "statement": "In unaccepted Chapter 28 Vegeta wakes, demands that injured Nappa rise and points a hand toward him. Gohan puts himself between them; Goshin restrains and redirects Vegeta’s raised arm, using the substantial, real and unnumbered strength he retained from the fight and first Great Ape experience. Stone cracks under the wrist, and Goshin eases his hold while keeping the injured prince restrained. Vegeta explicitly treats Nappa as expendable; Nappa remains injured and hostile, not an automatic ally. Krillin retains the only whole Senzu while Gohan seeks safe ordinary medical help. The two scouters are placed together on the stone out of the Saiyans’ immediate reach without pressing their controls; transmission states are unknown. No new scan or long-term custody is established.",
+      "source": "The Twin/chapters/Chapter_28_What_We_Carry.md; O192 O201 O203",
+      "source_class": "authored divergent continuation; no measurement or fixed growth rule",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A",
+      "status": "review-branch-unaccepted"
+    },
+    {
+      "id": "O211",
+      "tier": "III",
+      "topic": "chapter 28 Launch, Yajirobe, city and flask",
+      "statement": "Launch and Yajirobe reach East City, see two dusty round objects in separate landing craters behind police barriers, help free an injured shopkeeper and continue to the quarry. Launch reunites with Tien and Chiaotzu. Yajirobe retains Upa’s flask, sharing some water for Goshin’s cheek and drinks; he pours a capful for Gohan to offer Nappa, who takes it. Neither traveler operates the objects; their internal condition, functions and longer custody remain unknown. No total city casualty or completed evacuation is asserted.",
+      "source": "The Twin/chapters/Chapter_28_What_We_Carry.md; O205",
+      "source_class": "authored divergent continuation; partial observations only",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A",
+      "status": "review-branch-unaccepted",
+      "previous_statement_before_complete_local_review_2026_11_06": "Launch and Yajirobe reach East City, see two dusty round objects in the landing crater behind police barriers, help free an injured shopkeeper and continue to the quarry. Launch reunites with Tien and Chiaotzu. Yajirobe retains Upa’s flask, sharing some water for Goshin’s cheek and drinks; he pours a capful for Gohan to offer Nappa, who takes it. Neither traveler operates the objects; their internal condition, functions and longer custody remain unknown. No total city casualty or completed evacuation is asserted."
+    },
+    {
+      "id": "O212",
+      "tier": "III",
+      "topic": "chapter 28 Bulma, civilian response and children",
+      "statement": "Bulma takes Yamcha and Puar back to the gym; his forearm cut is cleaned and dressed. A volunteer reports the lower room clear and an upstairs check still underway. Bulma warns against approaching the injured Saiyans without a fighter, asks a medical coordinator to discuss safe care and warns an officer not to operate the landing objects; a technical team has been called, but neither its inspection nor medical arrival is shown. She tells Roshi the local fight stopped and the brothers are with Chi-Chi; Goku has not returned at the time of that call. The director reports the six children still together in the hall and Hatch asking after the brothers. No permanent placement, citywide safety or final casualty count is established.",
+      "source": "The Twin/chapters/Chapter_28_What_We_Carry.md; O204",
+      "source_class": "authored continuation of shown local responses",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A",
+      "status": "review-branch-unaccepted"
+    },
+    {
+      "id": "O213",
+      "tier": "III",
+      "topic": "chapter 28 Goku’s return, reunion and belongings",
+      "statement": "King Kai tells running Goku that the fighting stopped and alerts Kami when Goku sees the distant entrance. Popo retrieves the two bags from the Lookout, places the previously loose target page and Hatch’s drawing with the shared letter, and tells Kami that the family is at the quarry, both boys are awake and Piccolo is there; the separate day-count page stays under the bench stone. Goku reaches Yemma’s end by the road, meets Kami at the office, returns through Yemma’s arranged passage to the Lookout and flies to the quarry. He senses the sons’ distinct increased ki and reunites with both and Chi-Chi. Goshin tells him the fight and his first giant change made him much stronger and he remains stronger now; Goku then offers to join the watch. Goshin wears the old shirt and spare trousers but is barefoot; the letter remains folded for reading at home. Goku and Goshin inspect his retained supply capsule without showing food removed or eaten. No instant return from King Kai’s planet or new fixed power reading is asserted.",
+      "source": "The Twin/chapters/Chapter_28_What_We_Carry.md; O174 O205",
+      "source_class": "authored continuation of the prearranged living-Goku route",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A",
+      "status": "review-branch-unaccepted"
+    },
+    {
+      "id": "O214",
+      "tier": "III",
+      "topic": "author-directed first Great Ape and lasting Saiyan-adaptation growth",
+      "statement": "The author clarified that Goshin became very strong through his Saiyan growth, innate Adaptation Talent and other existing factors, and that his first Great Ape transformation is itself a real new experience for the Talent. In the corrected unaccepted Chapters 26–28, his body responds to the unfamiliar power, and the sustained battle and first transformation produce a substantial genuine increase in physical strength and ki that remains in his ordinary body after reversion. Piccolo senses the greater ki compared with before the first transformation; Gohan later also senses it, and Goshin restrains injured Vegeta while deliberately controlling his pressure. The ordinary-body gain is real power, not merely better control, temporary size or access to previously held-back reserves. The Talent did not begin with this transformation, and its whole-being scope and future growth continue. No new scouter measurement, fixed multiplier or separate named normal-sized Great Ape mode is assigned; the latter is not prohibited or subject to an invented mandatory delay. This is Goshin-specific author-directed branch continuity, not a claim that every Saiyan receives the same effect.",
+      "source": "Author clarification, 5 November 2026; The Twin/chapters/Chapter_26_The_Light_Above.md; The Twin/chapters/Chapter_27_The_Space_to_Stand.md; The Twin/chapters/Chapter_28_What_We_Carry.md; canon/FIRST_GREAT_APE_GROWTH_2026-11-05.md",
+      "source_class": "author-directed holder-specific clarification and revised unaccepted story staging",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A",
+      "status": "review-branch-unaccepted"
+    },
+    {
+      "id": "C303",
+      "tier": "I",
+      "topic": "original Z episode 38 voyage planning and Gohan’s choice",
+      "statement": "In retained episode-38 dialogue Bulma estimates a one-month trip and first proposes five days for ship preparation (08:35–08:49); after discussion of Namekian she revises this to ten days (13:25–13:38). Gohan independently wants to go and revive Piccolo despite Chi-Chi’s objection; a later narrated cue says ten days pass before departure. These are source-continuity statements, not an automatic roster, clock, death or journey in the selected branch.",
+      "source": "Dragon_Ball_Z_038.srt; canon/SCENE_COVERAGE_037.md",
+      "source_class": "direct redistributed Japanese caption text; original source and cut unverified",
+      "witnesses": [
+        "W-30"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "C304",
+      "tier": "I",
+      "topic": "original Z episode 39 seventh day and unknown ship",
+      "statement": "In the retained episode-39 captions Bulma says the travelers are on their seventh day (05:01–05:08), and Gohan and Krillin discuss image training (05:14–06:27). Later dialogue places them in a mysterious vessel with traps and children; Bulma is seized. These are source-continuity events, not an encounter or a physical-room result established in the selected branch.",
+      "source": "Dragon_Ball_Z_039.srt; canon/SCENE_COVERAGE_037.md",
+      "source_class": "direct redistributed Japanese caption text; original source and cut unverified",
+      "witnesses": [
+        "W-30"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "O215",
+      "tier": "III",
+      "topic": "chapter 29 family meal, watch and belongings",
+      "statement": "In unaccepted Chapter 29 Goku opens the food-and-water capsule he carried along Snake Way; the family and friends share some crackers, dried fruit and water. Goku and Krillin watch Vegeta while Tien, Chiaotzu and Piccolo watch Nappa. Chi-Chi, Gohan, Goshin and Popo visit the city and return; Goku remains on the guard. Yajirobe refills Upa’s borrowed flask but does not return it. The boys’ bags and folded letter are again with Chi-Chi at the quarry; the separate day-count page remains at the Lookout. The promised Goshin wave display and Gohan rematch remain open.",
+      "source": "The Twin/chapters/Chapter_29_The_Day_Is_Not_Finished.md; canon/SCENE_COVERAGE_037.md",
+      "source_class": "authored divergent continuation",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A",
+      "status": "review-branch-unaccepted"
+    },
+    {
+      "id": "O216",
+      "tier": "III",
+      "topic": "chapter 29 independent city rescue and retained post-ape power",
+      "statement": "In the revised unaccepted Chapter 29 the city crew has heard someone upstairs. Gohan independently chooses a rear-window approach, calls down to the crew and carries the consenting trapped woman to safety. With Ren’s agreement, Goshin lifts the broken stair, landing and masonry, a broader and heavier load than the quarry rock he carried before his first transformation. He balances it on one arm while his ki independently holds the fractured wall and a falling brick; the crew then braces the section. His body and ki carry the substantial lasting growth from the fight and first controlled Great Ape experience. This is a qualitative comparison between shown actions, not a numeric maximum, fixed multiplier, proof of his former limit or an additional gain from the rescue. Other building areas remain unchecked, and an inquiry about the woman’s neighbour has no shown answer.",
+      "source": "The Twin/chapters/Chapter_29_The_Day_Is_Not_Finished.md; canon/SCENE_COVERAGE_037.md",
+      "source_class": "authored divergent rescue and application of O214, not a source event",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A",
+      "status": "review-branch-unaccepted"
+    },
+    {
+      "id": "O217",
+      "tier": "III",
+      "topic": "chapter 29 city information and children’s call",
+      "statement": "In unaccepted Chapter 29 the family sees the two dusty round objects behind the landing-site barrier while people carrying equipment cases speak to an officer outside it; no one touches the objects in the shown scene. The building crew has checked one empty upstairs room and the occupied rear room, and continues elsewhere; citywide safety, total casualties, the rescued woman’s neighbour and the objects’ interiors remain unknown. Bulma informs Roshi that living Goku has returned. Gohan and Goshin speak with Hatch: the six are still together in the hall, Chiko’s school question remains unanswered, and Hatch hears Goshin mention a long year but is not shown learning the chamber’s mechanism.",
+      "source": "The Twin/chapters/Chapter_29_The_Day_Is_Not_Finished.md; canon/SCENE_COVERAGE_037.md",
+      "source_class": "authored divergent continuation and bounded character knowledge",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A",
+      "status": "review-branch-unaccepted"
+    },
+    {
+      "id": "O218",
+      "tier": "III",
+      "topic": "chapter 29 guarded medical assessment",
+      "statement": "In unaccepted Chapter 29 Dr. Mori voluntarily visits after being told the Saiyans attacked people and after discussing guards. Nappa accepts a limited examination and cleaning of a scrape while rejecting a needle and dressing; Vegeta declines examination. The physician cannot diagnose the full injury or promise an outcome, and asks for a safer transfer plan and equipment; no transfer, ambulance or medical administration is shown. At Chi-Chi’s request she also briefly examines the sore boys, hears no dizziness and finds them breathing comfortably while seated, but cannot rule out injury and recommends fuller assessment. Neither child is declared healed. The whole Senzu stays with Krillin.",
+      "source": "The Twin/chapters/Chapter_29_The_Day_Is_Not_Finished.md; canon/SCENE_COVERAGE_037.md",
+      "source_class": "authored divergent care, consent and limits",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A",
+      "status": "review-branch-unaccepted"
+    },
+    {
+      "id": "O219",
+      "tier": "III",
+      "topic": "chapter 29 scouter cells and Kami’s childhood clue",
+      "statement": "In unaccepted Chapter 29 Bulma removes one found cell from each of the two scouters without placing a lens on anyone or staging a scan. She wraps the two devices and two cells separately and takes the case to the car. She cannot rule out other power or say what was already transmitted; Nappa’s claim the scouters call ships remains untested. Piccolo tells Popo the limited Namek claim; Popo says the name is new to him and remembers Kami once describing waiting for family at Yunzabit, but does not know why. Piccolo decides to ask Kami and Gohan chooses to come when they can leave. Kami is not shown hearing the question, and no craft, planetary coordinates, Namekian Dragon Balls or voyage is established.",
+      "source": "The Twin/chapters/Chapter_29_The_Day_Is_Not_Finished.md; canon/SCENE_COVERAGE_037.md",
+      "source_class": "authored divergent devices and bounded new recollection",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A",
+      "status": "review-branch-unaccepted"
+    },
+    {
+      "id": "O220",
+      "tier": "III",
+      "topic": "selected chapter 20 correction — Hatch and the wheel",
+      "statement": "In the selected unaccepted Chapter 20, Bulma points to the pictured wheel and offers a motor idea if Hatch wants one. Hatch chooses a big motor and draws it on the larger boat picture; no physical boat or motor is built or promised. This is not a claim about the separately preserved author-accepted original.",
+      "source": "The Twin/chapters/Chapter_20_The_Weight_of_a_Step.md; canon/SCENE_COVERAGE_019.md",
+      "source_class": "authored selected-branch addition, not source canon or author acceptance",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "D",
+      "status": "review-branch-unaccepted"
+    },
+    {
+      "id": "C305",
+      "tier": "I",
+      "topic": "original Z episode 37 Kami’s remembered house and door word",
+      "statement": "In the retained episode-37 dialogue Popo recounts Kami’s account: Kami did not remember how he came to Yunzabit, suspected a head injury, recalled a letter telling him to wait for family and an uncertain twenty- or thirty-year wait, and described a round home on four legs that opened to the word “Piccolo” (18:00–20:25). Later Bulma conjectures that an unusual language heard at the tournament is Namekian, and Popo says that if it is, he understands some of it and “Piccolo” means another world (22:49–23:17). These are source-character statements and recollections, not independently verified visual staging, a precise altered-branch duration or proof of the house’s origin.",
+      "source": "Dragon_Ball_Z_037.srt, 18:00–20:25 and 22:49–23:17; canon/SCENE_COVERAGE_037_CH30.md",
+      "source_class": "direct redistributed Japanese caption text; original source and cut unverified",
+      "witnesses": [
+        "W-30"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "O221",
+      "tier": "III",
+      "topic": "chapter 30 father-and-sons display and guarded departure",
+      "statement": "In the revised unaccepted Chapter 30, Gohan independently checks a skyward firing line, and Goshin fulfills his promise by directing and stopping a controlled Kamehameha for Goku. Piccolo recognizes that Goshin’s current ordinary-body ki is sufficient to destroy Earth, the author-directed current capability, while the particular display is deliberately controlled rather than a maximum. Vegeta remembers the earlier scouter snapshot and the blow that knocked him unconscious after reversion; no new numeric reading is shown. Goku and Krillin watch Vegeta while Tien and Chiaotzu watch Nappa. Gohan and Goshin independently accompany Piccolo and Popo to ask living Kami about Namek; their later high-speed travel is not assigned an exact number. Gohan’s match with Goku remains open. The prior comparison to both brothers’ combined Galick-defense waves is superseded, not an established numerical or quantitative scaling rule.",
+      "source": "The Twin/chapters/Chapter_30_The_House_That_Waited.md; canon/SCENE_COVERAGE_037_CH30.md; canon/WORLD_POWER_AND_EPISODE_37_2026-11-06.md; O214 O225",
+      "source_class": "authored revised family display, author-directed current planetary capability and high-speed continuity",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "D",
+      "status": "review-branch-unaccepted",
+      "previous_statement_before_ch30_power_scaling_correction_2026_11_06": "In unaccepted Chapter 30 Gohan chooses and places a target in a clear hollow; Goshin shows Goku his wave. Goshin physically balances a slab broader than the quarry rock he carried before his first transformation while separately guiding six heavy boulders with ki, then places the slab down, fires through the moving stones and controls the falling target piece. The performance applies substantial ordinary-body and ki growth already retained from the fight and first controlled Great Ape experience; it is not itself a new measured or mandatory permanent increase. Goku watches from near Vegeta with Krillin, while Tien and Chiaotzu guard Nappa. Gohan and Goshin independently choose to go with Piccolo and Popo; Chi-Chi and Goku agree with stated concern and the temporary guard remains. Goshin’s promised wave display is fulfilled, but Gohan’s promised rematch with Goku is not yet held.",
+      "revision_note_2026_11_06": "The author challenged Chapter 30 power scaling; the earlier modest slab-and-moving-stones exercise and dismissive Vegeta line were replaced. Previous statement retained above, and the immediate manuscript/project predecessor is byte-preserved.",
+      "previous_source_before_ch30_power_scaling_correction_2026_11_06": "The Twin/chapters/Chapter_30_The_House_That_Waited.md; canon/SCENE_COVERAGE_037_CH30.md; O214 O216",
+      "previous_statement_before_world_scale_episode37_correction_2026_11_06": "In the revised unaccepted Chapter 30, Gohan independently surveys the hills and sky and chooses a clear upward firing line away from the city. Goshin drives an upward punch that sends a ring through the high cloud bank, then gathers a much larger Kamehameha and fires it into the sky, widening and then narrowing and stopping it. Goku witnesses the promised display; Piccolo, who felt both brothers’ combined waves turn Vegeta’s Galick Gun away before Goshin’s first transformation, senses Goshin drawing on far more ki than those two waves together in his ordinary body now. The demonstration applies substantial genuine physical and ki growth already retained from the fight and first controlled Great Ape experience. Vegeta remembers the earlier 19,400 scouter snapshot and the later ordinary-bodied blow that knocked him unconscious; no scouter is activated now. Goku and Krillin guard Vegeta while Tien and Chiaotzu guard Nappa. Gohan and Goshin independently choose to accompany Piccolo and Popo, their parents agree with concern, and Gohan’s promised rematch with Goku remains pending. The display does not set a new number, maximum, fixed form multiplier, mandatory gain from every act or guaranteed result against a recovered Vegeta.",
+      "previous_source_before_world_scale_episode37_correction_2026_11_06": "The Twin/chapters/Chapter_30_The_House_That_Waited.md; canon/SCENE_COVERAGE_037_CH30.md; O192 O195 O203 O214"
+    },
+    {
+      "id": "O222",
+      "tier": "III",
+      "topic": "chapter 30 Kami’s account and the Yunzabit home",
+      "statement": "In revised unaccepted Chapter 30, Piccolo tells living Kami Nappa’s limited Namek claim. Kami does not recognize the name; he recalls being alone at Yunzabit, a letter to wait for his family, possible head injury and an unusual home. Gohan suggests Bulma’s help; Goshin and Popo retrieve her. Kami, Bulma and Popo reach Yunzabit by carpet; Piccolo and both brothers follow Kami’s ki at extraordinary speed. Piccolo speaks the door word and the entry platform lowers, then rises. Bulma examines the interior; Gohan and Popo help her connect its voice response with the unfamiliar tournament language, and Popo knows relevant words. The boys return to ask their parents; with Chi-Chi’s conditional permission, Goshin, Gohan and Piccolo accompany Bulma and Popo for a Jupiter test while Kami waits at Yunzabit. The ship reaches Jupiter; Bulma’s speech accidentally summons a toilet and a bed. No Namek coordinates, Namek journey, ship return or completed homeworld inquiry is shown.",
+      "source": "The Twin/chapters/Chapter_30_The_House_That_Waited.md; canon/SCENE_COVERAGE_037_CH30.md; canon/WORLD_POWER_AND_EPISODE_37_2026-11-06.md; O214 O225",
+      "source_class": "source-aligned Episode 37 adventure with authored changed participants and choices",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "D",
+      "status": "review-branch-unaccepted",
+      "previous_statement_before_world_scale_episode37_correction_2026_11_06": "In unaccepted Chapter 30 Piccolo personally tells living Kami Nappa’s limited Namek claim. Kami says he does not know that name or how he came to Yunzabit; he remembers a childhood letter telling him to wait for family who did not arrive, the unusual round home and later return visits. He says the door word “Piccolo” meant another world, but does not establish why it was used or why the Demon King had the name. This transfers a source statement spoken by Popo to Kami as authored staging; it is not proof of a planet, complete language mastery, coordinates or an intact historical letter. Kami chooses to revisit the highlands, riding Popo’s carpet; Piccolo and both boys fly alongside. Gohan finds a landmark, Kami recognizes the home, and Piccolo says the word. A door opens and a light comes on. Kami, Gohan, Goshin and Piccolo enter; Popo and the carpet are last shown outside. The boys note unfamiliar marks, not translated or yet copied, and propose asking Bulma. Goshin borrows boots and a wrap, Gohan a wrap. Flight readiness, origin, route, Namekian Dragon Balls and any voyage remain unconfirmed.",
+      "previous_source_before_world_scale_episode37_correction_2026_11_06": "The Twin/chapters/Chapter_30_The_House_That_Waited.md; canon/SCENE_COVERAGE_037_CH30.md; C305 O219"
+    },
+    {
+      "id": "O223",
+      "tier": "III",
+      "topic": "chapter 30 pod accident and device custody",
+      "statement": "In revised unaccepted Chapter 30, Bulma leaves Dr. Mori at the city gym and takes Yamcha, Puar, both captured scouters and their separate cells to Capsule Corporation. After officers report the landing sites cleared of personnel, she powers the Nappa scouter and tests a suspected remote command while watching one landing site on television. One Saiyan pod explodes; Bulma identifies an unintended destructive command or response as a possibility. The other object remains at its separate crater outside that view; its condition and controls are not verified. Bulma asks Dr. Brief to tell the officers what happened and keep clear of the other craft; he agrees. Popo and Goshin then invite Bulma to examine Kami’s old home. Yamcha, Puar and Dr. Brief remain at the lab. No new personal scouter reading or definitive answer about prior and current transmissions is established. The Chapter 29 neighbour inquiry is not resolved on-page in this revision.",
+      "source": "The Twin/chapters/Chapter_30_The_House_That_Waited.md; canon/SCENE_COVERAGE_037_CH30.md; canon/WORLD_POWER_AND_EPISODE_37_2026-11-06.md; O214 O225",
+      "source_class": "source-inspired pod test with prior branch caution and two-site divergence",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "D",
+      "status": "review-branch-unaccepted",
+      "previous_statement_before_world_scale_episode37_correction_2026_11_06": "In unaccepted Chapter 30 Bulma, Dr. Mori, Yamcha and Puar reach the gym in Bulma’s car. The coordinator reports officers and a team with equipment at the city landing site; no inspection, pod operation or explosion is shown, and the two round objects were last shown in separate cordoned craters. Bulma keeps the captured scouters and their two separately wrapped found cells in her closed case, speaks with her father by telephone and intends a lab examination; no lab arrival, active scan or test is shown, and hidden power and past transmissions remain uncertain. Mrs. Endo at the gym identifies her neighbour as Mrs. Taki; a volunteer verifies the rescued woman’s name at the building and tells Taki that Endo is at the gym. Endo has heard that an upstairs woman got out but is not shown receiving confirmation it was Taki. A medic promises to pass Taki’s message; delivery is not shown. Ren’s crew continues the building search, and no citywide safety or casualty count is established.",
+      "previous_source_before_world_scale_episode37_correction_2026_11_06": "The Twin/chapters/Chapter_30_The_House_That_Waited.md; canon/SCENE_COVERAGE_037_CH30.md; O217 O219",
+      "previous_topic_before_world_scale_episode37_correction_2026_11_06": "chapter 30 city neighbours, Bulma and device custody"
+    },
+    {
+      "id": "O224",
+      "tier": "III",
+      "topic": "chapter 30 temporary guards, family permission and Jupiter passengers",
+      "statement": "In revised unaccepted Chapter 30, Goku and Krillin maintain a temporary watch over injured Vegeta while Tien and Chiaotzu watch injured Nappa. Neither Saiyan is released or killed; no further examination, dressing, transfer, complete diagnosis or custody outcome is shown. Dr. Mori is left at the city gym, and the fuller assessments recommended in Chapter 29 remain open. Gohan and Goshin return from Yunzabit to ask Chi-Chi and Goku before the Jupiter test. Chi-Chi reluctantly permits them to go if Piccolo accompanies them and they return directly; Piccolo chooses to come. Goku remains guarding Vegeta, and Krillin retains the whole Senzu. At the chapter end Bulma, Popo, Piccolo and both boys are at Jupiter, while Kami remains at Yunzabit; return is not yet shown.",
+      "source": "The Twin/chapters/Chapter_30_The_House_That_Waited.md; canon/SCENE_COVERAGE_037_CH30.md; canon/WORLD_POWER_AND_EPISODE_37_2026-11-06.md; O214 O225",
+      "source_class": "authored watch, informed family decision and exact Jupiter endpoint",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "D",
+      "status": "review-branch-unaccepted",
+      "previous_statement_before_world_scale_episode37_correction_2026_11_06": "In unaccepted Chapter 30 Dr. Mori returns to the quarry with Bulma, Yamcha and Puar and additional supplies. Nappa initially refuses a dressing, then accepts cleaning and a bandage after specifying no needle; Chi-Chi assists with the dressing while fighters watch the two Saiyans. Nappa responds to Vegeta’s renewed order by recalling the prince’s raised hand; neither becomes an ally. Vegeta previously refused examination and does not consent here. Mori and the gym coordinator discuss a possible clinic but do not settle a transfer, and she does not diagnose the complete injuries or promise an outcome. Goku and Krillin guard Vegeta, Tien and Chiaotzu guard Nappa; Krillin retains the whole Senzu. Both sons still need the fuller assessments recommended in Chapter 29.",
+      "previous_source_before_world_scale_episode37_correction_2026_11_06": "The Twin/chapters/Chapter_30_The_House_That_Waited.md; canon/SCENE_COVERAGE_037_CH30.md; O218",
+      "previous_topic_before_world_scale_episode37_correction_2026_11_06": "chapter 30 voluntary Nappa dressing and unresolved care"
+    },
+    {
+      "id": "C306",
+      "tier": "I",
+      "topic": "original Z episode 37 language, Jupiter test and comic voice commands",
+      "statement": "The retained episode-37 Japanese dialogue has Bulma identify the unfamiliar tournament language as likely Namekian, Popo say he understands it and describe the meaning of “Piccolo,” then at Bulma’s request give a command to fly to Jupiter. After launch, her speech coincides with a toilet and a bed being summoned; Popo explains the language confusion. Bulma recognizes Jupiter and celebrates. Popo’s source hope to revive Kami reflects the original continuity, not the living-Kami branch. Caption origin and cut are unverified, and the text alone does not establish every silent frame or performance.",
+      "source": "Dragon_Ball_Z_037.srt, 22:18–25:21; canon/SCENE_COVERAGE_037_CH30.md",
+      "source_class": "direct redistributed Japanese caption text; broadcaster origin and cut unverified",
+      "witnesses": [
+        "W-30"
+      ],
+      "strength": "A"
+    },
+    {
+      "id": "C307",
+      "tier": "II",
+      "topic": "source Dragon Ball Roshi and Piccolo Moon destructions",
+      "statement": "Dragon Ball Official’s separate Moon article says Kamesennin destroyed the Moon at the Tenkaichi Budokai to end Goku’s Great Ape transformation and Piccolo later destroyed it to stop Gohan’s transformation; its Jackie Chun profile describes the former as a maximum-power Kamehameha. These are original-continuity source events, not proof that the later Piccolo/Moon event happened in the divergent selected branch, whose natural Moon remains intact. No exact speed or universal numerical power-to-damage conversion is established.",
+      "source": "Dragon Ball Official Moon article and Jackie Chun character profile; canon/WORLD_POWER_AND_EPISODE_37_2026-11-06.md",
+      "source_class": "official manga-based franchise features, read separately",
+      "witnesses": [
+        "W-132"
+      ],
+      "strength": "B"
+    },
+    {
+      "id": "O225",
+      "tier": "III",
+      "topic": "author-directed world power and speed framework",
+      "statement": "The author clarifies that present Goshin, after the Saiyan fight and his first conscious Great Ape experience, is capable of destroying Earth; his substantial real ordinary-body and ki growth remains. The author places Goku at light speed or faster already during original Dragon Ball and directs that the world’s speed and power be written consistently with that interpretation. This is the author’s selected-branch baseline, not a newly measured exact speed, scouter number, fixed multiplier, unconditional constant travel speed or claim that Goshin destroys a planet on the page. Controlled actions and injuries remain possible, but may not turn planetary fighters into mundane humans. Both brothers retain agency and growth and Goshin is never less capable than Gohan.",
+      "source": "Author clarification, 6 November 2026; canon/WORLD_POWER_AND_EPISODE_37_2026-11-06.md; O214",
+      "source_class": "explicit author-directed branch interpretation and current capability",
+      "witnesses": [
+        "OC"
+      ],
+      "strength": "A",
+      "status": "review-branch-unaccepted"
     }
   ],
   "open_debts": [
@@ -6787,7 +7432,10 @@
     "The Chapter 18 draft and the selected Chapters 6–17 remain unaccepted; the room experience is not an independent physical measurement. Episode-17 caption origin, full visuals, long-term child placement and future source review remain open.",
     "Chapter 19 is an unaccepted review draft; episode-18 caption source/cut and full video remain unverified. Pod identity and safe diagnosis, permanent child placement, future training and reader acceptance remain open.",
     "The author-directed pre-Saiyan physical chamber year is shown for both boys in unaccepted Chapter 22; account for each boy's lived time. Later chamber use and version-specific exceptions remain open.",
-    "Chapter 21 is an unaccepted review checkpoint: episode-20 caption origin, exact cut and complete video remain unverified; school and longer child placement, Baba's promised attempt to find Grandpa and the covered machine remain open. Later unaccepted Chapters 22–23 show the brothers' chamber year, training and Saiyan landing; remaining battle outcomes and later room visits remain open."
+    "Chapter 21 is an unaccepted review checkpoint: episode-20 caption origin, exact cut and complete video remain unverified; school and longer child placement, Baba's promised attempt to find Grandpa and the covered machine remain open. Later unaccepted Chapters 22–23 show the brothers' chamber year, training and Saiyan landing; remaining battle outcomes and later room visits remain open.",
+    "At the Chapter 27 checkpoint, original episode 33–36 caption origin/cut and uncaptioned audiovisual staging remained unverified; the Power Ball destruction and resulting reversion are authored. Namek answers, Saiyan custody and pod status, citywide safety, Goku’s return and reader acceptance were open. Chapter 28 advances some but not all of these matters.",
+    "Unaccepted Chapter 28: source caption origin/cut and full audiovisual performance remain unverified. The Saiyans’ safe custody and care, scouter transmission state, technical pod inspection, citywide safety, Namek claims, family promises and author review remain open; Goku has returned in this draft, not in the accepted Chapter 20 original.",
+    "Unaccepted Chapter 30: source episode-37 caption provenance/cut and full audiovisual performance remain unverified. The highland home’s origin and capabilities, Saiyan care and custody, the city search, safe scouter study, Gohan rematch, family letter, children’s arrangements, C-6 and author review remain open."
   ],
   "tier_note": "Tier I means a directly read primary-like caption statement, provisional pending source/video verification. Tier II means secondary or unverified visual evidence. Tier III means authored decisions. Never infer a frame from audio captions.",
   "strength_grades": {
@@ -6797,5 +7445,7 @@
     "D": "nothing attests it: authored, and declared as such in the chapter"
   },
   "witnesses_registered_in": "CANON.md §2",
-  "review_branch_scope_note": "Selected local chapters include 3 November character, continuity and canon-timeline review candidates. The pre-correction Chapter 20 is author-accepted and separately preserved; its selected corrected version is unaccepted. Chapter 22 now supplies an authored months-long interval after Chapter 21 and nearly a year since Raditz, followed by the boys’ full lived chamber year; no exact birthday or source-derived day count is asserted. See canon/SELECTED_CONTINUITY_CORRECTIONS_2026-11-03.md and canon/SCENE_COVERAGE_021.md. Older rows and source inventories can describe historical branches; source-video and author-review limits remain."
+  "review_branch_scope_note": "Selected local chapters include 3 November character, continuity and canon-timeline review candidates. The pre-correction Chapter 20 is author-accepted and separately preserved; its selected corrected version is unaccepted. Chapter 22 now supplies an authored months-long interval after Chapter 21 and nearly a year since Raditz, followed by the boys’ full lived chamber year; no exact birthday or source-derived day count is asserted. See canon/SELECTED_CONTINUITY_CORRECTIONS_2026-11-03.md and canon/SCENE_COVERAGE_021.md. Older rows and source inventories can describe historical branches; source-video and author-review limits remain. Unaccepted Chapter 26 additionally shows Vegeta's artificial moon and Goshin's first immediately conscious and controlled Great Ape; it does not alter the accepted original Chapter 20. The later unaccepted Chapter 27 gives Gohan an authored shot destroying the artificial light and reverts both transformed fighters, then shows Vegeta unconscious and Nappa awake under watch. This branch result is not a claim that original footage was watched or the preserved accepted original was changed. Unaccepted Chapter 28 continues from that endpoint: Nappa gives limited claims, Vegeta wakes, the city response continues and the living Goku completes the agreed road-and-passage return. The chapter remains local and unaccepted; no remote update occurred. Unaccepted Chapter 29 continues the reunion, city rescue, limited care and guarded Saiyans, while Piccolo plans only a bounded question to Kami. The selected Chapters 1–29 have now received the local story-wide prose correction; all selected corrections remain unaccepted. The author subsequently requested Chapter 30, now an unaccepted local continuation, and no remote update follows.",
+  "previous_review_branch_scope_note_before_cross_chapter_review_2026_11_06": "Selected local chapters include 3 November character, continuity and canon-timeline review candidates. The pre-correction Chapter 20 is author-accepted and separately preserved; its selected corrected version is unaccepted. Chapter 22 now supplies an authored months-long interval after Chapter 21 and nearly a year since Raditz, followed by the boys’ full lived chamber year; no exact birthday or source-derived day count is asserted. See canon/SELECTED_CONTINUITY_CORRECTIONS_2026-11-03.md and canon/SCENE_COVERAGE_021.md. Older rows and source inventories can describe historical branches; source-video and author-review limits remain. Unaccepted Chapter 26 additionally shows Vegeta's artificial moon and Goshin's first immediately conscious and controlled Great Ape; it does not alter the accepted original Chapter 20. The later unaccepted Chapter 27 gives Gohan an authored shot destroying the artificial light and reverts both transformed fighters, then shows Vegeta unconscious and Nappa awake under watch. This branch result is not a claim that original footage was watched or the preserved accepted original was changed. Unaccepted Chapter 28 continues from that endpoint: Nappa gives limited claims, Vegeta wakes, the city response continues and the living Goku completes the agreed road-and-passage return. The chapter remains local and unaccepted; no remote update occurred.",
+  "previous_review_branch_scope_note_before_chapter30_2026_11_06": "Selected local chapters include 3 November character, continuity and canon-timeline review candidates. The pre-correction Chapter 20 is author-accepted and separately preserved; its selected corrected version is unaccepted. Chapter 22 now supplies an authored months-long interval after Chapter 21 and nearly a year since Raditz, followed by the boys’ full lived chamber year; no exact birthday or source-derived day count is asserted. See canon/SELECTED_CONTINUITY_CORRECTIONS_2026-11-03.md and canon/SCENE_COVERAGE_021.md. Older rows and source inventories can describe historical branches; source-video and author-review limits remain. Unaccepted Chapter 26 additionally shows Vegeta's artificial moon and Goshin's first immediately conscious and controlled Great Ape; it does not alter the accepted original Chapter 20. The later unaccepted Chapter 27 gives Gohan an authored shot destroying the artificial light and reverts both transformed fighters, then shows Vegeta unconscious and Nappa awake under watch. This branch result is not a claim that original footage was watched or the preserved accepted original was changed. Unaccepted Chapter 28 continues from that endpoint: Nappa gives limited claims, Vegeta wakes, the city response continues and the living Goku completes the agreed road-and-passage return. The chapter remains local and unaccepted; no remote update occurred. Unaccepted Chapter 29 continues the reunion, city rescue, limited care and guarded Saiyans, while Piccolo plans only a bounded question to Kami. The selected Chapters 1–29 have now received the local story-wide prose correction; all selected corrections remain unaccepted, Chapter 30 is paused and no remote update follows."
 }

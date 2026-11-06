@@ -1,5 +1,7 @@
 # Power-scale review plan — Chapters 6–14
 
+**Later scope clarification, 3 November:** The protections and no-edit instructions in this dated pass applied to that particular work, not a permanent ban on Chapters 1–5. The author later clarified the scope and requested small appearance additions in selected Chapters 1 and 2; their immediately prior versions are preserved. Chapter 20 is accepted; Chapters 21 and 22 remain unaccepted. Use the current project foundation and author instructions for later work.
+
 **Status:** working review candidate, 2 November 2026. The reader delegated the scope. Audit the newest compatible candidate for each chapter from 6 through 14; make only targeted corrections where an attack, obstacle, training exercise or fight could materially imply an unsupported cap. Preserve the protected project, Chapters 1–5, every earlier candidate and archive. Do not mark any candidate accepted or update remotes.
 
 ## Source and interpretation boundary

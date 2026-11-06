@@ -4,6 +4,8 @@
 
 **Owns: the source-order comparison for the episode-6 adaptation.** The complete local Japanese episode-6 captions (`W-30`) were reread before the original draft; their provenance and cut remain unverified, and dialogue does not establish silent frames. `W-24`, `W-51` and `W-52` are secondary episode summaries, not a full-video inspection. Rows below are in **source order**, not necessarily the chapter's screen order.
 
+**5 November current treatment:** The entire retained episode-6 caption including preview, ending and unrelated tail was reread; its cut and origin remain unverified. The short [Toei episode-6 synopsis](https://lineup.toei-anim.co.jp/ja/tv/dragonz/episode/6/) and a secondary summary were consulted, not complete video/audio. In the new selected Chapter Seven the boys resist Piccolo in flight and at a ravine, Chi-Chi makes the later answered call, and three beans are obtained. Kami asks about living Goku and Yemma agrees to ask King Kai but gives no promise or passage. **The older table’s guide showing Kami the road entrance and its later-fit-request conditions are historical and not in the selected Chapter Seven** (`O100`). See the [current correction](DRAGON_BALL_FEEL_CORRECTION_2026-11-05.md); the table below remains explicitly historical.
+
 **Branch boundary, 3 November growth audit:** The authored Chapter Seven rows below describe the older root draft, not the selected unaccepted Chapter Seven. In the selected text Piccolo confronts the boys on the aircraft and later at a ravine; Goshin bends Gohan's path and diverts a slab with ki (`O098`, `O099`). It does not explicitly show the older copied-hand-and-gauze sequence or a Kamehameha against the slab. The source-baseline evidence remains historical and caption-limited.
 
 **31 October reader correction:** the first Chapter Seven draft invented a hospital and a landing strip. Neither was a sourced episode-6 event or an established story location. That detour and the doctor-trip lines in the unaccepted Chapter Six ending have been replaced. In the baseline, the group intends to return to Kame House and Piccolo intervenes before that return (`W-24`); Goku is dead. The revised divergent chapter keeps Goku alive and adapts the events causally, rather than asserting the altered sequence is canon.
@@ -38,3 +40,6 @@
 ## 3 November checker-repair note
 
 The 3 November checker repair extends the aircraft conversation, Chi-Chi and Ox-King’s departure, and Korin’s handling of the same three beans. Piccolo’s intervention and the boys’ choices remain as in the selected manuscript; older rows still need the branch warning above. The additions are authored, not newly verified footage.
+
+
+**5 November 2026 continuing-pass pointer:** The [current Chapters 3–12 source and branch record](EMOTIONAL_REVISION_003_012_2026-11-05.md) documents the local emotional revision, reread caption limits and pre-pass versions. Where this inventory explicitly labels a treatment column historical, follow the selected manuscript and that newer record rather than the older column.

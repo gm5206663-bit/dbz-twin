@@ -2,18 +2,65 @@
 
 **Owns: evidence-based change from the preceding working checkpoint, without inventing a breakthrough.**
 
-The universal [adaptation-log template](../../Research/Adaptation%20Talent/templates/adaptation-log-entry.md) calls for milestone entries when a real milestone exists; ordinary chapters use a status delta. Selected Chapters 15–19 remain unaccepted review material; the author explicitly accepted the preserved pre-correction Chapter 20, not its selected corrected version. Chapters 21–25 are later unaccepted review candidates.
+The universal [adaptation-log template](../../Research/Adaptation%20Talent/templates/adaptation-log-entry.md) calls for milestone entries when a real milestone exists; ordinary chapters use a status delta. Selected Chapters 15–19 remain unaccepted review material; the author explicitly accepted the preserved pre-correction Chapter 20, not its selected corrected version. Chapters 21–30 are later unaccepted review candidates.
 
-**Earlier growth remains part of the current state:** Goku observes stronger ki after the crater in Chapter 8; the Chapter 9 rescue shot is narrower; Chapter 13 shows refined control in the wave contest; Chapter 15 combines four moving stones with a Kamehameha. Those earlier selected chapters are unaccepted review material. See the [status panel](GOSHIN_STATUS_PANEL.md) for the source-by-source record.
+**Earlier growth remains part of the current state:** Goku observes stronger ki after the crater in Chapter 8; the Chapter 9 rescue shot is narrower; Chapter 13 shows refined control and a gain of strength that remains after the wave contest; Chapter 15 combines four moving stones with a Kamehameha. Those earlier selected chapters are unaccepted review material. See the [status panel](GOSHIN_STATUS_PANEL.md) for the source-by-source record.
 
 **Growth audit and correction:** The earlier Chapter 21 draft gave Goku and Gohan clearer improvements while largely repeating Goshin's Chapter 15 and 19 four-object-plus-wave work. The author directed a correction. The revised unaccepted draft now shows Goshin's strength and ki rising during his Piccolo round, followed by a deeper controlled cut at the earlier bank mark after further practice. The previous draft is preserved; the revision and its quality remain for the author to judge. The pre-correction Chapter 20 remains accepted; its selected correction awaits review.
 
-## Status delta · Chapter 25 (unaccepted continuation)
+## Author-directed milestone · First Great Ape experience and lasting power
+
+Goshin's innate, non-sentient Adaptation Talent and Saiyan nature work with the sustained fight and his first experience in the controlled Great Ape body. The result is a **substantial genuine increase** in physical strength and ki, already retained after he returns to ordinary size (`O214`). The Talent was not awakened by this event, and the increase is not simply a release of earlier reserves. Piccolo and Gohan sense the larger ki; Goshin's controlled restraint of injured Vegeta demonstrates application without proving a numerical comparison to a fresh opponent. The separately activated normal-sized ape mode and exact fraction of the form's power remain unspecified, not forbidden or delayed. No formal Level or Order is invented. See the [correction and preserved predecessor](../canon/FIRST_GREAT_APE_GROWTH_2026-11-05.md).
+
+## Status delta · Chapter 30 (unaccepted continuation)
+
+| Dimension | Shown | Boundary |
+|---|---|---|
+| Retained body and ki | Goshin gives Goku a directed, deliberately stopped Kamehameha. Piccolo recognizes Earth-destruction-capable ki in Goshin’s ordinary body (`O214`, `O221`, `O225`). | The author’s planetary capability is current; the display is not a maximum, fresh permanent gain, new scan or multiplier. The previous ungrounded combined-wave comparison is superseded. |
+| Speed and agency | Both brothers cross great distances quickly. Gohan suggests asking Bulma and the voice control, and decides to seek his parents’ permission; Goshin retrieves Bulma with Popo and chooses the test. | The author’s early light-speed interpretation governs the working scale without an assigned individual number. Both retain their independent growth, and Goshin remains no less capable. |
+| Condition and endpoint | Goshin is ordinary-sized and tailed, wearing borrowed boots and a wrap. He and Gohan reach Jupiter with Bulma, Popo and Piccolo; Kami waits at Yunzabit. | Earlier soreness is not declared healed; no new diagnosis, Senzu use, confirmed Namek route or return is shown (`O222`, `O224`). |
+
+## Status delta · Chapter 29 (unaccepted continuation; earlier checkpoint)
+
+| Dimension | Shown | Boundary |
+|---|---|---|
+| Retained body and ki | In ordinary size Goshin proposes and physically lifts the stair, landing and masonry, a heavier and broader load than the quarry rock he carried before his first transformation. He balances it on one arm while separately holding the fractured wall with ki; his substantial already-retained body and ki growth are present in the action (`O214`, `O216`). | The rescue is not itself assigned a new permanent increase, numeric value, fixed multiplier, form or ceiling. |
+| Agency and family | He plays with Yajirobe and Gohan, remembers enjoying his conscious giant body and chooses to help. Gohan independently selects and carries out the window rescue; Chi-Chi and Goku make their own choices. | A year of lived experience and different skills do not erase childhood or either boy's agency. |
+| Condition | He remains ordinary-sized, tailed and barefoot with a sore side and shoulder; the doctor briefly checks both boys and cannot rule out injury. | No complete recovery, diagnosis, exact reserves or Senzu use (`O218`). |
+
+## Status delta · Chapter 28 (unaccepted continuation; earlier checkpoint)
+
+| Dimension | Shown | Boundary |
+|---|---|---|
+| Retained development | Goshin restrains injured, awake Vegeta; the stone cracks and he deliberately eases his pressure. He and Gohan recognize the much greater retained ki and strength from the first transformation and fight. | No scan, fixed rate, universal trigger, exact retained fraction or formal Order is established (`O210`, `O214`). |
+| Emotion and agency | He enjoys describing his conscious giant fight, jokes with Gohan and Launch, wishes Goku had seen it, and chooses to stay on guard. Gohan independently shields Nappa and seeks safe care. | This is context-specific joy and disappointment, not compulsory feeling, fear or loss of control (`O210`, `O213`). |
+| Body and kit | Ordinary-sized, tailed and barefoot; an old shirt and spare trousers replace the blanket. A sore side and cheek/shoulder marks remain. | No diagnosis, automatic healing or Senzu use is asserted. |
+| Relationships | Both parents and brothers reunite; Goku offers to share the temporary watch. | The family letter, rematch and requested display remain open. |
+
+## Status delta · Chapter 27 (unaccepted continuation)
+
+| Dimension | Shown in the candidate | Boundary |
+|---|---|---|
+| Controlled giant form | Goshin fights and flies as a giant while aware, directs a thrown slab with ki and uses his retained Kamehameha to redirect Vegeta's attack on Chi-Chi. | The first control was already established in Chapter 26. The first experience contributes real ordinary-body growth after reversion; no assigned multiplier, new formal rank, automatic Gohan control or separate normal-sized ape mode is shown (`O214`). |
+| Lasting development | He stops a fist with one hand where he used both before. His Saiyan nature and innate Talent respond to the first giant experience and the sustained fight; his much greater body-and-ki strength remains after reversion and Piccolo senses it (`O214`). | Not a numerical maximum, fixed rate, compulsory combat trigger or proof that a single move created the increase. |
+| Gohan and reversion | Gohan independently targets the Power Ball, aided by Piccolo's aim and Goshin's restraint of Vegeta; both transformed Saiyans revert. Gohan remains untransformed. | The exact destruction/reversion result is authored for the branch, not demonstrated by a complete source-video review. |
+| Condition and consequence | Goshin is ordinary-sized and tailed, in Chi-Chi's blanket with a sore side and marks. Vegeta is unconscious and breathing under watch; Nappa is awake and guarded. Goshin's clothes and shoes remain torn. | No exact diagnosis, reserves, long-term custody, death, automatic healing or ultimate outcome. The natural moon remains with unknown current phase. |
+| World | The city handoff precedes the family approach; Bulma checks on the children and Roshi. Goku, Launch and Yajirobe continue separately. | No complete city evacuation, Goku arrival, Namek answer or accepted chapter is implied. |
+
+## Milestone and status delta · Chapter 26 (unaccepted continuation; earlier checkpoint)
+
+| Dimension | Shown in the candidate | Boundary |
+|---|---|---|
+| First Great Ape | Goshin chooses to look at Vegeta's artificial moon. He is conscious and in control from the start, senses Gohan and the other fighters, controls his giant footing and tail and speaks in his own voice. | The standing author direction is applied, not invented anew. No compulsory fear or lost-control phase; Gohan separately avoids the light (`O197`–`O199`). |
+| Integrated capability | Goshin carries earlier fighting strength into the form, catches transformed Vegeta, and holds him with one hand while directing three falling blocks away from friends with ki. | Both forms are exceptionally strong; no new reading, fixed Goshin multiplier, numerical rate or permanent maximum is established. At this earlier giant-form checkpoint the feat does not itself show a separately activated normal-sized ape mode; subsequent substantial ordinary-body growth from the experience is shown in Chapter 27 (`O214`). |
+| Condition and relationships | His clothes and shoes tear; he remains in the giant body at the unresolved endpoint. Gohan chooses his own role and stays in the fight, while the others protect unconscious Nappa. | No exact injury, fatigue, final outcome, compelled fear, golden/divine form, or reader acceptance. The natural moon and both tails remain. |
+
+## Status delta · Chapter 25 (unaccepted continuation; earlier checkpoint)
 
 | Dimension | Proposed continuation, not a new formal level |
 |---|---|
 | Earlier reserves versus new development | Vegeta's scouter reads Goshin at 16,300 and then 19,400 as Goshin releases more of the ki already built before this fight; that change alone is not a fresh permanent gain. After Vegeta removes his scouter and the exchange continues, Goshin feels real further ki and strength development and holds a kick that earlier pushed him back (`O192`). No numerical growth amount, rate, compulsory trigger, maximum or new form is established. |
-| Action and relationships | Goshin defeats the already-pinned Saibaiman and fights Vegeta. Gohan independently stops Nappa, redirects Vegeta's later blast and chooses to join his brother. All four creatures from the previous endpoint are accounted for through his and the other fighters' actions; Goshin and Gohan are not reduced to spectators (`O190`, `O191`, `O194`). |
+| Action and relationships | Goshin defeats the already-pinned Saibaiman and fights Vegeta. After Gohan independently stops Nappa, Vegeta commits the power he can muster to a Galick Gun aimed at Goshin and Earth. Goshin intercepts it with his established Kamehameha, and Gohan chooses to add his own wave; together they force the clash upward before continuing the fight. All four creatures from the previous endpoint are accounted for through Goshin's and the other fighters' actions (`O190`, `O191`, `O194`, `O195`). |
 | Condition and endpoint | Vegeta hits Goshin's cheek and back; no precise injury or exhaustion is measured. Goshin remains active with Gohan against Vegeta. Nappa is unconscious but breathing, and Yamcha has a small forearm cut. No final Vegeta outcome, citywide casualty total or reader acceptance is implied. |
 
 ## Status delta · Chapter 24 (unaccepted continuation; earlier checkpoint)

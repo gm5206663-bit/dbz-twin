@@ -1,8 +1,13 @@
 # Episode 14 — research and Chapter 15 voice-rewrite coverage
 
+**Owns: retained source notes and handoff for the selected Chapter 15 voice rewrite.**
+
+**6 November story-wide correction — selected Chapter 15, unaccepted:** Goku takes the living branch through the cleaner's road and Princess Snake's house; he mistakes her for King Kai, refuses a dangerous game, dreams of his active family, escapes nonlethally and protects the cleaner. The dream is not a prophecy or report; King Kai has not promised him instruction. Chi-Chi wins an agreed 2–1 first-to-two touch match against a ki-restrained Tien, not a full-power ranking. Gohan finds a tactic of his own, while Goshin retains his wave and concurrent moving-stone control. C-6 remains awake with a bent arm and unresolved leak, and consents to a limited inspection. The book, empty bowl, pods and living road handoff remain. Earlier claims below of compulsory repeat-back, prescribed positions or universal food/POV restrictions describe superseded assistant inventions, not author direction; the specific external-camera rule remains for Chapter 3. The entire retained episode-14 captions and Toei's short synopsis were reread; the authored family and living-Goku staging are not complete source footage. See the [current correction](DRAGON_BALL_FEEL_CORRECTION_2026-11-05.md).
+
+**Continuing emotional revision, 5 November:** The [current continuation record](EMOTIONAL_REVISION_013_PLUS_2026-11-05.md) and selected chapter record the latest unaccepted wording and source limits. Older plans and descriptions below remain historical.
+
 **Later character correction, 3 November:** This pre-draft plan is historical. Automatic instruction echo and the other unverified absolute personality prohibitions below were assistant inventions, not verified author commands. The current selected manuscripts and [correction note](SELECTED_CONTINUITY_CORRECTIONS_2026-11-03.md) take precedence.
 
-**Owns: retained source notes and handoff for the selected Chapter 15 voice rewrite.**
 
 **Selected fight correction, 4 November:** The current unaccepted Chapter 15 resolves Chi-Chi and Tien's agreed first-to-two touch match 2–1 in Chi-Chi's favour. Tien restrains his ki for that exercise; the result is not a full-power ranking. Dated planning language below is historical.
 

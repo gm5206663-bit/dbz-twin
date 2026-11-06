@@ -77,7 +77,7 @@ Use established facts consistently, but do not assume every reader remembers the
 
 **A god who is still a person.** After the crossing his identity and full emotional capacity remain (`STATUS §14`, `O043`). He can be hungry, playful, angry, grieving, serious, calm or distant as the circumstances warrant. No state of mind is compulsory or forbidden, and the promotion must not erase his relationships or personality.
 
-**The era lock is the first thing to check in any scene.** At four he is a boy: hungry, polite, heavy for his age, one tail, no golden transformation or god ki; ordinary ki may be visible. **He flies, uses techniques, learns visibly and grows; he is never less capable than Gohan under the standing authored rule.** The later golden and divine ladder is not a costume to dress him in now. ~~If a chapter reaches above the first rung of `STATUS §13`, the chapter is wrong.~~ **Clarified, 3 November:** natural Great Ape biology is not forbidden, though neither boy has transformed; the first trigger and scene remain unwritten.
+**The era lock is the first thing to check in any scene.** At four he is a boy: hungry, polite, heavy for his age, one tail, no golden transformation or god ki; ordinary ki may be visible. **He flies, uses techniques, learns visibly and grows; he is never less capable than Gohan under the standing authored rule.** The later golden and divine ladder is not a costume to dress him in now. ~~If a chapter reaches above the first rung of `STATUS §13`, the chapter is wrong.~~ **Clarified, 3 November:** natural Great Ape biology is not forbidden. In the later unaccepted Chapter 26, Goshin deliberately looks at an artificial moon and is immediately aware and controlled; Gohan does not transform.
 
 
 ## §10 · The episode grammar — how a chapter is built like an anime
@@ -141,6 +141,8 @@ Follow causes through movement, contact, reaction and consequences, at whatever 
 ---
 
 ## §16 · Fight scale — feats, context and consequences
+
+**World-scale correction from the author, 6 November:** Goshin’s current ordinary body is capable of destroying Earth (`O225`). Roshi and Piccolo’s original-continuity Moon feats and Vegeta’s planet-threatening Galick Gun are real scale context (`C294`, `C307`), even though the Piccolo/Moon event did not occur in this branch. The author places Goku at light speed or higher during original Dragon Ball and expects comparable context-appropriate extraordinary speed, not ordinary-athlete or aircraft-limited action. This is the project’s working author interpretation, not a newly verified exact speed or obligatory maximum-speed movement. Controlled small actions and injuries remain possible without treating small collateral as a true cap. See [world scale and Episode 37](canon/WORLD_POWER_AND_EPISODE_37_2026-11-06.md).
 
 **No fixed conversion:** a printed battle-power reading does not mechanically determine collateral, and it does not guarantee a fight's winner. A reading can change with suppression, condition or a concentrated attack. Do not assign a moon feat to Piccolo's earlier 408 reading or Nappa's city attack a measured 4,000: those values were obtained separately (`C130`, `C141`).
 

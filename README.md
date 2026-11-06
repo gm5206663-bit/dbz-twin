@@ -1,10 +1,12 @@
 # The Twin
 
-This is the one current public project copy. Chapters 1–25 are **review drafts, not accepted revisions**. The separately accepted earlier Chapter 20 is preserved outside this public working copy.
+One public project for Gohan and Goshin’s story. The selected Chapters 1–30 are **review drafts, not accepted revisions**. The separately accepted earlier Chapter 20 is preserved outside this public working copy.
 
-Start with [Chapter 1 — Two Names](The%20Twin/chapters/Chapter_01_Two_Names.md), or choose a chapter below. The [project guide](The%20Twin/README.md) and [research library](Research/README.md) provide context.
+Start with [Chapter One — Two Names](The%20Twin/chapters/Chapter_01_Two_Names.md), or choose a chapter below. The [project guide](The%20Twin/README.md) and [research library](Research/README.md) provide context.
 
-Earlier records may describe historical local-only work. Some links in the project guide point to local-only backups or private workshop files and do not resolve in this public copy. Older Drive backups are separate and may predate these revisions. Nothing here synchronizes automatically.
+This is a dated public snapshot, not automatic synchronization or reader acceptance. The story and its source records rely on retained captions, short synopses and selected references; they do not claim complete audiovisual review. Older notes describe their own checkpoints.
+
+Prior exact archives are kept separately in the owner’s private Drive; they are not mirrored here. Git history preserves repository commits, which are not equivalent to every older archive. Private Sara continuity and the private workshop manifest are not included in this public project.
 
 ## Chapters
 
@@ -33,5 +35,10 @@ Earlier records may describe historical local-only work. Some links in the proje
 - [Chapter Twenty-Three — The Way Back](The%20Twin/chapters/Chapter_23_The_Way_Back.md)
 - [Chapter Twenty-Four — Six Seeds](The%20Twin/chapters/Chapter_24_Six_Seeds.md)
 - [Chapter Twenty-Five — Two Battles](The%20Twin/chapters/Chapter_25_Two_Battles.md)
+- [Chapter Twenty-Six — The Light Above](The%20Twin/chapters/Chapter_26_The_Light_Above.md)
+- [Chapter Twenty-Seven — The Space to Stand](The%20Twin/chapters/Chapter_27_The_Space_to_Stand.md)
+- [Chapter Twenty-Eight — What We Carry](The%20Twin/chapters/Chapter_28_What_We_Carry.md)
+- [Chapter Twenty-Nine — The Day Is Not Finished](The%20Twin/chapters/Chapter_29_The_Day_Is_Not_Finished.md)
+- [Chapter 30 — The House That Waited](The%20Twin/chapters/Chapter_30_The_House_That_Waited.md)
 
-The public project and its source notes are a snapshot, not proof of acceptance, source completeness or literary quality.
+The public project and source notes are a snapshot, not proof of acceptance, source completeness or literary quality.

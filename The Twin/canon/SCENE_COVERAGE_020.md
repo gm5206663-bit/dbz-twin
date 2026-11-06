@@ -1,8 +1,13 @@
 # Episode 20 — source order and Chapter 21 coverage
 
+**Owns: the bounded source inventory and comparison for the unaccepted Chapter 21 review draft.**
+
+**6 November — current Dragon Ball-feel revision, unaccepted:** Goku and Gregory's authored English exchange makes their different attitudes clearer. Goshin's real strength-and-ki gain in his spar remains, and Goku's memory of the captured boys has a physical reaction. The Lookout word-chain speakers now alternate correctly. The larger drawing's three described doors include the front door Ena already added in Chapter 18; no three new doors are inferred. Baba and Roshi's sibling banter adds no answer to the future or Grandpa questions. Full episode-20 captions and Toei's synopsis were reread; full audiovisual performance and caption provenance/cut remain unverified. The previous chapter is byte-preserved.
+
+**Continuing emotional pass, 5 November (unaccepted):** The complete retained episode-20 captions and Toei's short synopsis were reread. Goshin's delight in growth and Goku's memory of the captured brothers are authored for this branch; the complete video and audio remain unexamined. The prior Chapter 21 is preserved in the [21–23 ZIP](EMOTIONAL_REVISION_013_PLUS_2026-11-05.md#chapters-2123).
+
 **Later version boundary, 3 November:** The preserved pre-correction Chapter 20 remains author-accepted, but its selected character-corrected version and the revised Chapter 21 are unaccepted. Older references below to Chapter 20 being unchanged describe the prior pass. See [correction note](SELECTED_CONTINUITY_CORRECTIONS_2026-11-03.md).
 
-**Owns: the bounded source inventory and comparison for the unaccepted Chapter 21 review draft.**
 
 The [episode source plan](../../Research/The%20Twin/Chapter%20Research/Chapter%2021/Episode%20source%20plan.md) was written before the manuscript. Chapter 21 continues the selected unaccepted correction of Chapter 20; the separately preserved earlier original remains accepted. Chapter 21 itself is unaccepted. Chapter 19 remains an unaccepted review revision.
 

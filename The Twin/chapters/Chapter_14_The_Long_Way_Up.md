@@ -1,18 +1,12 @@
 # Chapter Fourteen — The Long Way Up
 
-*Immersion-revised review draft; not yet accepted.*
+*Revised story draft; not yet accepted.*
 
 An apple hangs above the field gate. The branch dips when a bird lands beside it.
 
-**THE LONG WAY UP**
-
-**NARRATOR:** The Saiyans are on their way to Earth. Goku wants to train with King Kai, and the other fighters are gathering to prepare.
-
----
-
 ## The Last Page
 
-Gohan holds Mina's book open beneath the laboratory lamp. The page shows a long tunnel with tracks running through it.
+Gohan holds Mina's book open beneath the laboratory lamp. The page shows a tunnel with tracks running through it.
 
 "That's the end of the chapter," he says.
 
@@ -22,7 +16,7 @@ C-6 turns his glass eye toward the picture. "They still haven't found the lower 
 
 "Then they'll need a better map."
 
-Gohan laughs and puts Mina's paper marker back between the pages. Beside the book lies the separate drawing C-6 helped him make. Raditz's scouter rests on another bench, with its power cell kept separate.
+Gohan laughs and puts Mina's paper marker back between the pages. Beside the book lies the separate drawing C-6 helped him make. Raditz's scouter rests on another bench, its power cell kept separate.
 
 Dr. Brief lifts the listening instrument from C-6's casing. "I heard that sound again when your working arm moved."
 
@@ -32,73 +26,75 @@ Dr. Brief lifts the listening instrument from C-6's casing. "I heard that sound 
 
 "You may. Leave the support where it is."
 
-Dr. Brief moves the instrument without disturbing the cushion beneath the bent arm. C-6 watches his hands until the instrument is in place.
+C-6 watches while Dr. Brief moves the instrument without disturbing the cushion beneath his bent arm. Goku looks toward the laboratory window, where the morning sky shines between the buildings.
 
-Goku looks toward the laboratory window. "I want to go and ask Kami about King Kai myself."
+"I want to ask Kami about King Kai myself."
 
-Chi-Chi turns to him. "Now?"
+Chi-Chi turns to him. "You're going now?"
 
-"Yeah. Two Saiyans stronger than Raditz are coming. I need to get stronger too, and I want to see how strong King Kai really is!"
+"Yeah. Two Saiyans stronger than Raditz are coming. I need to get stronger too, and I want to see what King Kai can do!"
 
 "What if Kami hasn't heard from Yemma?"
 
-"Then I'll ask Kami to train with me until he does. I'm not going to sit around waiting."
+"Then I'll ask Kami to train me until he does. Either way, I don't want to sit here waiting."
 
-Gohan closes the book. "I want to get stronger too. Can we finish our match?"
+Gohan closes the book. "Father? We didn't get to finish our match."
 
-"Sure! Come on outside."
+Goku's face brightens. "We sure didn't! Come on."
 
-Goku reaches the door before Gohan has put the book down. Chi-Chi takes it from him and wraps it with the separate drawing.
+He reaches the door before Gohan has put the book down. Chi-Chi takes it and wraps it with the drawing.
 
-"No blasts near the laboratory," she says.
+"Outside. And no blasts near the laboratory."
 
-Goshin goes to the doorway to watch Gohan and Goku.
+"We won't!" Gohan calls, already following Goku into the yard. Goshin goes to the doorway to watch.
 
-In the yard, Goku sets his feet beside the path. Gohan stands opposite him and raises both hands.
+Goku sets his feet beside the path. Gohan faces him, tail curling behind his legs.
 
 "One touch on the shoulder," Goku says. "Ready?"
 
 "Ready!"
 
-Gohan darts left. Goku turns with him, but Gohan changes direction and reaches from the other side.
+Gohan darts left. Goku turns to meet him, but Gohan slips the other way and reaches for his gi. Goku catches his wrist. Gohan tries to turn beneath the grip as he practised with Goshin; Goku lets go, steps inside and taps his shoulder.
 
-Goku catches Gohan's wrist. When Gohan starts to turn him, Goku releases the wrist and steps inside, touching Gohan's shoulder before Gohan can reach his.
+"You got me," Gohan says. Then he looks down at Goku's feet. "That was the step you showed Goshin!"
 
-"You got me," Gohan says.
-
-"That turn nearly worked again! Keep practising it. We'll have another match when I get back."
+"You made me use it! Keep practising that turn. We'll have another match when I get back."
 
 Gohan looks toward the sky. "Can I train while you're gone?"
 
 "You bet! Kami invited Krillin and the others. You could ask him to train you too."
 
-Goshin steps beside Gohan. "I'm going to train too. I want to show you what I can do with my Kamehameha when you get back."
+Goshin comes out beside his brother. "I'm going to train too. When you get back, I want to show you what I can do with my Kamehameha."
 
-"I want to see it!" Goku says. "Both of you, show me everything you've learned."
+"I want to see it! Both of you, show me everything you've learned."
 
-Chi-Chi steps beside the boys. "I'm going with them. Piccolo is still out there, and Gohan's studies aren't stopping."
+Chi-Chi joins them with the wrapped book. "I'm going with them. Piccolo is still out there, and Gohan's studies aren't stopping just because you three want to fight."
 
-"That's fine," Goku says. "I want them to be ready too."
+She folds her arms. "And I can use some practice too."
 
-Dr. Brief comes out carrying two capsules. "This one contains food and water for a journey. The other is a spare aircar, if you'd like to borrow it."
+Goku grins. "Good! I want you all to be ready."
+
+Dr. Brief comes out carrying two capsules. "Food and water for a journey, in this one. The other is a spare aircar, if you'd like to borrow it."
 
 "Thanks! I'm still full from the Senzu, but I might need those supplies later."
 
-Goku takes the first capsule. Chi-Chi accepts the second and slips it into her pocket.
+Goku takes the first capsule. Chi-Chi pockets the other, and Gohan reaches for Mina's wrapped book.
 
-"I'll return Mina's book," Gohan says. "And ask about the bridge book for C-6."
+"I'll return this and ask about the bridge book for C-6."
 
 Goku rests a hand on each boy's shoulder. "Train hard, both of you!"
 
-He hugs them both. Gohan's hat is caught between them, and Goku lifts it free before it can fall. Goshin holds on a moment longer; Goku ruffles the black spikes of his hair, then steps back.
+He hugs them together. Gohan's hat catches between them, and Goku lifts it free before it can fall. Goshin holds on a moment longer; Goku ruffles the black spikes of his hair before he steps back.
 
-Chi-Chi catches his arm before he rises. The laboratory door stands open behind them, and the sounds of Dr. Brief's tools carry out into the yard.
+Chi-Chi catches Goku's arm. He turns, and for a moment neither speaks. Through the open laboratory door comes the faint click of Dr. Brief's instrument against C-6's casing.
 
 "Come back to us, Goku."
 
-He covers her hand with his. "I will. And I'll be ready for those Saiyans!"
+He draws her close. She holds him, her cheek against his shoulder.
 
-Goku lifts into the air and heads for Kami's Lookout. Gohan watches until he passes above the roof, while Goshin keeps his eyes on the patch of sky where he disappeared.
+"I will," he says. "And I'll be ready for those Saiyans!"
+
+Goku lifts into the air and heads for Kami's Lookout. Gohan watches until he passes above the roof. Goshin keeps looking at the patch of sky where his father disappeared, long after the roof is empty.
 
 ---
 
@@ -174,7 +170,11 @@ Goku looks up at the desk. "You're even bigger than I thought!"
 
 Goku grins. "You stopped him? You must be really strong!"
 
-"I have work to do. You're here to meet King Kai."
+"I had a line of souls waiting, and he was making a nuisance of himself."
+
+Goku looks at the line. One of the souls looks back at him.
+
+Yemma picks up his stamp. "You're here to meet King Kai, aren't you?"
 
 "That's right! I want him to train me so I can stop the other Saiyans."
 
@@ -230,9 +230,7 @@ Sato comes around the side of the field with her case in one hand. The dinosaur 
 
 "Not yet. I want it to rest here while the wound closes."
 
-Mina takes the case from Sato, who kneels beside the fence. The dinosaur turns toward her, brushes its side against the bars and stops.
-
-Sato waits until it settles before checking the edge of the dressing. She stands again without asking the animal to move.
+Mina takes Sato's case. The dinosaur brushes its side against the bars, then settles while Sato checks the dressing.
 
 "It's holding," she says. "I'll come back to see how it walks."
 
@@ -246,11 +244,15 @@ Gohan watches the animal drink. "Could I get it some leaves?"
 
 Mina goes with him to the fence. They pull down a leafy branch together, and Gohan snaps it where Mina points. He carries it back and holds it through the bars.
 
-The dinosaur steps over and takes a mouthful. Gohan moves his hand away from its teeth, then offers the branch again.
+The dinosaur steps over and takes a mouthful. Gohan moves his hand away from its teeth, but the animal follows the leaves and catches his sleeve as well.
 
-"It remembers you," Mina says.
+"That's not a leaf!"
 
-The animal takes another mouthful. Gohan keeps the branch steady until the leaves are gone.
+Mina laughs. Gohan eases the cloth free and offers the branch again. The dinosaur settles beside the fence to chew.
+
+"I think it remembers you," Mina says.
+
+Gohan keeps the branch steady until the leaves are gone. "Good. I'm coming back to see it again."
 
 ---
 
@@ -342,11 +344,11 @@ Gohan finds three apples in the grass. He carries them to Mina, who checks them 
 
 Gohan takes one back out and holds it through the bars. The dinosaur stretches its neck, takes the apple and settles again beneath the tree.
 
-Goshin watches Mina shut the basket lid, then looks at the branch above the fence. "Can I help with another one?"
+Goshin looks up at a leafy branch above the fence. "Can I help you get that one down?" he asks Mina's father.
 
-"Yes," Chi-Chi says. "Keep it clear of the gate."
+"Yes. Keep it clear of the gate."
 
-Goshin rises to a low fork in the tree. He holds a leafy branch still while Mina's father cuts it free, then carries it down to Gohan.
+Goshin rises to a low fork in the tree. He holds the branch still while Mina's father cuts it free, then carries it down to Gohan.
 
 The dinosaur takes the branch through the bars. This time Gohan leaves it leaning against the fence so the animal can eat without following him.
 
@@ -382,19 +384,19 @@ Tien pauses where the stone widens. "We could fly the rest of the way."
 
 Tien looks up. The platform is still hidden by cloud.
 
-"No. Not yet."
+"No. Goku climbed it when he was a boy. I want to know what he found up there."
 
-Krillin takes a breath and reaches for another hold. "Then I'm staying with you."
+Krillin reaches for another hold. "A cat with a stick, mostly."
 
-They climb through a bank of mist. Water beads on Tien's forearms, and the ground disappears beneath them.
+Chiaotzu laughs. "What do you think Kami's training will be like?"
 
-"Goku used to tell me about this place," Krillin says. "He came here after Tao beat him."
+"We'll find out," Tien says, and pulls himself higher.
 
-"He came back stronger," Tien says.
+"I just hope it doesn't involve another tower," Krillin mutters.
 
-"And then he kept training."
+Chiaotzu looks up through the mist. "We haven't finished this one yet."
 
-Tien looks at his own hand against the stone. "So will we."
+"I know!"
 
 ---
 
@@ -426,13 +428,13 @@ Upa enters behind Bora. "Father?"
 
 "Stay back," Bora tells him.
 
-Upa sees the gun and moves toward the side of the room. Launch swings the barrel toward him.
+Upa sees the gun. He moves toward his father, but Bora thrusts an arm out to stop him. Launch swings the barrel toward the boy.
 
 "I said stay where you are!"
 
-The gun fires. Upa drops behind the doorway as a shot tears into the wood outside.
+The gun fires. Upa drops behind the doorway as a shot tears into the wood outside. Bora steps between them and grabs the barrel.
 
-Bora catches the barrel and pushes it away before Launch can fire again. She pulls against his grip, and a tassel on his arm brushes her nose.
+He pushes the gun away before Launch can fire again. She pulls against his grip, and a tassel on his arm brushes her nose.
 
 "Get that out of my—"
 
@@ -484,21 +486,21 @@ Chi-Chi raises one hand. "Start!"
 
 Gohan runs in low. Goshin turns his reaching arm aside, but Gohan plants one hand in the dirt and changes direction beneath it.
 
-Goshin jumps, and Gohan's fingers brush his sleeve. Goshin lands behind him and taps Gohan's shoulder.
+Goshin jumps. Gohan's fingers brush his sleeve, and Goshin lands behind him to tap his shoulder.
 
 "One for Goshin," Chi-Chi calls.
 
-Gohan turns at once. Goshin comes forward again, and Gohan catches his wrist with both hands, pulling him toward the river.
+"I almost had you," Gohan says.
 
-Goshin releases a short pulse of ki against the ground and changes direction in the air. Gohan follows the movement instead of the dust and reaches up.
+"Almost doesn't count!"
 
-His hand touches Goshin's shoulder.
+Gohan comes at him again. This time he catches Goshin's wrist with both hands and pulls toward the river. Goshin sends a short pulse of ki into the ground and changes direction in the air.
+
+Dust rises, but Gohan watches his brother instead. He follows Goshin up and reaches out. His hand touches Goshin's shoulder.
 
 "One each!" Chi-Chi says.
 
 Goshin lands beside the river and raises both hands. Gohan takes a breath and comes after him.
-
-*This programme continues after a message.*
 
 ---
 
@@ -576,13 +578,17 @@ Gohan jumps over the stone. Goshin is already moving, and his hand touches Gohan
 
 "Two for Goshin," Chi-Chi says.
 
-Gohan looks down at the stone, then back at his brother. "You made me jump where you wanted."
+Gohan looks down at the stone, then at his brother. "You made me jump where you wanted."
 
 "You nearly reached me first."
 
-"Next time I'll go around it."
+Gohan thinks about the stone, then pushes it aside with his foot. "Next time I'll go around it."
 
 "Then I'll try something else."
+
+"Good. I don't want you to do the same thing every time."
+
+Goshin laughs. "Me neither!"
 
 Chi-Chi comes over, brushes grit from Gohan's palm and offers Goshin the water bottle.
 
@@ -639,6 +645,8 @@ Goku turns his shoulders as he runs, practising the release that helped him esca
 He tries it again without slowing. This time his foot lands where he wants it.
 
 "All right!"
+
+He can still see Goshin beaming after the match, and Gohan trying the turn in the yard. They must be practising already. He wants to see what they can do when he gets back.
 
 Goku springs into the air and flies around another bend. The road still fills the distance ahead, and the clouds move beneath it.
 
@@ -782,17 +790,15 @@ Krillin sits on the edge of the platform and looks down at the mist they have cl
 
 "You made it," Yamcha says. "Now we can get started."
 
-Chiaotzu passes the cloth back to Puar and looks across the platform at the space beside Yamcha. "Will we all be training together?"
+Chiaotzu passes the cloth back to Puar. "Will we all be training together?"
 
 "I hope so," Yamcha says. "I want to see what you and Tien have learned since the tournament."
 
-"We've been practising at the waterfall," Chiaotzu says. "I can show you what I was doing with the stones."
+"I can show you what we did at the waterfall!"
 
-"And I want to see what Kami can teach us," Tien adds. He sets his hand against the pillar and looks up through the moving cloud.
+Tien looks up through the moving cloud. "And I want to see what Kami can teach us."
 
-Krillin gets to his feet again. "We came all this way. He won't have to ask me twice."
-
-"When Kami's ready for you," Korin says. "You're still on my tower, not his Lookout."
+"When he's ready," Korin says. "You're still on my tower, not his Lookout."
 
 Yamcha folds his arms. "Then let's hope he's ready soon."
 
@@ -868,9 +874,9 @@ Krillin and Yamcha face each other farther away. Krillin sends a small burst tow
 
 "Again," Yamcha says. "This time I'll move before you fire."
 
-Gohan steps toward the remaining stone. "Can I try?"
+Gohan steps toward the remaining stone. "Does it count if I catch it?"
 
-"Of course," Popo says.
+"You may choose how to move it," Popo says.
 
 Gohan flips the stone into the air with his foot and jumps after it. He catches it against his palm before it falls, then sends it across the circle to the clear tiles beyond.
 
@@ -901,6 +907,8 @@ Gohan points to the open space beside him. "Can you throw one for me too? I want
 Goshin sends one stone toward him. Gohan jumps, catches it and keeps moving across the tiles, landing beside Chi-Chi.
 
 "Again!" he says.
+
+Goshin laughs. "Throw it back, then!"
 
 Across the platform, Tien and Chiaotzu reset their stones while Krillin and Yamcha change places. Popo moves between them, watching each exercise.
 
@@ -944,18 +952,16 @@ Goku pushes toward it.
 
 The bird returns to the apple branch above Mina's field. It settles beside the fruit, and the branch dips under its weight.
 
-**NARRATOR:** Goku has begun the long journey to King Kai. On Earth, his sons and friends have started their own training for the Saiyans' arrival.
-
----
-
-## Preview
-
-*Goku runs along a winding road above the clouds. On Kami's Lookout, Gohan lands with a stone in his hand while Goshin raises the others again.*
-
-**NARRATOR:** How far can Goku push himself on the road to King Kai, and what will the fighters learn before the Saiyans arrive?
+> **NEXT TIME — Goku follows Snake Way while his family and friends train above the clouds.**
 
 <!--
 ## Footer
+
+**6 November 2026 — story-wide Dragon Ball-feel correction, unaccepted.** Goku's departure, the family spar, the tower climb and the dinosaur visit are revised in the actual scenes. Living Goku receives permission to use Snake Way, but King Kai has not promised instruction; the family and fighters begin Lookout training. Gohan flies and chooses his own tactics, Goshin stays capable and playful, and C-6's request and consent remain. Earlier candidate descriptions below are historical where superseded. The exact immediate predecessor is member `The Twin/chapters/Chapter_14_The_Long_Way_Up.md` in the [verified 122-member local project archive](../canon/ARCHIVE_INDEX.md#backup-042), SHA-256 `f4fb68f3b391a49944507e5d78821b841eda6ab9875f57ac905268b774fcce4e`. Retained captions and short synopses informed the branch; no complete episode video or audio was reviewed.
+
+
+
+**5 November 2026 — continuing emotional revision, unaccepted.** Goku's departure includes the family's affection without obscuring the danger or their independent training choices. Goshin offers Mina's father help directly with the branch and plays with Gohan during the lookout exercise. The living-Goku permission and journey, animal's uncertain recovery, Bora and Upa's safety after Launch's threat, voluntary tower climb, C-6's consent, and distinct brothers' abilities remain intact. The preceding file is byte-preserved with Chapter Thirteen in the [verified local backup](../canon/ARCHIVE_INDEX.md#backup-055). The entire retained episode-13 caption was reread with Toei's short synopsis and existing secondary comparison; source/cut and complete audiovisual review remain unverified. The changed family, living Goku's route and lookout training are authored branch staging.
 ```
 ANIME BASE: Dragon Ball Z episode 13.
 EVIDENCE: Local Japanese episode-13 captions, with original provenance and exact cut unverified; secondary accounts as identified in the coverage record. Captions and selected stills do not establish full video or all silent action.

@@ -18,7 +18,7 @@ Goku picks up the apple with both hands. The man behind the house watches him st
 
 "Are you King Kai?" Goku asks again.
 
-The man scratches his cheek. "My cheek is itching. I suppose you could call me the itchy king."
+The man scratches his cheek. "My cheek itches. A royal pain, wouldn't you say?"
 
 Goku waits for him to finish scratching.
 
@@ -40,7 +40,7 @@ King Kai puts his hands on his hips. "First, tell me what you thought of my joke
 
 "Your joke?"
 
-"The itchy king. You didn't laugh."
+"A royal pain! King Kai? Royal? You didn't laugh."
 
 "Oh." Goku gives him a quick smile. "I didn't know it was a joke."
 
@@ -61,6 +61,10 @@ Goku puts the apple down and takes a careful step. His boot sinks into the grass
 Bubbles tips his head and makes a sound. King Kai looks at him.
 
 "Don't encourage him."
+
+Goku looks up at the tree. "I thought Bubbles was you. I guess I was barking up the wrong tree!"
+
+King Kai's mouth twitches. "An old one! Try again."
 
 Goku takes another step and stops when his feet come close together. "If I keep walking this way, I'll get back to your house."
 
@@ -272,7 +276,13 @@ Goku finishes the second bowl and puts it down. "That was good."
 
 "Of course it was. I prepared it."
 
-Bubbles reaches for the empty bowl, and King Kai moves it away before it tips.
+"Chi-Chi usually gives me bigger bowls, though."
+
+"Then perhaps you'd better run all the way home for lunch!"
+
+Goku looks at the empty bowl. "I could eat a little more before I go."
+
+Bubbles reaches for it, and King Kai moves it away before it tips. "I was joking!"
 
 After the meal, King Kai opens a cupboard and brings out two broad training bands. He sets them on the floor. The boards creak beneath them.
 
@@ -420,6 +430,10 @@ Piccolo looks away toward the ridge. "The Saiyans are still coming. Your father 
 
 Goshin picks up one of the marking sticks and smooths the dirt from it with his thumb.
 
+"You keep watching my feet," he tells Piccolo. "Next time I'll make you look at the stones."
+
+"Try it," Piccolo says.
+
 "Will you come back?" Gohan asks.
 
 "Keep practising. If I come back, I'll expect more."
@@ -506,7 +520,11 @@ Ena traces its outline without touching the paper. "Can people sit on both sides
 
 "If we move the shelves back."
 
-Hatch finds his pencil and draws two chairs on the larger boat picture. Goshin holds the paper flat while Hatch adds another one.
+Bulma points to the big wheel. "A motor could turn that, Hatch, if you want one."
+
+Hatch thinks about it. "A big motor."
+
+"Of course," Bulma says. Hatch finds his pencil and draws it beside the wheel, then adds two chairs to the larger boat picture. Goshin holds the paper flat while Hatch adds another one.
 
 "There's room for the teacher too," Goshin says.
 
@@ -533,10 +551,6 @@ Before they leave, Gohan shows Ena the space on his smaller page.
 "Then leave the space," Ena says. "We can choose a book later."
 
 Gohan folds his page again. The larger boat stays with the children, and Bulma takes the family home in the aircar.
-
----
-
-*This programme continues after a message.*
 
 ---
 
@@ -648,6 +662,8 @@ When they come back, King Kai sets down his cup. "You missed the best part."
 
 Goku reaches for Bubbles near the tree. Bubbles ducks beneath his hand and races toward the house. Goku turns and follows, but Bubbles is already around the far side.
 
+"You're enjoying this, aren't you?" Goku calls. Bubbles peeks around the corner, chatters and disappears again. Goku grins and goes after him.
+
 Goku slows at the corner. The track continues all the way around the house and back to the tree.
 
 Bubbles comes past the tree again, glances over his shoulder and finds Goku following him. He speeds up. Goku keeps the same distance through the next turn.
@@ -680,6 +696,8 @@ Goku takes a breath. "Bubbles made me work for it."
 
 Goku holds out his hands. Bubbles climbs from his shoulder into them, and Goku carries him toward the tree. He puts Bubbles down beside a fallen apple.
 
+"My boys would love to race you," he tells him.
+
 While Goku is on the far side of the tree with Bubbles, King Kai watches from the house.
 
 "The Kaiō-ken," he says quietly. "Perhaps, in time."
@@ -710,6 +728,12 @@ Goshin follows Chi-Chi to the stove. She slices the carrots while he holds the b
 
 Gohan sets Goku's empty bowl in its place before sitting down. Goshin carries their filled bowls to the table.
 
+"I'll tell Father about our friends," Gohan says.
+
+"And the boat," Goshin adds.
+
+"He'll want to hear all of it," Chi-Chi says.
+
 Outside, the evening light reaches the practice board. The stone at its foot holds it upright.
 
 **NARRATOR:** Goku has caught Bubbles, and his sons continue their own practice on Earth. Their next lessons are still ahead of them.
@@ -724,6 +748,11 @@ Outside, the evening light reaches the practice board. The stone at its foot hol
 
 <!--
 ## Footer
+
+**6 November 2026 — Dragon Ball-feel revision, unaccepted.** King Kai and Goku's adapted English wordplay and meal give their training more character, and Goku enjoys Bubbles' challenge. On the family visit Bulma offers an idea for the pictured wheel; Hatch chooses and draws a big motor, not a built boat. The three-week catch, chosen Piccolo rounds, uncertain machine and temporary child arrangements remain. The complete retained episode-19 captions and Toei's short synopsis were reread; no full audiovisual performance or original caption source/cut was verified. The exact preceding selected corrected chapter (SHA-256 `ff884bf7413ed92b04b7d27e20d8f62fbb9836f608241f81aacf3e25bb2a2198`) is in the [verified 122-member pre-correction archive](../canon/ARCHIVE_INDEX.md#backup-042). The separately preserved author-accepted original (SHA-256 `fd7691e9bf5d31935abd9e26f677742f8015b3e07aa32854de85055e3d63a36d`) is untouched; this revised wording is not accepted. Earlier footer contents follow unchanged; no remote sync occurred.
+
+**5 November 2026 — continuing emotional revision, unaccepted.** Goshin's playful challenge gives him his own exchange with Piccolo; Goku's joy after catching Bubbles includes the sons he misses, and the family speaks of sharing their new friends with him beside his empty bowl. The three-week pursuit, temporary room arrangement, individual training and uncertain machine remain; no promised arrival or automatic power ceiling is introduced. The exact immediately preceding selected Chapters 19–20 are in the [verified local ZIP](../canon/ARCHIVE_INDEX.md#backup-058). The separately accepted original Chapter 20 remains untouched. The full retained episode-19 caption and official synopsis were reread; full video, audio, origin and exact cut remain unverified. These revised words are not accepted.
+
 ```
 ANIME BASE: ep. 19.
 EVIDENCE: Complete local Japanese spoken captions of unverified original source and cut; Toei's official synopsis and one promotional still; eight individually inspected Kanzenshuu stills and its secondary episode guide. Full episode video and audio were not examined.

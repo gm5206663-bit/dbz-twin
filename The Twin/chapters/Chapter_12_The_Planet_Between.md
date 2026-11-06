@@ -1,14 +1,8 @@
 # Chapter Twelve — The Planet Between
 
-*Immersion-revised review draft; not yet accepted.*
+*Revised story draft; not yet accepted.*
 
 Two round space pods cross the dark side of a planet. A red indicator begins to blink on one of their hulls.
-
-**THE PLANET BETWEEN**
-
-**NARRATOR:** Goku and his family are on their way home. Far beyond Earth, the two Saiyans have found a reason to interrupt their journey.
-
----
 
 ## Two Fish
 
@@ -22,7 +16,9 @@ Gohan waves through the bars. The dinosaur lifts its head, then goes back to the
 
 "It can do both," Mina's father says.
 
-He picks up the recovered parcel and tucks it under his arm. Gohan has Mina's other book in his bag. The Four-Star Ball shines on his hat as he turns toward the road.
+Gohan watches until the animal has pulled the last leaves within reach. It still favors its injured side, but it is standing, and Sato has promised to come back.
+
+Mina's father picks up the recovered parcel and tucks it under his arm. Gohan has Mina's other book in his bag. The Four-Star Ball shines on his hat as he turns toward the road.
 
 "We'll bring it back after C-6 sees it," he says.
 
@@ -56,13 +52,15 @@ Gohan reaches for it. The fish darts away, and Goshin's hands close around water
 
 "I felt it."
 
-Goku crouches on the other side. "Don't grab where it is. Watch where it's going."
+Goku crouches on the other side. Their reflections ripple together: Goshin has his father's black, spiked hair and nearly the same face, made small, with Chi-Chi's eyes. He pulls a face at the water, and Goku pulls one back. A fish breaks the surface between them, scattering both reflections.
 
-Goshin watches the water, his tongue between his teeth, and follows a second fish with his eyes. It turns around the rock, and he cups both hands in its path. Water runs through his fingers as he lifts it clear.
+"Don't grab where it is," Goku says. "Watch where it's going."
 
-"How does it feel, Goshin?" Goku asks.
+Goshin follows a second fish with his eyes, his tongue between his teeth. It turns around the rock, and he cups both hands in its path. Water runs through his fingers as he lifts it clear.
 
-"Slippery!"
+"Got one!" Goshin says as the fish wriggles.
+
+Goku laughs. "Hold tight!"
 
 Chi-Chi opens a bag, and Goshin lowers the fish inside. Gohan moves farther along the pool, keeping his shadow away from the surface.
 
@@ -70,9 +68,9 @@ A fish glides toward the rock. Gohan waits until it begins to turn, then brings 
 
 "Two," he says.
 
-Goku leans over to look. "That one's even bigger! What do you think, Goshin?"
+Goku leans over to look. "That one's even bigger!"
 
-Goshin looks into the bag. "Mine was longer."
+"Mine was longer," Goshin says.
 
 "We'll see when we get home," Chi-Chi says.
 
@@ -84,29 +82,23 @@ The carnivorous dinosaur pushes its head between two trees. Its teeth show as it
 
 "It looks like it," Goku says. "Move away from the mud, Gohan!"
 
-Gohan jumps sideways to the flat rock as the dinosaur lunges. Its jaws close on the spot he has left, sending water across the path.
+Gohan jumps sideways to the flat rock as the dinosaur lunges. Its jaws close on the spot he has left, sending water across the path. He keeps hold of the wriggling fish.
 
-Goshin steps away from the loose bank. The dinosaur's tail swings toward Chi-Chi and the bag. He reaches out, and his ki turns the tail aside. It tears through a patch of reeds instead.
+The dinosaur's tail swings toward Chi-Chi and the bag. Goshin reaches out, and his ki turns it aside; the tail tears through reeds instead.
 
 Chi-Chi lifts the bag clear. "Goshin, come up beside me."
 
-"I'm coming!"
-
-He flies to the path while Gohan springs from the rock and lands on the dry side of the pool. The dinosaur turns after him, its feet sinking into the soft edge.
+He flies to the path while Gohan springs from the rock onto dry ground. Gohan passes his fish to Chi-Chi, who slips it into the bag. The dinosaur turns after him, its feet sinking into the soft edge of the pool.
 
 "It's going to get stuck," Gohan says.
 
 "Then let's give it another way out," Goku says. He moves beside Chi-Chi, leaving the higher ground open.
 
-Goshin moves aside to give the dinosaur room.
+Gohan spots a broad branch and shakes it beyond the pool. The dinosaur follows the movement, but the wood catches on a stump when he pulls it back. Goshin lifts the end free with his ki, and Gohan drags the branch toward firm ground between the trees.
 
-Gohan picks up a broad branch and shakes it beyond the pool. The dinosaur follows the movement, but the branch catches on a stump when he pulls it back.
+The dinosaur climbs out after it. Gohan lets go and leaps back onto the path; the animal bites the moving wood and pulls it toward the trees.
 
-Goshin raises one hand. His ki lifts the end clear, and Gohan drags the branch toward the firm ground between the trees.
-
-The dinosaur climbs out after it. Gohan lets the branch go and leaps back onto the path. The animal bites down on the moving wood and pulls it toward the trees.
-
-Goku claps his hands once. The dinosaur drops the branch and backs into the trees.
+Goku claps his hands. The dinosaur drops the branch and backs away, watching them over its shoulder before it vanishes into the leaves.
 
 Gohan watches until the shaking leaves settle. "We still have both fish."
 
@@ -122,7 +114,7 @@ She checks Gohan's wet sleeve and finds only water beneath it. Goku picks up the
 
 "Hey, want to race me to the top of the path?"
 
-"With the fish?" Gohan asks.
+Gohan looks at the swinging bag. "With the fish?"
 
 "Sure!"
 
@@ -168,15 +160,17 @@ Bulma keeps her hands on the wheel. "We don't know that yet."
 
 Krillin looks out at the tower. "We still have to find Tien and Chiaotzu."
 
-"We'll ask Korin where to start," Bulma says. "The scouter isn't coming out of my drawer until I know whether it can transmit."
+"We'll ask Korin where to start," Bulma says. "I'm not turning that scouter on just to look for them. Not until I know whether it can transmit."
 
 "You took it apart?"
 
 "Enough to know I need more time with it. The cell's in a different drawer."
 
-Yamcha settles back. "Then let's get to the tower."
+Yamcha settles back and stretches his arms. Puar has to duck to avoid an elbow.
 
-Puar moves aside as he stretches his arms. The aircar climbs toward the clouds.
+"Sorry, Puar. Let's get to the tower."
+
+The aircar climbs toward the clouds.
 
 ---
 
@@ -212,23 +206,17 @@ Nappa folds his arms. "And who is Moai?"
 
 "What if we don't?"
 
-Both riders open their mouths. Red beams strike Nappa and Vegeta, throwing dust from the ground around them and over the pods.
+Both riders open their mouths. Red beams strike the Saiyans, throwing dust from the ground around them and over the pods.
 
-When the dust thins, the Saiyans stand where they were. Nappa brushes grit from his shoulder.
+When it thins, Nappa and Vegeta stand where they were. Nappa brushes grit from his shoulder and grins up at the riders.
 
 "My turn."
 
-He takes a step, but Vegeta touches his scouter.
+He takes a step, but Vegeta touches his scouter. "Wait, Nappa. They'll take us straight to their king."
 
-"Wait, Nappa. They'll take us straight to their king."
+Nappa looks at the two armed riders, then holds out his wrists. "All right. Lead the way."
 
-Nappa looks up at the riders. Then he holds out his wrists.
-
-"All right. Lead the way."
-
-The riders exchange a glance. One jumps down with a chain while the other keeps his weapon raised.
-
-Vegeta allows his own wrists to be bound. Nappa tests the links once, then lets them hang loose.
+The riders exchange a glance. One jumps down with a chain while the other keeps his weapon raised. Vegeta allows his own wrists to be bound; Nappa tests the links once, then lets them hang loose. The guard hastily steps back.
 
 ---
 
@@ -244,7 +232,7 @@ She catches the sack before it falls out. Two police cars follow her through the
 
 Launch glances over her shoulder. "I heard you the first time!"
 
-She snatches up the weapon beside her and fires behind the car. The blast strikes the road between the pursuing vehicles. One brakes sharply, and the other swerves around it through a cloud of dust.
+She snatches up the weapon beside her and fires behind the car. The blast strikes the road between the pursuing vehicles. One brakes sharply, and the other swerves around it through a cloud of dust. A loose banknote lands against its windshield; the driver peels it away just in time to see the turn.
 
 The first car skids against a stack of empty crates, and the officers duck as pieces tumble across the road. An officer from the second car jumps out to help clear the turn, but Launch is already out of reach.
 
@@ -284,11 +272,11 @@ Atla looks at the chains. "I'm sorry you came while Moai is king. He takes whate
 
 Atla glances toward the door. "The people who tried are here, or they're dead."
 
-Another prisoner shifts on the floor. Atla gives him a little water from a cup and waits until he has swallowed.
+Another prisoner shifts on the floor. Atla gives him a little water from a cup and waits until he has swallowed. The cup is almost empty when he sets it down.
 
 "On the day I was married, Moai's men took my wife to the castle. Her name is Lemuria. I haven't been allowed to see her since."
 
-He turns the bracelet around his wrist. "We exchanged these before they came. I don't know whether she still has hers."
+He turns the bracelet around his wrist. Its gold has been rubbed dull where his fingers keep finding it. "We exchanged these before they came. I don't know whether she still has hers."
 
 Atla points toward the stair. "There's a passage beside the courtyard. It leads up to the balcony. I heard the guards talking about it when they brought me in."
 
@@ -328,15 +316,15 @@ Lemuria takes a cup from the table beside her and starts down the steps. A guard
 
 "He needs water," she says.
 
-Moai raises a hand to stop the guard from moving aside. Below them, two more guards pull the defeated Arlian toward a square panel in the floor.
+Moai raises a hand to stop the guard from moving aside. Below them, two more guards drag the defeated Arlian toward a square panel in the floor. Lemuria tries to get past, but the guard catches her arm.
 
-"Enough," Lemuria says. "He's already lost."
+"Enough! He's already lost."
 
 Moai does not look at her. "The winner deserves to see what happens to the loser."
 
-A guard opens the panel. The defeated fighter struggles, but the guards push him through. The panel closes over his cries.
+A guard opens the panel. The fighter struggles, but they push him through. It closes over his cries.
 
-The guard takes the cup from Lemuria and guides her back to her seat. A deep growl rises from beneath the floor, and she grips the edge of the chair.
+The cup tips in Lemuria's hand, spilling water across the steps. A deep growl rises from beneath the floor. The guard takes the cup and guides her back to her seat; she grips the edge of the chair until the sound stops.
 
 Moai notices the bracelet. "You're still wearing that?"
 
@@ -354,8 +342,6 @@ A guard hurries up the steps and bows. "Your Majesty, the patrol has brought two
 
 The guard runs back toward the courtyard. Beneath the arena floor, the growl fades.
 
-*This programme continues after a message.*
-
 ---
 
 ## The Ridge
@@ -372,11 +358,11 @@ Piccolo lowers his hand. He turns toward the distant line of trees.
 
 "Those boys."
 
-He steps to the edge of the ridge and looks toward the river, but the bend is hidden beyond the hills. Goku's ki remains close to the boys'.
+The bend in the river is hidden beyond the hills, and Goku's ki remains close to theirs. Piccolo stares that way for a moment, then closes his hand again.
 
 "Enjoy keeping them beside you, Goku."
 
-Piccolo lifts from the ridge. He flies away from the river and strikes the next boulder with his fist. Fragments fall across the empty slope.
+He lifts from the ridge and drives his fist through the next boulder. Fragments tumble across the empty slope as he flies away from the river.
 
 ---
 
@@ -414,7 +400,7 @@ Goku goes to the cupboard. "Hey, the other Dragon Balls are in here, aren't they
 
 "Oh, right."
 
-He reaches behind a folded cloth and brings out two orange balls. Three red stars show inside one, and six inside the other.
+He reaches behind a folded cloth and brings out two orange balls. Three red stars show inside one, and six inside the other. Light from the window passes through them onto the table.
 
 "They're still here."
 
@@ -422,15 +408,17 @@ Gohan comes over to see. "Raditz's friends heard about them."
 
 "Yeah," Goku says. He puts the balls back beneath the cloth and closes the cupboard. "We'll be ready for them."
 
-Goshin leans close to the closed cupboard. "Can the dragon hear us when it's inside?"
+Goshin leans close to the cupboard. "Can the dragon hear us when it's inside?"
 
-"I don't think it's inside the balls," Goku says. "It only appears when you call it."
+"I don't think it's inside the balls. It only appears when you call it."
 
 Gohan looks at the cupboard again. "Do we have to call it to ask?"
 
 "Not today," Chi-Chi says.
 
 Goku laughs. "We'll find out another time."
+
+Goshin listens at the cupboard door anyway. Gohan puts an ear beside his, and Chi-Chi has to move both of them before she can set the fish on the table.
 
 ---
 
@@ -508,21 +496,15 @@ Gohan opens his schoolbook at the table. Beside it lies Mina's book about machin
 
 The school page asks about animals living near a river, and Gohan writes down the fish they caught before drawing the injured dinosaur in the margin. He adds a small bandage where Sato placed the dressing and turns the book so the drawing faces the window.
 
-Goshin stands at the kitchen counter while Goku cleans the fish. Chi-Chi pours water into a pan and sets rice on the stove.
+Goku cleans the fish at the kitchen counter while Chi-Chi puts rice on the stove. A silver scale sticks to his nose.
 
-"You missed a scale," Goshin says, pointing near the fish's tail.
+Goshin points at it. "You missed one."
 
-Goku looks again. A silver scale clings there. He scrapes it away and holds the fish up for inspection.
+Goku looks down at the fish. "Where?"
 
-"How about now?"
+Goshin touches his own nose. Goku rubs his and finds the scale, and both boys laugh. Chi-Chi takes the cleaned fish for the pan while Goshin fetches chopsticks for the table.
 
-"Now it's clean."
-
-Goku rinses it and places it beside the other fish. Chi-Chi cuts them and sets them in a pan while the rice cooks. Goshin fetches the chopsticks and puts a pair beside each bowl. When the fish is ready, Chi-Chi serves it with rice.
-
-"Careful. It's hot," she says.
-
-Goshin blows on the fish, takes a small bite and waits. Then he takes another.
+When she serves the fish and rice, Goshin blows on a mouthful before tasting it. He reaches for more rice at once.
 
 Gohan closes his schoolbook. "I've finished this page."
 
@@ -612,7 +594,7 @@ Gohan steps onto the wood. It turns beneath him, and he spreads his arms. He shi
 
 "Now turn around," Goku says.
 
-Gohan bends his knees, lifts one foot and turns. The log rolls toward the gate, and he jumps clear before it reaches Chi-Chi's flowerpot. He catches the log with both hands and sets it back in the yard.
+Gohan bends his knees, lifts one foot and turns. The log rolls toward the gate, and he jumps clear before it reaches Chi-Chi's flowerpot. He catches it with both hands and sets it back in the yard.
 
 "I can do it again."
 
@@ -620,7 +602,7 @@ Goshin steps onto the wood. It rolls under his feet, and he adjusts his stance a
 
 Goku grins. "That's it! Gohan, try it once more."
 
-Gohan climbs on again. This time he turns with the log and steps down before it reaches the gate.
+Gohan gets back on, watching the gate. This time he turns with the log and steps down before it reaches the flowerpot. He looks over at Goshin, pleased, and Goshin gives him a thumbs-up.
 
 Goshin picks up a fallen leaf. "Father, can I try hitting this while I'm moving?"
 
@@ -658,15 +640,17 @@ She pushes back her sleeve. The matching bracelet catches the light.
 
 "Atla!"
 
-They run to each other across the broken floor. Atla holds her hands, then looks toward the Saiyans.
+They run to each other across the broken floor. Atla holds her hands. "I couldn't get to you."
 
-"You defeated Moai. Our people can be free again."
+"I know." Lemuria presses his wrist against her own, the two bracelets touching.
+
+Atla looks toward the Saiyans. "You defeated Moai. Our people can be free again."
 
 Vegeta touches his scouter. A signal sounds high above the castle.
 
 "You came from so far away," Atla says. "We'll always welcome you here."
 
-The two pods descend into the courtyard. Nappa walks toward them with Vegeta.
+The two pods descend into the courtyard. Nappa walks toward them with Vegeta, glancing back at the Arlians gathering by the gate.
 
 "They think we came to rescue them."
 
@@ -683,6 +667,8 @@ A prisoner calls from the stair. Atla waves him into the courtyard, where anothe
 Atla looks back at the broken doorway. "I'll get them. Can you take the others down to the stair?"
 
 She catches his hand. "We'll get the keys together. Then we can bring everyone out."
+
+He looks at the two bracelets against each other, and for the first time since the cell door opened, he smiles without looking back toward the guards.
 
 Above the clouds, the pods stop. Their hatches open, and Vegeta floats out with Nappa beside him. Below them, Arlia's broken cities and dark plains curve toward the horizon.
 
@@ -708,14 +694,16 @@ Two round space pods cross the dark where Arlia had been. Their red indicators a
 
 ---
 
-## Preview
-
-*An aircar passes above a mountain. At home, Gohan closes his schoolbook while Goshin sets a leaf beside a stone.*
-
-**NARRATOR:** Bulma and the others still have friends to find. When will Goku and his sons bring Mina's book to C-6, and will news ever come from King Kai?
+> **NEXT TIME — The boys ask Goku for a match and keep their promise to C-6.**
 
 <!--
 ## Footer
+
+**6 November 2026 — Dragon Ball-feel revision from the opening, unaccepted.** The complete chapter, episode-eleven coverage and retained captions, Toei's short synopsis and the Chapter Thirteen opening were reviewed. The family fishing, dinosaur encounter, home and training scenes have more individual play and emotion; Goshin's child-sized resemblance to Goku and Chi-Chi's eyes are shown without inventing an eye colour. Both brothers act independently and effectively. Launch's separate pursuit and Atla and Lemuria's choices remain distinct from the Saiyans' predatory purpose. Arlia's destruction remains the source-reported outcome of this independent thread; no Earth character is shown learning it. Goku remains alive, King Kai's answer unresolved, the scouter unpowered, and C-6's condition and next-day book visit open at the handoff. The complete retained episode-eleven captions were reread, including the preview, ending and unrelated tail; origin and cut are unverified. The short synopsis, captions, previously recorded isolated stills and secondary report are not a complete video/audio review; the detailed family, alien-planet and fight staging is authored. The exact immediate predecessor is in the [verified pre-correction project and accepted-original snapshot](../canon/ARCHIVE_INDEX.md#backup-042), Chapter Twelve member SHA-256 `b1afb373a84fae0ffa4150f348cebf8e1561d0221cda115ef949b442da4cc030`, ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. Earlier footer entries remain historical; this revision is not reader acceptance.
+
+
+
+**5 November 2026 — continuing emotional revision, unaccepted.** The brothers' fishing and family meal now carry more spontaneous play without a food-inspection ritual; Atla and Lemuria's reunion has space to matter before Arlia's destruction. The unchanged alien-planet outcome, Saiyans' motives, living family, ordinary growth, book and C-6 handoff remain. The preceding selected file is preserved with Chapter Eleven in the [verified local backup](../canon/ARCHIVE_INDEX.md#backup-054). The full retained episode-11 caption was reread with Toei's short synopsis and the existing secondary source comparison; caption origin and cut remain unverified. They do not establish full audiovisual review. The family scenes, bracelets and added dialogue are authored; destruction on Arlia remains the documented source outcome.
 ```
 ANIME BASE: Dragon Ball Z episode 11.
 EVIDENCE: Local Japanese episode-11 captions, with original provenance and exact cut unverified; secondary accounts as identified in the coverage record. Captions and selected stills do not establish full video or all silent action.

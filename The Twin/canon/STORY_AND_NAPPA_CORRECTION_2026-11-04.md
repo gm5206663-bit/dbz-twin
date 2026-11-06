@@ -2,7 +2,7 @@
 
 **Owns: the current local story correction, its battle consequences, version boundary and evidence limits.**
 
-**Status:** local, unaccepted corrections to existing selected chapters, not a new chapter or reader approval. The separately preserved [pre-correction Chapter 20](../../Research/The%20Twin/Chapter%20Research/Character%20and%20continuity%20corrections/Chapter%2020%20-%20accepted%20original%20before%20character%20corrections%20%282026-11-03%29.md) remains the version the author accepted; the selected corrected Chapter 20 is not accepted. The immediate pre-pass project is preserved in [Before full-story and Nappa correction](../../Research/The%20Twin/Chapter%20Research/Character%20and%20continuity%20corrections/Before%20full-story%20and%20Nappa%20correction%20%282026-11-04%29.zip), SHA-256 `a10803d93edb5225e96221d8f691bf3f71cd38f635150943d68ae3551951d63d`; it does not contain private Sara files.
+**Status:** local, unaccepted corrections to existing selected chapters, not a new chapter or reader approval. The separately preserved [pre-correction Chapter 20](https://drive.google.com/file/d/1yeojAxNUHQIsqnrwrfQm1ET_f6uTuKnD/view) remains the version the author accepted; the selected corrected Chapter 20 is not accepted. The immediate pre-pass project is preserved in [Before full-story and Nappa correction](ARCHIVE_INDEX.md#backup-023), SHA-256 `a10803d93edb5225e96221d8f691bf3f71cd38f635150943d68ae3551951d63d`; it does not contain private Sara files.
 
 ## Editorial correction
 
@@ -29,7 +29,7 @@ The easy Chapter 23 Piccolo spar had the same unsupported implication. It now sh
 
 This is a correction to these scenes, **not a restriction on Goshin's Talent or anyone else's growth**. His innate whole-being adaptation and potential for very rapid, substantial combat growth remain. Anger and being pushed hard can be relevant for him or others, but neither is mandatory; development can also occur in other situations. There is no imposed numeric ceiling, fixed rate, mandatory exhaustion or rule that only extreme circumstances can produce growth (`O188`).
 
-The two immediately preceding unaccepted chapter versions are preserved together in [Before output-versus-growth correction](../../Research/The%20Twin/Chapter%20Research/Power%20and%20consequence%20correction/Before%20output-versus-growth%20correction%20%282026-11-04%29.zip), SHA-256 `e913172c71eb5efbf47f2c9e7ae53caf94d0a2804cc41d8645df2a6d8aa8dba1`. The ZIP contains only those two chapter files, not private material or the deleted scratch directory.
+The two immediately preceding unaccepted chapter versions are preserved together in [Before output-versus-growth correction](ARCHIVE_INDEX.md#backup-068), SHA-256 `e913172c71eb5efbf47f2c9e7ae53caf94d0a2804cc41d8645df2a6d8aa8dba1`. The ZIP contains only those two chapter files, not private material or the deleted scratch directory.
 
 ## Source and version boundary
 

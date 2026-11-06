@@ -4,474 +4,567 @@
 
 ## The Mountain Morning
 
-The first axe stroke sends a shiver through the woods above the house. Birds burst from the branches, wheel over the roof and settle again. A moment later the axe falls a second time.
+An axe rings through the woods above the Son family home. A flock of birds bursts from the branches, circles once over the roof and settles again.
 
-Below the trees, smoke curls from the kitchen chimney. A narrow path winds between a vegetable patch and a pile of split wood, past the round little house and down the mountain. The morning air smells of damp earth, cut timber and rice cooking on the stove.
+A second stroke sends them up for good.
 
-"Gohan!" a woman calls from the yard. "Goshin!"
+Below the trees, smoke curls from a round little house. There is a vegetable patch, a path winding down the mountain, and a woodpile almost as tall as the kitchen window. Shirts and trousers stir on a washing line beside the yard.
 
-A black-haired head rises behind the woodpile.
+"Gohan! Goshin!" Chi-Chi calls from the yard. "It's time to eat!"
+
+A black-haired head appears behind the woodpile.
 
 "Here!"
 
-Goshin comes around the stack carrying a log so wide he has to hook both arms under it. At four, he is small enough that the pile towers over him, but he gets the log onto the top without dropping it. He pushes it into a gap, steps back, and watches to make sure the stack does not lean.
+Goshin comes around the end with an armful of logs. One is so wide it hides his shirt; he lifts it onto the top of the stack, then tucks the others into the gaps. A last piece starts to roll. He catches it with his tail and puts it back.
 
-His mother stands by the kitchen door with her sleeves tied back. Chi-Chi's black hair is gathered high, and her eyes, so often narrowed at her husband, soften when they find her son.
+"That's the last of them, Mother."
 
-Goshin grins. His own hair rises in wild black spikes like a miniature version of Goku's; his face is almost his father's, except for the eyes he has inherited from Chi-Chi. His furry tail uncurls from his ankle as he brushes bark from his hands.
+"The last ones your father cut," Chi-Chi says. "Listen to him up there. There'll be another pile before long."
 
-"Did you do all that yourself?" she asks.
+Goshin looks toward the woods. "Can we make this one higher than the house?"
 
-"Nearly. Father cut the big pieces."
+"You can make it no higher than I can reach."
 
-"And you carried them?"
+"Father can reach higher."
 
-"They wouldn't fit in the pile if I left them on the ground."
+"Your father isn't the one who cooks."
 
-Chi-Chi looks at the wood, then at the boy who has just explained the matter to her. "Come inside. Breakfast is nearly ready."
+Goshin considers the roof, then his mother, and decides not to add another log. He's four, with the same wild black spikes and almost the same face as Goku, though his eyes are Chi-Chi's. She brushes a piece of bark out of his hair and steers him toward the house.
 
-He follows the smell of rice to the table, where a schoolbook lies beside a brush and a sheet of practice characters. He reaches for the bowl Chi-Chi has set out.
+"Wash your hands first. Where's Gohan?"
 
-"Can I eat on the step?"
+"He went to find Father."
 
-"You may, if you don't leave it there afterward."
+"Well, he hasn't come back to eat. You go ahead."
 
-Goshin takes the bowl outside and sits with the warm wood under his legs. Rice and egg disappear quickly. He is scraping up the last grains when the axe stops.
+Inside, a schoolbook lies open beside a brush and a sheet of practice characters. Goshin washes, collects his bowl of rice and egg, and carries it to the step. By the time the axe stops, he's chasing the last grains around the bottom with his chopsticks.
 
-For a moment the mountain is very quiet. Then something creaks above the roof, deep enough to feel in the step beneath him.
+Up on the slope, Goku tucks the axe through his belt and squints up at a tree. It is much bigger than the ones he's been chopping. He draws back a fist and punches the trunk.
 
-Chi-Chi comes out. "Stay there."
+For a moment nothing happens.
 
-The creak becomes a crack. Goshin jumps up anyway, bowl in hand. By the time Chi-Chi reaches the corner of the house, she finds him peering around her.
+Goshin tilts his head. A deep creak rolls down the mountain.
 
-A huge tree tilts out of the forest. Its crown sweeps across the sky, breaking through smaller branches. Leaves rain onto the slope. The trunk strikes the ground with a rolling crash, and a puff of dust runs toward the woodpile.
+"Goshin, stay there," Chi-Chi says, coming out of the kitchen.
 
-Goku stands beside the stump, one hand resting on the pale, freshly exposed wood. He is a broad-shouldered man in an orange training outfit, blue shirt and sash, with black hair that spikes in every direction and refuses to lie flat. He looks from the fallen tree to his wife, pleased with himself.
+The crown tips above the roof. Goshin jumps up, bowl in hand, and peers around her as the tree breaks through the smaller branches. Leaves scatter over the yard. With a tremendous crash, the trunk hits the ground beyond the vegetable patch, and a cloud of dust sweeps up the path.
+
+Goku stands beside the stump with the axe tucked through his belt. His orange training clothes are dusty, his blue sash is crooked, and his black hair points in every direction. He surveys the fallen tree with satisfaction.
 
 "That oughta last a while."
 
-"It ought to," Chi-Chi says. "You nearly knocked the roof off."
+"You nearly dropped it on the house!" Chi-Chi calls.
 
-"I aimed it away from the house."
+"Nah. I aimed it away."
 
-"You'd better have."
+A leaf falls out of his hair. Chi-Chi points at the vegetable patch; the branches have stopped just short of the beans.
 
-Goku slips both arms under the trunk. The muscles in his forearms tighten; the tree rises, roots of broken branches dangling from it. He balances the middle on his shoulder and starts up the path toward the chopping block.
+"Next time aim a little farther away."
 
-Goshin puts down his bowl and runs to the trailing end. He wraps his arms around it, sets his feet and heaves.
+Goku slips his arms under the middle of the trunk and hoists it onto his shoulder. Goshin sets down his empty bowl and runs to the narrower end.
 
-The trunk moves. So does Goshin. His shoes leave the earth, and he swings beneath the far end as Goku takes another step.
+"I'll take this part!"
 
-"Goshin!" Chi-Chi calls.
+He lifts it clear of the ground, and together they start up the path. Then Goku raises his shoulder to clear the fence. Goshin's feet leave the ground. Rather than let go, he swings his legs up and pulls himself astride the trunk.
 
-"I've got it!" His voice comes out half a laugh. Bark scratches his cheek, and his tail flaps behind him as he struggles to keep his grip.
+"Hey! You took my end!"
 
-Goku glances back. "Need me to stop?"
+Goku glances back at his passenger. "You could get down and help."
 
-"No!"
+"I was helping!"
 
-Goku slows enough to keep the end from swinging into the fence. Goshin hangs on until the trunk reaches the chopping block, where Goku lowers it and lets him scramble down.
+Goku takes a few longer strides. Goshin rides the bouncing tree, laughing and holding on with one hand. Chi-Chi throws up her arms.
 
-"You helped," Goku tells him gravely.
+"Both of you watch the washing!"
 
-Goshin beams. Then he turns his palms upward. The bark has left them red and stinging.
+Goku ducks a branch under the line. Goshin hops off, catches the trailing end before it can hit the fence, and helps lower it beside the chopping block. The impact shakes a pair of trousers off their peg. Chi-Chi catches them before they land.
 
-Chi-Chi takes his hands before he can hide them. "You two are going to give me grey hair."
+"See?" Goku says. "Didn't touch a thing."
 
-"You said the woodpile needed filling," Goku offers.
+She holds up the trousers.
 
-"And you can finish it after we eat. Where's Gohan?"
+"Almost didn't touch a thing," he corrects himself.
 
-Goku looks past her toward the house. "Wasn't he with you?"
+Goshin tries not to laugh. Chi-Chi swats his father with the trousers, drapes them back over the line, then looks up the path again.
 
-Her expression changes. She has called several times already. "He went outside this morning. He finds some quiet spot and forgets everything else." She raises her voice toward the trees. "Gohan! Lunch soon!"
+"Goku, have you seen Gohan?"
 
-No answer comes from the forest.
+"No. Isn't he with you?"
 
-Goshin picks up his bowl. "He said he wanted to find Father."
+"He went looking for you."
 
-"Well, Father is right here." Chi-Chi wipes her hands on her apron and looks up the path. "We're supposed to be at Master Roshi's today. If we don't eat and leave soon, we'll keep everybody waiting."
+"Huh. Must've missed each other." Goku rubs his stomach. "I'm starving, by the way."
 
-"I'll find him," Goku says.
+"So am I, but first we need our son! Gohan!"
 
-"Bring him home first. And take Nimbus; you'll be all morning on foot."
+The call travels among the trees. No one answers. Goshin's grin disappears; he moves to the edge of the path and calls too, cupping both hands around his mouth.
 
-Goshin sets the bowl on the step. "Can I come?"
+"Gohan! We're eating!"
 
-"You stay and help me. Your father can search faster alone."
+A bird answers. It isn't much help.
 
-He looks disappointed, but Goku crouches beside him. "I'll bring him back. Then you can tell him how you carried the tree."
+"He can't have gone very far," Chi-Chi says, although she is already wiping her hands on her apron. "We're supposed to be at Master Roshi's today. If we don't eat and leave soon, everyone will be waiting."
 
-"I was carrying *you*," Goshin says.
+Goku turns toward the mountain. "I'll find him."
 
-"Were you? I wondered why it felt lighter."
+"Take Nimbus. And bring him home before you go anywhere else."
 
-Goku puts two fingers to his mouth and whistles. A small golden cloud zips over the treetops, dips around the chimney and stops in the yard. Goku jumps onto it; the cloud dips under his weight, then bobs steadily in the air.
+"Can I look too?" Goshin asks.
 
-"Don't forget to call when you find him!" Chi-Chi shouts.
+"You stay near the house. I don't want to lose both of you."
 
-"I won't!"
+"But I know the path by the big cedar. Gohan likes that way."
 
-Nimbus shoots over the ridge. Goshin shades his eyes until the yellow speck disappears.
+Chi-Chi follows his pointing finger up the slope. "All right. As far as the cedar and straight back. Call for him, and if you see him, bring him home."
+
+"I will!"
+
+Goku whistles. A little golden cloud comes darting over the treetops, skims past the chimney and stops at his feet. He jumps on.
+
+"I'll try the higher paths. You look by the cedar, okay?"
+
+Goshin nods and takes off before the cloud has cleared the yard. He races up the familiar trail and jumps the stream in a single bound. At the big cedar he checks behind the roots, then springs up to a low branch and climbs.
+
+Gohan had shown him a bird's nest up here. Goshin peers around it without touching; the nest is empty, and so is the stretch of path visible through the branches. He calls his brother's name. A squirrel scolds him from the next tree.
+
+"I wasn't talking to you."
+
+He drops to the bend in the path. The woods continue beyond it. Goshin takes a step after the trail, then stops. Father is searching farther up, and he promised Mother he'd come back. He calls once more, louder than before, and listens until the echoes fade.
+
+On the way home he keeps watching the sky for Nimbus. It doesn't appear. He runs the last stretch faster, hoping Gohan has come back by another path, but only Chi-Chi is waiting at the house.
 
 ## The Visitor
 
-Far from the mountain, a farmer is working a flat field beneath a wide blue sky. Furrows stretch behind his plough, dark and straight. He pauses to wipe his brow, takes a drink from a bottle on his cart and hears a sound high overhead.
+Far away, a farmer is working in a broad field. His plough has cut dark lines across the earth, and his truck waits beside the crop. He pauses to drink from a bottle when a light streaks across the sky.
 
-At first he sees only a streak of light. Then it swells, trailing fire, and strikes the far end of the field.
+It gets bigger.
 
-The earth bucks under his boots. Soil and stones erupt in a brown column. The plough tips sideways, and a flock of birds lifts from the hedgerow.
+"What the—?"
 
-When the shower of dirt stops, the farmer climbs into his truck and drives toward the smoking crater. He takes his shotgun with him. It could be a meteor, he tells himself, though he has never heard a meteor hiss.
+The thing hits the far end of the field. Dirt and stones erupt into the air; the farmer drops his bottle and throws an arm over his face. By the time the ground stops shaking, smoke is rising from a hole where his crops used to be.
 
-At the lip of the hole lies a round metal pod, half buried in the torn earth. Its pale shell is scored and filthy. A hatch releases with a sharp mechanical click.
+He climbs into the truck, grabs his shotgun and drives toward it.
 
-The farmer raises the gun.
+"A meteor?" He peers over the steering wheel. "Never seen one land like that."
 
-A man emerges from the pod and rises out of the crater without using the sides. He is tall and powerfully built. Black hair pours from a high, sharp forehead in a vast mane that reaches almost to his legs. Over a dark bodysuit he wears brown and black armour with hard shoulder guards; a furry brown tail is wrapped around his waist. A green lens covers his left eye, joined to a device at his ear.
+He parks at the rim. Down in the crater lies a round metal pod, half buried in the earth. Its shell is scorched, but there is a window in it—and a hatch.
 
-His boots settle on the edge of the furrow. He looks at the crops, the truck, and the man holding the shotgun.
+The hatch clicks open.
+
+The farmer backs up, raising his gun. A tall man emerges from the pod and floats out of the crater without touching its sides. An enormous mane of black hair reaches almost to his legs. He wears brown and black armour over a dark bodysuit, with a furry tail wrapped around his waist. A green lens covers one eye.
+
+His boots touch the field. He studies the crops, the truck and the man holding the shotgun.
 
 "There are still people here?" His mouth twists. "Kakarot, what have you been doing?"
 
-"Who are you?" the farmer demands. "Don't come any closer!"
+"Who are you? Stay right there!"
 
-The stranger touches the device at his ear. It chirps, and figures flicker across the green glass.
+The stranger touches the device at his ear. It chirps, and numbers flash over the lens.
 
-"Five." He gives the farmer a contemptuous look. "How pathetic."
+"Five." He smirks at the farmer. "Pathetic."
 
-"I said stop!"
+"I said stay back!"
 
-The stranger takes another step. The shotgun goes off.
+The stranger takes another step. The farmer fires.
 
-The blast cracks across the field. The stranger's hand closes in front of his chest; when he opens his fingers, the shot lies in his palm. For an instant the farmer can only stare.
+The report cracks across the field. The stranger's hand snaps shut in front of his chest. When he opens it again, the shot lies in his palm.
 
-The stranger flicks it back.
+The farmer lowers the gun a fraction. He has never seen anyone catch a bullet. The stranger flicks it back at him.
 
-The farmer is hurled against the truck and falls into the furrow. The gun tumbles from his hand. He does not get up.
+The gun breaks apart. The farmer is thrown against his truck and falls to the ground. He does not get up.
 
-The device chirps again. The stranger turns toward the distant hills, a smile returning as he studies the lens.
+The device chirps again. **322** appears on the lens beside a separate distance marker. The stranger turns toward the distant hills.
 
-"A much stronger reading. Could that be Kakarot?"
+"A stronger power. Distance: 4,880." He smiles. "Could that be Kakarot?"
 
-He lifts from the ground and accelerates into the sky. The rush of his departure bends the crops. Beneath the thinning dust, the truck door rocks slowly on its hinges.
+He rises into the air and shoots away, bending the crops with the rush of his departure. The truck rocks once on its wheels. Then the field is quiet.
 
 ## Lost in the Woods
 
-Gohan has been trying to find his father since the morning. At first he follows the sound of the axe, but the woods are full of echoes and the strokes stop before he reaches them. Now he is standing among unfamiliar trees, holding the brim of his red cap.
+Gohan has been looking for his father since the morning. At first he'd followed the sound of the axe, but the woods made echoes, and the chopping stopped. Now he turns among unfamiliar trees, holding the brim of his red cap.
 
-His black bangs have escaped underneath it. The cap's round orange ornament glows where sunlight catches it: inside the clear ball are four red stars. His yellow top, green sleeves and small boots are already spotted with dirt, and his tail trails through the leaves behind him.
-
-"Father?"
-
-The word goes a little way between the trunks and comes back smaller. Gohan swallows. He turns in a circle, but the path he followed has disappeared under the leaves.
-
-A butterfly settles on a nearby stump. Its wings open slowly, bright against the dark bark. Gohan crouches to look.
-
-"Oh. I know what you are."
-
-He reaches toward it, and the butterfly lifts just beyond his fingers. It floats from one patch of sunlight to the next. Gohan follows, calling for it to wait; when it alights high on a tree, he bends his knees and jumps.
-
-His fingers brush the bark below it. He lands in the leaves, looks up, and watches it sail away over the branches.
-
-For a moment he forgets he is lost. Then something rustles in the bushes behind him.
+The orange ball on top catches the sunlight. Four red stars shine inside it. His yellow top and green sleeves are dusty, and his tail trails through the leaves as he walks.
 
 "Father?"
 
-A great striped cat pushes its head through the leaves. Its shoulders follow, higher than Gohan's hat; two long curved fangs hang below its upper lip. It sniffs the air and fixes its eyes on him.
+He waits. Nothing answers. He calls again, louder, and the sound comes back to him from somewhere he can't see.
 
-Gohan freezes. His mouth opens, but no sound comes out. The cat takes a slow step closer, and he remembers something he has heard about wild animals. He drops into the leaves, shuts his eyes and lies very still.
+"Father! Where are you?"
 
-The cat's breath is hot against his face. A rough tongue drags across his cheek, then again, until his nose wrinkles and he has to fight not to giggle. He keeps his eyes squeezed shut.
+His eyes fill. He wipes them with his sleeve, then spots something on a nearby stump: a butterfly with bright bands across its dark wings. The tears are forgotten at once.
 
-Something tugs at his head. The weight of the cap lifts away.
+"An emerald peacock swallowtail!"
 
-Gohan opens one eye. The cat is retreating with the red hat caught between its teeth, the Four-Star Ball wobbling on top.
+He crouches to look. He's seen a picture of one in his book, but the real wings shine when they move. He leans closer without touching. When he reaches toward it, the butterfly lifts off and floats a little farther into the trees.
 
-"My hat! Father gave me that!"
+"Wait!"
 
-The cat turns and bounds through the undergrowth. Gohan scrambles after it, pushing past ferns and low branches. He is frightened, but the hat is disappearing, and he cannot let it go.
+Gohan follows it across a patch of sunlight. It settles high on a trunk, and he jumps with both arms outstretched. His fingertips brush bark. The butterfly takes to the air again and vanishes over the branches.
 
-"Please bring it back!"
+He lands in the leaves and watches it go. Behind him, a bush rustles.
 
-For an instant he is close enough to see the ball gleaming above the bushes. The cat swerves sharply. Gohan plunges straight ahead through a screen of leaves and finds nothing under his next step.
+"Father?"
 
-The forest drops away beneath him. He falls with a cry, reaching wildly. His tail snags a branch projecting from the cliff, jerking him to a stop upside down. Loose stones tumble past him into the ravine.
+A huge tawny cat pushes through the leaves. Its shoulders rise above Gohan's head, and two long fangs curve down from its upper jaw. It sniffs him.
 
-Gohan hangs there, blinking. Below him is a narrow shelf of rock. He twists until he can see it, takes a breath and loosens his tail. He drops onto the shelf on his bottom, hard enough to knock the breath out of him.
+Gohan goes rigid. Then he remembers what he's heard about wild animals, drops into the leaves and squeezes his eyes shut.
 
-For several seconds he sits with his hands pressed to the stone. Then he looks up. The branch is too high to reach from here, and the cliff rises steeply above it.
+The cat sniffs again. Its rough tongue sweeps across his cheek.
 
-"Mother? Father?"
+Gohan nearly giggles. He bites his lip and stays very, very still. The cat licks him a second time, then catches his cap in its teeth and lifts it off his head.
 
-His voice breaks. He wipes his face on his sleeve, gets to his feet and follows the shelf around the rock. It slopes down to a shallow stretch of river, where he can cross from stone to stone. He keeps one hand against the cliff until the ground widens, then continues along the bank.
+Gohan opens one eye. The cat is backing away with his hat.
 
-The river chatters around his boots. Gohan calls again and listens, but all he hears is the water.
+"No! Father gave me that!"
 
-A bright bird is perched on the end of a fallen log jutting out over the stream. Its crest is a fan of colours. Gohan stops crying long enough to stare at it.
+The cat turns and bounds through the brush. Gohan scrambles after it, frightened of the fangs but more frightened of losing the hat. The Four-Star Ball bobs above the bushes just ahead.
 
-"Your feathers are pretty."
+"Give it back! Please!"
 
-The bird tilts its head. Gohan walks carefully along the log, putting one foot in front of the other. He sits near the end, holding out a hand.
+He gets close enough to reach. The cat swerves; Gohan doesn't. He bursts through a screen of leaves and finds himself running over empty air.
+
+"Ahh!"
+
+He drops out of sight. Loose stones bounce down the cliff. His tail snags a branch, jerking him to a stop upside down above a narrow rock shelf.
+
+For a moment he can only hang there, staring at the drop. Then he twists to see the shelf beneath him and carefully loosens his tail. He lands on his bottom with a thump.
+
+"Ow."
+
+The cliff rises too steeply to climb back the way he came. Gohan wipes his face, gets to his feet and follows the shelf around the rock. It slopes down to a shallow river. He picks his way across the stones and continues along the bank, calling for his parents.
+
+The river chatters back. Gohan's lip begins to tremble again—until he spots a bird perched on a log above the water. Its crest spreads into a fan of colours.
+
+"What a pretty bird!"
+
+It tilts its head. Gohan steps onto the log, arms out for balance, and walks toward it.
 
 "I'm Son Gohan. What's your name?"
 
-The bird flaps away. Gohan reaches after it; the log shifts beneath him, slides off the bank and drops into the river with a splash.
+The bird flaps away. Gohan reaches after it. The log tips off the bank and drops into the current with a splash.
 
-Cold water surges over his boots. He grabs the bark with both hands as the current swings the log around and carries it downstream.
+Cold water closes around his legs. He grabs the bark with both hands as the river swings the log around and carries him downstream.
 
 "Father! Mother!"
 
-The bank slips past too quickly. He tries to crawl toward the nearer end, but the log rolls, and he flattens himself against it again. A branch lashes his shoulder. Farther ahead the river narrows between rocks, its surface breaking into white water.
+He tries to pull himself on top, but the log rolls. He kicks toward the bank instead; the current pushes him past a jutting rock and into faster water. Spray hits his face.
 
-High above the trees, Goku hears a faint cry. He banks Nimbus toward it, but the forest swallows the sound. He calls Gohan's name as he flies low along the slope.
-
-Something red bobs through the bushes below. Goku drops into a clearing and parts the leaves. The striped cat stands there wearing a little red cap, the Dragon Ball sitting between its ears.
-
-"Hey. That's my son's hat. Where'd you get it?"
-
-The cat bares its fangs. Goku folds his arms and gives it a stern look.
-
-"I'm asking you a question."
-
-The cat's ears flatten. It backs away, shakes off the cap and vanishes into the bushes. Goku picks up the hat, checks that the Four-Star Ball is still attached and looks toward the river.
-
-"Gohan!"
-
-A cry answers him, much closer now.
-
-Downstream, the log strikes a rock. Gohan is thrown sideways into the water, but he catches a broken branch before the current pulls him clear. He coughs, claws his way back across the slick bark and wraps both arms around it.
+The bank where the bird had perched is already out of sight, and the water is too deep here for Gohan to reach the bottom. A low branch hangs over the next bend. He reaches for it, stretching until his fingers brush the leaves. The log turns, and the branch slips past. He catches the bark again before the water can pull him away.
 
 "Father!"
 
-Nimbus swoops between the trees. Goku sees his son, his yellow clothes soaked, clinging to the log in the middle of the current.
+Ahead, the river narrows between rocks. White water boils around them.
 
-"I'm here! Hold on!"
+High above the woods, Goku hears a faint cry. He banks Nimbus between the treetops and calls his son's name, but the forest swallows the answer.
 
-He guides the cloud down beside the river and stretches out an arm. Gohan reaches, but a rock forces Nimbus upward. Their fingers miss by inches. Before Goku can circle, the current draws the log into a low tunnel beneath the cliff.
+Something red moves through the bushes below. Goku lands in a clearing and parts the leaves. The big cat is standing there with Gohan's hat on its head, the Dragon Ball between its ears.
 
-"Gohan!"
+"Hey. That's my son's hat. Where'd you get it?"
 
-There is no room for the cloud inside. Goku shoots over the ridge, the hat clutched in one hand, trying to reach the far side before the current does.
+The cat bares its fangs.
 
-In the tunnel, Gohan ducks beneath the low stone. The roar ahead grows louder. When the log bursts into daylight, he sees the river drop away and understands what the sound means. A branch juts over the water just before the brink.
+Goku folds his arms. "I asked you a question."
 
-He pushes himself upright on the rolling log. His boot slips, but he lunges and catches the branch with both hands. The log shoots out from beneath him and disappears over the waterfall.
-
-Goku arrives in time to see it go over. He follows it down through the spray, searching the churning pool below. Empty bark spins in the foam. There is no child on it.
+The cat's ears flatten. It shakes off the cap and bolts. Goku picks it up; the ball is still attached, but Gohan is nowhere in the clearing.
 
 "Gohan!"
 
-A small voice answers from above the roar. Goku looks up.
+A cry answers from the direction of the river. Goku jumps onto Nimbus, clutching the hat.
 
-Gohan is hanging from the branch near the top of the cliff, both hands locked around it. Water drips from his clothes, and the branch bends alarmingly under his weight.
+Downstream, the log strikes a rock and tears free of Gohan's hands. He plunges under, comes up coughing and catches a broken branch as the log spins past. He pulls himself close again.
 
-"I can't get down!"
+"Father!"
 
-"You don't have to. I'm coming."
+Nimbus swoops over the water. Goku reaches down from the cloud. Gohan stretches toward him, but a rock forces Nimbus up and their fingers miss.
 
-Nimbus climbs through the mist. Goku holds out his arms and brings the cloud close enough for Gohan to see him properly.
+"I'm coming! Hold on!"
 
-"Let go when you're ready. I've got you."
+Goku swings around for another try. Gohan has one hand outstretched and the other locked around the log. Their fingers almost meet. Then the current sweeps him into a low tunnel beneath the cliff.
 
-Gohan looks at the drop, then at his father. His fingers open. He falls the short distance into Goku's arms and buries his face against the orange cloth. Goku sits back on Nimbus with him, holding him close while the cloud steadies.
+"Gohan!"
 
-"You did a good job hanging on," he says.
+Goku dives toward the opening, but stone closes over the river. There isn't room for Nimbus to follow. Goku shoots up over the ridge instead, searching for the other end. He can hear water roaring somewhere ahead.
 
-Gohan's shoulders shake. "I thought I lost my hat."
+Inside the tunnel, Gohan ducks beneath the stone. The log bursts back into daylight, and he sees the river drop away. He reaches for the bank, but the current is too fast.
 
-Goku lifts it into view. "This one?"
+Goku arrives in time to see the log go over the waterfall. He plunges down through the spray, searching the churning pool below. The empty log spins in the foam.
 
-Gohan pulls back, astonished. He takes the cap in both hands and checks the ball. The four stars are still there.
+"Gohan!"
 
-"The cat had it," Goku explains. "I asked him for it."
+Only the waterfall answers. Goku circles, looking into the water. Then a small voice comes from above.
+
+"Father! I can't get down!"
+
+Gohan is clinging to a branch high on the cliff, water dripping from his clothes. Goku stares for an instant, then sends Nimbus climbing through the mist.
+
+"I'm right here. Let go; I'll catch you."
+
+Gohan lets go and tumbles into his arms. Goku holds him against his chest while the cloud steadies beneath them. The boy's fingers stay tangled in his father's shirt.
+
+"I was so scared!"
+
+"I know. You're safe now."
+
+Goku waits until Gohan can lift his head, then points toward the branch. "How'd you get all the way up there?"
+
+Gohan looks at it. "I don't know. I was on the log, and then I was up there."
+
+"Huh." Goku looks from the branch to the waterfall and back. "That's a pretty big jump."
+
+Gohan notices the cap in his father's other hand. "My hat!"
+
+"I found a cat wearing it."
+
+Gohan checks the ball as Goku hands it over. All four stars are there.
 
 "Did he lick you?"
 
 "Nope. Guess he liked you better."
 
-Gohan manages a laugh, then runs a finger around the ball. "This was Grandpa Gohan's, wasn't it?"
+That gets a laugh. Gohan runs a finger around the ball. "It was Grandpa Gohan's, wasn't it?"
 
-"Yeah. He raised me when I was little." Goku touches the ball gently. "I wanted you to have it."
+"Yeah. He raised me when I was little. I wanted you to have it."
 
 "I'm sorry I lost it."
 
-"You got it back, didn't you?" Goku settles the cap onto his wet hair. "And when you're bigger, I'll tell you all about Grandpa. He was a great fighter."
+"You got it back, didn't you?" Goku settles the cap onto his son's wet hair. "Come on. Your mother's waiting, and we've still got a visit to make."
 
-"Was he a scholar too?"
+Gohan leans against him as Nimbus turns toward home.
 
-"I don't know. He sure knew a lot about fighting."
+"Was Grandpa a scholar?"
 
-Gohan considers this as Nimbus turns toward home. He keeps one hand on the brim for the rest of the ride.
+"I dunno. He sure was a good fighter, though. I'll tell you about him sometime."
+
+Gohan thinks about that all the way back to the mountain.
 
 ## Waiting
 
-Goshin pulls the well bucket up hand over hand. The rope slides through his reddened palms, and water sloshes over the rim as he gets it onto the stone edge.
+Goshin has searched as far as the cedar. Gohan was in neither the tree nor the stream nor the patch of bushes beside the path. Now Goshin is helping Chi-Chi draw water from the well, although every time he hears a rush of wind he glances up.
 
-"Half for the kitchen," Chi-Chi calls from the washing line. "Leave the rest in the well."
+"Half a bucket for the kitchen," Chi-Chi says from the washing line. "The rest can go back in."
 
-He peers into the bucket, pours some back and carries the rest toward the house. A sheet billows above his head. Chi-Chi catches a corner before it can fall into the dirt, then stretches it along the line.
+Goshin pours some water into the well and carries the bucket across the yard. At the chopping block he stops. A thick, knotty piece of the tree his father brought down lies beside the axe.
 
-At the chopping block, Goshin notices a knotty piece of the tree his father left behind. The axe is still lodged in the block. He sets down the bucket, takes the log and puts it on a clear patch of ground.
-
-He brings the edge of his hand down. The wood cracks cleanly in two. A splinter skips across the yard beneath the washing.
+He sets the bucket aside, stands the log on the ground and brings the edge of his hand down on it. Crack! The wood splits cleanly. A splinter shoots under the washing.
 
 "Goshin!"
 
-He turns. Chi-Chi is standing at the end of the line with a wet shirt in her hands.
+Chi-Chi is holding a wet shirt at the end of the line. He gives her a hopeful smile.
 
-"Sorry. I didn't see you."
+"I didn't hit the shirt."
 
-She looks at the halves, then at the sheet moving above them. "That was a clean split. Next time warn me first; I don't want splinters in the washing."
+"You nearly did. And what if I'd been standing closer?"
 
-"All right."
+"Sorry. I'll move the wood first next time."
 
-He carries the pieces to the woodpile while she frees the axe and puts it high on the beam above the door. When he comes back, she is still looking toward the sky.
+She inspects the split pieces. "A clean cut, though. Here."
 
-"Are we late?" he asks.
+Chi-Chi stands one half on the block and turns it so the washing is behind her. She lines up her hand with the grain of the wood, and Goshin watches the angle of her wrist. Her hand flashes down; the piece breaks in two, sending a spray of chips away from the line.
 
-"Not yet."
+"That's where you aim."
 
-He stands beside her, following her gaze over the ridge. "Gohan's been gone a long time."
+"You can do it too?"
 
-Chi-Chi puts an arm around his shoulders. "Your father's looking for him."
+"Of course I can. Your grandfather didn't raise me to be helpless."
 
-"I know." Goshin leans against her for a moment. "When he's back, can we still go?"
+Goshin stacks the pieces while she frees the axe from the block and puts it high on the beam above the door. When he comes back, she's watching the sky too.
 
-"Of course we can. Your father promised to introduce you both."
+"Father will find him," she says.
 
-She gives his shoulder a squeeze, then goes inside to start more rice, even though it is early for supper. Goshin brings in the bucket and sets it beside the stove. Each time a bird calls outside, he glances toward the door.
+"I know. Gohan can't be under every tree."
 
-To keep him busy, Chi-Chi opens the schoolbook and asks him to show her the characters they practised. He knows the first two. The third defeats him; he makes a determined guess, earns a raised eyebrow, and bends closer to try again. Chi-Chi corrects the stroke he has missed, guiding his finger over the page.
+That earns a small smile. Goshin points up the path. "Can I try the cedar again? He might be there now."
 
-"Will I be able to take Nimbus by myself when I can read all of it?" he asks.
+"Once more. Then come straight back, even if you don't find him."
 
-"When you and Gohan are old enough, and you can both read all of it."
+He runs the path again and returns without Gohan. Chi-Chi meets him at the gate, and they listen for Nimbus together. When they hear nothing, she pulls him close for a moment, then takes the bucket inside. The rice pan goes on early; Gohan may be hungry when he returns, and it gives her something useful to do while she waits.
 
-"That's a lot of pages."
+Goshin sits at the table with the schoolbook. Chi-Chi sets a brush in his hand.
 
-"Then you'd better start."
+"Show me the characters we practised."
 
-He turns one page, then another, checking how many are left. Chi-Chi hides a smile and returns to the stove. A moment later he is peering out of the doorway again.
+He knows the first two. The third looks almost right, but Chi-Chi taps the page.
 
-At last comes a familiar rushing sound. He is out in the yard before Chi-Chi reaches the threshold.
+"You left out a stroke."
 
-Nimbus descends with Goku and Gohan on it. Gohan is wet from the chest down, with river weed caught in his flattened hair. His boots squelch when Goku helps him off the cloud. He is holding his hat against his chest.
+"It was there yesterday."
 
-Chi-Chi crosses the yard quickly and cups his face. "Are you hurt?"
+"And where did it go?"
 
-"The log fell in," Gohan tells her. "I was on it."
+Goshin turns the page sideways, considers it, and adds the missing line. Chi-Chi nods. He writes the character again on the practice sheet, larger this time.
 
-"He was on the log," Goku agrees.
+"If I finish the whole book, can I take Nimbus by myself?"
 
-"What log? What happened?"
+"When you're older."
 
-"There was a cat first," Gohan says. The story comes out in pieces: the fangs, the enormous tongue, the stolen hat. He demonstrates the licking with an emphatic swipe of his hand. "I played dead, just like I was supposed to."
+"How much older?"
 
-"A cat? How big a cat?"
+"Old enough to finish the book."
 
-"Bigger than me."
+Goshin flips through the remaining pages. There are a great many of them. He is about to argue when a familiar rushing sound comes over the roof.
 
-Goku holds out a hand above Gohan's head. "About this high."
+"They're back!"
 
-Chi-Chi stares at him. "And you let him get near it?"
+He's in the yard before Chi-Chi reaches the door. Nimbus descends with Goku and a soaked, muddy Gohan aboard. River weed hangs from Gohan's clothes, and his boots squelch as he steps down.
 
-"I wasn't there yet. I found the hat, though."
+"Gohan!"
 
-Gohan lifts it to show her. "The ball's safe."
+Goshin throws his arms around him. Gohan hugs back, dripping on his brother's shoulder.
 
-Her eyes go to the Four-Star Ball. Goku's grandfather gave it to him, and he searched for it again to place it on their son's hat. She presses a hand to Gohan's hair, then draws him into a tight embrace.
+"I looked for you by the cedar," Goshin says. "Did you hear me?"
 
-"Don't wander that far without telling us. Do you understand?"
+"I was by the river. There was a cat, and it took my hat!"
 
-"Yes, Mother."
+"A cat?"
 
-Goshin has been circling his brother, looking him over. "You smell like the river."
+Chi-Chi reaches them and cups Gohan's face. "Are you hurt?"
 
-"I was in it."
+"I'm all right, Mother."
 
-"Did you really see a cat that big?"
+"He went over by the waterfall," Goku says.
 
-Gohan spreads his arms as wide as they will go. "Its teeth were this long."
+Chi-Chi's head snaps up. "The *waterfall*?"
+
+"Well, the log did. Gohan was up on a branch."
+
+"Goku!"
+
+"I'm fine," Gohan says again, louder. He demonstrates the cat's licking with a swipe across his cheek, then holds up the red cap. "Father found it. The ball's safe."
+
+Chi-Chi checks him from head to foot anyway, then pulls him into a fierce embrace. His wet clothes soak the front of hers. She doesn't seem to notice.
+
+"Don't go so far without telling us. I was worried sick."
+
+"I'm sorry. I was looking for Father, and then I got lost."
+
+"Next time tell me first. Or take your brother."
+
+"I'll come," Goshin says at once.
+
+"And tell me first," Chi-Chi adds, before either boy can run off again.
+
+She holds Gohan another moment, then lets him go. Goshin is waiting with a question ready.
+
+"How big was the cat?"
+
+Gohan spreads his arms. "Its teeth were this long."
 
 "They weren't *that* long," Goku says.
 
 "They were when it was looking at me!"
 
-Goshin laughs, and after a moment Gohan laughs too. Goshin catches his sleeve and pulls him toward the woodpile. "Look what we did. I carried the whole tree."
+Goshin laughs. Gohan laughs too, and demonstrates the tongue again. Before he can finish, Goshin catches his sleeve and tugs him toward the woodpile.
 
-"You hung from it," Goku calls after them.
+"Come and see what we brought down."
 
-"That counts!"
+Gohan stares at the trunk. "You carried that?"
 
-Chi-Chi fetches a towel and calls them back. She dries Gohan's hair while he holds the cap safely out of the way; then she helps him change into a dry yellow top with green sleeves. He eats with his cap beside him while Goshin listens to every detail of the bird and the waterfall.
+"We both did. Then Father picked up my end with me on it."
 
-By the time Gohan has finished, the light has shifted across the yard. Chi-Chi gathers the washing and looks at the rice she has started for later.
+"You liked the ride," Goku says.
 
-"I meant to come with you," she tells Goku, "but there's still supper and all this to finish. Take the boys today. We'll visit together another time."
+"I liked carrying it too!"
 
-Goku lifts the sack of rice they are bringing and slings it over his shoulder. "We'll be back for supper."
+"You did a good job," Goku admits. "Next time we'll find an even bigger one."
 
-"See that you are. And make sure they come home with both their hats and their shoes."
+"Next time," Chi-Chi says, "you'll both ask me where to put it. Gohan, come inside. You're not going to the island in wet clothes."
 
-"I've only got one hat," Gohan says.
+She dries his hair while he holds the cap out of the way, then helps him into a dry yellow top with green sleeves. The family eats together. Gohan tells Goshin about the butterfly and the bird on the river; Goshin wants to know whether the bird was bigger than the cat. Gohan insists it wasn't even close.
 
-"Then that should make it easier."
+Afterward Chi-Chi sets the three empty bowls from Goku and the boys by the door to wash. She has the rest of the washing to bring in, and her father said he might come up the mountain today. The morning has run away from her.
 
-The boys climb onto Nimbus with their father. Gohan keeps a hand on his cap; Goshin leans over the edge until Goku steadies him with an arm. Chi-Chi stands in the yard, the towel still over her shoulder, and waves as the cloud rises beyond the roof.
+"Take the boys to Roshi's without me," she tells Goku. "I'll visit everyone another time."
+
+"All right. We'll be back for supper."
+
+"See that you are. And bring both boys home with their shoes."
+
+"We haven't lost our shoes," Goshin says.
+
+"Good. I'd like to keep it that way."
+
+Goku slings the sack of rice for Roshi over his shoulder. The boys climb onto Nimbus with him; Gohan keeps one hand on his cap, and Goshin leans over the edge to watch the house grow smaller.
+
+"Tell me everything when you get back!" Chi-Chi calls.
+
+"Even what we eat?" Goshin asks.
+
+"Especially what you eat. The other guests might want some too."
+
+Goku laughs. Goshin makes no promises. He and Gohan wave until the house disappears behind the trees.
 
 ## The Other Power
 
-The stranger from the field crosses a city so quickly that people below have time only to look up at the sound. His shadow flashes over streets and rooftops. Beyond the buildings lie empty country and a wide basin of bare rock.
+The stranger from the field flies over a city. People stop in the streets at the sound of his passage; his shadow flashes across the rooftops and is gone before most of them can find it.
 
-On a lonely stone pillar stands Piccolo. Green-skinned and tall, he wears a white turban and a heavy white cape over his purple clothes. He has trained since his defeat at Goku's hands five years ago, intending to surpass the man who beat him. He did not expect a stranger to find him out here.
+Beyond the city, on a windy plateau, Piccolo stands alone. He is tall and green-skinned, with a white turban and heavy cape over his purple clothes. For five years he has trained to surpass the man who defeated him. Now he senses a tremendous power approaching.
 
-His arms are folded beneath the cape, but his eyes follow the approaching speck across the sky.
+"Goku?"
 
-The stranger stops in midair and settles onto a ridge facing him. His long hair shifts around the plates of his armour. The green lens at his eye gives a brief electronic chirp.
+A speck appears over the horizon. It grows rapidly, and Piccolo sees that the man is a stranger.
 
-Piccolo's cape stirs in the wind. "Who are you? Did you come here for me?"
+The stranger stops in midair and descends onto the rock. His green lens chirps as he faces Piccolo.
+
+"Who are you?" Piccolo asks. "Did you come here for me?"
 
 "I have no business with you."
 
 "Then why are you standing there?" Piccolo's mouth curls. "Do you want to die?"
 
-The stranger touches his scouter. A number appears on the lens, reflected faintly over his eye.
+The stranger touches his scouter. Numbers flash across the lens.
 
 "Three hundred and twenty-two. So there is someone on this planet with a little power after all."
 
-"You don't know who you're talking to."
+"You don't know who you're dealing with."
 
 "No. And I don't care."
 
-Piccolo pulls his hands free of the cape and plants his feet. Light gathers between his palms, illuminating his green fingers. He thrusts both hands forward.
+Piccolo's cape snaps in the wind as he pulls his arms free. He plants his feet and gathers light between his palms.
 
-The blast crosses the basin in a blinding rush. It strikes the ridge where the stranger stands, gouging through stone and throwing a wall of dust into the air. Broken rock patters down the slopes long after the first explosion fades.
+"Then find out!"
 
-Piccolo watches the dust. The stranger has not moved.
+He thrusts both hands forward. The blast tears across the plateau and strikes the stranger. Rock bursts apart. Dust climbs into the sky, and loose stones rain down the slope.
 
-The haze thins around his silhouette. His armour is untouched, and he stands with his arms folded, looking mildly annoyed.
+Piccolo keeps his hands raised. The dust thins.
 
-"All that for a little dust?" he asks. "Is that the best you can do?"
+The stranger hasn't moved. He stands with his arms folded, armour untouched.
 
-Piccolo's hands remain raised. He knows the force he just unleashed; the stranger's calm is more frightening than the blast itself.
+"All that for a little dust?" He brushes a speck from one shoulder. "Is that the best you can do?"
 
-The scouter chirps again. The stranger turns away, searching beyond the ridge.
+Piccolo stares. He knows how much power he put into that attack. The man took it without even bothering to dodge.
 
-"Another reading. Stronger than any I've found here." His smile returns. "This time it must be Kakarot."
+"Now," the stranger says, raising one hand, "let me show you a real attack."
 
-He rockets into the distance. His departure leaves the cape snapping against Piccolo's shoulders.
+Piccolo tries to move. His legs won't obey.
 
-Piccolo lowers his hands. Dust drifts through the trench his attack carved in the rock. He tries to steady his breathing, furious to find that his fingers are trembling.
+The scouter chirps. The stranger pauses and turns away from him, searching the horizon. **334** appears on the lens above a separate distance marker.
 
-"I couldn't move," he says quietly. "Even I was afraid."
+"Distance: 12,909. Stronger than any power I've found here." His smile returns. "This time it must be Kakarot."
 
-Far away, over the sea, a small golden cloud carries a father and his two sons toward an island.
+He rockets away. The force of his departure whips Piccolo's cape around him.
+
+Piccolo remains standing until the stranger is a distant point. Then his knees buckle. He catches himself on one hand, breathing hard. His fingers are shaking.
+
+"I couldn't move. I was afraid."
+
+Far above the sea, the stranger speeds toward the new signal. "Kakarot... have you forgotten the pride of the Saiyans?"
+
+Ahead of him, a small golden cloud carries a father and his two sons toward an island.
 
 > **NEXT TIME — A stranger reaches Kame House and calls Goku by another name. Two boys stand beside their father as he comes down.**
 
 <!--
 ## Footer
+
+**5 November 2026 — opening Dragon Ball-feel revision, unaccepted.** Following the author's instruction to diagnose and correct from Chapter One, the entire opening has been reworked as story: more direct, distinct family voices, physical comedy, Goshin actively searching and genuinely helping with the tree, Chi-Chi's practical skill and agency, Gohan's own curiosity and choices, and a sharper Raditz/Piccolo contrast. Gohan's rescue and the established island handoff remain; the early **322** and **334** strength snapshots remain authored and separate from the source-spoken distances **4,880** and **12,909**. Goshin, the new family material and precise blocking are authored, not source claims. The immediate predecessor is byte-preserved in the [verified pre-correction project and accepted-original snapshot](../canon/ARCHIVE_INDEX.md#backup-042), Chapter One member SHA-256 `f7144aaef9648d8d88792153f5fe233b6a87d7999e03b7b179a0952d6d7703da`, ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. The caption archive's origin and cut and complete video/audio remain unverified; the revision is not reader acceptance. See [episode-one coverage](../canon/SCENE_COVERAGE_001.md). Earlier footer notes below are historical where superseded.
+
+
+**5 November 2026 — scouter-reading clarification, unaccepted.** The two distant strength snapshots now show **322** and **334** alongside, but distinct from, the source-spoken distances **4,880** and **12,909**. The early snapshots and their placement are authored; the episode-one caption separately reports **322** at the later Piccolo confrontation, not a spoken strength at either distant scan. Neither strength is a maximum. The exact emotional-pass Chapters 1–2 immediately before this clarification are in the [verified local ZIP](../canon/ARCHIVE_INDEX.md#backup-049).
+
+**5 November 2026 — completed emotional prose pass, unaccepted.** The full current story was reread for relationships, voice, source-based beats and the handoff to Chapter Two. Goku holds Gohan through the rescue's aftermath, and the twins voice and share the relief of finding one another again. Goshin's play, independent ability and concern remain; Gohan's curiosity, fear and actions are distinct. Piccolo's challenge and the scouter's 5, 322 and separate distance readings remain on-page. The immediately previous partial candidate is byte-preserved in the [verified local ZIP](../canon/ARCHIVE_INDEX.md#backup-043). The full retained episode-one caption was reread again with the official synopsis and existing still/secondary comparison; the caption's origin and cut, continuous video, audio and performances remain unverified. Finishing this prose pass is neither audiovisual completion nor reader acceptance. The partial-pass note immediately below records the earlier checkpoint.
+
+**5 November 2026 — emotional-writing and partial canon-evidence pass, unfinished and unaccepted.** After the author's request to learn from the canon anime, this local pass uses the full retained episode-one caption text, the detailed secondary synopsis and selected published episode stills, including an official Toei still. It restores Goku's hungry exchange, Gohan's delight in nature and the unanswered question of how he reached the branch, Piccolo's alarm and Raditz's interrupted counterattack. The twin, family interactions, many details and new dialogue remain authored; no complete episode video or audio was accessible, so performance and audiovisual timing remain unverified. The [pre-emotional-revision Chapter One](../canon/ARCHIVE_INDEX.md#backup-044) is byte-preserved (SHA-256 `2a08dd30e8be4eb464cc9b192a72254e3e287a48c77fda44eaa9546f80a93f30`), as is the [interrupted emotional candidate before this canon-evidence pass](../canon/ARCHIVE_INDEX.md#backup-045) (SHA-256 `3b53deef7e2bebe9509107e95041dd3fc58ed3c17e87cd62a24e40211256f4ef`). This is a draft, not reader acceptance or a claim to have watched the episode.
 
 **4 November 2026 — immersion correction, unaccepted.** This is a substantive authored rewrite of the selected story, not proof of complete footage review. The immediately prior selected chapter is byte-preserved in the verified pre-Chapter 25 project handoff. Retained local episode 1 captions have unverified origin/cut; the source review also used the official Toei synopsis, the official Gohan clothing page, and selected low-resolution stills and a secondary episode synopsis. New staging, dialogue, sensations and the twin are authored.
 
@@ -480,7 +573,7 @@ ANIME BASE: Dragon Ball Z episode 1 — selected story adaptation
 FORM: EPISODE — rebuilt as a scene-by-scene episode adaptation
 MANGA BASE: the Raditz arrival and the Four-Star hat (material also adapted in early manga)
 EVIDENCE: I / II / III — unverified-provenance caption dialogue, partial published stills and synopses; authored branch and staging
-WITNESS: W-30 · W-03 · W-04 · W-08 · W-10 · W-13 · W-65; official episode and costume pages as identified in the project records
+WITNESS: W-30 · W-03 · W-04 · W-08 · W-10 · W-13 · W-65 · W-126 · W-127; official episode and costume pages as identified in the project records
 STAGING: authored and declared — the twin and his family scenes, Gohan's additional choices and reactions, all new scenic detail and unverified blocking; O003 O016 O013 O014 O015 O061
 ```
 
@@ -493,7 +586,7 @@ STAGING: authored and declared — the twin and his family scenes, Gohan's addit
 
 **3 November 2026 — holistic character revision, unaccepted.** Family dialogue and staging no longer force a repeat-back from Goku or a ritual inspection/position from Goshin. Chi-Chi keeps her own plans and concerns; previously selected bytes remain in the immediate pre-holistic project snapshot. Earlier dated notes below describe their original passes, not the latest body.
 
-**3 November 2026 — appearance correction, for review.** The woodpile scene now shows Goshin's established appearance (`O003`). The [immediately previous selected version](../../Research/The%20Twin/Chapter%20Research/Characters%20and%20Power/Before%20opening%20appearance%20correction%20%282026-11-03%29.zip) is preserved; acceptance of this addition is not assumed.
+**3 November 2026 — appearance correction, for review.** The woodpile scene now shows Goshin's established appearance (`O003`). The [immediately previous selected version](../canon/ARCHIVE_INDEX.md#backup-024) is preserved; acceptance of this addition is not assumed.
 
 **3 November 2026 — character provenance correction.** The older footer below overstates a repeat-back requirement as the author's direction. The author did not require it; the assistant invented that rule. A purposeful repetition may occur in context, but automatic echoes are not a condition of this selected text. Earlier versions remain preserved.
 

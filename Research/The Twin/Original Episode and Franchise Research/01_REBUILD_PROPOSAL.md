@@ -25,7 +25,7 @@ The project’s dated history records: Son Goshin is Gohan’s native twin, not 
 
 Later recorded corrections: Goshin cannot be carried off conscious by Raditz in this encounter; his capability and anger-driven growth must be visible. He is not to be written less capable than Gohan. His first copied Kamehameha in this encounter has more raw ki than Goku’s but less practiced control. Deliberate training prioritizes mastery/perfection of what he already has and serious foundations; instinctive emergency copying remains allowed. Senzu completely heal and restore. These directions do **not** mean Gohan cannot grow, every fight has a predetermined winner, the twins are invulnerable, Goshin is confined to a fixed Nappa-era ceiling, or the Talent automatically adds a printed power number.
 
-The existing future-form and tail rulings remain untouched. At four, Goshin is mortal and no early golden form or god ki is introduced. He keeps his tail under the project’s standing ruling. Later ape/god mechanics are not imported into the current action; the project already flags a future **comfortable-as-ape versus fear-at-the-moon** ambiguity for later clarification.
+The existing future-form and tail rulings remain untouched. At four, Goshin is mortal and no early golden form or god ki is introduced. He keeps his tail under the project’s standing ruling. Later ape/god mechanics are not imported into the current action. **Later resolution of this proposal's old ambiguity:** the author directed that his first Great Ape is aware and controlled, with no mandatory fear or loss-of-control arc; do not reopen that settled question. The eventual trigger remains unwritten.
 
 ### Chapter-specific instruction
 

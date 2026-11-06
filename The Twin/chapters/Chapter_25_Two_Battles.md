@@ -90,6 +90,8 @@ Gohan keeps his hands raised. Nappa gets up and takes a step to one side. Gohan 
 
 "She knows how to fight."
 
+Nappa gives a bark of laughter. Gohan remembers how Chi-Chi caught Tien during their spar and makes no attempt to laugh with him.
+
 Nappa looks over Gohan's shoulder. Tien and Chiaotzu have reached Piccolo and Yamcha; Krillin is still on the tracks with a Saibaiman circling him.
 
 "But you can't stand in front of all of them."
@@ -284,9 +286,9 @@ Goshin draws a breath. His side aches, and below the ridge he can hear another b
 
 "You're better than Raditz," Vegeta says. "That doesn't make you a match for me."
 
-Goshin looks down at the marks under his shoes. He rolls one shoulder, then raises his hands again.
+Goshin looks down at the marks under his shoes. He rolls one shoulder, then raises his hands again. The blow hurt; it also showed him a gap in his guard. He wants to see Vegeta try it now that he knows.
 
-"You hit harder than he did."
+"You hit harder than he did." Despite the ache in his side, Goshin can't keep the excitement out of his voice.
 
 "I've been fighting since before Kakarot was sent to this planet."
 
@@ -306,15 +308,19 @@ Vegeta's scouter sounds. The display climbs and stops at **19,400**.
 
 Goshin rises above the ridge. "You were right. I wasn't using all of it."
 
-Vegeta looks at the number, then up at him. "And you think that makes you stronger than me?"
+Vegeta's fingers tighten at the edge of the scouter. Before leaving for Earth, he had warned Nappa what Kakarot's children might become. Now the number on the lens is higher than the power he has been using.
 
-"I think we can stop you."
+"A child of Kakarot," he says. "Do you think I'll let you stand above me?"
 
-Vegeta lifts the scouter from his ear and clips it to his armour. His own ki rises around him, throwing the loose stones from the ridge.
+Goshin glances at the furrows his shoes cut through the ridge. His side still aches, but he raises his hands.
 
-"Then come and try."
+"You said I wasn't a match for you. Try knocking me back again."
 
-Goshin flies forward. Vegeta meets him with both hands raised. Punches strike against guards and break apart; neither fighter stays in the same place long enough for the dust below them to settle.
+Vegeta lifts the scouter from his ear and clips it to his armour. His gaze stays on Goshin as his own ki rises, throwing the loose stones from the ridge.
+
+"Gladly."
+
+Goshin flies forward. Vegeta meets him with both hands raised. Goshin's first punch strikes his guard and pushes the Saiyan back through the air. Vegeta turns with the next blow, letting it slide past his shoulder instead of meeting it head-on.
 
 Vegeta turns low and drives a fist toward Goshin's stomach. Goshin catches the wrist, pulls him past and lands a blow against his armour. The impact bends Vegeta backward and sends him through the ridge. Stone follows him down the far side.
 
@@ -353,16 +359,6 @@ Vegeta follows the opening and lands a punch against Goshin's cheek. Goshin turn
 Vegeta tears his arm free before he hits. He lands on one hand, slides through the dirt and rises again.
 
 He is no longer smiling.
-
----
-
-## Eye-Catch
-
-Gohan stands between Nappa and the broken loading platform. High above the quarry, Goshin and Vegeta face each other across the split ridge.
-
-**NARRATOR:** The two Saiyans have found their opponents.
-
-The last stones fall from the ridge.
 
 ---
 
@@ -410,6 +406,12 @@ Chiaotzu lands beside them. "I felt its ki. I didn't know it could do that."
 
 He looks up at the smoke and takes a breath. His fingers shake before he closes them.
 
+"Don't tell Puar how close that was," he says.
+
+"You can tell Puar yourself," Krillin says. "After we get out of here."
+
+Yamcha manages a shaky laugh. "Yeah. He'd know I was lying anyway."
+
 The final Saibaiman comes over the broken wall behind Krillin. Piccolo's arm stretches past Chiaotzu and catches it around the middle.
 
 "Krillin!"
@@ -439,6 +441,10 @@ He checks the supply capsule inside his clothes without slowing. It is still the
 Gohan's message had come through Kami. Goku remembers the room and the weight that pulled at him during his own visit.
 
 "You two must have a lot to show me."
+
+His smile fades when he thinks of what might be happening while he runs. He pumps his arms harder.
+
+"Hang on. I'm coming."
 
 The road bends again. Goku leans into the turn and keeps running.
 
@@ -512,7 +518,7 @@ The wave catches Nappa squarely and drives him into the empty wall. Stone breaks
 
 Nappa drops to the ground at its foot. A slab slips above him; Gohan lifts it with his ki and lowers it beside him instead. Smaller stones patter against the damaged armour.
 
-Nappa's hand opens. He does not get up. Gohan waits until he sees the man's chest move, then lowers his own hands a little.
+Nappa's hand opens. He does not get up. Gohan waits until he sees the man's chest move. The relief catches him by surprise: a moment ago Nappa was still trying to hurt his friends. Gohan lowers his hands a little.
 
 Gohan backs away, keeping his eyes on him. Krillin and Piccolo approach from the tracks.
 
@@ -562,7 +568,7 @@ Goshin rolls with the impact. He comes out of the turn with his tail tucked clos
 
 Vegeta pushes. Goshin sets his feet and pushes back. Vegeta twists to free his hand, and Goshin lets him go rather than be pulled off balance. They break apart above the ridge, then come together again, trading blows through the falling dust. Each time Vegeta angles toward the quarry, Goshin turns with him.
 
-Goshin feels his ki growing stronger as they fight. When they separate, the strength is still there. It comes behind his next step, carrying him to Vegeta before the Saiyan can rise from his crouch.
+Goshin feels his ki growing stronger as they fight. When they separate, the strength is still there, and the discovery thrills him. It comes behind his next step, carrying him to Vegeta before the Saiyan can rise from his crouch.
 
 Vegeta blocks the first blow and sends a kick toward Goshin's side. Earlier, a strike from that direction pushed Goshin back. Now he catches Vegeta's ankle and holds it still.
 
@@ -572,7 +578,9 @@ Vegeta arrests his flight and lands beyond the tracks. His armour is cracked whe
 
 "You changed while we were fighting."
 
-Goshin lifts his guard. "Maybe I'll surprise you again."
+Goshin lifts his guard. He wants another exchange, another chance to find out what his body can do now, but he keeps the fighters below in the corner of his sight.
+
+"Maybe I'll surprise you again."
 
 Vegeta gives a sharp laugh. "Then watch closely."
 
@@ -580,21 +588,57 @@ His ki rises. Wind drives dust along the tracks and pulls at Piccolo's cape. Veg
 
 Goshin meets him over the quarry. Their hands strike and part. Vegeta feints toward his tail, then turns a punch toward his face. Goshin catches the arm and strikes back.
 
-Vegeta blocks, but Goshin drives him upward. They pass above the ridge, trading blows over the empty ground beyond it. Vegeta breaks away and fires a wide blast down at the quarry.
+Vegeta blocks, but Goshin drives him upward. They pass above the ridge, trading blows over the empty ground beyond it. Vegeta catches Goshin's wrist, twists under his arm and lets the boy's own momentum carry him past. By the time Goshin turns, Vegeta has shot high above him.
 
-"Everyone, move!" Gohan calls.
+The prince faces down toward the quarry and brings his hands together at his side. Violet light gathers between his palms. Goshin starts after him, but Vegeta is already drawing more and more ki into the light. The broken rails below shudder against the stone.
 
-Tien throws a broken rail clear of Chiaotzu and Yamcha. The three rise together. Krillin flies after Piccolo, who turns toward Nappa. Gohan moves into the blast's path and brings his hands to his side.
+Vegeta came for the Dragon Balls, for the wish that would make him immortal. Now Nappa is unconscious, the blood at the corner of Vegeta's mouth is his own, and Kakarot's son is still growing stronger.
+
+"To hell with the Dragon Balls! I'll destroy you and this entire planet!"
+
+The light swells as Vegeta draws every bit of power he can muster into the attack. Goshin flies faster, reaching for him, but the prince thrusts his palms forward before the boy can close the distance.
+
+"Galick Gun!"
+
+The violet beam roars down toward Goshin and the Earth beneath him. Its force tears stone from the ridge. Gohan looks up from the quarry floor, feeling the immense ki in the descending column.
+
+"Get clear of its path!" he shouts.
+
+Tien catches Chiaotzu's arm and flies toward the western wall with Yamcha. Krillin reaches Piccolo as Piccolo lifts Nappa; together they carry the unconscious Saiyan away from the line of fire.
+
+Goshin turns beneath the attack and cups his hands. Blue light flares between them.
 
 "Kamehameha!"
 
-His wave strikes the edge of Vegeta's attack and turns it away from the fighters. The blast tears across an empty slope and bursts above the far wall. Gohan stops his wave as the last pieces of rock fall.
+His wave strikes the Galick Gun above the ridge. The collision stops the descending beam for an instant, then drives Goshin backward through the air. He holds on, feeding ki into his wave, but the place where the two attacks meet begins to sink toward the quarry.
 
-Goshin closes on Vegeta before he can fire again. His punch strikes Vegeta's guard and drives him back over the ridge.
+Gohan flies up to his brother's left. He draws on the power he has trained, bringing his hands to his side as he comes level with Goshin.
 
-Gohan rises beside his brother. Below them, Piccolo has reached Nappa and pulled him clear of the falling stone. Tien, Chiaotzu, Yamcha and Krillin are together beyond the tracks.
+"I'm with you!"
 
-"Why did you move him?" Krillin calls.
+Goshin glances at him. "Let's send it back!"
+
+"Kamehameha!" Gohan calls.
+
+Gohan's wave surges beside Goshin's and joins it against the violet beam. The air shakes around them. For a moment the Galick Gun still presses down. Gohan draws more ki into his wave, and Goshin drives upward beside him. The descent stops.
+
+Their arms tremble as they force the meeting point higher, away from the quarry. Vegeta strains to keep his attack aimed at the planet, but the blue light keeps advancing.
+
+Stone breaks from the ridge and scatters across the tracks. The force tears a length of rail loose and sends it tumbling above the western wall. Tien pulls Chiaotzu down beside him, and Yamcha knocks the rail away from them. Krillin and Piccolo shield Nappa from the falling fragments.
+
+Goshin and Gohan keep pushing, their waves rising together through the sky. As the clash nears Vegeta's hands, he cuts off the Galick Gun and throws himself sideways. The combined light rushes past him and climbs into the open sky. The brothers hold their aim until the violet is gone, then end their waves.
+
+In the city, the western sky flashes violet and blue above the stopped bus. Chi-Chi grips the door and looks toward the distant quarry. She has seen that blue light before, in the clearing where Goshin taught Gohan. The rumble follows, rattling glass in a damaged window. She cannot see her sons.
+
+"Come back to me," she whispers.
+
+A passenger is coming down the steps. Chi-Chi reaches up and steadies her until she is safely on the road.
+
+Vegeta catches himself above the far ridge. His breath comes hard, and his hands shake as he raises them again. Goshin closes on him before he can fire. His punch strikes Vegeta's guard and drives him back over the quarry.
+
+Gohan follows and rises beside his brother. Below them, Piccolo has laid Nappa against the western wall; Krillin is with him. Tien, Chiaotzu and Yamcha stand together beyond the tracks.
+
+"Why are we saving him?" Krillin calls.
 
 "Nappa told us about Namek," Piccolo answers. "I still have questions for him."
 
@@ -602,7 +646,7 @@ Krillin looks from the unconscious Saiyan to Vegeta. "Let's stay alive long enou
 
 "They're clear," Gohan says.
 
-Goshin touches his cheek, then looks at Vegeta. "Are you all right?"
+Goshin touches his cheek, then turns to Gohan. "Are you all right?"
 
 "Yes. Nappa won't get up right now."
 
@@ -610,15 +654,13 @@ Goshin touches his cheek, then looks at Vegeta. "Are you all right?"
 
 Vegeta hovers across from them. He looks once toward Nappa, then back at the brothers.
 
-"You want me to leave with him?"
+Gohan watches Vegeta's hands. "You can still leave. Take Nappa with you."
 
-"You can," Gohan says.
-
-"After two children put their hands on a Saiyan prince?"
+"Leave? After two children put their hands on a Saiyan prince?"
 
 Vegeta raises both arms. Light swells around him, and the broken rail below begins to shake.
 
-Gohan moves to Goshin's right. "I'll fight with you."
+Gohan moves to Goshin's right. "I'm staying with you."
 
 Goshin nods. "Let's keep him away from the others."
 
@@ -638,12 +680,17 @@ Their first impact rolls across the empty quarry. Dust lifts from the tracks bel
 
 <!--
 ## Footer
+
+**6 November 2026 — Dragon Ball-feel revision, unaccepted.** Gohan remembers Chi-Chi's established spar and decisively defeats Nappa with mercy. Goshin's excitement is tied to specific adjustments and real development during the Vegeta fight, not a new ceiling or required trigger. Yamcha's near miss receives a warmer Krillin exchange; Goku's worried urgency and Chi-Chi's separate fear of not seeing her sons coexist with their action. The existing scouter snapshots, all six Saibaiman outcomes, living Nappa, Galick Gun response and shared continuation remain. The complete retained episode-23/24 captions and Toei synopses were reread, not full video/audio; original caption source and cut remain unknown. Exact selected predecessor SHA-256 `bfd1094dc1c0bfc875e1764724ac0809eb5fe3c9141a079c5c819f29ad3af492` is in the [verified 122-member pre-correction archive](../canon/ARCHIVE_INDEX.md#backup-042), and the complete earlier footer follows. No acceptance or remote sync is implied.
+
+**5 November 2026 — continuing emotional revision, unaccepted.** Yamcha's near miss leaves a human reaction and a brief exchange with Krillin; Gohan can be relieved the opponent he stopped is alive; Goshin enjoys the challenge and the real, continuing strength he gains against Vegeta. Their independent strengths, six accounted-for Saibaimen, living unconscious Nappa, Galick Gun interception and unresolved Vegeta battle remain. The shown growth imposes no fixed rate, requirement, ceiling or compulsory emotional trigger. Exact immediate predecessors of Chapters 24–25 are in the [verified local ZIP](../canon/ARCHIVE_INDEX.md#backup-060). Complete retained episode-23/24 caption members and official synopses were reread; no full video or audio was examined, and caption source/cut remain unknown.
+
 ```
-ANIME BASE: ep. 23 and the opening source battle of ep. 24, causally changed by the selected branch; selected episode-29 Nappa cues and the separate official manga-based profile are comparison evidence, not a forced later outcome.
-EVIDENCE: Entire retained Dragon_Ball_Z_023.srt and Dragon_Ball_Z_024.srt members were reread, including their recaps, previews, endings and post-ending fragments; their original source and release cut are unverified. Toei's episode-23/24 short synopses, Kanzenshuu's episode-23 guide and the official manga-based Nappa profile were read. Selected episode-28/29 dialogue was checked for the later Nappa fight. No complete episode video/audio or new stills were examined.
-WITNESS: W-30 W-89 W-117 W-118; C130 C240 C289 C290 C291 C292 C293; canon/SCENE_COVERAGE_023.md.
-STAGING: O056 O155 O163 O170 O181 O185 O186 O187 O188 O189 O190 O191 O192 O193 O194; Gohan engages Nappa, Goshin engages Vegeta, and the altered Saibaiman fight, evacuation, Ki readings, choices and aftermath follow the selected branch rather than imposing the source's tournament sequence or deaths.
-SCALE: Gohan's previously displayed 9,200 and charged 11,600 are situational snapshots, not maxima. His greater demonstrated power matters: he prevents Nappa reaching the others and decisively knocks him unconscious, while Nappa uses the terrain, quick blasts and his mouth attack. Vegeta reads Goshin at the earlier sustained 16,300, then at an authored 19,400 when Goshin deliberately releases more ki already developed before this fight; the increase is not a permanent gain from an attack. Vegeta removes the scouter and continues with increased power. Goshin's responsiveness and strength develop further through the sustained exchange, without an invented numerical gain, fixed trigger, ceiling, form or guaranteed final outcome. Four remaining Saibaimen are removed: Goshin defeats the pinned one, Tien and Chiaotzu defeat one, another self-destructs away from Yamcha and Krillin, and Piccolo and Krillin defeat the last. Yamcha has a minor forearm cut; Nappa is unconscious but alive. Vegeta remains active, Gohan joins Goshin, Goku remains on Snake Way, and citywide casualties and evacuation are unknown.
+ANIME BASE: ep. 23 and the opening source battle of ep. 24, causally changed by the selected branch; selected episode-29 Nappa cues, episode-31 Galick Gun evidence and separate official manga-based profiles are comparisons, not forced later outcomes.
+EVIDENCE: Entire retained Dragon_Ball_Z_023.srt and Dragon_Ball_Z_024.srt members were reread, including their recaps, previews, endings and post-ending fragments; their original source and release cut are unverified. Toei's episode-23/24/31 short synopses, Kanzenshuu's episode-23 guide and the official manga-based Nappa and Vegeta profiles were read. Selected episode-28/29 dialogue and episode-31 Galick Gun cues were checked. No complete episode video/audio or new stills were examined.
+WITNESS: W-30 W-89 W-117 W-118 W-119 W-120; C130 C240 C289 C290 C291 C292 C293 C294; canon/SCENE_COVERAGE_023.md.
+STAGING: O056 O155 O163 O170 O181 O185 O186 O187 O188 O189 O190 O191 O192 O193 O194 O195; Gohan engages Nappa, Goshin engages Vegeta, and the altered Saibaiman fight, evacuation, ki readings, choices and aftermath follow the selected branch rather than imposing the source's tournament sequence or deaths.
+SCALE: Gohan's previously displayed 9,200 and charged 11,600 are situational snapshots, not maxima. His greater demonstrated power matters: he prevents Nappa reaching the others and decisively knocks him unconscious, while Nappa uses the terrain, quick blasts and his mouth attack. Vegeta reads Goshin at the earlier sustained 16,300, then at an authored 19,400 when Goshin deliberately releases more ki already developed before this fight; the increase is not a permanent gain from an attack. Vegeta recognizes that the 19,400 reading is above the power he had been using, then removes the scouter and raises his own ki; neither a Vegeta reading nor his maximum is established. Goshin's responsiveness and strength develop further through the sustained exchange, without an invented numerical gain, fixed trigger, ceiling, form or guaranteed final outcome. Vegeta commits the power he can muster to a Galick Gun aimed at Goshin and Earth; Goshin intercepts it and Gohan independently adds his wave. Together they drive it into the sky, without establishing that either could not do so alone or that Vegeta is defeated. Four remaining Saibaimen are removed: Goshin defeats the pinned one, Tien and Chiaotzu defeat one, another self-destructs away from Yamcha and Krillin, and Piccolo and Krillin defeat the last. Yamcha has a minor forearm cut; Nappa is unconscious but alive. Vegeta remains active, Gohan joins Goshin, Goku remains on Snake Way, and citywide casualties and evacuation are unknown.
 ```
 This is an unaccepted continuation of the selected unaccepted Chapter 24; the separately preserved pre-correction Chapter 20 remains accepted. A source review or mechanical check is not reader approval or complete audiovisual verification.
 -->

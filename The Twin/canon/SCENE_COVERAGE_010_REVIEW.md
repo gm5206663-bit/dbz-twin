@@ -4,6 +4,8 @@
 
 **Owns: the retained episode-10 source notes for the earlier Chapter 11 review candidate.**
 
+**6 November selected-chapter update:** The [current Chapter Eleven](../chapters/Chapter_11_The_Branch_in_the_Rain.md) follows Chapter Ten's yard scene immediately. Chi-Chi now says the bank fell **this morning**, correcting the older prose's contradictory 'yesterday'; no intervening night is introduced. Yamcha's baseball and changed recruitment, Gohan's scholarly desire, both brothers' choices, the family dinosaur rescue and C-6's consent-based exterior inspection are dramatized without a guaranteed dinosaur recovery, robot repair or canon death. The preceding plan and automatic habit claims remain historical. The complete retained episode-ten SRT and [Toei's short synopsis](https://lineup.toei-anim.co.jp/ja/tv/dragonz/episode/10/) were reread; their scope does not establish complete video or audio and caption origin/cut remain unverified. See the [current correction record](DRAGON_BALL_FEEL_CORRECTION_2026-11-05.md).
+
 These are the original planning and review notes combined for convenience. The later power-scale review changed portions of Chapters 6–14; where these historical descriptions differ, the selected manuscript and `REVIEW_CHAPTERS_06-14.md` control. This is not reader acceptance or a full-video claim. References to old `notes/` or `audit/` paths refer to the Drive archive, not a live local folder.
 
 ---
@@ -101,3 +103,6 @@ The original episode's storm-night-morning passage is compressed into an afterno
 ## Evidence limits
 
 The complete local episode-10 caption file, the short official Toei synopsis, Kanzenshuu's episode guide, one Toei still, eight Kanzenshuu stills and a secondary rewatch were used as detailed in the before-prose plan. The caption file's provenance and cut are unverified. **No complete episode video was watched and no manga was newly reread.** Captions and isolated stills cannot prove every silent image, action or sequence. The new family, robot, medical and battle choreography are authored branch material. A complete-video review and reader acceptance remain open.
+
+
+**5 November 2026 continuing-pass pointer:** The [current Chapters 3–12 source and branch record](EMOTIONAL_REVISION_003_012_2026-11-05.md) documents the local emotional revision, reread caption limits and pre-pass versions. Where this inventory explicitly labels a treatment column historical, follow the selected manuscript and that newer record rather than the older column.

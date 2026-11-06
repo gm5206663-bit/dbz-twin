@@ -1,14 +1,8 @@
 # Chapter Nine — The Bridge Under the Moon
 
-*Immersion-revised review draft; not yet accepted.*
+*Revised story draft; not yet accepted.*
 
 Beside a yellow cloud hovering above the grass, Goku holds Goshin while Chi-Chi closes a first-aid box.
-
-**THE BRIDGE UNDER THE MOON**
-
-**NARRATOR:** Goku and his sons have escaped Piccolo, but two stronger Saiyans are on their way. Chi-Chi wants a doctor to check Goshin after Raditz's blow.
-
----
 
 ## The Road to the Village
 
@@ -30,31 +24,29 @@ Goku lifts off beside Nimbus. Krillin follows with Bulma on one arm and Roshi on
 
 At the river bend, Chi-Chi points toward a road between the hills. "The village is beyond that ridge."
 
-A horn sounds below as a truck comes around the bend, and Ox-King waves from the window.
+A horn sounds below. Ox-King's truck comes around the bend, and he waves from the window.
 
-"There they are!" Gohan calls.
+"Grandpa!" Gohan calls.
 
-Goku descends beside the road, and Ox-King brakes and climbs down before the dust has settled. He reaches for Gohan, then stops with his arms open.
+Goku descends beside the road. Ox-King brakes, climbs down and opens his arms; Gohan runs straight into them. His grandfather lifts him against his enormous chest.
 
-"May I?"
-
-Gohan runs into him, and Ox-King lifts him and holds him close.
-
-"I was looking for you," he says.
+"I was looking everywhere for you."
 
 "We were looking for Mother."
 
-Ox-King sets him down, looks at Goshin's bandaged hand, then leans toward him.
+Ox-King looks up at Goku, with Chi-Chi holding on behind him and Goshin in his arms. "And now you've found the lot of them."
 
-"I've brought a blanket. You can have it in the truck."
+He sets Gohan down and comes closer to see Goshin's bandaged hand.
 
-"Thank you, Grandpa."
+"I brought a blanket. It's in the truck."
 
-"He needs the doctor first," Chi-Chi says.
+"I can ride in the truck?" Goshin asks.
 
-"Then I'll follow you."
+"After the doctor," Chi-Chi says.
 
-He gets back into the truck as Goku rises with Chi-Chi and Goshin, and Gohan brings Nimbus alongside.
+"Then I'll follow you," Ox-King says. He ruffles Gohan's hair, climbs back into the truck and calls through the window, "Save me a place at the doctor's!"
+
+Goku lifts off with Chi-Chi and Goshin, and Gohan brings Nimbus alongside.
 
 At the ridge, Krillin turns toward the sea. Bulma waves to the boys; Roshi lifts one hand from the case. The truck continues along the road below the cloud.
 
@@ -64,59 +56,65 @@ At the ridge, Krillin turns toward the sea. Bulma waves to the boys; Roshi lifts
 
 A bicycle leans beside the doctor's open door, its basket full of folded cloths. A bell rings when Chi-Chi brings Goshin inside. The room smells of soap and dried herbs; afternoon light falls across the examination table and the jars arranged above it.
 
-The doctor washes her hands at the basin and listens while Goku describes Raditz's blow and Chi-Chi tells her that Goshin was unconscious for an unknown length of time. Goku keeps his account brief and exact. Chi-Chi stands close enough to reach her son, without crowding the doctor.
+The doctor washes her hands and listens while Goku describes Raditz's blow and Chi-Chi tells her that Goshin was unconscious for an unknown length of time.
 
 "He woke up in the round ship," Gohan says. "I was there."
 
 The doctor kneels in front of Goshin. "Do you remember waking up?"
 
-"Yes. Gohan was beside me."
+"Gohan was beside me. The room tilted when I stood up, but it stopped."
 
-"How does your head feel now?"
+"Have you felt sick?"
 
-"It hurt before. It doesn't now."
+"No. My head hurt before, but it doesn't now."
 
-Chi-Chi stays beside him while the doctor comes closer.
+"May I look?"
 
-"May I look?" the doctor asks him.
+Goshin nods. Chi-Chi keeps a hand on his shoulder as the doctor examines his head, then holds up a finger for him to follow with his eyes.
 
-Goshin nods. She examines his head gently, then holds up a finger.
+"All the way to the other side," she says.
 
-"Follow my finger."
+Goshin turns his head after her finger.
 
-Goshin follows it with his eyes from side to side. She asks about sickness and dizziness; he tells her he was dizzy briefly when he woke in the pod, but that it stopped and he hasn't been sick.
+"Just your eyes."
 
-The doctor unwraps his hand. Fresh pink skin covers the burn. She cleans it and turns his palm toward the window.
+He tries again, and this time keeps his head still. Gohan follows the finger too until Goku catches his eye and grins.
+
+The doctor unwraps Goshin's palm. Fresh pink skin covers the burn; she cleans it and turns the hand toward the window.
 
 "When did this happen?"
 
 "Today," Goku says.
 
-"It was bleeding at the crater," Gohan adds.
+"It was bleeding at the crater," Gohan adds. "I tied a bandage on it, but it came loose by the river."
 
-The doctor removes the bandage and lays it on the edge of the basin. Gohan describes how an earlier wrapping came loose beside the river, while Goku tells her that Goshin has been able to move his fingers.
-
-"Was anything put on the burn?" she asks.
+"Was anything else put on it?"
 
 "Clean cloth," Chi-Chi says. "I wrapped it again after I found them."
 
-The doctor looks again. "I've never seen a burn close that quickly."
+The doctor looks at Goshin's hand once more. "I've never seen a burn close that quickly."
+
+Goshin spreads his fingers to look at it too. "The middle was the first part."
+
+"Can you move them without pain?"
+
+He opens and closes his hand. "Yes."
 
 When she asks about his ankle, Goshin stands on that foot, then turns it from side to side.
 
 "Piccolo grabbed it," he says. "It doesn't hurt now."
 
-"His answers are clear, and he isn't dizzy," the doctor tells Chi-Chi. "I can't tell everything from one examination after a blow like that. If he becomes sick or confused, or the pain returns, bring him back. If you're still in the village tomorrow, I'd like another look."
+"His answers are clear, and he isn't dizzy," the doctor tells Chi-Chi. "But I can't tell everything from one examination after a blow like that. Bring him back if he's sick or confused, or if the pain returns. If you're still in the village tomorrow, I'd like another look."
 
 Chi-Chi nods. "I'll stay with him."
 
-The doctor turns to Goshin. "Tell your parents if you feel sick or your head hurts."
+The doctor turns to Goshin. "And you tell your parents if you feel sick or your head hurts."
 
-"I will," Goshin says.
+"I will." Goshin glances at the books in a rack beside the table. "Can I read?"
 
-"Can I read?"
+"Yes. Your hand can stay uncovered too."
 
-"Yes. And your hand can stay uncovered."
+Goshin looks pleased. Gohan reaches for his hand, and the doctor gives it back before he can touch the fresh skin.
 
 Gohan points to a calendar hanging beside the door, with a white circle printed in today's square.
 
@@ -146,15 +144,17 @@ Ox-King ducks through the door with his folded blanket. "I found a place for the
 
 He sets the blanket on a chair while Chi-Chi pays the doctor. Gohan walks to the window, but he stops below the sill and looks at the street instead.
 
-A squirrel snatches an apple from a fruit seller's cart and runs toward the covered bridge at the bottom of the road.
+A squirrel snatches an apple from a fruit seller's cart and dashes toward the covered bridge at the bottom of the road.
 
-"Hey!" the seller calls.
+"Hey! Come back with that!"
 
-The squirrel vanishes beneath a wagon entering the bridge from the far bank. Gohan presses his lips together, then looks at Goshin.
+The squirrel vanishes beneath a wagon entering the bridge from the far bank. The seller puts her hands on her hips; a second squirrel emerges from her cart with a pear.
 
-"It didn't pay."
+Gohan presses his lips together. "It didn't pay."
 
-Goshin smiles. "It didn't wash it either."
+"Squirrels don't have pockets," Goshin says.
+
+"That one's got a pear," Gohan says, and both boys laugh before the seller spots it.
 
 ---
 
@@ -190,7 +190,7 @@ Yajirobe tips it toward himself. One grain of rice remains. He picks it out with
 
 "That's what Krillin told us," Korin says.
 
-"And you want me to go near them?"
+"Then send them a message. Tell them to stay where they are."
 
 "I want you to prepare."
 
@@ -248,13 +248,13 @@ Bulma removes the cover. Fine wires cross the inside, and a small metal loop sit
 
 "Couldn't you just take it out?"
 
-"Look here." She points to two thin connections beneath the loop. "They're joined to the display as well. If I cut the wrong part, we might lose the only thing we know it can do."
+"Look here." She points to two thin connections beneath the loop. "They're joined to the display. If I cut the wrong part, you won't find out how strong you are after all."
 
-Krillin leans closer. "Can you tell what the other part does?"
+"I'd rather not tell those Saiyans where we are."
 
-"Not with these tools. I need my lab before I take it apart any further."
+"Neither would I. I'm taking it to my lab."
 
-She puts the cover beside the drawing, leaving the cell wrapped in her other pocket.
+She puts the cover beside her drawing, leaving the cell wrapped in her other pocket.
 
 "Goku has two Dragon Balls at his house," she says. "We need to talk to him about those."
 
@@ -356,15 +356,13 @@ He raises his new arm and fires at a second column of stone. The beam cuts throu
 
 It strikes the bank and rolls into the water, breaking loose a tangle of fallen trees that turns downstream.
 
-Piccolo watches the first trunk disappear around the bend. Far below, the river passes beneath a covered bridge at the edge of a village.
+The first trunk disappears around the bend, carrying the other trees with it. Far below, the river passes beneath a covered bridge at the edge of a village.
 
-He lifts his head, sensing two familiar powers near the bridge with Goku close beside them.
+Piccolo lifts his head. He can feel the boys near the bridge, with the recovered Goku close beside them.
 
 "So you stopped running."
 
-Piccolo drops into the trees above the river and follows the water.
-
-*This programme continues after a message.*
+He drops into the trees above the river and follows the water.
 
 ---
 
@@ -398,53 +396,49 @@ The whole covered bridge shudders. Inside, books tumble from the wagon and board
 
 "Mina!" the driver calls.
 
-A roof beam breaks loose at the village entrance, and Ox-King plants his feet on the stone bank and catches its end against his shoulder. Chi-Chi pulls the driver clear as the beam comes down beside him.
+A roof beam breaks loose at the village entrance. Ox-King plants his feet on the stone bank and catches its end against his shoulder, while Chi-Chi pulls the driver clear.
 
 "My daughter's in there!"
 
-Through the entrance, Gohan sees a hole in the decking beside the wagon. Mina hangs from its edge, her legs above the river. A bag is caught around a splintered board near her shoulder.
+Gohan sees a hole in the decking beside the wagon. Mina hangs from its edge, her legs above the river; a bag strap is caught around a splintered board near her shoulder.
 
-"Father!" she cries.
+"Father!"
 
 "I'm here!"
 
-The driver tries to go back. Another plank gives way beneath the wagon, and Chi-Chi catches his arm.
+The driver starts back, but another plank gives way beneath the wagon. Chi-Chi catches his arm and steps onto the first board herself. It sags under her foot.
 
-"Wait. The floor's breaking."
+"The floor won't hold us," she says.
 
-Chi-Chi starts across the first plank. It sags beneath her, and Mina's fingers slip along the broken edge. Chi-Chi steps back onto the stone bank.
+Mina's fingers slip. Gohan has already turned toward the hole.
 
-"I can get underneath," Gohan says.
+"Nimbus can get underneath!"
 
-Goshin steps beside him. "I'll hold the board. I can fly with Gohan."
+"I'll hold the board," Goshin says. "I can fly beside him."
 
-Chi-Chi looks from the hole to the water, where Goku is still holding the trunk against the pier.
+Chi-Chi looks at Goku, braced against the trunk below. Another jolt runs through the bridge. She grips Goshin's shoulder, then Gohan's.
 
-"Stay together." She looks at the boys.
+"Stay together. And if you feel unwell," she tells Goshin, "come straight back."
 
-"I won't leave him," Goshin says.
+"I will."
 
-She takes Goshin's hand for a moment. "If you feel unwell, tell me and come straight back."
+"We'll hold this end for you," Ox-King says through clenched teeth.
 
-"I will, Mother."
+Gohan calls Nimbus. The cloud slips beneath the wagon toward the broken floor, with Goshin flying beside it. Mina sees them and tries to pull herself higher, but the board tilts beneath her fingers.
 
-"We'll hold this end for you," Ox-King says.
+Goshin catches its broken end and plants one foot against a bridge support. The board steadies.
 
-Gohan calls Nimbus. The cloud slips through the gap below the wagon and carries him toward the broken floor. Goshin flies beside it, reaching for the loose board.
+A crack creeps along the wood. Goshin lifts the loose end until its undamaged edge rests across a support, giving Mina somewhere firm to cling.
 
-Mina sees them and pulls herself higher, but the board tilts under her fingers.
+"I'm holding it!"
 
-Goshin catches its broken end. He plants one foot against a bridge support and holds it level.
+Gohan brings Nimbus beneath Mina and reaches up. Her bag strap has twisted tight around a splinter.
 
-"Gohan."
-
-"I see her."
-
-Gohan guides Nimbus beneath the hole. Water splashes his shoes. He reaches up to Mina, but the strap of her bag has twisted around a splinter.
+Water spatters his face. He wants to look back at Mother, but Mina's fingers are slipping, so he reaches for the strap instead.
 
 "It's stuck," she says.
 
-"I can undo it."
+"I'll undo it."
 
 "Will I fall?"
 
@@ -452,53 +446,25 @@ Gohan guides Nimbus beneath the hole. Water splashes his shoes. He reaches up to
 
 "Where's my father?"
 
-"At this end of the bridge," Chi-Chi calls. "He's right here."
+"Right here!" her father calls. Chi-Chi has caught the rope tied to the wagon's handle; he takes it from her and winds it around a post on the bank. The wagon stops with one wheel against the broken boards.
 
-"Mina, I can hear you," her father says.
-
-Mina looks toward the voice. Her grip loosens, and Goshin pushes the board up beneath her chest.
-
-Gohan keeps Nimbus under the opening while Mina tries to find a place for her other hand. The loose strap is stretched across the splinter, and each pull draws the bag a little closer to the water.
-
-Goshin shifts his foot against the support so the board stays level. Gohan waits for it to stop moving before working the wet strap back along the wood.
-
-"I'm holding it," he tells her.
-
-Gohan takes hold of the strap. His fingers slip on the wet cloth. Above him, Mina's hands begin to slide.
-
-A loose branch sweeps against the bridge support. Gohan steers Nimbus around it, then brings the cloud back beneath Mina.
-
-"I'm still here," he says.
-
-On the deck above them, the wagon begins to roll toward the hole. Chi-Chi reaches through the entrance and catches the rope tied to its handle. Mina's father takes the rope from her and winds it around a post on the bank. The wagon stops with one wheel against the broken boards.
+A branch sweeps past beneath the bridge. Gohan steers Nimbus around it, then brings the cloud back under Mina.
 
 "You can leave the bag," Goshin says.
 
-"My book's in it!"
+"My book's in it! Father gave it to me."
 
-Gohan pulls at the knot again. "What's it about?"
+"We'll get it," Gohan says.
 
-"Machines. My father gave it to me."
-
-"We'll get it."
-
-The strap comes loose. Gohan catches the bag before it falls and tucks it beneath his arm. Mina reaches down to him, and he takes her around the waist.
+He works the wet strap back along the splinter. His fingers slide off once, but Goshin keeps the board level while Gohan tries again. The strap comes free, and Gohan catches the bag against his chest.
 
 "Hold my shoulder."
 
-She clings to him as Gohan lifts her toward the unbroken decking, where Goshin guides her feet onto a plank.
+Mina clings to him as he lifts her toward the unbroken decking. Goshin guides her feet onto a plank, keeping hold of the loose board above her.
 
-The bridge jolts. Goshin's foot slips from the support, and his tail whips against the stone to steady him. The board jerks out of one hand. He catches it with the palm Raditz burned and holds it above Mina.
+Outside, Goku shifts the trunk against the current. The fork pulls at the pier, and he braces again.
 
-"Did that hurt?" Gohan asks.
-
-"No. Keep going."
-
-Goshin gets both hands under the board and keeps it level. Mina crawls onto the plank beside him.
-
-Outside, Goku braces the trunk against the current as its fork presses harder against the bridge pier.
-
-"The fork is caught under the beam," he calls. "If I pull it now, the bridge comes with it!"
+"It's caught under the beam! If I pull it now, the bridge comes with it!"
 
 "We're coming!" Gohan answers.
 
@@ -508,9 +474,9 @@ Goku sees it from the water. For an instant his grip shifts on the trunk.
 
 "Gohan! Goshin! Don't look up! The full moon can turn you into giant apes!"
 
-"Gohan, keep your eyes on the boards!" Goshin calls.
+"Gohan, the boards!" Goshin calls, dropping his own gaze.
 
-He lowers his face toward the planks. Gohan keeps his eyes on Mina and the cloud beneath him. At the entrance, Chi-Chi opens Ox-King's blanket, ready to cover the boys when they reach her.
+Gohan keeps his eyes on Mina and the cloud beneath him. At the entrance, Chi-Chi opens Ox-King's blanket, ready to cover both boys when they reach her.
 
 "Come toward my voice," she calls.
 
@@ -538,21 +504,15 @@ In the water, Goku shifts his grip as the trapped fork pulls at the pier and a c
 
 Gohan points down from the bank. "The branch is under that piece of wood."
 
-Goku looks toward Goshin. "Can you see it?"
-
-"Yes."
-
-"Hit the branch without touching the bridge."
-
-"I can get it," Goshin says.
-
-Goshin raises one hand. Gohan catches his sleeve.
+"I can hit it," Goshin says. He raises his hand, but Gohan catches his sleeve.
 
 "The pier is behind it from here."
 
-Goshin lowers his hand. Gohan walks beside him beneath the blanket as they move along the bank until the branch is in front of open water. Goshin aims low, away from the moon.
+Goshin checks the angle. "Come on."
 
-A narrow flash strikes the fork. The branch breaks free, and Goku lifts the trunk above the pier. Water pours from its roots as he carries it to an empty gravel bar beyond the bridge.
+The brothers hurry along the bank beneath the blanket until open water lies behind the trapped fork. Goshin aims low, away from the moon, and fires a narrow burst. The branch snaps free.
+
+"Got it!" Goku heaves the trunk above the pier. Water pours from its roots as he carries it to an empty gravel bar beyond the bridge.
 
 The damaged deck shifts as the trunk comes free. The wagon tips onto its side, spilling several parcels through the hole, but the rope keeps it from following them. The current carries the parcels away beneath the bridge.
 
@@ -566,29 +526,27 @@ Ox-King lowers the roof beam carefully onto the bank. Gohan takes one end and he
 
 Goshin sits on the stone edge of the road, and Gohan sits beside him with the blanket still over both their heads.
 
-Gohan looks at Goshin's palm. "You caught the board with it."
+"I thought I'd forget and look up," Gohan says.
 
-"It didn't hurt," Goshin says.
+"I nearly did too." Goshin leans against him. "But we didn't."
 
-Chi-Chi kneels beside both boys.
+Chi-Chi kneels beside them. "Your head? Your hand?"
 
-"And your head?"
+"Neither one hurts." Goshin brings his palm forward. "See? The skin didn't break."
 
-"It doesn't hurt either."
+She holds the hand for a moment, then draws both boys against her. Gohan can hear her breathing under the blanket.
 
-"Show me your hand."
+"Mother, we couldn't leave her there," he says.
 
-"See? The skin is growing back."
+"I know. I saw you go after her."
 
-Goshin brings it forward. The new skin is unbroken. Chi-Chi takes his hand for a moment, then lets him turn it over.
-
-Goku lands beside them. He crouches so the boys do not need to raise their faces.
+Goku lands beside them and crouches so they don't need to raise their faces.
 
 "You got her out. And that shot was narrower than the wave at the crater."
 
 "Gohan saw the pier," Goshin says.
 
-"You both found the right place for it."
+"You both found the right place for it." Goku puts a hand on Gohan's hat and gives Goshin's shoulder a squeeze.
 
 Gohan peeks from beneath the blanket at Mina and her father. "She had a book."
 
@@ -608,11 +566,7 @@ Mina holds the book out to him. "You can borrow this one."
 
 Gohan takes it with both hands. "Thank you."
 
-Goshin leans close enough to see the picture, and Goku looks at him.
-
-"What would you like to know?"
-
-"Does that machine eat rocks?"
+Goshin leans close enough to see the picture. "Does that machine eat rocks?"
 
 "It digs them," Mina says.
 
@@ -640,9 +594,11 @@ Piccolo looks up at the moon. Then he looks at Goku, who carries Goshin with one
 
 "A full moon can change them."
 
-His eyes move to the boys' tails, visible below the edge of the blanket.
+The boys' tails hang below the edge of the blanket. Raditz had a tail too; Piccolo had seen Goku grip it during the fight.
 
-"Raditz had a tail too. If the other Saiyans can do the same, I need to be ready."
+"If the other Saiyans can do the same..."
+
+Goku stops in the road and looks back toward the willows. Piccolo stays where the leaves hide him. With Goku restored and the family together, there is no easy way to take either boy now. But if the Saiyans can turn into the monsters Goku described, Piccolo will need more power himself.
 
 He rises above the river and turns toward the broken ridge.
 
@@ -724,11 +680,15 @@ Goku puts a hand on the hat. "Then keep it, Gohan. If those guys come for it, we
 
 Goku rubs the back of his head. "Yeah. Those other two are even stronger, though. I'd sure like to see what they can do."
 
-"Goku!"
+"Goku! They want to hurt our children!"
 
-He catches the look on her face, and the eager lift of his voice softens. "I know. They threatened all of you. I have to get stronger before they get here."
+He catches the look on her face, and his grin fades. "I know. I don't want them near you either. That's why I've got to get stronger before they get here."
 
-His hand stays on Gohan's hat until Gohan reaches up and steadies it himself.
+Chi-Chi looks at his hand resting on Gohan's hat. At the river she had seen him lying on a carpet, unable to stand; a few hours before that he had left home laughing.
+
+"Then we're preparing too," she says.
+
+Gohan reaches up and steadies the hat himself. Goku lets him.
 
 Gohan puts his hat back on.
 
@@ -761,6 +721,14 @@ Goku looks at Gohan and Goshin. "Hey, how about training with me until we hear f
 "And Gohan's studies won't stop," Chi-Chi says.
 
 "Sure, sure! There's time for both."
+
+"And homework first," Chi-Chi says.
+
+"I can help," Goku says.
+
+"With the sums?" Gohan asks.
+
+"I can help with the training."
 
 Gohan runs one finger around the edge of his hat. "Roshi said the moon might change us. Could the Saiyans do that too?"
 
@@ -832,14 +800,16 @@ Outside, moonlight rests on the closed curtains. Inside, the picture of the digg
 
 ---
 
-## Preview
-
-*An open book shows an old excavation machine. Beyond the village, a road winds toward the mountains.*
-
-**NARRATOR:** The family is together, but the Saiyans are still coming. Will Gohan and Goshin find a robot beyond the road? And can their friends gather before the year runs out?
+> **NEXT TIME — The boys go looking for Mina's books and find someone buried beneath the riverbank.**
 
 <!--
 ## Footer
+
+**5 November 2026 — Dragon Ball-feel revision from the opening, unaccepted.** The complete chapter and the next-chapter handoff were reviewed and the scenes revised for clearer, more character-driven action and feeling. The doctor's uncertainty and follow-up, Chi-Chi's and Ox-King's active choices, Goku's rescue, Gohan's Nimbus and concern for Mina's book, and Goshin's strength, precision and own initiative all remain. The moon is visible above the damaged bridge but neither tailed boy looks at it or transforms; Piccolo hears Goku's warning and does not acquire the knowledge from an unearned source. The scouter is unpowered, the friends receive their invitation, Yemma has promised no answer, Gohan keeps the Four-Star Ball and the family spends the night at the doctor's. The next morning and Mina's book lead to Chapter Ten. The bridge, family staging, child-specific actions and dialogue are authored consequences of the changed branch. The complete retained episode-eight captions were reread, including preview, ending and unrelated tail; origin and cut remain unverified. Toei's short synopsis was consulted; neither witness constitutes complete video/audio. The exact immediate predecessor is preserved in the [verified pre-correction project and accepted-original snapshot](../canon/ARCHIVE_INDEX.md#backup-042), Chapter Nine member SHA-256 `4c4b317dcb6640f77fb0cf777bf5518ed2d99a5cf33997eec798341b8fd4683b`, ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. This revision is not reader acceptance; earlier footer entries remain historical where superseded.
+
+
+
+**5 November 2026 — continuing emotional revision, unaccepted.** This pass develops the brothers' fear under the moon and Goku's concern for his family, removes an automatic question-and-answer posture, and fixes a repeated bandage-removal sentence. The medical examination and symptoms, separate friends' preparations, Mina's rescue, both intact tails, the full moon unseen by either boy, and Kami's ungranted inquiry remain. The immediately preceding selected version is preserved with Chapter Ten in the [verified local backup](../canon/ARCHIVE_INDEX.md#backup-053). The full retained episode-8 caption was reread with Toei's short synopsis; origin and cut remain unverified. These sources are not a complete video or audio review. The medical and bridge rescue, family choices and their dialogue are authored.
 ```
 ANIME BASE: Dragon Ball Z episode 8.
 EVIDENCE: Local Japanese episode-8 captions, with original provenance and exact cut unverified; secondary accounts as identified in the coverage record. Captions and selected stills do not establish full video or all silent action.

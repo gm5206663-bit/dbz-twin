@@ -2,6 +2,10 @@
 
 **Owns: source-order coverage and provisional treatment of episode-16 material in the selected Chapter 17 review candidate.**
 
+**6 November — selected story-wide correction, unaccepted:** The full Chapter 17 and the retained episode-16 captions and Toei synopsis were reread. The market, training game, family responses and Ena's protest now have more distinct character while retaining the children's agency, painful-cuff request, officer's objection and one-night trial. The older handoff sentence below asserting that “Goshin repeats applicable direct instructions” is superseded: automatic repeat-back was assistant-invented, not a user direction. Retain it as historical, not a writing rule. The family visit, changed outcomes and detailed staging remain authored; caption source/cut and full moving video/audio remain unverified. See the [current scope and predecessor record](DRAGON_BALL_FEEL_CORRECTION_2026-11-05.md).
+
+**5 November — current selected wording:** The [continuing prose/source record](EMOTIONAL_REVISION_013_PLUS_2026-11-05.md) and [scouter clarification](SCOUTER_READINGS_2026-11-05.md) identify the latest local unaccepted changes; older candidate-specific claims below are historical where superseded.
+
 **Version warning, 3 November 2026:** Earlier candidate-specific echo and habit claims below are historical and may not describe the selected corrected text. The compulsory repeat-back rule was assistant-invented, not an author instruction. Read the selected chapter and [continuity correction](SELECTED_CONTINUITY_CORRECTIONS_2026-11-03.md) for current treatment; preserve the source baseline and older candidate descriptions as history.
 
 **Selected contextual correction, 4 November:** In the selected Chapter 17 supper scene Goshin helps wash vegetables and carry bowls, and Chiko participates in cooking; there is no compulsory food-watching exchange. The older candidate mapping below remains historical. See [current correction](STORY_AND_NAPPA_CORRECTION_2026-11-04.md).

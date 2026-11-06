@@ -1,6 +1,10 @@
 # Episode 15 → Chapter 16 · source coverage and divergence
 
+**Continuing emotional revision, 5 November:** The [current continuation record](EMOTIONAL_REVISION_013_PLUS_2026-11-05.md) and selected chapter record the latest unaccepted wording and source limits. Older plans and descriptions below remain historical.
+
 **Owns: source-order coverage and provisional treatment of the episode-15 material in the selected Chapter 16 review candidate.**
+
+**6 November story-wide correction — selected Chapter 16, unaccepted:** The boys' play and independent choices, the C-6 visit, the island and Chi-Chi's frightened response are revised on-page. Gohan can fly, chooses Nimbus as a working platform and starts upward underwater; Goshin holds the branch without strain while lifting him. Bulma and Chi-Chi help, and Gohan frees the tiger's net. Piccolo senses the boys, initially thinks the Saiyans may have come early, asks them to train with him and leaves without taking them when the family refuses. The boat drifts away; the shared meal and Chapter 17 handoff remain. The full retained episode-15 caption, including preview, ending and unrelated tail, and Toei's short synopsis were reread. The source/cut and complete video/audio remain unverified; the family outing, rescue and conversation are authored divergence. See the [current correction](DRAGON_BALL_FEEL_CORRECTION_2026-11-05.md).
 
 **Version warning, 3 November 2026:** Earlier candidate-specific echo and habit claims below are historical and may not describe the selected corrected text. The compulsory repeat-back rule was assistant-invented, not an author instruction. Read the selected chapter and [continuity correction](SELECTED_CONTINUITY_CORRECTIONS_2026-11-03.md) for current treatment; preserve the source baseline and older candidate descriptions as history.
 

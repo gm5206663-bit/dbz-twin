@@ -1,14 +1,8 @@
 # Chapter Thirteen — The Sparring Ring
 
-*Immersion-revised review draft; not yet accepted.*
+*Revised story draft; not yet accepted.*
 
 A leaf lies beneath a stone in the yard. Its tip lifts each time the wind reaches it.
-
-**THE SPARRING RING**
-
-**NARRATOR:** The two Saiyans are on their way to Earth. Goku has a family to protect, friends searching for new training, and a son who is ready to fight him.
-
----
 
 ## The Next Morning
 
@@ -26,19 +20,23 @@ Gohan carries his hat into the kitchen, where Goku is at the table with one of C
 
 "Morning, Gohan," Goku says.
 
-Gohan puts his hat on. "I dreamed Raditz was there again."
+Gohan puts his hat on, then keeps both hands on the brim.
 
-Goku puts down the bowl. "He's gone."
+"I dreamed Raditz was there again."
+
+Goku sets down his bowl. "He's gone."
 
 "I know. I looked for you anyway."
 
-Goku reaches over and settles the hat on Gohan's head. "You found me."
+Goku reaches over and straightens the hat. "You found me."
 
-Goshin pulls out the chair beside him. "Wake me if you have that dream again."
+Goshin pulls out the chair beside him. "Wake me next time. We'll both look."
 
-Gohan sits down. "I will."
+Gohan sits down. "You'd be right there."
 
-He slips two fingers beneath the brim and checks the ball where it is fastened to the hat.
+"Then I won't have far to go."
+
+Gohan smiles, but he slips two fingers beneath the brim to check the ball fastened to his hat.
 
 "The other Saiyans know about this, don't they?"
 
@@ -70,11 +68,7 @@ Gohan looks up. "Can I practise with you?"
 
 "Sure!"
 
-Goshin puts down his chopsticks, and Goku catches his eye.
-
-"What about you, Goshin? What do you want to do?"
-
-"Will you fight me?"
+Goshin puts down his chopsticks. "Father, will you fight me?"
 
 Goku's eyebrows rise. Then he grins. "You mean a real match?"
 
@@ -94,9 +88,13 @@ Goku looks through the window at the yard.
 
 "The stone basin beyond the ridge is empty. Keep your blasts away from the house."
 
-"I won't hit the house," Goshin says, grinning.
+"I wasn't going to hit the house," Goshin says.
 
-"I'm coming with you," Chi-Chi adds. "Gohan, put the book away before we leave."
+"Good. Because I'm coming with you. Gohan, put the book away before we leave."
+
+Goshin looks at Gohan. "She didn't say I couldn't hit Father."
+
+Goku laughs. "That's what I'm counting on!"
 
 Gohan checks the paper marker before putting Mina's book back on the shelf and closing the door behind it.
 
@@ -190,7 +188,7 @@ Tien stays standing. "We were training."
 
 "You've been training every time I find you. How long are you going to keep this up?"
 
-"Until he beats Goku," Chiaotzu says.
+"Until he beats Goku," Chiaotzu says, already reaching for the food.
 
 Launch throws up her hands. "Come on! You're strong enough already. Why not have some fun?"
 
@@ -210,117 +208,93 @@ Chiaotzu takes a small bite from a bowl. "The food is good."
 
 Tien picks up the two smooth stones from the table. "Chiaotzu, are you ready?"
 
-Chiaotzu sets down the bowl. "Yes, Tien."
+Chiaotzu sets down the bowl, reluctantly. "Yes, Tien."
 
-Watching them return to the water, Launch puts the lid back on the vegetables with a clatter.
+"Stubborn as a rock!" Launch shouts after them.
+
+Chiaotzu looks back. "Tien can break rocks with his head!"
+
+"That's not what I meant!"
+
+She puts the lid back on the vegetables with a clatter.
 
 ---
 
 ## The Ring
 
-The stone basin lies beyond the ridge, far from the house. Gohan drags a piece of white stone across the floor, drawing a circle around a wide patch of packed earth.
+The basin beyond the ridge is empty except for a few loose stones and the family. Gohan drags a piece of white rock around a patch of packed earth. At the end he has to hop over his own line to join it up.
 
-"If either of you touches the ground outside the circle, the other one wins," he says.
+"If you touch the ground outside, you lose," he says.
 
-Goku steps inside and tests the ground with his heel. "Can we fly?"
+Goku studies the lopsided circle. "Can we fly?"
 
-"Yes. But if you come down outside, you're out."
+"Yes. But if you land outside, you're out."
 
-"All right!"
+"That'll do!"
 
-Chi-Chi and Gohan stand on a ledge north of the ring. A thick shelf of rock rises behind them. The rest of the basin is open, with empty sky above it.
+Chi-Chi takes Gohan to a ledge on the north side, where a thick shelf of rock stands behind them. "No blasts toward us."
 
-"No blasts toward this ledge," Chi-Chi says.
+"We'll turn them up into the sky if they start to get away," Goku says. Goshin nods and looks at the open space above the basin.
 
-"I'll aim away from you," Goshin tells Gohan and Chi-Chi.
+Goku steps across the line. Opposite him, his son plants his feet, black hair spiking up just like his father's. Goshin's tail makes one impatient flick in the dust.
 
-"We'll hold back enough to keep the waves aimed," Goku says. "If one starts to get away from us, we turn them up and stop."
+"Don't go easy on me," he says.
 
-Goku walks to the opposite side of the circle. Goshin steps in and turns to face him. Across the ring, his hair rises in the same black spikes as his father's, and his small face looks so like Goku's that the resemblance is startling—until his eyes lift toward Chi-Chi on the ledge. His tail settles behind his legs.
+Goku rolls his shoulders. "You don't have to tell me twice!"
 
-Goku rolls his shoulders, grinning openly at the son who has challenged him. Goshin mirrors the movement, then plants his feet in his own stance.
+Gohan raises his hand. "Start!"
 
-"Ready?" Goku asks.
-
-"Yes."
-
-Gohan raises one hand. "Start!"
-
-Goshin moves first. His fist drives toward Goku's chest. Goku turns his shoulder and catches the wrist, but Goshin's other hand is already coming up.
-
-Goku ducks, but Goshin's palm strikes his shoulder and sends him skidding sideways, his boots cutting twin tracks in the packed earth.
+Goshin shoots across the ring. Goku turns aside from the fist aimed at his chest, but a second blow strikes his shoulder and sends him skidding. He catches himself, boots cutting two tracks in the dirt.
 
 "Good one!"
 
-Goku springs back in. He sweeps at Goshin's feet, and Goshin jumps over his leg. Goku catches him in the air and turns, carrying him toward the white line.
+Goku sweeps at his son's legs. Goshin jumps, and Goku catches his wrist, turns and carries him straight toward the line.
 
-Goshin fires a short burst at the ground. Dust rises between them, and the force twists him out of Goku's grip. He lands inside the circle.
+"Goshin!" Gohan calls.
 
-"Still in!" Gohan calls.
+Goshin fires a short burst into the ground. Dust jumps between them; the force twists him out of Goku's grip. He lands inside the circle with his heels a hand's breadth from the white mark.
 
-Goku comes through the dust with both fists raised. Goshin blocks the first punch, but Goku changes hands and taps his ribs with the second. Goshin slides backward, digging two grooves in the earth.
+"Still in," Gohan says, relieved.
 
-He stops just short of the line.
+Goku comes through the dust before Goshin can move away. Goshin blocks his first punch, but the second catches his ribs. He slides along the line, turns and drives a fist into Goku's stomach.
 
-"That was close," Chi-Chi says.
-
-Goshin rubs his side once. A scrape on his forearm has turned red. He raises both hands again before Goku reaches him.
-
-Goku kicks. Goshin catches the ankle with both hands and pulls. Goku lets himself turn, plants one hand on the ground and swings his free foot toward Goshin's shoulder.
-
-Goshin lets go and drops beneath it, his tail striking the ground to steady him. He pushes upward and lands a punch against Goku's stomach.
-
-The blow lifts Goku's feet from the earth and sends him backward, but he catches himself above the far edge of the circle.
+Goku's feet leave the ground. He stops himself in the air before he can land outside.
 
 "Oh, you're strong!"
 
-Goshin rises after him. Goku meets him above the ring, and their arms strike together. Goku turns a punch aside; Goshin kicks at his chest. Goku catches the kick against his forearm and drives forward.
+Goshin flies after him. Their arms meet above the ring, and Goku catches a kick on his forearm. He drives forward, bringing them both back down inside the circle. Goshin's heels plough through the earth, but he stays on his feet.
 
-Both land inside the circle. Goshin's heels cut a long furrow, but he holds his ground.
+A loose stone rolls against his ankle. He lifts one hand and sends it at Goku with his ki.
 
-Gohan leans over the ledge. "Goshin, the line's behind you!"
-
-As Goshin glances back, Goku darts in before he can turn all the way around.
-
-Goshin lifts one hand, and his ki raises a loose stone between them. Goku strikes it aside, and Goshin follows through the dust with a punch.
-
-The blow catches Goku beneath the arm and sends him skidding toward the line, but he plants one foot and springs back into the centre.
+Goku knocks it aside; the stone grazes Goshin's forearm. Goshin follows through the dust and punches beneath his arm, driving him toward the line again. This time Goku plants a foot and springs back.
 
 "You moved that rock?"
 
-Goshin nods.
+Goshin grins. Another stone lies at his feet. Goku moves toward it, and Goshin raises it between them. Goku swings wide; when Goshin shifts the stone to block, Goku ducks beneath it and puts his palm against Goshin's ribs.
 
-Goku's grin returns. "Then I won't wait for the next one!"
+Goshin shoots backward. He drops the stone, digs one foot into the dirt and kicks into Goku's guard before his father can follow.
 
-Goku circles to his left, keeping the white line behind Goshin. A loose stone lies near Goshin's foot, and Goku starts toward it.
+"I thought you might try that again!" Goku says.
 
-Goshin raises the stone with his ki. Goku swings one fist wide, and Goshin moves the stone across to meet it. Goku ducks beneath the stone instead and presses his other palm against Goshin's ribs.
+Goshin circles instead of answering. A scrape on his forearm stings where the stone grazed him. He wipes it against his shirt, then rushes in.
 
-Goshin slides back toward the line. He plants one foot, drops the stone and kicks into Goku's guard before Goku can follow.
-
-Goku grins. "I thought you might try that again!"
-
-Goshin steps forward, pushing against Goku's arm with his knee. Goku gives ground, then turns and sweeps at his feet. Goshin hops over his leg and reaches for both of his wrists.
-
-Goku turns with him until they stand shoulder to shoulder, each holding the other's arm. Goshin pushes with his ki, and Goku's boots lift from the ground.
+Goku catches him shoulder to shoulder and reaches for his wrist again. Goshin pushes with his ki before the grip can close; Goku's boots lift off the ground.
 
 "Hey!"
 
-Goku twists free, flips in the air and lands near the centre of the ring. Goshin is already flying toward him, with one hand open in front of his chest.
+Goku twists free and flips toward the centre. Goshin flies after him, an open hand thrust ahead of him. A bright burst flashes from his palm.
 
-A burst flashes from Goshin's palm. Goku knocks it upward, then bends beneath a second burst. It passes over his shoulder and carves a deep channel along the empty east wall, away from the ledge. Rock breaks free and falls into the basin.
+Goku knocks it upward. A second passes over his shoulder and cuts a channel into the empty east wall. Stone breaks loose and rattles down, well away from the ledge.
 
-Goshin comes through the settling dust. Goku catches his fist, but Goshin brings his knee up against Goku's guard and pushes him backward.
+Chi-Chi shields Gohan from a breath of dust. "East wall, not north!"
 
-Digging in his heels, Goku gives Goshin's wrist a sharp pull and tries to turn him toward the line. Goshin flies around the pull, keeping hold of Goku's hand until he has room to kick.
+"We saw!" Goku calls.
 
-The kick strikes Goku's chest and sends him sliding across the ground; he stops inside the circle and looks down at the mark on his shirt.
+Goshin comes through the settling dust and kicks Goku in the chest. Goku slides back, stops inside the circle and looks at the mark on his shirt.
 
 "That one really landed!"
 
-Gohan claps from the ledge. Chi-Chi keeps one hand on the rock shelf while the dust settles around the ring.
-
-Goku raises both fists again. Goshin settles opposite him and brushes dirt from his palm. The red scrape on his forearm is already smaller than it was.
+Gohan cheers. Goshin's grin is as wide as Goku's. He looks down at his scraped arm: the red mark has already grown smaller. Then Goku raises his fists, and Goshin forgets the scrape and raises his own.
 
 ---
 
@@ -340,119 +314,97 @@ Turtle looks toward the sea. "A year sounded like a long time when Krillin told 
 
 "It won't stay that way."
 
-Roshi goes inside and picks up his telephone. He turns it over, checks the cord and sets it back on the table.
+Roshi goes inside and picks up his telephone.
+
+"Are you calling King Kai?" Turtle asks.
+
+"I would, if I knew his number."
+
+Turtle waits while Roshi looks at the receiver. At last Roshi puts it down again.
 
 ---
 
 ## The Wave
 
-Goku runs straight at Goshin. Goshin braces for another sweep, but Goku jumps over him and lands behind him instead.
+Goku charges. Goshin braces for a sweep, but Goku jumps over him and lands behind him. His hand strikes Goshin's shoulder and pushes him toward the line.
 
-As Goshin twists, Goku puts a hand on his shoulder and pushes him toward the line.
+Goshin flies up instead of landing. Goku follows, and Goshin rolls over his head and kicks him in the back. Goku catches himself on one hand; the earth cracks beneath his palm. He pushes off and climbs until they face each other above the ring.
 
-Goshin flies up. Goku follows, but Goshin rolls over his head and comes down behind him. A quick kick strikes Goku's back and sends him toward the ground.
+Goshin cups his hands at his side. Blue light gathers between them.
 
-Goku catches himself on one hand, and the earth cracks beneath his palm. He pushes off again, climbing until he and Goshin face each other above the middle of the basin.
+Goku's eyebrows rise. "You're going to use that?"
 
-Goshin brings his hands together at his side.
+Goshin turns his wrists, drawing the light together. Goku cups his own hands and grins.
 
-Goku looks at the light forming between them. "You're going to use that?"
+"All right!"
 
-Goshin holds his position. The light spreads around his fingers, then draws in as he turns his wrists.
+Gohan catches Chi-Chi's sleeve. She moves him farther behind the rock shelf, though both keep their eyes on the fighters.
 
-Goku cups his own hands. "All right!"
-
-Below them, Gohan catches Chi-Chi's sleeve, and she moves him farther behind the rock shelf while keeping both fighters in sight.
-
-The two lights brighten above the ring.
-
-*This programme continues after a message.*
+The two lights blaze above the basin.
 
 ---
 
-Goshin thrusts his hands forward. "Kamehameha!"
+"Kamehameha!" Goshin cries, thrusting his hands forward.
 
-His wave crosses the open air. Goku fires from the other side, and the two streams meet above the centre of the basin.
+Goku fires from the other side. The waves collide above the centre of the ring, and a white flash fills the basin. Pressure gouges trenches into the empty ground and strips rock from the east wall. Gohan ducks as fragments skitter across the ledge.
 
-The collision flashes white. Its pressure gouges two trenches into the empty centre of the ring and strips stone from the east wall. Dust rolls across the basin, and the roar fills the space between the cliffs.
-
-Goku holds his palms together. His boots slide backward through the air as Goshin's wave presses against his. He can see his son's small silhouette beyond the meeting light, feet braced and both arms extended. Goku shifts one hand over the other, tightening his aim until the light stops advancing.
+Goku slides backward through the air. Beyond the meeting light he can see Goshin, arms outstretched, driving the wave toward him.
 
 "That's it! Keep it coming!"
 
-The edge of Goshin's wave begins to spread. He turns both palms inward, drawing it back into a narrow stream before it can reach the basin wall. The focused wave drives Goku farther across the basin.
+The edge of Goshin's wave spreads. He turns his palms inward, narrowing it before the light reaches the wall. Goku tightens his own aim and stops its advance, then flares his ki. The meeting point moves toward Goshin.
 
-Gohan shields his eyes from the light. Fragments skid across the ledge; Chi-Chi keeps him close behind the rock shelf.
+Goshin's shoulders shake. For a moment he remembers Raditz standing in front of that blue light. Now his father is on the other side, pushing back with a fierce grin.
 
-Goku flares his ki and drives forward through the air. His wave gains ground, and the meeting point moves toward Goshin.
+Goshin grins too. His ki swells as he struggles against the wave, and new strength builds in his arms. He presses forward. The meeting point stops, then moves back toward Goku.
 
-Goshin shifts his hands, his tail swinging once, and sends more ki through the centre of his wave. The meeting point stops, then pushes back toward Goku.
+"You're really pushing me!" Goku calls.
 
-"You're really pushing me back!" Goku calls.
-
-Goku's arms tremble. He braces in the air and pushes again, holding the meeting point between them. Goshin presses both palms forward, and a crack runs through the dirt far below.
-
-As the light swells between them, the crack below reaches toward the ledge. Goku sees it and turns his hands toward the open sky.
+He braces in the air and pushes again. Below them a crack runs from the torn earth toward the ledge. Goku sees it and turns his hands toward the open sky.
 
 "Goshin, point up!"
 
-"Got it!" Goshin turns his palms upward. Both waves peel apart and shoot upward, clearing the rim of the basin. Goku cuts off his wave and Goshin closes his palms; the remaining light disperses high above the ridge.
+Goshin turns his palms. The waves peel apart and shoot above the rim of the basin. Goku cuts his off; Goshin closes his hands, and the remaining light disperses high over the ridge.
 
-Goku lowers his arms. Below him, two fresh trenches scar the middle of the empty ring, and broken stone lies at the foot of the east wall. Gohan steps out from behind the shelf and looks at the sky.
+For a moment the family hears only falling stones. Chi-Chi peers around the shelf. Gohan looks up between her and the rock.
 
-"Did either of them land outside?" Chi-Chi asks.
+"Did either of them land outside?" she asks.
 
-"No. They're still up there!"
+"No! They're still up there!"
 
-Goku and Goshin drop toward the circle and land facing each other, both inside the white line.
-
-The scrape on Goshin's forearm has already faded. He opens and closes his hand, then sets his feet again.
+Goku and Goshin drop into the ring. Goshin opens and closes his hand. The scrape on his forearm has faded, and the strength he found during the clash is still there, even with his wave gone. He looks up at Goku, delighted.
 
 Goku rolls his shoulder. "You nearly pushed me all the way back."
 
-Goshin looks at the line, then at Goku. "We haven't finished."
+"We haven't finished."
 
 "We sure haven't!"
 
-Goku sends three small blasts across the ring. Goshin catches the first against his open palm and pushes it upward. The second follows it into the sky, but the third slips past his fingers and bursts against the ground beside him.
+Goku sends three small blasts across the circle. Goshin pushes the first two upward, but the third bursts against the ground beside him. Goku rushes through the dust and catches Goshin's punch. They turn together, shoulders meeting, their feet sliding toward the white line.
 
-Goku comes through the dust before Goshin can lower his hand. Goshin ducks the first punch and catches the second against his palm. Goku changes direction, stepping toward the open side of the ring.
+Goshin breaks away and fires into the ground beside Goku's foot. The earth crumbles. Goku jumps clear and lands on a falling stone, ready to spring back into the ring.
 
-Goshin turns with him and keeps hold of his wrist. Goku pulls back, then drives forward instead. Their shoulders meet, and both slide across the packed earth.
+Two fingers lift. Goshin tips the stone with his ki.
 
-"Look at their feet," Gohan says. "They're nearly at the line."
+Goku twists in the air, but Goshin's kick catches his ribs. A punch follows, driving him across the circle. Goku grabs his son's wrist and pulls, trying to take him across the line as well.
 
-Goshin releases Goku and sends a short burst into the ground beside Goku's foot. The earth breaks. Goku jumps clear and lands on a falling stone.
+The same pull as before. Goshin turns with it—but this time his ki holds Goku's arm out for an instant, giving him room to swing around to the other side.
 
-Goshin raises two fingers, and his ki tips the stone before Goku can push off it.
-
-Goku twists in the air. Goshin reaches him with a kick to the ribs, follows with a punch and drives him across the circle.
-
-Goku catches Goshin's wrist and pulls, trying to bring him past the line as well, just as he did at the start of the match.
-
-Goshin turns with the pull. His ki presses against Goku's arm, holding it out for an instant while Goshin swings around to Goku's other side.
-
-Goku reaches for him with his free hand. Goshin knocks it aside and strikes him in the chest, sending him across the last stretch of the ring.
-
-Goku lands on his back beyond the white line, raising dust around his shoulders.
+Goku reaches with his free hand. Goshin knocks it away and strikes his chest. Goku tries to right himself, but hits the ground beyond the white line, dust rising around his shoulders.
 
 Gohan points. "Father's out! Goshin wins!"
 
-For a moment Goku stays where he is. Then he sits up and looks at the line between them.
+Goku lies there a moment, looking back at the circle. Then he sits up.
 
 "You got me! I thought I had your arm."
 
-Goshin lands inside the ring. "You did."
+Goshin lands inside the ring, beaming at Gohan. "You did."
 
-Goku laughs. "Next time I'll be ready for that turn!"
+"That was great! Next time I'll be ready for that turn!"
 
-He gets to his feet and rubs his ribs. The white mark remains unbroken behind him.
+Goku gets to his feet, rubbing his ribs. "Will you do it again? The way you turned when I caught you?"
 
-"Goshin, will you do that again? The way you turned when I caught your arm?"
-
-Goshin holds out his wrist. Goku takes it, and Goshin presses his arm aside with ki and starts to turn.
-
-This time Goku lets go, steps inside the turn and reaches for Goshin's shoulder. Goshin ducks before his hand arrives.
+Goshin offers his wrist. Goku takes it, and Goshin presses his arm aside with ki and begins to turn. This time Goku lets go, steps inside the turn and reaches for his shoulder. Goshin ducks before his hand arrives.
 
 "You saw that coming!" Goku says. "What if I move my foot like this?"
 
@@ -474,7 +426,7 @@ Goshin steps closer. "Did you catch him?"
 
 "After a bunch of tries! Then I found out the water was just water. Chasing Korin was what made me stronger."
 
-"Was he faster than you?" Goshin asks.
+"Was he faster than you?"
 
 "At first. I had to learn how to move better, not just chase harder."
 
@@ -484,7 +436,9 @@ Goku laughs. "We should go and ask him sometime! What about you?"
 
 "Next time I'll be ready for your step."
 
-Goku grins. "Good! I'll be looking forward to it."
+"Good! I'll be looking forward to it."
+
+Gohan has come down from the ledge. He takes Goshin's wrist, tries the turn himself and nearly trips over his own feet. Goshin catches him. Gohan pulls free, laughing, and tries again.
 
 ---
 
@@ -524,11 +478,11 @@ Piccolo tries to stop it. The other two tilt, and the first crashes into the des
 
 The remaining pyramids drop. Stone breaks across the plain, and the crack races toward the distant hills.
 
-Piccolo looks toward the ridge where he last sensed Goku and the boys.
+Piccolo looks toward the ridge where he last sensed Goku and the boys. The crack is racing that way.
 
 "Damn it."
 
-He flies after the tremor.
+He takes off after it. He didn't go to all this trouble just to have the Saiyans find a dead planet.
 
 ---
 
@@ -552,7 +506,7 @@ Gohan steps into the circle. "Is it my turn?"
 
 Goku takes his place opposite him. Gohan sets his feet, his tail moving behind him as he watches Goku's shoulders. When Goku moves, Gohan drops low and reaches around his guard.
 
-Goku turns aside, but Gohan changes direction and catches the edge of his gi. He pulls it toward himself and taps Goku's chest with his other hand.
+Goku turns aside, but Gohan changes direction and catches the edge of his gi. He tries to turn Goku as Goshin did, then reaches up with his free hand and taps Goku's chest.
 
 "I got you!"
 
@@ -627,6 +581,10 @@ Gohan flies up the remaining length of the fissure. The walls close below him, a
 "I made it!"
 
 Goku catches him around the shoulders. "You sure did!"
+
+Gohan presses against him for a moment. "I thought the walls were going to close."
+
+"I was scared of that too," Goku says, holding him close until he lifts his head.
 
 Goshin guides the slab down onto an empty patch of ground. Chi-Chi comes to Gohan, checks his face and straightens his hat.
 
@@ -814,17 +772,21 @@ Goku leans over his shoulder. "Was there anything at the bottom?"
 
 "Sand," C-6 says. "A great deal of it."
 
-Goku laughs. Goshin stands beside him, looking at the drawing. Goku notices and turns.
-
-"What do you think, Goshin?"
-
-"Can we show Mina the stair when we return her book?"
+Goku laughs. Goshin stands beside him, looking at the drawing. "Can we show Mina the stair when we return her book?"
 
 "Yeah! We'll take the drawing too."
 
-C-6's eye moves back to Gohan. "Now read the next page. I want to hear what else they got wrong."
+"If Mina has a book about bridges, I'd like to see what the builders got wrong there," C-6 says.
 
-Gohan turns the page.
+"I'll ask her!"
+
+C-6's eye moves back to the open book. "Now read the next page. I want to hear what else they got wrong."
+
+Gohan turns the page. Goku leans closer.
+
+"Does anything happen after the sand?"
+
+"You can find out with the rest of us," C-6 says.
 
 ---
 
@@ -834,18 +796,16 @@ A leaf lies beneath a stone in the yard. Beyond it, the round piece of firewood 
 
 The wind lifts the leaf's tip. This time it pulls free and slides across the ground.
 
-**NARRATOR:** Tien and Chiaotzu have chosen to train for the Saiyans' arrival. Goku and his sons continue their own training, but King Kai's answer has not yet come.
-
----
-
-## Preview
-
-*An aircar crosses the mountains. At Capsule Corporation, Gohan turns another page while Goku looks toward the window.*
-
-**NARRATOR:** Can Tien and Chiaotzu reach Kami's training, and what will Gohan try when he gets another turn against his father?
+> **NEXT TIME — Gohan asks for another turn, and Goku seeks an answer about King Kai.**
 
 <!--
 ## Footer
+
+**6 November 2026 — Dragon Ball-feel revision from the opening, unaccepted.** The complete chapter, Chapter Twelve ending, Chapter Fourteen handoff, episode-twelve coverage and retained caption were reviewed. The father–son ring match now gives the fighters clearer tactical choices and a playful, competitive relationship; Goshin gains strength during the clash that remains after the wave and earns the existing ring-out. This is a particular shown gain, not a fixed rate, cap or claim that every exchange must produce one. Gohan learns by watching, initiates his own interrupted match and independently flies out of Piccolo's accidental fissure. Chi-Chi protects and directs; Tien, Chiaotzu and Launch retain their separate choices, and C-6 controls his inspection and asks about the bridge book that follows in Chapter Fourteen. The scouter stays unpowered and King Kai's answer remains unresolved. Goku is alive; the family fight and rescue are authored branch staging. The complete retained episode-twelve caption was reread, including its preview, ending and unrelated tail; origin and cut are unverified. Toei's short synopsis, captions, older secondary reports and isolated stills are not a complete video/audio review. The immediate predecessor is byte-preserved in the [verified pre-correction project and accepted-original snapshot](../canon/ARCHIVE_INDEX.md#backup-042), Chapter Thirteen member SHA-256 `32f863f17babdfdfc4b2c91a758c26b0d0f825d39a479cacaf4c1614083a13af`, ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. Earlier footer entries remain historical; this revision is not reader acceptance.
+
+
+
+**5 November 2026 — continuing emotional revision, unaccepted.** Goshin asks his father directly for the match, celebrates his earned win, and both Gohan's initiative and fear after the fissure remain visible. Goku is a proud, genuinely engaged opponent, and C-6 keeps his voice and control of his care. The existing wave clash, Goshin's adaptation and decisive ring-out, Gohan's independent flight, Piccolo's accidental quake, Tien and Chiaotzu's recruitment and the unresolved King Kai inquiry remain. The preceding file is byte-preserved with Chapter Fourteen in the [verified local backup](../canon/ARCHIVE_INDEX.md#backup-055). The entire retained episode-12 caption was reread with Toei's short synopsis and existing secondary comparison; origin/cut and complete audiovisual review remain unverified. The family fight and rescue are authored branch staging, not source footage.
 ```
 ANIME BASE: Dragon Ball Z episode 12.
 EVIDENCE: Local Japanese episode-12 captions, with original provenance and exact cut unverified; secondary accounts as identified in the coverage record. Captions and selected stills do not establish full video or all silent action.

@@ -11,6 +11,22 @@
       "limit": "The clip supports contextual attribution to Gohan but does not establish when canon Gohan first learned or mastered the technique. The divergent Gohan learns on-page in Chapter 19 (O142); Goshin learned by observing Goku and practised it (O088 O177)."
     },
     {
+      "technique": "Sokidan / Spirit Ball (繰気弾)",
+      "holder": "Yamcha in the original episode-17 source and selected Chapter 18 branch",
+      "grade": "named call in the retained local Japanese spoken caption; authored branch choreography",
+      "evidence": "C202 W-30 O139",
+      "condition": "At about 15:03 in the retained episode-17 caption Yamcha calls 繰気弾 during the fight. The selected branch has him redirect a luminous ball in Lookout practice and name his guided Sokidan during the seven-person mind-travel experience.",
+      "limit": "The exact branch path, opponent response and seven-person encounter are authored. Captions do not establish all silent choreography or full video/audio; the mental exercise is not an independent measurement of physical output, range or a maximum."
+    },
+    {
+      "technique": "Galick Gun / ギャリック砲",
+      "holder": "Vegeta in the original Saiyan arc and the selected Chapter 25 branch",
+      "grade": "official original-Z episode synopsis and official manga-based technique profile; selected unverified-origin caption cues",
+      "evidence": "C294 W-119 W-120 W-30 O195",
+      "condition": "Toei's episode-31 synopsis reports Vegeta using a full-force Galick Gun against Goku and Earth; the manga-based profile describes condensed ki fired from the palms in a distinctive stance. The selected branch shows Vegeta committing all the power he can muster after Goshin's growth and Nappa's defeat, and the brothers responding with their established Kamehamehas.",
+      "limit": "The original Goku encounter and the authored brothers' response are different circumstances. Neither establishes a numerical branch maximum, fixed multiplier, obligatory charge duration, universal outcome, or rule that either brother could not stop it alone."
+    },
+    {
       "technique": "Makankosappo / Special Beam Cannon",
       "holder": "Piccolo",
       "grade": "captioned Raditz-fight readings; official manga-based technique account",
@@ -148,6 +164,31 @@
       "grade": "later original-Z redistributed captions; official TV synopses",
       "evidence": "Dragon_Ball_Z_108.srt, 115.srt and 116.srt; Toei Z episodes 108 and 116; C276 C281 W-30 W-114",
       "condition": "A dimension/technique discussed as Garlic Jr.'s earlier prison is reopened during his later attack; he himself ends up there after the team targets the Makyo Star. The source does not fix every version's access, complete visuals or an inevitable branch repetition."
+    },
+    {
+      "technique": "Power Ball",
+      "holder": "Vegeta in the Saiyan-arc source and selected Chapter 26 candidate",
+      "grade": "captioned original-Z dialogue and separate official manga-based character profile",
+      "evidence": "C148 C295 W-30 W-119 W-123 O197",
+      "condition": "The episode-31 captions describe an artificial moon produced using a Power Ball and atmospheric oxygen; Goku notices Vegeta's ki decrease. The manga-based profile separately names the technique. In the branch Vegeta creates it despite the boys' tails and then looks at it.",
+      "limit": "The natural moon is intact in this branch; no exact present phase, universal immunity to attacks, fixed Goshin multiplier or compulsory loss of control is established.",
+      "chapter_27_branch_note": "In unaccepted Chapter 27 Gohan strikes and destroys the artificial light; Goshin and Vegeta revert. This particular consequence is authored branch staging, not footage verified in this pass (O202)."
+    },
+    {
+      "technique": "Taiyo-Ken / Solar Flare",
+      "holder": "Tien, among other individually established users",
+      "grade": "official manga-based technique compendium and original-Z episode-32 TV synopsis",
+      "evidence": "C296 W-121 W-123 O198",
+      "condition": "The official compendium describes Tien's blinding flash from the earlier tournament; the separate episode-32 synopsis describes Goku using it. In the selected branch Tien uses it to create a moment for Krillin.",
+      "limit": "A particular opponent may block, turn away or recover; the maneuver is not a universal duration or guaranteed victory."
+    },
+    {
+      "technique": "Kienzan / Destructo Disc",
+      "holder": "Krillin and separately demonstrated users",
+      "grade": "direct retained original-Z episode-27 captions; official game/manga commentary",
+      "evidence": "C296 W-30 W-122 O198",
+      "condition": "The episode-27 captions name Krillin's 気円斬 and have Vegeta warn Nappa to dodge. The separate commentary notes that a cutting disc can threaten a stronger foe. In the selected branch Krillin aims at giant Vegeta's tail; Vegeta hears and evades it, and it cuts a ridge.",
+      "limit": "A miss does not make the technique harmless, and promotional phrasing is not proof it cuts every conceivable target. No new power reading is supplied."
     }
   ],
   "holder_lanes": [
@@ -214,7 +255,8 @@
       "technique": "Ordinary ki blasts and controlled use",
       "holder": "Goshin",
       "evidence": "O074 O077 O078",
-      "condition": "Uses attacks against Raditz and breaks the pod hatch after waking. His output rises above the island snapshot without an exact new personal reading."
+      "condition": "Uses attacks against Raditz and breaks the pod hatch after waking. The authored scouter reads Goshin at 640 on the beach, 760 in the later crater fight and 1,100 after his blast drives Raditz into the ridge; these are situational snapshots, not maxima or a fixed rate.",
+      "previous_condition_before_complete_local_review_2026_11_06": "Uses attacks against Raditz and breaks the pod hatch after waking. His output rises above the island snapshot without an exact new personal reading."
     }
   ],
   "not_yet_demonstrated": [],
@@ -317,7 +359,8 @@
     "mental_room_experience": {
       "state": "Goshin protects Chiaotzu, holds four large wall pieces while flying and firing his retained Kamehameha, and assists the group. This happens in a mind-travel experience; his physical body remains at the Lookout.",
       "evidence": "O138 O139; Chapter 18, The Opening",
-      "limit": "Not an independent physical measurement, proven maximum, actual opponent death or new named adaptation."
+      "limit": "Not an independent physical measurement, proven maximum, actual opponent death or new named adaptation.",
+      "experienced_group_reading": "A fighter's scouter displays 2,840 combined for all seven within the mind-travel experience; this is not an independent physical scan or an individual reading."
     },
     "gohan_practice": {
       "state": "Practises tracking Krillin using sound and a change in ki and applies situational warning and a ki push in the mental-room exercise. His independent flight was already shown in Chapters 13, 14 and 17; no exact sensing range is established.",
@@ -457,8 +500,9 @@
       "previous_state_before_canon_time_gap_correction_2026_11_03": "Reviews Bubbles, Gregory and a controlled Kaiō-ken turn; learns to gather, control and throw a small Genki-dama at a test brick, under King Kai’s single-use, last-resort instruction.",
       "previous_limit_before_canon_time_gap_correction_2026_11_03": "Not a proven large-scale attack, exact multiplier, defeat or automatic future use."
     },
-    "growth": "Previous chamber, life and combat gains remain the foundation; neither sibling is assigned a new scan, transformation, numeric maximum or formal Adaptation rank.",
-    "previous_status_before_holistic_correction_2026_11_03": "new unaccepted continuation; Chapter 20 is the accepted checkpoint, and Chapters 19, 21–23 have not been accepted"
+    "growth": "Previous chamber, life and combat gains remain the foundation. No scouter reading occurs during the easy Piccolo spar; after the landing Vegeta scans two unidentified distant signals at 9,200 and 12,400. He identifies them with Gohan and Goshin in Chapter 24. These are situational snapshots, not maxima. No fresh permanent gain from the easy spar, new form or formal Adaptation rank is established; subsequent genuine growth remains possible.",
+    "previous_status_before_holistic_correction_2026_11_03": "new unaccepted continuation; Chapter 20 is the accepted checkpoint, and Chapters 19, 21–23 have not been accepted",
+    "previous_growth_before_complete_local_review_2026_11_06": "Previous chamber, life and combat gains remain the foundation; neither sibling is assigned a new scan, transformation, numeric maximum or formal Adaptation rank."
   },
   "previous_canon_before_complete_canon_audit_2026_11_04": [],
   "canon_baseline_scope": "A bounded cross-version reference for techniques and transformations relevant to the selected chapters or stated future rules, not a complete franchise catalogue. Each source and its branch use must remain separate; later canon possession is not automatic present branch knowledge.",
@@ -486,10 +530,49 @@
     }
   },
   "review_branch_through_chapter_25": {
-    "Goshin": "Uses his earlier mastered flight, ki redirection and close combat against Vegeta. Vegeta reads 16,300, then 19,400 as Goshin releases further previously built reserves; Vegeta then removes the scouter. Goshin later feels real strength and ki development in the sustained exchange and adjusts his response to Vegeta’s attack. No new named technique, numeric gain, formal level, form, forced trigger or demonstrated maximum.",
-    "Gohan": "Uses independent flight, sensing, ki redirection, physical fighting and his learned Kamehameha against Nappa; knocks him unconscious without killing him. Later redirects a separate Vegeta blast away from the other fighters and joins Goshin. Earlier 9,200 and charged 11,600 remain snapshots, not ceilings or every current strike.",
-    "Yamcha, Krillin, Piccolo, Tien and Chiaotzu": "The five act against the remaining Saibaimen; Yamcha directs the ki ball he practised in Chapter 18 to remove a grappling creature before it self-destructs away from him. No previously unshown special form or power reading is assigned.",
+    "Goshin": "Uses his earlier mastered flight, ki redirection, Kamehameha and close combat against Vegeta. Vegeta reads 16,300, then 19,400 as Goshin releases further previously built reserves; Vegeta then removes the scouter. Goshin later feels real strength and ki development in the sustained exchange and intercepts Vegeta's Galick Gun with his Kamehameha before Gohan independently joins him. No new named technique for Goshin, numeric gain, formal level, form, forced trigger or demonstrated maximum.",
+    "Gohan": "Uses independent flight, sensing, ki redirection, physical fighting and his learned Kamehameha against Nappa; knocks him unconscious without killing him. Later he joins Goshin's Kamehameha against Vegeta's Galick Gun and follows his brother into the continuing fight. Earlier 9,200 and charged 11,600 remain snapshots, not ceilings or every current strike.",
+    "Yamcha, Krillin, Piccolo, Tien and Chiaotzu": "The five act against the remaining Saibaimen; Yamcha directs the ki ball he practised in Chapter 18 to remove a grappling creature before it self-destructs away from him. Later they get clear of the Galick Gun's path and protect Nappa from falling debris. No previously unshown special form or power reading is assigned.",
     "Nappa": "Uses physical attacks, ki blasts, ground explosions and a mouth-fired blast in this authored encounter; the official manga-based source reports the shock-wave and mouth-blast techniques (C293). This does not impose source outcomes or a precise numerical attack strength.",
-    "limit": "All events belong to an unaccepted candidate. No fighter’s measured maximum, fixed power growth rate, universal resistance, Kaiō-ken for either boy or Vegeta defeat is established."
+    "limit": "All events belong to an unaccepted candidate. No fighter’s measured maximum, fixed power growth rate, universal resistance, Kaiō-ken for either boy or Vegeta defeat is established.",
+    "Vegeta": "After Nappa's defeat and Goshin's real growth, Vegeta chooses a full-commitment Galick Gun aimed at the boy and Earth, temporarily placing pride and eliminating the threat above the Dragon Ball wish. He cuts off the attack and evades when the brothers drive it back; he remains active. The technique's source support and branch-specific limits are recorded under Galick Gun (C294, O195)."
+  },
+  "review_branch_through_chapter_26": {
+    "Goshin": "Retains his prior flight, close combat and non-contact ki while protecting the others. After choosing to look at Vegeta's artificial moon, his first Great Ape is conscious and controlled immediately; he senses friends, controls footing and tail, catches transformed Vegeta and directs falling blocks clear. His body responds to his first form and its new power, and his strength continues developing. His ordinary clothing and shoes tear. He remains transformed at this earlier unaccepted endpoint; there is no assigned multiplier, new scan, involuntary fear or separate normal-sized ape mode shown (O197 O199 O214).",
+    "Gohan": "Avoids the moon, acts independently to protect friends and Nappa, uses his Kamehameha against the ball when guided by Piccolo, and later redirects Vegeta's aim. He chooses to stay with the others and does not transform in this chapter (O196 O198).",
+    "Vegeta": "After the Galick Gun and continued two-on-one fight, creates a Power Ball despite its ki cost, taking both boys' tails into account and wrongly expecting them to lose control. He transforms consciously, intercepts Gohan's shot toward the artificial moon and remains active in giant form (C295 O197).",
+    "Tien and Krillin": "Tien uses Solar Flare and Krillin throws a Destructo Disc; Vegeta evades the tail strike. The disc cuts the ridge and Piccolo and Gohan prevent debris hitting the gully (C296 O198).",
+    "limit": "All events are an unaccepted candidate. No fixed Goshin form multiplier, measured maximum, automatic Gohan control, certain Power Ball destructibility, later golden/divine form or final Vegeta outcome is established."
+  },
+  "review_branch_through_chapter_27": {
+    "status": "Unaccepted local continuation; the separately preserved pre-correction Chapter 20 alone remains accepted.",
+    "Goshin": "While conscious in his giant body, fights physically, directs falling stone with ki and uses his learned Kamehameha to turn Vegeta’s mouth-fired blast away from Chi-Chi. The first transformation is itself a real new adaptive experience; together with Saiyan development and the sustained fight it contributes substantial unnumbered physical and ki growth that remains in his ordinary body after reversion. Piccolo senses his ki is much greater than before the transformation. He ultimately knocks Vegeta unconscious after further resistance (O201 O203 O214).",
+    "Gohan": "Independently diverts falling stone, strikes the giant prince, and aims his learned Kamehameha at the Power Ball with Piccolo directing while Goshin keeps Vegeta off the firing line. Its destruction and the reversion of both fighters are authored (O202). He remains untransformed, acts again against the ordinary-sized prince and helps guard Nappa.",
+    "Vegeta": "Uses the giant body, a mouth-fired blast, thrown stone, tail targeting, a dust screen and renewed physical attacks. His earlier Galick Gun is named in his threat. He is defeated but breathing; no pod summoning or long-term custody is shown (O201 O203).",
+    "resources": "Krillin removes Nappa’s scouter and retains it in an outside pocket; Piccolo places Vegeta’s scouter out of the prince’s reach. No controls are touched or reliable transmission state established. Krillin retains the whole Senzu (O203).",
+    "limit": "The specific Power Ball destruction and both reversions are branch staging, not original-video proof. No fixed Goshin multiplier, new scouter number, exact maximum, universal growth trigger, automatic Gohan control, separate on-demand ordinary-sized ape mode, golden form or god ki is asserted. Real form-experience growth already strengthens the normal body; a future distinct application is not prohibited or assigned a mandatory delay."
+  },
+  "review_branch_through_chapter_28": {
+    "status": "Unaccepted local continuation; the separately preserved pre-correction Chapter 20 remains accepted.",
+    "Goshin": "Uses the substantial real physical and ki gain retained from fighting and his first Great Ape experience to restrain awake injured Vegeta, then eases his pressure after the stone cracks. He and Gohan recognize the heightened ki; Goshin tells Goku he is much stronger. No scouter is operated (O210 O213 O214).",
+    "Gohan": "Remains independently capable and untransformed, shields Nappa and seeks safe medical care while recognizing Goshin’s growth (O209 O210 O214).",
+    "limit": "No exact numerical gain, fixed multiplier, separate named normal-sized Great Ape mode, mandatory delay or automatic future battle outcome is established."
+  },
+  "review_branch_through_chapter_29": {
+    "status": "Local unaccepted Chapter 29; the separately preserved pre-correction Chapter 20 remains the accepted original.",
+    "goshin": {
+      "state": "In his ordinary body after the first controlled Great Ape and Saiyan battle, Goshin proposes and physically lifts a large broken stair section while separately using ki to hold fractured wall material until workers set braces. He feels substantially stronger in body and ki than before the first transformation; his power is real retained growth, not just control. He retains his tail, old shirt and trousers and remains barefoot.",
+      "evidence": "O214 O216; selected Chapter 29",
+      "limit": "A visible chosen rescue, not a measured maximum, fixed transformation multiplier, new named form or proof of an added growth spurt from lifting the stairs. His sore side and shoulder are briefly examined but not diagnosed or declared healed."
+    },
+    "gohan": {
+      "state": "Independently proposes a rear-window route, speaks to the trapped woman, and uses established flight to carry her to safety; he also chooses to accompany Piccolo to ask Kami when they can leave.",
+      "evidence": "O216 O219; selected Chapter 29",
+      "limit": "Independent initiative and physical flight are not a numerical maximum or required source voyage; he remains tailed and untransformed."
+    },
+    "equipment_and_guard": {
+      "state": "Bulma removes one found cell from each captured scouter, separates all four wrapped pieces and takes the case to the car. Krillin retains the whole Senzu; the two hostile Saiyans remain injured and under temporary guard.",
+      "limit": "No active scouter reading, proof about hidden power or past transmission, safe permanent custody, use of a pod, bean consumption or fixed Saiyan outcome is established."
+    }
   }
 }

@@ -18,7 +18,7 @@ The updated checker also excludes the stray `<!--` opener immediately before a h
 - [Chapter 6](../chapters/Chapter_06_The_Brothers_Attack.md), [Chapter 7](../chapters/Chapter_07_The_Sky_Between_Them.md), [Chapter 8](../chapters/Chapter_08_The_Dinosaur_by_the_River.md) and [Chapter 9](../chapters/Chapter_09_The_Bridge_Under_the_Moon.md) contain the prose revisions, and all their previous quoted dialogue remains in order.
 - Chapters 10–14 retain their exact story prose and add only source-card footers. Chapter 15 retains its exact prose and adds only a witness line.
 - Chapters 1–5 and 16–19 were not changed in this repair.
-- The [pre-correction snapshot](../../Research/The%20Twin/Chapter%20Research/Checker%20corrections/Pre-correction%20chapters%2006%E2%80%9315%20%282026-11-03%29.zip) retains all ten exact previous chapter files, their SHA-256 manifest, and the previous checker and fixtures. Archive SHA-256: `f8346efefb3c0b20c2905b35ba23db5675b1cdb6aeb93107be60cd98457b4506`. The archive was read back and verified; it is a local safety copy, not a Drive or GitHub sync.
+- The [pre-correction snapshot](ARCHIVE_INDEX.md#backup-027) retains all ten exact previous chapter files, their SHA-256 manifest, and the previous checker and fixtures. Archive SHA-256: `f8346efefb3c0b20c2905b35ba23db5675b1cdb6aeb93107be60cd98457b4506`. The archive was read back and verified; it is a local safety copy, not a Drive or GitHub sync.
 - Source coverage updates record the new authored extensions; the prior episode inventories and visual/provenance limits have not been promoted to full-video verification.
 
 ## Review boundary

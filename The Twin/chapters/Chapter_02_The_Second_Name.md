@@ -4,181 +4,231 @@
 
 ## Across the Sea
 
-The mountains fall away behind Nimbus. Ahead, the land gives way to a sweep of blue so broad that Goshin cannot find the other side.
+The mountains fall away behind Nimbus. Ahead, water stretches to the horizon, blue upon blue, with no far shore in sight.
 
-"Is that all water?" he asks.
+"Is that *all* water?" Goshin asks.
 
-"That's the sea," Goku says. He sits near the front of the cloud with the sack of rice tucked beside him. "Master Roshi lives on an island out there."
+"That's the sea," Goku says. The sack of rice for Master Roshi rests between his feet. "His house is on an island out there."
 
-Gohan leans around his father's arm. The wind pushes at his red cap, and he catches it before it can lift from his head. Below them, a line of foam curls around dark rocks. Then even the rocks are gone, and the only shadows on the water are clouds.
+Gohan grips the brim of his cap as the wind tries to lift it. Below, waves break white over the last dark rocks. The open water reminds him of the river, and he takes hold of Goku's sash.
 
-A shoal of silver fish leaps beside Nimbus. Goshin drops to his knees at the edge, laughing as the fish flash in the sun and vanish again. Gohan stretches out on his stomach to watch them.
+Goku reaches back. "You okay?"
 
-"Did you see how many?"
+Gohan nods. The river had carried him wherever it pleased; up here, Nimbus follows his father's smallest movement. He loosens his grip as silver shapes burst out of the sea beside them.
 
-"I saw the big one," Goshin says. "It jumped higher than the others."
+"Fish!" Goshin drops to his knees at the edge. A whole school skims over the water, flashing in the sun before it disappears beneath the waves.
 
-"Think we could catch one?" Goku asks.
+Gohan lies on his stomach to see. "They can fly?"
 
-Both boys turn to him at once.
+"Those ones can," Goku says. "Bet they'd taste good, too."
 
-"After we visit," he adds. "Your mother would be mad if we were late because we stopped to fish."
+Both boys turn to him.
 
-Goshin looks down again. On the mountain, the river has banks and a bottom he can sometimes see. This water seems to keep going forever. White-tipped waves hurry past beneath them, and the air tastes of salt.
+"Can we catch one?" Goshin asks.
 
-A speck appears ahead. It grows into a patch of sand with a few palm trees and a small pink house under a red roof. **KAME HOUSE** is written on the front. There is barely room for the house and trees before the island gives way to the sea again.
+"After we visit. Your mother'll be mad if we stop to fish and show up late."
 
-"Is that the whole island?" Gohan asks.
+"We could be quick," Goshin suggests.
 
-"That's it."
+"That's what I always tell her."
 
-"But where do they put the garden?"
+Another fish leaps high enough to pass beside them. Goshin reaches for it, but it twists out of his grasp and splashes back into the water. Gohan peers after it until the rings disappear.
 
-Goku considers the palms and the strip of sand. "Guess they don't have one."
+"Do you think they can see us from down there?"
 
-Goshin cranes around to see the other side as Nimbus circles. A low wave curls up the shore and leaves a fringe of white foam. Beyond it the sea turns from clear green to deep blue, with sunlight flickering over shapes beneath the surface.
+"Maybe," Goku says. "Bet we look funny from underneath."
 
-"That's where I trained with Master Roshi and Krillin," Goku says. "I haven't seen them in a while."
+Far behind the cloud, the stranger's scouter tracks the moving signal. **334** shines on the lens beside its position over the sea. The mark changes direction, and he adjusts his course without slowing.
 
-Voices carry from the open window as Nimbus dips toward the beach. Goku steps down with the rice. Goshin hops off after him and lands with both feet in the sand. The ground gives way; he windmills his arms, takes a second step and falls backward in a soft spray.
+"Trying to run, Kakarot? You won't get away."
 
-Gohan climbs off more carefully, using his father's hand. He looks at his brother lying flat on the beach.
+He leans forward and accelerates.
 
-"Does it hurt?"
+Ahead of Nimbus, Goshin has given up looking for the far shore. He looks straight down instead, where the sunlight reaches through the green water and picks out a broad shape moving below the waves.
 
-Goshin runs his fingers through the warm grains. "No. It's funny."
+A tiny speck appears on the horizon. It grows into a patch of sand with a handful of palm trees and a pink house under a red roof. **KAME HOUSE** is painted across the front. A wave reaches almost to the steps before it slides back again.
 
-He lifts a handful and lets it trickle between his fingers. Gohan crouches beside him. Together they make a small mound and watch it collapse when a wave reaches the edge.
+"That's the whole island?" Gohan asks.
+
+"That's it," Goku says.
+
+"Where's the garden?"
+
+Goku considers the palms and the narrow beach. "Huh. Guess there isn't one."
+
+"Then what do they eat?" Goshin asks.
+
+"Let's find out."
+
+Nimbus circles down. Goku steps onto the sand with the rice. Goshin flings himself after him and lands on his back in a soft spray, leaving a boy-shaped hollow in the beach. He sits up and runs a hand through the warm grains.
+
+"It doesn't hurt!"
+
+Gohan climbs off more carefully and crouches beside him. Together they heap sand into a little mountain. A wave arrives, eats one side and leaves a crab scuttling away from the wreckage.
 
 "We live on a mountain," Gohan says.
 
 "We live on the wrong mountain," Goshin replies.
 
-Goku laughs. "Come on. You can play out here after you meet everyone."
+Goku laughs. "Come on. You can play after you've met everybody."
 
-He offers Goshin a hand. Goshin takes it, then shakes sand out of one shoe while Gohan brushes it off his sleeve. A louder burst of conversation comes from the house, followed by a voice calling for someone to put the sweets down.
+The boys brush themselves off. From the open window comes a burst of voices, followed by someone protesting that the sweets are for everyone.
 
 ## Old Friends, New Faces
 
-Inside, three people are gathered around the table. A box of steamed manju sits open between them, its paper lid pushed aside.
+Inside, Master Roshi reaches for a box of steamed manju. Bulma moves it out of his way.
 
-Bulma, a young woman with bright blue hair and a sharp, expressive face, moves the box away from the elderly man reaching for it. Master Roshi's bald head shines above his dark sunglasses; a thick white beard spreads over his brightly patterned shirt. His walking staff rests against the wall. Across the table sits Krillin, short and athletic, with six small dots on his bald forehead and a grin that disappears whenever Roshi reaches for the sweets again.
+"Those are a present for everybody, not just you."
 
-"Those are for everybody," Bulma says.
+"I'm part of everybody," Roshi says.
 
-"I am part of everybody."
+Roshi's bald head shines above his sunglasses, and a white beard spreads over his brightly patterned shirt. Across the table, Krillin accepts a manju before Bulma can move the box again. He is short and athletic, with six dots on his forehead and a grin that grows when Roshi notices.
 
-"You've had three."
+"He's already had three," Bulma says.
 
-"Four," Krillin corrects, accepting one himself.
+"Four," Krillin corrects, taking a bite.
 
-Bulma sits down with another manju. Roshi peers around her toward the door. "Where's Yamcha?"
+Roshi leans toward Bulma. "What I'd really like for a present is a little feel of your chest."
 
-Her expression closes. "I didn't tell him about today."
+The lid of the box cracks against his head. A manju tumbles out, and Krillin catches it before it hits the table.
 
-"You didn't?"
+"Still the same old pervert!" Bulma snaps.
 
-"We had a fight, and I was angry. He can find something else to do." She takes a bite, then adds, "Don't look at me like that."
+Roshi rubs the spot. "You still can't take a joke."
 
-Krillin lifts both hands. "I didn't say anything."
+"You still can't keep your hands to yourself."
 
-"You were going to."
+Krillin swallows his manju. "Where's Yamcha?"
 
-"Where's Launch?" Roshi asks before Krillin can answer.
+"Don't ask me about that idiot." Bulma folds her arms. "We had a fight, so I didn't tell him we were all meeting. Let's enjoy ourselves without him."
 
-"She went off after Tien five years ago," Krillin says. "I haven't seen her since."
+"You two do fight a lot," Roshi says.
 
-Before Bulma can answer, a cheerful voice calls from the doorway.
+"Really? I hadn't noticed." She turns to Krillin. "What about Launch?"
 
-"Hey! Everybody's here!"
+"She went after Tien about five years ago. I haven't seen her since."
 
-Roshi turns so quickly his sunglasses slip down his nose. Krillin is on his feet before Goku has finished stepping inside. The Turtle School emblem stands out on Goku's orange training clothes, above the blue sash at his waist.
+A cheerful voice calls from the doorway. "Hey! Everybody's here!"
+
+Roshi turns so fast his sunglasses slip down his nose. Krillin jumps to his feet.
 
 "Goku!"
 
-They clap each other on the shoulders. Krillin takes a step back to look at him, still smiling, while Bulma comes around the table.
+They clap each other on the shoulders. Krillin steps back to get a better look at him.
 
-"You took your time," she says. Then she notices the two small figures behind him. "And who are these?"
+"You took your time. I was starting to think Roshi would eat everything before you got here."
 
-Gohan has tucked himself partly behind Goku's leg. Goshin stands alongside him, peering past the adults at the house and the strange blue-haired woman.
+Goku lifts the sack of rice as if presenting a prize. Krillin takes it and leans it against the wall before Roshi can ask whether there's any more food inside.
 
-"They're my kids," Goku says. "Both of 'em."
+"He still might," Bulma says. She comes around the table to greet Goku, who is still grinning. Then she notices the two small boys behind his legs.
 
-For a moment nobody speaks. Roshi's mouth falls open. Krillin looks from Goku to the boys and back again.
+"Who are they? Don't tell me you've started babysitting."
 
-"Two. You had two of them. And nobody thought to write."
+"Nah. They're mine."
+
+Roshi's mouth falls open. Krillin looks at Goku, then at the boys, then back at Goku.
+
+"Yours?"
+
+"Both of 'em."
+
+"Two." Bulma stares. "You had two of them. And nobody thought to write."
 
 "I was gonna bring 'em to meet you."
 
 "You've had four years!"
 
-Goku scratches the back of his head. "Has it been that long?"
+Bulma points from Goku to the two boys, as if counting again might produce an explanation. Krillin is still staring at their father.
 
-Gohan stays close enough to feel the rough orange cloth of his father's outfit against his cheek. The strangers are smiling, but there are several of them, all looking at him. Beside him, Goshin takes in the crowded little room and the open box on the table. He nudges Gohan and points at the sweets; Gohan's grip on Goku's leg loosens.
+Goku scratches his head. "Has it been that long?"
 
-Gohan tugs his sleeve. Goku crouches. "Go on. Say hello."
+Gohan retreats half a step behind him. Goshin is curious about Bulma's blue hair, Roshi's beard and the enormous box of sweets, but everyone is staring at them.
 
-"Hello," Gohan says. He bows a little, gripping the brim of his cap. "I'm Son Gohan."
+He spots a corner of Gohan's cap poking out on the other side of Goku's leg. His brother is holding it down with both hands. Goshin leans close enough to whisper.
 
-Roshi's surprise softens. "Gohan? You named him after your grandfather."
+"I'll say hello too."
 
-"Yeah." Goku smiles at his son. "I did."
+Goku crouches between them. "Go on."
 
-"And I'm Goshin," the other boy says. His tail curls behind his ankle as he looks up at Bulma.
+Gohan takes a breath, steps out and bows. "Hello. I'm Son Gohan."
 
-She crouches in front of him. Up close, the resemblance is unmistakable: the same unruly spikes as Goku and almost the same face, scaled down to a child's. Then Goshin raises his eyebrows at her, and she sees Chi-Chi in his eyes.
+Roshi's surprise softens. "Gohan? You gave him your grandfather's name."
 
-"You look just like your father," she tells him. "Except for those eyes. Those are your mother's."
+"Yeah," Goku says, smiling. "I did."
 
-Goshin touches the corner of one eye. "Really?"
+"Your great-grandfather was my pupil," Roshi tells the boys. "He was a fine martial artist."
 
-"Really."
+"You knew him too?" Gohan asks.
 
-Gohan leans closer to inspect him. "I can see it."
+"Long before your father did."
 
-"Can you see yours?" Goshin asks. He reaches toward Gohan's face, and Gohan dodges, laughing.
+Goshin studies the white beard. "That must have been a really long time ago."
 
-"How old are you?" Bulma asks them.
+"Not *that* long," Roshi says, while Krillin struggles to hide a grin.
 
-"Four," Gohan says, holding up the fingers carefully. "Both of us."
+Gohan's shyness gives way to interest. Roshi knew Grandpa too; that means there are more stories to hear, if only he can think which question to ask first.
 
-"And so polite!" She glances at Goku. "Chi-Chi's doing, I assume?"
+"I'm Goshin," the other boy says. He bows too, then straightens and asks Bulma, "Is your hair really blue?"
+
+"Of course it is. What colour did you think it was?" She crouches in front of him and studies his face. "You look just like your father. Except for the eyes. Those are Chi-Chi's."
+
+Goshin touches the corner of one eye. Gohan leans in to inspect the other.
+
+"I can see it."
+
+"Can you see yours?" Goshin reaches for him, and Gohan ducks away laughing.
+
+"How old are you two?" Bulma asks.
+
+"Four." Gohan holds up four fingers. "Both of us."
+
+"And so polite! Chi-Chi's doing, I suppose?"
 
 "She has a few opinions about manners," Goku says.
 
-"A few?" Krillin asks.
+"A few?" Krillin repeats.
 
 "A whole lot," Goshin says, and the adults laugh.
 
-Bulma ruffles Gohan's hair, careful not to knock off his cap. "I knew your father when he wasn't much taller than you. He had a tail then too, and he didn't know the first thing about the world outside his mountain."
+Bulma ruffles Gohan's hair, taking care of his cap. "I knew your father when he wasn't much taller than you. He had a tail too, and he didn't know a thing about the world outside his mountain."
 
-"Did you show him?" Gohan asks.
+"The first time we met, he threw my car."
 
-"Someone had to. We travelled together looking for the Dragon Balls."
+Both boys stare at Goku.
 
-Goku grins. "And got into all kinds of trouble."
+"It hit me first," he explains.
 
-"You got *me* into trouble. There's a difference."
+"I was still in it!" Bulma says.
 
-Krillin takes the sack of rice and sets it against the wall where nobody will trip over it. Roshi finds extra cups, Bulma clears places at the table, and Goku claims a manju before she can stop him. The boys are offered one each. Gohan thanks her; Goshin bites into his, pauses at the sweet filling and takes another enthusiastic bite.
+"You didn't get hurt."
 
-A large sea turtle makes his way around the end of the table. His shell is round and ridged, and his deliberate steps leave shallow tracks in the sand that has found its way indoors.
+"That wasn't the point!"
 
-Goshin crouches. "Hello. Do you live here too?"
+Krillin laughs into his sleeve. Gohan looks between them. "Did you show Father the world?"
 
-"I do," Turtle says. "I spend a good deal of time in the sea, though."
+"Some of it. We travelled together looking for the Dragon Balls."
+
+Gohan touches the ball on his hat. It had travelled across the world with his father and Bulma. Goshin, meanwhile, is trying to picture someone throwing a car with a person still inside it.
+
+"And got into all kinds of trouble," Goku says.
+
+"*You* got *me* into trouble. There's a difference."
+
+Roshi finds extra cups, Bulma clears places at the table, and Goku claims a manju before she can stop him. The boys each get one. Gohan thanks her; Goshin bites into his and stops to examine the sweet filling before finishing it in two more bites.
+
+A large sea turtle makes his way around the table. His shell is round and ridged, and his feet leave slow tracks in the sand that has blown inside.
+
+"Hello," Goshin says, crouching. "Do you live here too?"
+
+"I do," Turtle says. "Though I spend a good deal of time in the sea."
 
 "All that water?"
 
 "Quite a lot of it."
 
-Goshin rests a hand on the edge of his shell. Gohan finishes chewing and kneels beside him, studying the pattern of plates across Turtle's back.
+Gohan kneels beside his brother and asks if he can touch the shell. Turtle agrees. Gohan traces a ridge with one finger, following it around a dark patch worn smooth by the sea.
 
-"May I touch it?"
-
-"Go ahead."
-
-Gohan traces a ridge with one finger. "Do you swim all the way to the bottom?"
+"Do you swim all the way to the bottom?"
 
 "In some places. The sea is very deep in others."
 
@@ -186,31 +236,71 @@ Gohan traces a ridge with one finger. "Do you swim all the way to the bottom?"
 
 "Much deeper. There are mountains beneath it, and creatures that never come up to the sunlight."
 
-The boys stare at him. Outside the open window, an ordinary wave breaks on the sand.
+"Mountains under the sea?" Goshin turns toward the window as if he might be able to see them.
 
-"Are any of them as big as a cat?" Gohan asks.
+"Could we stand on one?" Gohan asks.
+
+"Only if you can hold your breath for a very long time."
+
+"Don't go trying it," Krillin says quickly.
+
+"I'm not going to," Gohan says. "I just wanted to know."
+
+"Are any of the creatures as big as a cat?"
 
 "Some are bigger than this house."
 
-Goshin presses both hands to the shell. "We have to tell Mother."
+The boys both turn toward the window. Beyond it, the sea is as flat and harmless-looking as it was when they arrived.
 
-Roshi watches the boys over his cup. "What do you want to be when you grow up, Gohan? A fighter like your father?"
+Goshin glances at the little pink walls. "We have to tell Mother."
 
-Gohan looks up. "A great scholar."
+Roshi watches them over his cup. "What do you want to be when you grow up, Gohan? A fighter like your father?"
+
+"A great scholar."
 
 "A scholar!"
 
-"There are lots of things I want to learn about."
+Gohan pats Turtle's shell. "There are lots of things I want to learn about. The bottom of the sea, for one."
 
-"Chi-Chi says it's the age of studying," Goku explains. "She doesn't want me training them for fights when the world's peaceful."
+Krillin's gaze drops to the tail curling behind Goshin. Gohan has one too.
 
-Krillin looks at the boys, then at Goku. "But are they strong? Like you were?"
+"Goku... they both have tails."
 
-"They've got plenty of strength. They just haven't had much training yet."
+"Yeah. Like I used to."
 
-Goshin looks from Goku to Krillin. "Did you train with Father?"
+Roshi and Krillin exchange a look. Krillin lowers his voice. "Has anything unusual happened to them? On a night when the moon is full?"
 
-"We did everything together," Krillin says. "Carried milk, ploughed fields, got chased by things with teeth—"
+"A full moon?" Goku thinks. "Dunno. We all go to bed early."
+
+"That's fine!" Roshi says at once. "Nothing to worry about."
+
+Roshi has stopped halfway through reaching for another manju. Krillin exchanges another glance with him before both men make an effort to smile.
+
+Goshin looks at Gohan, who looks at his own tail. Neither of them has any idea why Roshi sounds so relieved.
+
+Krillin clears his throat. "Are they strong, like you were, Goku?"
+
+"They've got plenty of strength. They haven't had much training, though. Chi-Chi says the world's peaceful now, so it's time to study instead of fight."
+
+"What a waste," Krillin says.
+
+"That's what I said!"
+
+"She used to be quite a fighter herself," Roshi remarks, smiling into his cup. "And now she's an education-minded mother."
+
+"She can still split wood with her hand," Goshin says. "She showed me today."
+
+"She did?" Goku asks.
+
+Goshin remembers the chips flying safely away from the washing, and his mother's expression when she caught him looking impressed.
+
+"And she knows where to aim," he adds. "So she doesn't hit the washing."
+
+Bulma puts down her cup before she spills it laughing.
+
+Goshin turns to Krillin. "Did you train with Father?"
+
+"Sure did. We carried milk, ploughed fields, got chased by things with teeth—"
 
 "That was training?" Gohan asks.
 
@@ -218,111 +308,115 @@ Goshin looks from Goku to Krillin. "Did you train with Father?"
 
 Roshi clears his throat. "And it worked, didn't it?"
 
-Goshin laughs, but Krillin's gaze has dropped to the tail moving behind him. Gohan's curls out from under his clothes too.
-
-"Goku," Krillin says carefully, "they both have tails."
-
-"Yeah. Like I used to."
-
-Roshi and Krillin exchange a look. Krillin lowers his voice. "Has anything unusual ever happened to them? Say, on a night when the moon is full?"
-
-"A full moon?" Goku thinks. "Dunno. We all go to bed early."
-
-"That's fine!" Roshi says at once. "Nothing to worry about."
-
-Goshin looks at Gohan. Gohan looks at his own tail. Neither adult explains why the question made Roshi sit so straight.
-
 ## The Beach
 
-Turtle carries the boys toward the water, Gohan holding the front of his shell and Goshin behind him. The beach is warm under Turtle's feet. A crab emerges from beside a palm root and scuttles after them, its claws raised.
+Turtle carries the boys outside, Gohan holding the front of his shell and Goshin sitting behind him. The beach is warm beneath Turtle's feet. A crab emerges from beside a palm root and scuttles after them, waving both claws.
 
 "Don't go too far!" Goku calls.
 
 "We won't," Gohan answers.
 
-The crab comes close enough to inspect. Gohan leans over the shell and makes a fist. "Rock, paper, scissors!"
+The crab comes closer. Gohan makes a fist. "Rock, paper, scissors!"
 
-The crab opens a claw. Gohan laughs. "Rock beats scissors. I win!"
+The crab opens a claw. Gohan beams. "Rock beats scissors. I win!"
 
-A spray of bubbles hits him in the face. He sputters, wiping his eyes, while Goshin laughs so hard he nearly slides off the shell.
+The crab waves its other claw at him. Gohan leans closer over the shell, certain it wants another round.
 
-"My turn," Goshin says. He holds out a flat hand. The crab raises its claw again.
+A stream of bubbles hits him in the face. He sputters, wiping his eyes, while Goshin laughs so hard he nearly slides off Turtle's shell.
 
-"Scissors beats paper," Gohan tells him.
+"My turn." Goshin holds out a flat hand. The crab raises its claw again.
+
+"Scissors beats paper," Gohan says.
 
 "I know."
 
-More bubbles fly. Goshin tries to catch one in his palm, but it bursts. Gohan reaches for the next; the crab darts around Turtle's neck and disappears behind him.
+The crab blows more bubbles. Goshin tries to catch one in his palm; it bursts, leaving nothing but a wet spot. The crab darts around Turtle's neck and disappears behind him.
 
-"Come back!" Gohan calls. Turtle turns slowly, giving them both a chance to look, but the crab is already making for the water.
+"Come back!" Gohan calls.
 
-Bulma has followed them outside, and Goku joins her on the beach. Sunlight catches the orange ball on Gohan's cap as he watches the little creature go.
+Turtle turns slowly, giving the boys a chance to look, but the crab has already made it to the water. Bulma follows them outside, with Goku at her heels. Sunlight flashes through the orange ball on Gohan's cap.
 
 "Wait a minute. Is that a Dragon Ball?"
 
-Gohan puts a hand over the cap. "The Four-Star Ball. It was Grandpa Gohan's."
+Gohan puts a hand on his hat. "The Four-Star Ball. It was Grandpa Gohan's."
 
-"I went looking for it again," Goku says. "Wanted him to have it. Found the Three-Star and the Six-Star while I was at it. They're at our house."
+"I went looking for it again," Goku says. "Wanted him to have it. I found the Three-Star and Six-Star too. They're back at the house."
 
-Bulma turns to him. "You have two Dragon Balls just sitting in your house?"
+"You have two Dragon Balls just sitting in your house?"
 
-"Well, three if you count that one."
+"Three, if you count that one."
 
-She reaches up, and Gohan tips the hat so she can see the stars through the glass. Her expression changes as she studies it. "It's been a long time. We used to go all over the world looking for these."
+Bulma reaches up, and Gohan tips the hat so she can see the stars. "It's been so long," she says. "We used to go all over the world looking for these."
 
 "Are you going to make a wish?" she asks Goku.
 
-"I don't reckon I've got one."
+"Don't reckon I've got one."
+
+Bulma waits, plainly expecting him to think of something. Out by the water, Turtle has stopped so the boys can watch their crab disappear beneath the next wave.
 
 "Not even one?"
 
-Goku looks at the boys on Turtle's shell, then out at the sea. "I'm doing all right."
+Goku glances at the boys on Turtle's shell, then out across the bright water. "I'm doing all right."
 
-Goshin slides down to the beach. He finds a flat stone in the wet sand and throws it toward the water. It skips once and sinks.
+Goshin slides down and picks up a flat stone from the wet sand. He gives it a quick sideways throw. It hits the water edge-first with a crack, throwing a spray that reaches Turtle's nose.
 
-Krillin walks down beside him. "Not bad. Watch this."
+Turtle blinks. "A little warning next time."
 
-His stone skips twice. Gohan scrambles off Turtle and finds one of his own, but it lands close to shore and splashes his shoes.
+"It went far, though," Goshin says.
 
-"It's supposed to go across the top," he says, frowning at the ripples.
+Krillin comes down to the shore. "You're supposed to make it skip. Watch."
 
-Goku crouches beside him and turns the stone in his hand. "Try holding it flatter. Like this."
+He turns a flat stone between his fingers and sends it low over the water. It bounces twice before sinking. Goshin chooses another and copies the angle. This one skips three times.
 
-Gohan throws again. The stone touches the surface, skips and sinks. He throws both arms up. "It did it!"
+"Hey!" Krillin says. "Beginner's luck."
 
-Goshin watches the way Goku plants his foot, then tries it himself. His next stone skips twice, sending little rings across the water. Gohan brings him another, and they both throw while Turtle turns back toward the house.
+Gohan slides off Turtle and finds a stone of his own. It plops into the shallows and splashes his shoes.
 
-Goku picks up a stone of his own. He sends it spinning low over the sea. It bounces again and again until even Krillin loses sight of it.
+"Mine didn't do it."
+
+Goku crouches beside him. "Hold it flatter. And let it go close to the water."
+
+Gohan tries again. The stone touches the surface, skips once and sinks. He throws both arms up.
+
+"I did it!"
+
+Goshin offers him another flat stone from the little pile he has gathered. Gohan inspects its edge, holds it low and sends it skimming twice across the water.
+
+"Now watch your father," Krillin says.
+
+Goshin and Gohan crowd together at the water's edge. Krillin steps back to give Goku room, holding one hand over his eyes against the glare.
+
+Goku picks up a stone. He sends it spinning low over the waves. It bounces again and again, until even Krillin loses sight of it.
 
 "You're as strong as ever," Krillin says.
 
-Roshi steps out of the doorway, fan in hand. "I wondered whether settling down had made you take it easy."
+Roshi steps into the doorway, fan in hand. "I wondered whether having a family had made you take it easy."
 
-"I still train," Goku says. He bends for another stone, then stops.
+"I still train." Goku bends for another stone, then stops.
 
-Krillin sees the change in his face. "What is it?"
+Krillin sees his expression change. "What is it?"
 
-Goku straightens slowly. The smile has gone.
-
-"Something's coming."
+Goku straightens. "Something's coming."
 
 ## The Man from the Sky
 
-Bulma pauses in the doorway. "Yamcha?"
+Bulma pauses beside Roshi. "Yamcha?"
 
 "No." Krillin turns toward the horizon. "I feel it too."
 
-Roshi's fan stops. A fly taps against the window behind him. Gohan has another stone ready to throw, but he lowers his hand when he sees the adults watching the sky. Goshin stands beside him, facing the same direction.
+Goku's stone is still in his hand. The pressure coming toward the island is far greater than anything he expected on a visit to his old teacher.
 
-At first there is nothing to see. Then a distant point tears across the blue, coming so fast that the line behind it hangs in the air like a seam. A boom reaches the island. Palm fronds snap backward, and sand skitters across the beach.
+Roshi's fan stops. A fly taps against the window behind him. Gohan has another stone ready, but he lowers his hand when he sees the adults watching the sky. Goshin comes to stand beside him.
 
-A man hangs above the water. He is tall, broad through the shoulders, with a great mane of black hair falling behind brown and black armour. A green lens covers one eye. As he descends, the furry length wrapped around his waist becomes visible against the dark suit beneath his armour.
+At first there is nothing to see. The surf hisses at their feet. Then a distant point tears across the blue so fast that a line hangs in the air behind it. A boom reaches the island. Palm fronds snap backward, and sand skitters across the beach.
 
-Gohan steps back. Goshin stays close to him while Bulma comes down from the doorway.
+Roshi takes one step out of the doorway. His fan hangs forgotten at his side. Whatever is approaching is powerful enough that even Goku has stopped smiling.
 
-The stranger lands facing Goku. His boots press two deep marks into the sand. The lens chirps as he studies the orange-clad man in front of him.
+A man hangs above the water. He is tall and broad, with an enormous mane of black hair falling down the back of his brown and black armour. A green lens covers one eye. As he descends, the furry length wrapped around his waist becomes visible against his dark suit.
 
-His hair is black like Goku's, but its enormous spikes sweep down his back rather than jutting up around his head. Above the green lens, a sharply pointed hairline frames a face that does not soften when the boys look at him. Goshin has never seen armour like his, or a person arrive without a cloud.
+Goshin has never seen armour like it, or a person arrive without a cloud. Gohan steps back. Bulma comes down from the doorway and stands near both boys.
+
+The stranger lands facing Goku. His boots press deep marks into the sand. The lens chirps as he studies him; **334** flashes across it.
 
 "Kakarot."
 
@@ -332,111 +426,141 @@ Goku frowns. "What?"
 
 "Kakarot?" Bulma repeats.
 
-The stranger's gaze passes over the house and the people gathered around it. "This planet is still full of life. You were sent here to wipe out its inhabitants. What have you been doing?"
+The stranger surveys the house and the people outside it. "This planet is still full of life. You were sent here to wipe out its inhabitants. What have you been doing?"
 
-Goku moves half a step in front of the boys. "You've got the wrong guy. My name's Goku."
+Goku drops the stone and moves in front of the boys. "You've got the wrong guy. My name's Goku."
 
-Krillin crosses the sand, raising a hand as if to shoo the stranger away. "Look, I don't know who you are, but you can't go around bothering people. Are you drunk in the middle of the day?"
+Raditz remains where he landed. He hasn't raised a fist, but Goku can feel the power beneath the man's stillness, and the space between them suddenly seems much too small.
+
+Krillin circles a little to the side, away from the boys, and waves a hand as if to shoo the stranger away. "Look, I don't know who you are, but you can't go around bothering people. Are you drunk in the middle of the day?"
 
 "Krillin, stay back!" Goku calls.
 
-The stranger's tail uncoils from his waist. It snaps across Krillin before he can move. The blow lifts him off his feet and hurls him backward into the house. Boards burst inward around him, and the wall shakes. A cup falls from the table inside and breaks.
+The stranger's tail uncoils from his waist and lashes across Krillin. The blow hurls him backward into the house. Boards burst inward; the wall shakes, and a cup falls from the table and breaks.
 
-"Krillin!" Bulma cries.
+"Krillin!" Bulma catches Gohan's arm and takes Goshin's hand as Goku steps between them and the stranger. Roshi snatches up his staff and hurries to the broken wall. Beside the doorway, a palm frond is still shivering from the force of the stranger's arrival.
 
-She pulls Gohan back by the arm and reaches for Goshin. Goku has already put himself between the stranger and the house. Roshi hurries to the broken wall, where Krillin lies among splintered boards, stunned but breathing. Krillin coughs as Roshi pulls a length of timber off his legs. A jagged hole opens into the little room where they were laughing together moments before.
+Krillin lies among the splinters, stunned but breathing. He coughs as Roshi pulls a length of timber off his legs.
 
 "Can you move?" Roshi asks.
 
-Krillin bends one knee and winces. "Yeah. I think so."
+"Yeah. I think so."
 
-Gohan strains toward him, but Bulma keeps the boys behind her. Goshin can see Krillin's orange clothes through the broken boards and the sand scattered over the floor. The friendly man who showed them the sweets is struggling to sit up.
+The table inside is visible through the broken wall. One of the cups is rolling in a little circle on the floor, close to Krillin's hand.
 
-Krillin pushes himself onto one elbow. "He's got a tail," he says, staring at the stranger. "Like you used to."
+Goshin starts toward him. The man who showed him how to skip stones is trying to sit up, but the stranger is still between the house and the boys.
 
-The stranger lets the tail curl behind him. "So you finally see it. Kakarot, did you suffer a serious injury to your head when you were young?"
+"He needs help," Gohan says, tugging against Bulma's hand.
 
-Goku keeps his eyes on him. "Why?"
+"Master Roshi's with him." She draws both boys back a step. "Stay here."
+
+Goshin stays beside Gohan, watching as Roshi checks Krillin for injuries.
+
+Krillin props himself on an elbow. "He's got a tail," he says. "Like you used to, Goku."
+
+The stranger lets his tail curl behind him. "So you finally see it. Kakarot, did you suffer a serious injury to your head when you were young?"
+
+"Why?"
 
 "Answer me."
 
-Goku reaches behind his head. His fingers find the old scar beneath his hair. "Yeah. I don't remember it, but I hit my head when I was real little."
+Goku reaches behind his head and finds the old scar beneath his hair. "Yeah. I don't remember it, but I hit my head when I was real little."
 
 "That explains it."
 
-Roshi straightens beside the damaged wall. His face is grave behind the sunglasses. "Your grandfather told me about that, Goku. About how he found you."
+"Explains what?"
+
+Roshi straightens beside the broken wall. "Your grandfather told me about that, Goku. About how he found you."
 
 ## A Story from Long Ago
 
-Roshi's voice carries across the beach. He tells them of a deep mountain valley and a strange round object that had fallen from the sky. When Grandpa Gohan opened it, he found a baby inside: a baby with a tail.
+Roshi tells them of a deep mountain valley and a strange round object that had fallen from the sky. When Grandpa Gohan opened it, he found a baby inside: a baby with a tail.
 
-Gohan looks up at his father. Goku says nothing, listening.
+"He took you home, but you were a difficult child. You wouldn't settle down, and you fought him at every turn. Then you fell into the valley and struck your head. You nearly died."
 
-"Your grandfather took you home," Roshi continues. "You were a difficult child at first. He could hardly put you down without you crying or trying to get away. Then you fell into the valley and struck your head. You nearly died."
+Gohan takes off his cap and holds it against his chest. He knows stories about the grandfather whose name he carries. He has never heard this one.
 
-Goku can picture the old house in the mountains and the man who raised him. He remembers Grandpa Gohan's hands correcting his stance, a voice telling him not to give up, meals shared at a little table. The story of the baby in the pod belongs to a time before any of those memories.
+The ball on the cap catches the sun. A few minutes ago Bulma was laughing about the trip she and Goku had taken to find the Dragon Balls; now nobody is laughing.
 
-"Your grandfather stayed with you," Roshi says. "After you recovered, your temper was gone. You became the boy he raised."
+"Your grandfather cared for you," Roshi continues. "After you recovered, your temper was gone. You became the boy he raised."
 
-Goku touches the scar once more. "So that was me."
+Goku remembers Grandpa Gohan's old house, the meals at his table, the hands that corrected his stance. The story of the baby belongs to a time before any of that.
 
-"It was," Roshi says.
+"So that was me," he says.
 
-The younger Gohan holds his cap against his chest. He has heard stories about the grandfather whose name he carries, but he has never heard this one. Goku meets his eyes and gives him a small nod before turning back to the stranger.
+"It was."
 
-Bulma looks between Goku and the stranger. "What does that have to do with him?"
+Bulma looks from Goku to the stranger. "What's that got to do with him?"
 
-The stranger folds his arms. "Kakarot was not born on this planet. You were born on Planet Vegeta. You are a Saiyan, a member of the strongest warrior race in the universe."
+Gohan puts his cap back on. Without taking his eyes off the man, Goku calls, "Krillin, you okay?"
 
-The unfamiliar word hangs in the air. The stranger's expression hardens as he looks directly at Goku.
+Krillin braces himself against the wall. "Yeah. But be careful, Goku. There's something wrong about this guy."
+
+"I know." Goku's voice is low. "Just standing in front of him... honestly, I'm scared, Krillin. I've never felt anything like this before."
+
+That morning Gohan had called from the river, and his father had come. He'd never thought about Father being afraid too. Yet Goku doesn't step away from the stranger.
+
+The man folds his arms. "You were not born on this planet, Kakarot. You were born on Planet Vegeta. You are a Saiyan, one of the strongest warriors in the universe."
+
+The word is unfamiliar to everyone on the beach. Goku glances at the tail around the stranger's waist, then at the faces of the friends who have known him since he was a boy.
 
 "And I am your older brother, Raditz."
 
 "His *brother*?" Bulma says.
 
-Krillin gets to his feet with one hand against the broken wall. "That's ridiculous. Why would Goku have been sent here if he's from another planet?"
+Krillin gets to his feet, holding the wall. "That's ridiculous. If Goku came from another planet, why would anyone send him here?"
 
-"To destroy its people," Raditz replies. "We seek out worlds worth selling. When the inhabitants are weak, we send an infant. Given time, even a child can clear a planet like this."
+"To destroy its people," Raditz says. "We find worlds worth selling and remove their inhabitants. On a weak planet like this, even an infant can do the job."
 
-He speaks of armoured warriors descending on another world in round pods. His account conjures a city beneath an unfamiliar sky: machines crashing through its streets, people scattering between tall buildings, fighters stepping out of the craters. By the time the pods rise again, smoke hides the roofs below. Raditz describes it as work completed, a world emptied for its buyers.
+He describes armoured warriors arriving in round pods, a city under an unfamiliar sky, machines crashing through its streets. People scatter between tall buildings. The pods leave again when the fighting is done, and smoke hangs over a world ready for its buyers.
 
-Gohan presses closer to Bulma. Goshin takes his brother's free hand and keeps his eyes on Raditz.
+Gohan presses closer to Bulma. Goshin takes his brother's free hand without looking away from Raditz.
 
 "You sent a baby off alone to kill everybody?" Krillin says. "If that's true, you're worse than Piccolo."
 
-"Kakarot was meant to prepare this world for us. Instead, he lost his memory and made friends with the people he was supposed to eliminate."
+Raditz doesn't look offended by the comparison. The ruined wall behind Krillin is a much smaller thing than the cities he is describing.
 
-"You talk about people as if they're weeds," Bulma says. Her hand tightens around Gohan's, and she makes herself loosen it when he looks up at her.
+"Kakarot was meant to prepare this world for us. Instead, he made friends with the people he was supposed to eliminate."
+
+"You talk about people as if they're weeds," Bulma says.
 
 "Their planets are valuable. Their lives are not."
 
-Krillin takes an angry step away from the wall, but Roshi puts a hand on his arm. Raditz has barely looked at either of them since knocking him aside.
+Krillin takes a step away from the wall, but Roshi puts a hand on his arm. Raditz has barely looked at either of them since the tail strike.
 
-Goku looks back at Roshi and Krillin, at Bulma holding his sons, then returns his attention to the man in the armour. The people behind him have fought alongside him, fed him, laughed with him. The children are waiting for him to answer.
+Goku faces the stranger. "Whatever I was sent here for, I'm not helping you hurt anybody."
 
-"Whatever I was sent here for, I'm not helping you hurt anybody."
-
-Raditz's scouter gives a small beep. He ignores it.
+The scouter gives a small beep. **400** flashes on the lens, but Raditz doesn't look at it.
 
 "Does the full moon mean nothing to you? When it becomes round, a Saiyan reveals his true power."
 
-Krillin's face tightens. Roshi's fingers close around his staff. The boys have heard the words *full moon* twice now, and neither explanation has made the grown-ups look any happier.
+Krillin stiffens. Roshi's fingers close around his staff. The boys have heard the words *full moon* twice now, and neither explanation has made the adults any happier.
 
-Goku glances at the tail behind Raditz. "I haven't got mine anymore. It came off years ago."
+Goku glances at Raditz's tail. "I haven't got mine anymore. It came off years ago."
 
-"You lost your tail?" Raditz stares at him. "You've thrown away your birthright, and now you live among these creatures."
+"You lost your tail?" Raditz stares. "No wonder you can live among these creatures."
 
-"I grew up here," Goku says. "These are my friends."
+"I grew up here. These are my friends."
 
-He plants his feet in the sand. His voice is level, but the warmth has gone out of it.
+Goku plants his feet in the sand. The easy smile he brought to the island is gone.
 
 "I don't care where I came from, or whether you're my brother. People who do what you just described are the lowest. I'm Son Goku, and I'm telling you to leave."
 
+"That's right," Bulma says. "Leave him alone."
+
+Roshi plants his staff beside him. "Whatever his past, Son Goku is an Earthling. He's one of us."
+
+Krillin steps forward despite his injured leg. "He saved this world. Now get off it."
+
+Goku can sense that Raditz is stronger than anyone he has faced. Even so, Krillin and Roshi are standing up to him, and Bulma is holding her ground beside the boys.
+
 Raditz smiles without amusement. "You may not care about our world, but it is gone. A giant meteor struck Planet Vegeta. Our father and mother died with it. Only four Saiyans remain, including you."
 
-For a moment the only sound is the surf. Raditz delivers the news like a fact from a report; Goku has no memory of the world or the parents he names. He looks at the man claiming to be his brother, searching for something familiar in the hard face beneath all that hair. He finds nothing he can place.
+Goku has no memory of that world or the parents Raditz names. He studies the hard face beneath the long black hair, searching for something familiar. He finds nothing he can place.
 
-Behind him, Gohan's cap has slipped crooked. Goshin reaches across to straighten it, and Gohan catches his hand. Neither takes his eyes off Raditz.
+A brother, a dead planet, another name: all of it has come at him in the space of a few minutes. Behind him, his own children are close enough for him to hear Gohan breathing.
+
+Behind him, Gohan's cap has slipped crooked. Goshin lets go of his brother's hand long enough to straighten it. Gohan catches his hand again.
 
 "The three of us have found a planet worth a great deal," Raditz goes on. "Its people will be difficult to conquer, but with a fourth warrior we can take it. Come with me."
 
@@ -446,74 +570,103 @@ Behind him, Gohan's cap has slipped crooked. Goshin reaches across to straighten
 
 "I'd rather die than help you."
 
+"I'm scared," Gohan whispers.
+
+Bulma bends close enough for him to hear. "Stay with me."
+
 ## The Second Name
 
-The scouter chirps again. This time Raditz turns his head toward the boys.
+The scouter chirps again. This time Raditz looks toward the boys.
 
-Bulma draws Gohan closer. Goshin has edged forward, no longer holding his brother's hand. His fists are tight at his sides. Raditz looks at one small tail, then the other, and touches the device at his ear.
+Goshin would like his father to turn around, but Goku is watching Raditz. He lets go of Gohan and edges forward beside him, his free hand curled into a fist. Raditz's gaze moves from one small tail to the other. He touches the device at his ear.
 
-Figures flash across the green lens.
+Figures flash across the green lens. He is looking directly at Goshin.
 
 "Four hundred."
 
-He looks again, his expression changing from irritation to interest. "Four hundred at this age?"
+His expression changes from irritation to interest. "Four hundred at this age?"
 
 Goku steps across his line of sight. "What are you looking at?"
 
-"Your children." Raditz's gaze stays on Goshin. "They haven't been trained, have they?"
+"Those children behind you. They're yours, aren't they?"
 
-"Leave them alone."
+"They're not mine!" Goku says too quickly.
 
-Raditz walks closer. Goku holds his ground, but the stranger's attention remains fixed beyond him. Goshin feels Bulma's hand brush his shoulder; he does not take his eyes off the armoured man.
+Raditz looks at the two tails. "Do you think I can't see? They haven't even been trained, have they?"
+
+Goku spreads his arms. "Leave them alone."
+
+Raditz walks closer. Goku holds his ground, but the stranger's attention stays fixed beyond him. Bulma tightens her grip on Goshin's hand.
+
+Goshin can see the green lens turning toward him each time his father shifts. He squares his shoulders instead of hiding behind Bulma.
 
 "What is this one's name?" Raditz asks.
 
-"Goshin," Goku says. "His name is Goshin."
+"You don't need to know," Goku says.
 
-Raditz crouches, bringing the green lens level with the boy's face. Up close, his hair casts a dark shadow over the sand, and the white edges of his shoulder guards frame his face like blades.
+Goshin stares at the man in armour. "It's Goshin."
 
-"Kakarot's son should not carry some Earth name."
+Raditz crouches, bringing the green lens level with the boy's face. His long hair falls forward, shadowing the sand.
 
-Goshin looks at his father, then back at Raditz. "It's my name."
+"Kakarot's son should not carry an Earth name," Raditz says. "Your name is Broc."
 
-"No." Raditz rises. "Your name is Broc."
+"No, it isn't."
 
-"You don't get to name me," Goshin says.
+Raditz's eyes narrow.
 
-Raditz's eyes narrow. Goku steps between him and both boys, blocking the scouter's view.
+"It's Goshin," the boy says again. "You don't get to name me."
 
-"I said leave them alone."
+Raditz studies him. Goshin's grip on Bulma's hand tightens, but he keeps his chin up.
 
-For an instant they face each other at arm's length. The tide hisses up the beach behind Raditz. Goku's hands are open, ready; he can feel the force in the stranger and knows Krillin never saw that tail strike coming.
+Goku steps between Raditz and both boys, blocking the scouter's view. "I said leave them alone."
 
-Raditz vanishes from where he stood. Goku sees the movement and starts to turn, but Raditz is already inside his guard. His knee drives into Goku's stomach.
+For an instant they face each other at arm's length. The tide hisses up the beach. Goku's hands are open and ready; he knows Krillin never saw the tail strike coming.
 
-The impact folds Goku around the blow. Air bursts from his lungs; he drops to his knees and falls sideways into the sand. He tries to draw a breath, but his chest locks around the pain.
+Behind him, Bulma draws the boys back toward the house. Raditz's gaze flicks past Goku to follow them. Goku shifts with him, refusing to leave the way clear.
 
-His father pulled him safely from the waterfall only hours ago. Gohan has never seen him fall like that. For a heartbeat he cannot make sense of the orange figure lying still while the stranger stands over him.
+"You're not taking either of them."
+
+Raditz vanishes from where he stood. Goku starts to turn, but Raditz is already inside his guard. His knee drives into Goku's stomach.
+
+Air bursts from Goku's lungs. He drops to his knees and falls sideways into the sand, one hand digging at it as he tries to breathe.
+
+Raditz hasn't even drawn back for another attack. He simply watches Goku struggle, while sand trickles into the impression left by the fallen man's hand.
+
+"Father?" Gohan calls.
+
+Goku had caught him at the waterfall only hours ago. Gohan has never seen him fall like this. He breaks away toward him, but Bulma catches his arm.
 
 "Goku!" Krillin shouts.
 
-Gohan cries out and runs toward his father. Bulma catches his arm before he can reach him. Goku tries to lift his head, one hand digging into the sand, but his body will not obey quickly enough.
-
 Raditz steps toward Gohan.
 
-Goshin pulls free of Bulma's other hand and puts himself in front of his brother. He raises both hands, feet spread in the sand, with Goku down behind him and Raditz approaching from the water's side.
+Goshin pulls free of Bulma's other hand. He wants to reach his father too, but the stranger is moving toward his brother. He plants himself between them, feet spread in the sand, and raises both hands.
+
+Gohan strains against Bulma's grip. Goku is on the ground behind Goshin, Raditz is closing from the water, and there is nowhere left on the little island for the children to go.
 
 ## At Home
 
-On the mountain, Chi-Chi sets three bowls by the door. There will be enough rice when her family returns. She walks to the gate and looks down the empty road.
+On the mountain, Chi-Chi checks the rice she started early. There will be plenty when her family returns. Gohan had been full of questions about a bird at lunch; by supper, she expects, she'll hear about everything on the island as well.
 
-A chicken wanders past the step and stops beside the bowls.
+A chicken pokes its head through the door and eyes the rice pot.
 
-"No," Chi-Chi says.
+"Don't even think about it."
 
-The chicken retreats. She looks toward the sky once more, then goes inside to tend the fire.
+It clucks and retreats. Chi-Chi shuts the lid and turns down the fire.
 
-> **NEXT TIME — Goshin stands between Raditz and Gohan. The island becomes a battlefield, and Goku needs a way to bring both boys home.**
+> **NEXT TIME — While Goku and the boys face danger on the island, Chi-Chi waits at home. Will her family make it back for supper?**
 
 <!--
 ## Footer
+
+**6 November 2026 — cross-chapter handoff review, unaccepted.** Chapter Three follows Chi-Chi at home during the same day; the new next-time preview leads into that household thread rather than skipping ahead to Chapter Four. The island handoff and every prior scene remain unchanged. The exact immediately preceding selected chapter (SHA-256 `c214a9c9ea42f5076c26b2091a379773e1b8a12f28440beaa71b2f14f89af242`) is in the [verified immediate pre-review snapshot](../canon/ARCHIVE_INDEX.md#backup-041); the entire predecessor footer follows. No new source viewing, acceptance, chapter or remote synchronization is implied.
+
+**5 November 2026 — Dragon Ball-feel revision from the opening, unaccepted.** The complete island chapter has been reworked as story: the reunion has sharper character-specific comedy and actual shared history, Gohan and Goshin explore and learn in distinct ways, Goku's fear and refusal retain their source-based sequence, and Raditz's threat lands through visible action and choices. Roshi's inappropriate request to adult Bulma and her immediate rebuff are restored in paraphrase from the retained caption, not treated as acceptable conduct. Goshin states his own name, rejects Raditz's imposed one, and acts at the existing Chapter Four handoff. The authored **334** is also shown during the moving-signal pursuit; the 334 on arrival, unassigned **400** warning and Goshin's later **400** scan remain separate, authored moments rather than source-proven maxima. The twin-specific scene, English dialogue and blocking are authored. The immediate predecessor is byte-preserved in the [verified pre-correction project and accepted-original snapshot](../canon/ARCHIVE_INDEX.md#backup-042), Chapter Two member SHA-256 `fe5149bdff4d75e1584411ee26a23fa072c827c832b2f424ae3d0b85e564b4ed`, ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. Full video/audio, caption origin and cut remain unverified. Revision is not reader acceptance. See [episode-two coverage](../canon/SCENE_COVERAGE_002_003.md); earlier footer entries below are historical where superseded.
+
+
+**5 November 2026 — scouter-reading clarification, unaccepted.** Raditz's scan of Goku now displays authored **334** at the island; a **400** warning flashes without an identified target while Raditz ignores the lens, before the existing **400** scan of Goshin. These are momentary branch snapshots, not source-verified episode-two figures or maxima. The exact emotional-pass Chapters 1–2 immediately before this clarification are in the [verified local ZIP](../canon/ARCHIVE_INDEX.md#backup-049).
+
+**5 November 2026 — emotional-writing and partial original-anime evidence pass, unaccepted.** The complete retained episode-2 Japanese caption text was reread; the short official Toei synopsis and still, the Daizenshuu EX episode comparison, eight small Kanzenshuu guide stills and seven selected fan-gallery images were consulted (`W-30`, `W-43`, `W-128`, `W-129`). Goku's candid fear and his friends' support are grounded in the caption text; the precise English, Gohan's reaction, the twin, all two-child staging and the softened Roshi joke are authored (`C300`). The source captions and stills do not establish voice performances, full timing or continuous motion; no complete episode video or audio was examined. The [preceding Chapter Two](../canon/ARCHIVE_INDEX.md#backup-046) is byte-preserved inside a local ZIP (chapter SHA-256 `e5db44140336d48b8e69656c1a02afec0285ebdfc66d64bd04241987b71fb96c`; ZIP SHA-256 `3db87d7801a6ce14efc867de1335bb81c389dd28b1b53d34538461cb735b99dc`). The revised wording is not reader acceptance or a remote publication.
 
 **4 November 2026 — immersion correction, unaccepted.** The island reunion and Raditz's arrival are substantively rewritten as story. The exact prior selected chapter is byte-preserved in the verified pre-Chapter 25 project handoff. Episode 2 captions, whose origin and cut are unverified, were read; limited official and secondary synopses and selected stills were consulted. The twin, his interactions and the added blocking, dialogue and interiority are authored. This is not a full audiovisual verification.
 
@@ -523,8 +676,8 @@ FORM: EPISODE — rebuilt as a scene-by-scene episode adaptation
 MANGA SUPPORT: continuous Dragon Ball chapters 196–197 (DBZ-retitled chapters 2–3), partial correspondence C243 C244
 NAME-REVEAL: yes — spoken by Raditz in this chapter
 EVIDENCE: I / II / III — caption dialogue is provisional; selected stills and synopses are limited; this branch and staging are authored
-WITNESS: W-30 · W-02 · W-03 · W-04 · W-05 · W-06 · W-08 · W-09 · W-10 · W-11 · W-15; the official episode synopsis and selected secondary stills
-STAGING: authored and declared — the twin, Goshin's reading and second name, their family's choices, reactions and newly expanded blocking and dialogue; O003 O005 O006 O007 O008 O010 O011 O016 O017 O082
+WITNESS: W-30 · W-02 · W-03 · W-04 · W-05 · W-06 · W-08 · W-09 · W-10 · W-11 · W-15 · W-43 · W-128 · W-129; official synopsis and selected stills as bounded in the coverage
+STAGING: authored and declared — the twin, Goshin's reading and second name, their family's choices, reactions and newly expanded blocking and dialogue; O003 O005 O006 O007 O008 O010 O011 O016 O017 O082 O206; source exchange C300
 ```
 
 **Historical footer below.** It describes earlier versions and superseded wording; it does not certify this rewrite or its staging. Those versions remain preserved.
@@ -532,7 +685,7 @@ STAGING: authored and declared — the twin, Goshin's reading and second name, t
 
 **4 November 2026 — canon and continuity audit, for review.** The card now distinguishes continuous manga numbering and the reported printing-age difference. Raditz names Planet Vegeta during his first Saiyan explanation and names it again in his later meteor account, matching the two caption cues; his account remains his limited claim, not later-established final history. Krillin's position now follows his earlier movement beside Roshi. His moon and tail-noticing lines are contextual chapter attributions to an unlabelled caption. Goku's 'So that's me' responds to Roshi's infant account before the full Saiyan explanation; it does not prove immediate acceptance of all of it (`C031`, `C042`, `C074`). The pre-audit candidate is preserved in the complete-canon-audit snapshot. The revision is not acceptance. (`C043`, `C243`, `C244`)
 
-**3 November 2026 — appearance correction, for review.** Bulma notices Goshin's established family resemblance (`O003`); this exchange is authored, not a claim about the source episode. The [immediately previous selected version](../../Research/The%20Twin/Chapter%20Research/Characters%20and%20Power/Before%20opening%20appearance%20correction%20%282026-11-03%29.zip) is preserved; acceptance of this addition is not assumed.
+**3 November 2026 — appearance correction, for review.** Bulma notices Goshin's established family resemblance (`O003`); this exchange is authored, not a claim about the source episode. The [immediately previous selected version](../canon/ARCHIVE_INDEX.md#backup-024) is preserved; acceptance of this addition is not assumed.
 
 **1 November 2026 — earlier revision.** With the user's explicit approval, the duplicate arrival is removed; the sweets, crab, stones, childhood and Saiyan-business passages are integrated; the headings and Raditz's explanation are reordered; and section nine ends at the start of the fight. Chapter Four continues that same event and retains Goshin's earned knockout before capture. The old island cat-retelling claim remains a historical footer error: no such island retelling has been invented. Gohan's hat recovery is now shown in Chapter One. The captions' unlabelled speakers and all unverified visual details remain qualified (`C016`, `C033`, `C037`, `C076`, `C162`–`C164`, `C181`).
 

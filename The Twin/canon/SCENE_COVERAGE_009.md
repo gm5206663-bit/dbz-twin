@@ -4,6 +4,8 @@
 
 **Owns: the historical source-order inventory for the rejected older Chapter Ten branch.**
 
+**6 November selected-chapter update:** The [current Chapter Ten](../chapters/Chapter_10_The_Robot_Under_the_Sand.md) has received the unaccepted story-wide feel pass. The doctor permits normal movement with symptom reporting. Gohan accidentally destabilizes the roof while trying to help C-6; Goshin catches a falling stone, both boys and the parents contribute, and C-6 consents to rescue and knowingly spends reserve energy while leaking. His arm is damaged and energy uncertain, and he is awake at the doctor's yard. The roof, C-6's survival and the parents' help are authored branch staging. The older treatment and behavioral/medical assertions below remain historical, not current rules. The complete retained episode-nine SRT and Toei's short synopsis were reread; origin and cut are unverified and neither is complete audiovisual evidence. See the [current correction record](DRAGON_BALL_FEEL_CORRECTION_2026-11-05.md).
+
 **Branch warning:** the treatment and medical restrictions below describe the rejected adult-led draft, not the selected Chapter 10. In the selected review branch the doctor permits normal movement with symptom reporting; the boys encounter C-6 under the riverbank. The recovered [episode-9 candidate plan](../../Research/The%20Twin/Chapter%20Research/Chapter%2010/Episode%20source%20plan.md) and [source coverage](../../Research/The%20Twin/Chapter%20Research/Chapter%2010/Source%20coverage%20and%20continuity.md) document the later candidate; follow the actual selected chapter and `../foundation/TIMELINE.md` where later revisions differ. The source baseline below remains useful historical research, not a current continuity instruction.
 
 **Status:** The initial source inventory and treatment plan were written before Chapter Ten prose. A second caption-by-caption audit after the draft corrected several initial time ranges, a mistaken closing-narration attribution, and the placement of the hunger intercuts; the table below was then reconciled against the completed provisional draft. This is not a frame-by-frame video verification or reader acceptance.
@@ -56,3 +58,6 @@
 - **Robot and ownership:** Gohan's inquiry leads to the bulletin; workers, radio and new tremor are authored. C-6 directs the rescue, agrees to help and chooses shutdown. The extra help gives a different, still uncertain outcome. No silent visual reconstruction is presented as verified episode footage.
 
 A checklist and a green structural test do not establish a complete character, source or editorial review. Chapter Ten and Chapters Four–Nine remain provisional; Chapters One–Three await review of their authorized revisions.
+
+
+**5 November 2026 continuing-pass pointer:** The [current Chapters 3–12 source and branch record](EMOTIONAL_REVISION_003_012_2026-11-05.md) documents the local emotional revision, reread caption limits and pre-pass versions. Where this inventory explicitly labels a treatment column historical, follow the selected manuscript and that newer record rather than the older column.

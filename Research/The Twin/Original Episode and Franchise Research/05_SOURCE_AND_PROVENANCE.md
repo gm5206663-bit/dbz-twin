@@ -1,6 +1,8 @@
 # Source, provenance and preservation ledger
 
-**Audit date:** 1 November 2026. This ledger is outside the sealed story project. It describes what was actually done; where the prior project reported earlier work, it says so rather than presenting it as a new viewing.
+**Audit date:** 1 November 2026. This ledger is outside the sealed story project. It describes what was actually done in that historical pass; where the prior project reported earlier work, it says so rather than presenting it as a new viewing.
+
+**4 November continuation:** The current index and living research ledger now record full spoken-caption coverage for Z 1–117, 183–184, 205–208 and 256–257: 125 distinct episodes. The continuation independently read every retained cue in 37–117; earlier records supply 1–36 and the separate later blocks. See `The Twin/canon/SOURCE_REVIEW_Z_108_117_2026-11-04.md` and the earlier dated reviews for member hashes, findings and limits. No complete episode video or audio was examined; the SRT source/cut is unverified. Separately, the continuation individually read all 153 short Toei original-*Dragon Ball* episode synopses already in the local cache and rechecked selected live pages; see `The Twin/canon/SOURCE_REVIEW_DB_OFFICIAL_SYNOPSES_001_153_2026-11-04.md`. These are not complete episode viewings or manga chapters. The historical 1 November counts below remain historical rather than competing current coverage claims.
 
 ## 1. What was examined in this pass
 
@@ -16,7 +18,7 @@
 | DAIMA | Read official premise and distributor episode listings; 11–20 individual distributor pages fetched; series lists all 20. | Promotional blurbs/listings only. No episode video reviewed. Distributor states Japanese video availability is Japan-only. |
 | Franchise, manga, films and later material | Read selected official chronology, character profiles, announcements, official episode/film-related pages and independent guides; mapped 21 theatrical films individually. | No complete films or manga series were watched/read in this pass; an issue flag is not proof that a complete film has been compared. |
 
-The earlier project’s `canon/episodes.json` reports indexed SRTs for all 291 Z episodes, full spoken-caption reads for 1–36, 49, 55, 59, 61, 65, 79–83, 183–184, 205–208 and 256–257. Those are **historical project assertions**, not a claim that every one was reread during this pass. The index itself identifies its SRT redistribution through Kitsunekko and says official/broadcast origin is unverified. Scripted searches and on-page coverage do not establish video viewing.
+At the 1 November checkpoint, the earlier project's `canon/episodes.json` reported indexed SRTs for all 291 Z episodes and full spoken-caption reads for 1–36, 49, 55, 59, 61, 65, 79–83, 183–184, 205–208 and 256–257. Those were **historical project assertions**, not a claim that every one was reread during that pass; the index has since been updated to the coverage noted above. Earlier records attributed SRT redistribution to Kitsunekko, but that retrieval trail as well as official/broadcast origin remains unverified. Scripted searches and on-page coverage do not establish video viewing.
 
 ## 2. Where to find the evidence
 
@@ -43,7 +45,7 @@ The earlier project’s `canon/episodes.json` reports indexed SRTs for all 291 Z
 - **Episode 10 dinosaur:** local captions label chewing; independent recaps report that the herbivore is eaten and Gohan sees its remains. The latter is visual, secondary evidence here until footage is checked.
 - **Episode 4 scan:** 1,020 is spoken in the SRT but the caption does not establish the on-screen scouter target; the existing attribution to Piccolo draws on another version. Check anime footage.
 - **Film and anime conflict:** Kanzenshuu’s analysis [2](https://www.kanzenshuu.com/episode/filler-plothole/) explains how *Dead Zone*, early Z introductions and the later Garlic Jr. arc do not fit without qualification. Read/watch the individual works before selecting a remedy.
-- **Future Saiyan/ape designs:** separate project-specific instructions from GT and DAIMA mechanics; reconcile the existing note about being at home in ape form with the separate childhood fear note when the moment matters.
+- **Future Saiyan/ape designs:** separate project-specific instructions from GT and DAIMA mechanics. The former comfort/fear ambiguity is resolved by later author direction: Goshin's first Great Ape is aware and controlled, with no compulsory fear or loss-of-control arc. The actual trigger and future scene remain open; see `O035`, `O046` and `OPEN-3`.
 - **Digital access:** the India streaming listing [4](https://www.justwatch.com/in/tv-show/dragon-ball-z/season-1) lists Crunchyroll and Netflix for Z season 1. Availability and editions can change, and this research pass did not log in, access the streams, or verify any provider’s exact cut. A lawful accessible video or reader-supplied screenshots would permit visual checks where the environment can process them; a platform listing is not a viewing.
 
 ## 5. Selected navigational sources

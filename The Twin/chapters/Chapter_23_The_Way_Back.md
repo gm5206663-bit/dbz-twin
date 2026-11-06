@@ -8,7 +8,7 @@ A page of pencilled days lies beneath a stone on the Lookout bench. A shirt with
 
 **THE WAY BACK**
 
-**NARRATOR:** Gohan and Goshin have spent a year together inside the Room of Spirit and Time. On Earth, roughly a day has passed. Their family is together again, but Goku is still far from home.
+**NARRATOR:** Gohan and Goshin have spent a year together inside the Room of Spirit and Time. On Earth, roughly a day has passed. The brothers are back with Chi-Chi, but Goku is still far from home.
 
 ---
 
@@ -27,8 +27,6 @@ Goshin takes the cut piece of stone from his bag. Chi-Chi turns it in her hands,
 "What made this cut?"
 
 "My wave. On the other side, there's a mark from our first week," Goshin says. "Gohan turned the target around so we could keep using it."
-
-"You kept a piece of that too."
 
 Gohan picks up the shirt from the bag. He holds it against himself, with the sleeves ending above his wrists.
 
@@ -226,7 +224,7 @@ Goku looks down again. "They might get there before I do."
 
 "They might. Your friends must prepare without waiting for you."
 
-"How do I tell them?"
+Goku's hands curl into fists. "Then we have to tell them now! How do I reach them?"
 
 King Kai turns his back. "Put one hand on me and think of someone on Earth. I'll carry your voice."
 
@@ -336,7 +334,7 @@ Out above the clouds, Piccolo raises his hands. "Ready?"
 
 Goshin grins and lifts his guard. Piccolo closes in at once, striking high and then low. Goshin turns both blows aside and slips behind him. Piccolo twists, firing a short burst to cover his turn; Goshin sends it up into the empty sky with his palm.
 
-Piccolo comes after him again, faster than he moved at the clearing. He changes direction twice, trying to catch Goshin between the turns. Goshin follows without losing ground, then lets more of his ki flow and slips inside Piccolo's next turn.
+Piccolo comes after him again, faster than he moved at the clearing. He changes direction twice, trying to catch Goshin between the turns. Goshin follows without losing ground, grinning as Piccolo darts the other way. He lets more of his ki flow and slips inside Piccolo's next turn.
 
 Piccolo thrusts forward. Goshin is already behind him. He lays two fingers against Piccolo's shoulder and takes them away before Piccolo can finish turning.
 
@@ -390,7 +388,7 @@ At Kame House, Roshi holds the receiver against his ear. Oolong waits beside the
 
 "Bulma? Goku contacted me. He's alive and coming home, but the Saiyans are close."
 
-At her laboratory, Bulma pushes a notebook away from the telephone. The machine brought from the coast remains covered on the other side of the room.
+At her laboratory, Bulma pushes a notebook away from the telephone. The machine she brought back from beyond the mountain-house ridge remains covered on the other side of the room.
 
 "How close?"
 
@@ -484,9 +482,11 @@ Kami carries the message. Gohan waits while Kami listens to the answer.
 
 "He says he'll be glad to meet them," Kami says.
 
-Goshin looks toward Kami. "Can he come here now?"
+Goshin's smile falters. He looks toward Kami. "Can he come here now?"
 
 "He must travel back along Snake Way first. I will meet him when he reaches Yemma's office."
+
+"I wanted to show him," Goshin says. Gohan takes his hand.
 
 "How long?" Chi-Chi asks.
 
@@ -498,7 +498,7 @@ On King Kai's planet, Goku keeps his hand on the blue coat and looks toward the 
 
 Kami's hand tightens on his staff. "Goku says he loves you and will get home as quickly as he can."
 
-Chi-Chi looks down at the boys. "Tell him we'll be waiting."
+Chi-Chi looks down at the boys. "Tell him we love him too. And we'll be waiting."
 
 Kami relays the words. When he opens his eyes again, he turns toward the edge of the Lookout.
 
@@ -668,7 +668,9 @@ The man stops. A woman beside him catches his sleeve and pulls him back.
 
 "There are people inside," she says.
 
-Nappa turns his head toward the sound. Vegeta touches the device over one eye. It clicks as he looks across the city.
+"A welcoming party," Nappa says, baring his teeth. Vegeta touches the device over one eye. It clicks as he scans beyond the city; **9,200** and **12,400** flash across the lens.
+
+"Two signals," Vegeta says. "Let's see what they do."
 
 ---
 
@@ -738,12 +740,19 @@ At the bench, the page of days remains beneath the stone. The wind lifts one cor
 
 <!--
 ## Footer
+
+**6 November 2026 — full-manuscript review correction, unaccepted.** The laboratory scene now places the covered machine where Chapter 19 actually found it, beyond the mountain-house ridge, not on the coast. Its identity and condition remain unknown; the scene and later landing keep their outcomes. The exact immediate predecessor (SHA-256 `6a1d1ce52606822ec1df880c870e97a222354dbcea7d6552268707e8728ae94a`) is in the [verified non-private review snapshot](../canon/ARCHIVE_INDEX.md#backup-031); the complete prior footer follows. No new chapter, reader acceptance, full audiovisual source review or remote synchronization is implied.
+
+**6 November 2026 — Dragon Ball-feel revision, unaccepted.** The narrator clarifies that the brothers reunite with Chi-Chi, not that distant Goku is already home. Goku reacts urgently to the missed return time; Goshin enjoys the spar and expresses wanting to show his father, and Nappa's arrival carries more menace. Both brothers still comfortably outclass Piccolo while holding back, then spar together; genuine future combat growth is not forbidden. Goku remains on the road, the civilian outcome and Saiyan battle remain open, and Vegeta's 9,200 and 12,400 are authored unidentified distant scans, not maxima. Full retained episode-21 captions and Toei's synopsis were reread, not full video/audio; caption origin and cut remain unverified. The exact predecessor (SHA-256 `03e5415fc936d55266bd40f9054b69bccc505cf702a616add33f10990fee7685`) is in the [verified 122-member pre-correction archive](../canon/ARCHIVE_INDEX.md#backup-042); the entire prior footer follows. No acceptance or remote synchronization is implied.
+
+**5 November 2026 — continuing emotional revision, unaccepted.** The long-delayed message allows Goshin to feel the distance to his father and Chi-Chi to send her own love. The independent spars, affectionate reunion, family evacuation choices and Goku's incomplete return remain. Vegeta's previously unspecified active device scan now shows the same authored **9,200** and **12,400** distant signals he later checks and identifies in Chapter 24; the momentary displays are not canonical readings or maxima. The exact immediately preceding Chapters 21–23 are in the [verified local ZIP](../canon/ARCHIVE_INDEX.md#backup-059). Episode-21's complete retained captions and official synopsis were reread; original/cut and full audiovisual performance remain unverified. The separate accepted Chapter 20 original remains protected.
+
 ```
 ANIME BASE: ep. 21, remaining source sequence after Chapter 22.
 EVIDENCE: Complete retained Japanese episode-21 spoken captions, original source and cut unverified; Toei's official synopsis and promotional still; eight re-inspected Kanzenshuu guide stills. Selected later episode-155 cues support Goku's remembered childhood visit (`C235`); the guide's East City identification is secondary (`C233`). Dialogue does not establish every silent action. Full episode video and audio were not examined.
 WITNESS: W-30 W-71 W-81; canon/captions/Dragon_Ball_Z_021.srt; canon/SCENE_COVERAGE_021.md; Research/The Twin/Chapter Research/Chapter 23/Episode 21 continuation plan.md.
 STAGING: O155 O163 O164 O165 O166 O167 O168 O169 O170 O171 O172 O173 O174 O175 O179 O181 O188; the family retains custody, Goku is alive, and both boys choose the Piccolo exchanges and their own controlled round. Chi-Chi and Popo plan evacuation away from the fighting while the brothers fly with Piccolo; their success, contacts, civilian responses and timing are authored for the selected branch. The Saiyan landing follows shortly after the completed chamber year. A source resurrection, seven-Ball collection, exact clock and unshown battle outcome are not imported.
-SCALE: After months of direct training Goku quickly retests Bubbles and Gregory and successfully tests a Genki-dama he has already practised; he begins the real return journey rather than appearing on Earth. Both boys comfortably outclass Piccolo in their ordinary post-chamber spars: he removes his weights and uses his speed, while they hold back to avoid hurting him. Gohan shows a stronger controlled wave; Goshin draws on the speed, ki and control he developed during the full year, rather than gaining a fresh permanent power increase from this easy exchange. The brothers then spar each other under control and return breathing easily. Neither their demonstrated pace nor their held-back output establishes a maximum. This scene does not impose any ceiling or rule against genuine rapid growth in other circumstances. No present scouter figure, new transformation, automatic civilian death or Saiyan battle outcome is stated.
+SCALE: After months of direct training Goku quickly retests Bubbles and Gregory and successfully tests a Genki-dama he has already practised; he begins the real return journey rather than appearing on Earth. Both boys comfortably outclass Piccolo in their ordinary post-chamber spars: he removes his weights and uses his speed, while they hold back to avoid hurting him. Gohan shows a stronger controlled wave; Goshin draws on the speed, ki and control he developed during the full year, rather than gaining a fresh permanent power increase from this easy exchange. The brothers then spar each other under control and return breathing easily. Neither their demonstrated pace nor their held-back output establishes a maximum. This scene does not impose any ceiling or rule against genuine rapid growth in other circumstances. The authored **9,200** and **12,400** scouter snapshots appear on two distant signals before Vegeta identifies the brothers in Chapter 24; neither is a maximum. No new transformation, automatic civilian death or Saiyan battle outcome is stated.
 ```
 This is an unaccepted continuation of Chapters 21 and 22; the pre-correction Chapter 20 remains author-accepted, while its selected corrected version awaits review. The source captions, selected stills and mechanical checks do not establish a complete video review or reader acceptance.
 -->

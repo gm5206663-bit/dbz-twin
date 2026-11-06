@@ -1,24 +1,8 @@
 # Chapter Fifteen — The House Beyond the Bend
 
-*Immersion-revised review draft; not yet accepted.*
-
-```
-ANIME BASE: Dragon Ball Z episode 14 — anime-only
-CONTINUATION: provisional power-scale-reviewed Chapter 14
-POV: Goshin close third; canon characters observed externally
-EVIDENCE: local Japanese captions, unverified source/cut; secondary guides and selected stills, not complete video
-WITNESS: canon/captions/Dragon_Ball_Z_014.srt; canon/SCENE_COVERAGE_014_REVIEW.md
-STAGING: authored twin-family continuity, living Goku, cleaner, C-6, changed meal and escape
-STATUS: separate candidate, not accepted
-```
+*Revised story draft; not yet accepted.*
 
 A hat rests on a book in the shade. The Four-Star Ball on its crown holds a square of white sky.
-
-**THE HOUSE BEYOND THE BEND**
-
-**NARRATOR:** Goku has gone to find King Kai. On Earth, his family and friends have begun training for the Saiyans' arrival.
-
----
 
 ## The Road
 
@@ -112,6 +96,8 @@ Popo gathers four flat stones from the circle where Goshin left them. He sets th
 
 Eager to begin, Goshin raises one hand. Two stones lift and travel around the edge of the circle. The other two rise between them. One begins to turn; he steadies it and sends both across, while the first pair continue their different paths.
 
+Goshin sends the first pair looping around Gohan's outstretched hand. Gohan swipes at one; it slips between his fingers, and both boys laugh.
+
 Gohan follows one with his finger until it passes behind the other. Then he loses it.
 
 "Which one was that?"
@@ -154,7 +140,11 @@ Goshin takes hold of the loose end of the wrapping cloth. He winds it once aroun
 
 "I will."
 
-Goshin looks up at her. She puts her hand on the bench beside his, and they watch the sky for another moment.
+Goshin looks up at her. She takes his hand.
+
+"I wish he'd hurry," he says.
+
+"So do I."
 
 A stone skids across the tiles and stops against Krillin's foot. Gohan runs after it.
 
@@ -178,7 +168,7 @@ The gate opens. A rush of air pulls at Goku's clothes, drawing him across the th
 
 An attendant in a bright robe bows beside him. "Our mistress has been expecting you. Please come in."
 
-"She knows King Kai?"
+"Is your mistress King Kai?"
 
 "Come in," the attendant says again, stepping aside.
 
@@ -188,15 +178,19 @@ Princess Snake sits at the far end of a polished room, attended by kneeling serv
 
 "Welcome. You must be tired after such a journey."
 
-"I've come to see King Kai," Goku says. "Is he here?"
+"Are you King Kai?" Goku asks. "I've come to train!"
 
 Princess Snake takes his hand. "First, you must tell me your name."
 
-"Goku. Can you show me where he is?"
+"Goku. Can you train me?"
 
-"There is time for that."
+"There is time for that. Stay with us a little while, and you won't have to think about anything at all."
 
-"Princess," one attendant says, "this is the first time you've looked at a visitor like that since King Yemma."
+"But I'm trying to think about training!"
+
+Princess Snake's smile wavers. An attendant leans toward her.
+
+"Princess, this is the first time you've looked at a visitor like that since King Yemma."
 
 "King Yemma came here?" Goku asks. "He sent me along this road!"
 
@@ -236,7 +230,11 @@ Goku rubs his stomach. "I'm still full, but thanks. I can ask King Kai to train 
 
 Princess Snake keeps one hand on his sleeve. "Then you must be especially careful to arrive in good condition. Come and sit down."
 
-Goku looks at the tables being carried into the room, then at the door. He allows her to lead him to a cushion.
+Goku looks at the tables being carried into the room, then at the door. One attendant sets down a platter almost as wide as he is.
+
+"What a shame," he says to his stomach. "You had to be full today."
+
+Princess Snake leads him to a cushion before he can get to the door.
 
 ---
 
@@ -356,69 +354,57 @@ Gohan's stone reaches Krillin at last. Krillin closes his hands around it before
 
 Gohan runs over. "Can you stand there again?"
 
-"Sure. You want another try?"
-
-Gohan takes the stone, returns to the circle and sets it down. This time he holds out his left hand. Krillin watches that hand, and Gohan steps to the right, sending a small burst from his other palm.
-
-The stone lifts and darts past Krillin's shoulder. It drops near Yamcha, who catches it before it reaches the edge of the platform.
+He takes the stone back to the circle and holds out his left hand. Krillin watches it; Gohan steps right and sends a small burst from his other palm. The stone lifts and darts past Krillin's shoulder. Yamcha catches it before it can reach the edge of the platform.
 
 "You looked the wrong way," Gohan says.
 
 Krillin grins. "You made me. Let's see if it works twice."
 
-Yamcha tosses the stone back to Gohan. Gohan catches it against his chest and carries it to the circle again.
+Yamcha tosses the stone back, and Gohan runs after it.
 
-Chi-Chi steps onto the clear tiles beside Tien. "Would you spar with me?"
+On the clear tiles, Chi-Chi faces Tien. "Would you spar with me? First to two touches?"
 
-Tien bows his head. "Gladly."
+"Gladly," Tien says. He restrains his ki for the match, and they take their places well away from the boys and the bench.
 
-"First to two touches?" Chi-Chi asks.
-
-"Agreed."
-
-Tien keeps his ki restrained for the touch match. They face each other well away from the boys and the bench. Tien comes in with an open hand; Chi-Chi turns it aside and aims a quick kick at his ribs. He blocks, but she has already changed her footing and reaches his shoulder with her palm.
+Tien comes forward with an open hand. Chi-Chi turns it aside and kicks at his ribs. He blocks; she changes her footing and reaches his shoulder before he can close the distance again.
 
 "One," she says.
 
-"You were quicker than I expected."
+Tien touches his shoulder. "Quick."
 
-"I'm not finished."
+"I'm not finished!"
 
-Tien smiles and attacks again. Chi-Chi ducks beneath his arm, pivots and brings her guard up as he turns. Their feet slide across the tiles. Gohan stops to watch them, his stone held against his stomach.
+He comes in again, and this time he watches her feet. Chi-Chi ducks beneath his arm and turns, but Tien pivots with her and taps her shoulder as she raises her guard.
 
-Goshin comes beside him. "How many times have you seen Mother fight?"
+"One each!" Gohan calls. He has stopped beside Goshin, the stone held against his stomach.
 
-"I don't know. Not like this."
+"Have you seen Mother fight like this before?" Goshin asks.
 
-Chi-Chi plants a foot and kicks. Tien gives ground to avoid it. Puar claps from the shade. Yajirobe lifts his head from his sword and watches the next exchange.
+"Not like this."
 
-Tien taps Chi-Chi's shoulder. She steps back, breathing harder.
+Tien reaches again. Chi-Chi starts the same kick as before; when he shifts to block, she plants her foot instead. She slips inside his arm, pushes his wrist past her and touches his shoulder.
 
-"One each!" Gohan calls.
+"Two for Mother!" Goshin shouts.
 
-Tien steps in again and reaches for her other shoulder. Chi-Chi turns inside his arm, pushes his wrist past her and touches his shoulder before he can pull back.
+Puar claps from the shade. Even Yajirobe lifts his head from his sword.
 
-"Two for Mother!" Goshin calls.
-
-Both lower their hands. Tien bows his head.
-
-"Again later?" he asks.
+Chi-Chi steps back, breathing hard and smiling. Tien bows his head. "Again later?"
 
 "You can count on it."
 
-Chi-Chi joins the boys, still smiling from the match.
-
-"You nearly had him with that kick," Goshin says.
+The boys hurry over. "You nearly got him with that kick," Goshin says.
 
 "Next time I will. Did you see where he moved his feet?"
 
-Goshin points to the place on the tiles, and Chi-Chi shows both boys how she might turn around the same move. Gohan then holds up the marked stone.
+Goshin points to a tile, and Chi-Chi shows both boys how she might turn around the same move. Gohan holds up the marked stone.
 
 "I got it past Krillin."
 
-"I saw," she says. "How are you going to do it next time?"
+"I saw. How are you going to do it next time?"
 
 Gohan looks at Krillin, who is waiting by the circle. "I haven't decided yet."
+
+"Then you'd better go find out," Chi-Chi says.
 
 ---
 
@@ -464,7 +450,11 @@ Chi-Chi looks at the empty bowl. "It could be a while before he comes back."
 
 Gohan puts his chopsticks down. "He promised we'd have another match."
 
-"He'll want to hear about the stone," Chi-Chi says. She moves the extra bowl away from the edge of the table, where it will not be knocked off, and leaves it there.
+"And I'm going to show him my Kamehameha," Goshin says. He looks at the empty bowl, then at Chi-Chi. "Do you think he'll be surprised?"
+
+"I think he'll be sorry he missed your mother's match," she says.
+
+Gohan grins. Chi-Chi moves the extra bowl away from the edge of the table and leaves it there.
 
 ---
 
@@ -519,8 +509,6 @@ Goku reaches for the cup. Another attendant calls from the doorway.
 Princess Snake takes the cup from Goku before he can drink. "One last entertainment. Then you may go."
 
 She places the cup back on the tray and leads him into the next room.
-
-*This programme continues after a message.*
 
 ---
 
@@ -604,7 +592,9 @@ Two shapes stand beyond the gate. Their faces will not stay clear in the mirror.
 
 The other reaches the doorway. Chi-Chi kicks the door against its arm and pushes it back. A shelf tilts above her, and Gohan flies up and catches it with both hands before it can fall.
 
-Goku reaches the step. A blast strikes the yard, and the house disappears behind white light.
+Goku rushes for the step. The yard stretches under his feet, keeping the doorway just out of reach. Goshin fires again; Gohan and Chi-Chi turn toward Goku's voice.
+
+A blast strikes the yard, and the house disappears behind white light.
 
 "Chi-Chi! Gohan! Goshin!"
 
@@ -612,7 +602,7 @@ He sits up on the cushion, breath catching in his throat. The mirror is dark aga
 
 "It was a dream."
 
-He presses a hand against the cushion until the room steadies.
+His gaze goes to the doorway, then the window. He presses a hand against the cushion until the room steadies.
 
 Princess Snake stands above him. "You have a wife?"
 
@@ -620,11 +610,13 @@ Princess Snake stands above him. "You have a wife?"
 
 "You were calling for them in your sleep."
 
-Goku gets to his feet, one hand against the wall. "They're on Earth. I have to get stronger and go back."
+Goku gets to his feet, one hand against the wall. "They're on Earth. If those Saiyans get there before I come back..."
+
+He looks at the dark mirror. "That's why I have to get stronger."
 
 Princess Snake takes a step away from him. "After everything I offered you, you would leave me for them?"
 
-"I told you I was going to King Kai."
+"I told you I was going to King Kai. My family's waiting for me too."
 
 The floor shudders. The attendants back toward the walls. Goku steadies himself as the polished boards bend beneath his boots.
 
@@ -672,7 +664,7 @@ Princess Snake rises again, her long body crossing the road behind her. Goku cup
 
 Goku looks at the light, then at her. He closes his palms and lets it go.
 
-"I don't want to blow you up. I just want to get past."
+"You gave me a bath! I don't want to blow you up. I just want to get past."
 
 He flies past her head and back over one of her coils. She turns after him. He cuts through the gap between two loops, and she follows, pulling the outer coil across the inner one.
 
@@ -756,7 +748,9 @@ His wave strikes the nearest stone. It breaks apart in the open air. Goshin cuts
 
 He brings the fragments back to the tiles and lowers them beside Popo. Then he flies out again.
 
-The remaining stones travel in three directions. Goshin turns his shoulders, follows one with his hands and fires. This time he catches the pieces before they drop below the other two stones. He brings them back as well.
+The remaining stones travel in three directions. Goshin turns his shoulders, follows one with his hands and fires. This time he catches the pieces before they drop below the other two stones. He sends one fragment looping between them before bringing the pieces back as well.
+
+"That one got dizzy," Goshin says.
 
 Gohan leans toward the edge. "Can I try turning one of the pieces?"
 
@@ -769,6 +763,12 @@ Goshin sends him a fragment. Gohan meets it with his ki and guides it across the
 Gohan smiles. "I was sending it to you."
 
 "I know. Let me enjoy it."
+
+Goshin flies back onto the tiles, still grinning. "Next time I'll send them past both of you!"
+
+"I'll catch one before Krillin does," Gohan says.
+
+"You're both making this harder for me," Krillin says.
 
 Chi-Chi gathers the wrapping cloth from beneath the bench and ties it securely around the bridge book. Gohan comes to take it from her.
 
@@ -816,12 +816,24 @@ Gohan looks closer. "It goes across too. Seven."
 
 Chi-Chi rests her hand on the page so the wind cannot turn it before they have finished looking.
 
-**NARRATOR:** Goku is still on his way to King Kai. On Earth, his sons have work of their own to do before he returns.
+> **NEXT TIME — The boys bring C-6 the bridge book, and an island waits beyond the sea.**
 
----
+<!--
+## Footer
 
-## Preview
+**6 November 2026 — story-wide Dragon Ball-feel correction, unaccepted.** Goku's confusion, Princess Snake's hospitality and danger, the family dream and nonlethal escape, Chi-Chi's agreed 2–1 touch-match win, and both brothers' separate training are revised in the actual scenes. Goshin retains his learned wave and concurrent control; C-6's arm and leak remain unresolved. The earlier source card's blanket external-camera description and compulsory habits are historical, not standing rules; Chapter Three's specific camera restriction still applies to Chapter Three. The exact immediate predecessor is member `The Twin/chapters/Chapter_15_The_House_Beyond_the_Bend.md` in the [verified 122-member local project archive](../canon/ARCHIVE_INDEX.md#backup-042), SHA-256 `6cacdd2b19a86c27e16356fc99ba60f78b0539053b49317912b70cfc66e11f0a`. Retained captions and short synopses informed the branch; no complete episode video or audio was reviewed.
 
-*Clouds gather beyond the Lookout. Gohan closes Mina's bridge book while Goshin looks toward the distant hills. In the wasteland, Piccolo stands alone among broken stones.*
 
-**NARRATOR:** What will the boys discover when they take the book to C-6, and how will Piccolo find a new challenge for his training?
+**5 November 2026 — continuing emotional revision, unaccepted.** Goshin's unusual precision remains capable and playful, and his impatience for Goku's return is shared with Chi-Chi rather than stated as a training report. Goku's dream and waking fear keep his family in view; his living journey, Snake's danger, his rescue of the cleaner, Chi-Chi's agreed two-to-one touch-match win, C-6's consent and the book handoff remain. The preceding selected chapter is byte-preserved with Chapter Sixteen in the [verified local backup](../canon/ARCHIVE_INDEX.md#backup-056). The complete retained episode-14 caption was reread with Toei's short synopsis and earlier secondary comparison. Origin/cut, continuous video, audio and performance remain unverified. The twin-family scenes and changed living-Goku action are authored, not source footage.
+
+```
+ANIME BASE: Dragon Ball Z episode 14 — anime-only
+CONTINUATION: provisional power-scale-reviewed Chapter 14
+POV: Goshin close third; canon characters observed externally
+EVIDENCE: local Japanese captions, unverified source/cut; secondary guides and selected stills, not complete video
+WITNESS: canon/captions/Dragon_Ball_Z_014.srt; canon/SCENE_COVERAGE_014_REVIEW.md
+STAGING: authored twin-family continuity, living Goku, cleaner, C-6, changed meal and escape
+STATUS: separate candidate, not accepted
+```
+
+-->

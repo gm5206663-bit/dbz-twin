@@ -4,6 +4,8 @@
 
 **Owns: the source-order inventory and actual divergence decisions for the episode-8 adaptation.** This is an inventory, not a claim of frame-by-frame verification. `canon/captions/Dragon_Ball_Z_008.srt` is a complete local Japanese caption file (`W-30`); its provider, broadcast origin and exact cut are not independently verified. Captions are provisional evidence of dialogue, narrated ordering and sound, not of silent action or every visible target. The episode-8 secondary guides `W-59` and `W-60` and individual rewatch `W-61` are not video witnesses. Chapter Three’s prior moon/date wording and overnight outcome were revised earlier; this inventory retains the original source evidence and older treatment.
 
+**5 November current treatment:** The selected Chapter Nine has since received the substantive [Dragon Ball-feel correction](DRAGON_BALL_FEEL_CORRECTION_2026-11-05.md). The complete retained episode-8 captions, including preview, ending and unrelated tail, and Toei’s [short episode-8 synopsis](https://lineup.toei-anim.co.jp/ja/tv/dragonz/episode/8/) were reread; source and cut remain unverified, and this is not full video or audio. The doctor examines Goshin; both brothers, their parents and Ox-King act in the rescue; a full moon becomes visible but neither boy sees it; Piccolo overhears Goku’s warning. Gohan keeps the Four-Star Ball, the family accepts the doctor’s room and Mina’s book leads to Chapter Ten. The section-numbered older treatment and prior home, Senzu, scouter and food-rule claims below are historical where superseded, not new source evidence.
+
 ## Captioned baseline, in order
 
 | Approximate time | Captioned material | Limit or secondary visual report |
@@ -45,3 +47,6 @@ Goku and Gohan are completely healed and fully restored by their Senzu. Goshin d
 ## 3 November checker-repair note
 
 The 3 November checker repair adds brief detail to the doctor’s history-taking, the existing bridge rescue and the family’s discussion of the Four-Star Ball. The moon warning, the covered boys, Mina’s book and Goshin’s medical state remain as in the selected branch. These additions are authored, not newly verified footage.
+
+
+**5 November 2026 continuing-pass pointer:** The [current Chapters 3–12 source and branch record](EMOTIONAL_REVISION_003_012_2026-11-05.md) documents the local emotional revision, reread caption limits and pre-pass versions. Where this inventory explicitly labels a treatment column historical, follow the selected manuscript and that newer record rather than the older column.

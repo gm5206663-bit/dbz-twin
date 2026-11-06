@@ -34,21 +34,17 @@ A small figure darts over the roof, too quick for Goku to make out until he stop
 
 "What can I do for you?" Gregory asks.
 
-Goku leans closer. "Hey, you talk."
+Goku leans closer. "Hey, a talking grasshopper!"
 
-"Of course I talk. My name is Gregory, and I assist King Kai."
+"My name is Gregory, and I assist King Kai. I'm not an ordinary grasshopper."
 
-"I'm Goku. You live here too?"
+"I'm Goku. Do ordinary grasshoppers have jobs?"
 
-"I do, and I work very hard. Please don't mistake me for an ordinary grasshopper."
+King Kai laughs. Gregory folds his arms.
 
-"I wasn't going to."
+"Sir, I don't think he's taking this seriously."
 
-Gregory folds his arms. "You were looking at my wings."
-
-"They're good wings."
-
-King Kai laughs. Gregory turns toward him.
+"I am," Goku says. "I've never met a grasshopper with a job before."
 
 "Sir, why did you call me?"
 
@@ -102,7 +98,7 @@ The first swing misses. The hammer hits the ground and pulls Goku down with it.
 
 At the mountain house, Gohan folds his library drawing along its old crease. Goshin holds the edge of the paper while Chi-Chi packs the food she has made for the trip. His black hair rises in the same wild spikes as Goku's. His face is almost his father's in miniature, with Chi-Chi's eyes. His tail curls around one leg as he looks up from the drawing.
 
-"Hatch said they added three doors," Gohan says. "I want to see where they put them."
+"Hatch said there were three doors," Gohan says. "I want to see where they all lead."
 
 "And the stairs," Goshin says.
 
@@ -192,7 +188,7 @@ The six children are together in the common room when the family arrives. Hatch 
 
 "We made the doors," she tells Gohan.
 
-Hatch points to the first door beside the library, the second at the top of the stairs and the third on a deck at the back of the boat.
+Hatch points to the door at the front, the library door and the one at the top of the stairs on a deck at the back of the boat.
 
 "If you're reading," Hatch says, "you don't have to go through the classroom to get outside."
 
@@ -378,9 +374,9 @@ He digs in and pushes harder. Piccolo's arm keeps coming forward, steady enough 
 
 "You were watching that hand," Piccolo says, keeping the first one in Goshin's grip.
 
-Goshin looks at it, then raises his eyes to Piccolo's face.
+Goshin looks at it, then raises his eyes to Piccolo's face. "I'm still here!"
 
-Before he changes his footing, more strength runs through Goshin's arms. His ki swells with it, and his heels stop sliding. Fine cracks spread beneath his shoes. He pushes forward, forcing Piccolo back three steps across the shelf; the loose pebble skips away from their feet.
+He leans into Piccolo's push. More strength runs through his arms, and his ki swells with it. His heels stop sliding. Fine cracks spread beneath his shoes. He pushes forward, forcing Piccolo back three steps across the shelf; the loose pebble skips away from their feet.
 
 Piccolo's eyes narrow. He plants a foot and comes at him again, faster this time, reaching for the same shoulder. Goshin rises from the ground and catches his wrist before the hand arrives. He turns in the air and touches Piccolo's shoulder, then lands beside the stick.
 
@@ -390,7 +386,9 @@ Goshin looks at the marks his shoes left, then back at Piccolo. "Can we do it ag
 
 Piccolo lowers his hand. "Next time I won't let you turn past me so easily."
 
-Goshin steps back, breathing hard but grinning. "Then I'll find another way." Gohan brings him the pebble from the first marker.
+Goshin steps back, breathing hard but grinning. "Then I'll find another way." His arms still tingle from the push, and he flexes his hands, eager to try them again.
+
+Gohan brings him the pebble from the first marker.
 
 "You left this."
 
@@ -450,9 +448,9 @@ Puar hovers beside the bench. "Do you want some water, Yamcha?"
 
 "In a minute!" Yamcha calls.
 
-"Tiger," Tien says.
+"Tiger," Yamcha says.
 
-"River."
+"River," Tien answers.
 
 Tien catches Yamcha's arm. Yamcha turns out of the hold, and both of them stop before reaching the edge of the tiles.
 
@@ -518,6 +516,8 @@ Goku stops with his spoon halfway to his mouth. "Raditz said they killed people 
 
 Goku lowers the spoon. "Raditz hurt Gohan and Goshin. He wanted me to leave with him and help attack other people."
 
+He remembers Gohan reaching for his unconscious brother as Raditz carried them away. His fingers tighten until the spoon bends.
+
 Gregory's wings settle against his back.
 
 "Were there children on those other planets?" Goku asks.
@@ -539,16 +539,6 @@ Gregory follows him outside. "Are you ready to try again?"
 "Are you?"
 
 Gregory shoots over the tree. Goku takes up the hammer and runs after him.
-
----
-
-## Eye-Catch
-
-Gohan stands between two sticks in the clearing, with Goshin beside him and the mountain behind them.
-
-**NARRATOR:** This programme continues after a message.
-
-As Gohan shifts his weight, Goshin moves to give him room.
 
 ---
 
@@ -672,9 +662,13 @@ At Kame House, Roshi sets two cups on the table. Baba sits opposite him with her
 
 "I want you to look at Earth's future," Roshi says.
 
-"That's a large request."
+"That's a large request," Baba says. "I suppose you're going to ask your sister for a discount."
 
-"I know. Two Saiyans are coming, and I'd like to know what we're facing."
+"I was hoping you'd mention it."
+
+"Then you're out of luck."
+
+Roshi looks down at the crystal ball. "Two Saiyans are coming, and I'd like to know what we're facing."
 
 Baba places her hands near the crystal. The surface clouds, then clears without showing an image.
 
@@ -721,6 +715,10 @@ Gregory dives toward the ground. Goku begins a swing, sees the change in directi
 "I can go over it next time, if you prefer."
 
 Goku lifts the hammer. "Don't tell me which one."
+
+Gregory grins. "I wasn't going to."
+
+"Good. I want to catch you properly."
 
 Bubbles runs across the open ground. Goku waits for him to clear the path before starting after Gregory again.
 
@@ -826,6 +824,11 @@ On King Kai's planet, the hammer hangs beside the house. The hook bends under it
 
 <!--
 ## Footer
+
+**6 November 2026 — Dragon Ball-feel revision, unaccepted.** Goku's frank curiosity and Gregory's pride make their introduction livelier; Goshin enjoys and physically gains strength and ki in his chosen spar, and Goku's memory of Raditz has a visible reaction. Baba and Roshi retain sibling friction while her future reading and Grandpa request remain unresolved. The word-chain now alternates speakers after Elephant; the three described boat doors include the front door already added in Chapter 18 rather than implying three newly added doors. The two-week Gregory task, independent family choices, uncertain Saiyan account and room handoff remain. The full retained episode-20 caption and Toei synopsis were reread, not complete video/audio; caption origin and cut remain unverified. The exact predecessor (SHA-256 `6238cb0eb9d9058aa3ffe466027d254b9d2e69f95a1206e0465557e3eb73fe08`) is in the [verified 122-member pre-correction archive](../canon/ARCHIVE_INDEX.md#backup-042); the complete prior footer follows unchanged. This revision is not accepted or remotely synchronized.
+
+**5 November 2026 — continuing emotional revision, unaccepted.** Goshin takes delight in the strength he actually gains during the Piccolo exchange, without a prescribed trigger or ceiling; Goku connects King Kai's account to Raditz carrying his children away. The Gregory task, uncertain account of Saiyan history, individual family choices, temporary room arrangements, independent fighters and Goku's direct-lesson handoff remain. Exact immediately preceding Chapters 21–23 are in the [verified local ZIP](../canon/ARCHIVE_INDEX.md#backup-059). The complete retained episode-20 captions and official synopsis were reread; source/cut and full video and audio remain unverified.
+
 **4 November canon and continuity audit:** Goku now remembers Raditz named Planet Vegeta, claimed a giant meteor destroyed it and said four Saiyans remained in selected Chapter Two; King Kai still distinguishes uncertainty from knowledge (`C043`, `O157`). The earlier candidate is preserved. This revision remains unaccepted.
 ```
 ANIME BASE: ep. 20.

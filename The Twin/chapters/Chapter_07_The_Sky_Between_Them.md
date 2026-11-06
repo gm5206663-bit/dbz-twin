@@ -1,38 +1,38 @@
 # Chapter Seven — The Sky Between Them
 
-*Immersion-revised review draft; not yet accepted.*
+*Revised story draft; not yet accepted.*
 
-A yellow cloud trails an aircraft above the forest, keeping pace whenever the wind pushes at its ragged edges. Far below, dark green trees part around a narrow river. The crater and its smoke have disappeared behind the hills.
+A yellow cloud trails an aircraft over the forest. Whenever the wind ruffles its edges, it gathers itself and comes close again. Far below, the trees part around a narrow river; the smoking crater is already hidden by the hills.
 
-**THE SKY BETWEEN THEM**
-
-**NARRATOR:** Raditz is dead. Two stronger Saiyans are coming to Earth, and the fighters who stopped their brother have a year to prepare.
-
-Inside Bulma's aircraft, Goku is still breathing. Neither of his sons has let go of his blanket.
+Inside the aircraft, Goku's eyes have opened again. His two sons hold hands beside the stretcher. Gohan is watching their father's face, and Goshin reaches over to pull the blanket away from his injured arm.
 
 ---
 
 ## The New Arm
 
-Piccolo lands on a shelf of rock above the forest, his left sleeve empty and the cloth pressed against his shoulder dark. His discarded cape and turban are still at the battlefield; dust has settled in the folds of his torn purple gi.
+Piccolo lands on a shelf of rock above the forest. His left sleeve hangs empty, and the cloth he has pressed to his shoulder is dark. His cape and turban are still back at the battlefield.
 
-He throws the cloth aside and plants his feet hard enough to crack the stone beneath his boots. The muscles of his neck stand out as he gathers himself.
+He pulls the cloth away, braces his boots against the rock and gives a low growl. His shoulder bulges beneath the torn sleeve. For a moment a tiny green arm protrudes from his shoulder; then it lengthens, the fingers unfurling as Piccolo grits his teeth.
 
-His shoulder swells beneath the torn sleeve. A new arm pushes through the cloth, lengthening as Piccolo bares his teeth. The fingers unfold one by one at its end.
+He falls to one knee. Birds burst out of the trees below and scatter across the valley.
 
-He drops to one knee and stays there for a few moments, breathing hard. The rock is cool beneath his remaining hand.
+"Damn it."
 
-Then he raises the new one and flexes its fingers.
+He waits for his breathing to slow, then raises the new arm and closes its hand. The fingers obey, though the last one trembles.
 
 Piccolo looks up at the whine of an engine above the ridge, where the aircraft is already moving away with Nimbus following behind it.
 
-"One can fight," he says. "The other nearly killed Raditz without knowing how."
+He remembers Gohan hitting Raditz hard enough to break his armour, and Goshin pulling Goku out of the beam's path. Both children had fought an enemy stronger than their father.
 
-He gets to his feet, and his new arm trembles once before he closes the hand.
+"The one in the hat doesn't even know how he did it."
 
-"A year."
+He gets to his feet. Somewhere beyond the sky are two more Saiyans, stronger than the one who tore off his arm. Goku's friends are taking the boys home, where their mother will tuck them into bed.
 
-Piccolo rises above the trees and follows the aircraft.
+Piccolo looks up at the departing aircraft.
+
+"There isn't time for that."
+
+He rises above the trees and follows it.
 
 High above the clouds, Kami watches from the edge of the Lookout, with Mr. Popo beside him.
 
@@ -56,21 +56,19 @@ Popo nods. Kami turns away from the edge, and Popo remains there, watching the a
 
 Roshi checks the straps holding Goku's stretcher to the cabin floor. Bulma sits at the controls ahead of them, with the forest visible through the windshield.
 
-With his hat on again, Gohan sits beside Goku's shoulder, watching his father's face. Goshin sits on the other side, his bandaged palm resting in his lap.
+Gohan climbs onto the seat beside Goku's shoulder, careful not to knock his father's arm. His red hat tilts against the window. Goshin settles on the other side, his bandaged palm in his lap.
 
-"I can still see Nimbus," Gohan says.
+"Nimbus is still there," Gohan says.
 
-Goku turns his head toward the window. "He doesn't want to miss anything."
+The cloud bobs alongside the window. Goshin gives it a little wave; Nimbus rises and drops, as if waving back.
 
-Goshin peers past Goku. "He's following the aircraft."
+"He's probably hoping we've got lunch in here," Goku says.
 
-"He's probably hoping there's lunch in it."
+"Clouds don't eat," Gohan tells him.
 
-Gohan looks at Goku. "Clouds don't eat."
+"They don't? Huh. Maybe that's why he never stays for supper."
 
-"They don't? I thought that was why he always comes when I call."
-
-Gohan's mouth opens, and then he sees Goku's grin.
+Gohan considers that until he sees Goku's grin.
 
 "Father!"
 
@@ -94,15 +92,15 @@ Bulma glances back. "Kame House first. Krillin knows to meet us there."
 
 "Roshi will call her. We'll explain what happened."
 
-Goku notices Goshin waiting with his good hand raised.
+Goshin picks at the blanket with his good hand. "Will Mother be angry with us?"
 
-"What is it?"
+"Probably with me," Goku says. "She told me to bring you both home for supper."
 
-"Will Mother be angry with us?"
+"And our shoes," Goshin adds, lifting one foot to check.
 
-"Probably with me," Goku says.
+Gohan checks his own. Both are still there, though one has a torn lace.
 
-"She's got enough for all three of you," Bulma says.
+"She'll be frightened until she hears from you," Bulma says.
 
 "She'll be glad you're safe," Roshi adds.
 
@@ -118,37 +116,39 @@ Gohan looks down at their hands. "When I hit Raditz, I didn't mean to break his 
 
 "What if I'd hurt you instead?"
 
-Goku takes a moment to answer. "I don't think you would have. But I know that was frightening."
+Goku takes a moment to answer. "You were trying to save me. And you did."
 
-"I couldn't stop being angry."
+Gohan studies his own fingers. He remembers Raditz's boot on his father's chest, and how badly he wanted it gone.
 
-"You were trying to help me. You don't have to be ashamed of that."
+"I was so angry."
 
-Gohan leans against the stretcher, careful of his shoulder. Goshin touches the edge of Goku's blanket.
+"I know." Goku waits until Gohan looks at him again. "I'm proud of you. We'll learn what you can do together."
 
-"My wave went where I wanted it to go," he says. "But it made a bigger hole than I wanted."
+Gohan leans against the stretcher, careful of his shoulder. On the other side, Goshin pulls the blanket straight.
 
-"You'd never done one before."
+"My wave made a bigger hole than I meant it to," he says.
+
+"It was your first one."
 
 "Yours went straight."
 
-"I've had a little practice."
+"I've had some practice."
 
-Goshin tilts his head. "More than a little?"
+"Lots?"
 
-"More than a little," Goku admits.
+"Lots and lots."
 
-"Can we practise that together when you're better?"
+Goshin brightens. "Can we practise when you're better? I want to make it stop where I choose."
 
-"Sure. We can work on where the wave stops."
+"You bet."
 
-Gohan puts his hat on the stretcher. "I'll watch."
+Gohan puts his hat on the stretcher. "Can I watch?"
 
-"You can try too," Goku says.
+"You can try too."
 
-"Maybe. But I want to finish my book first."
+"Maybe after I finish my book."
 
-"Then we'll make time for that."
+"That's a deal," Goku says. "But you'll have to tell me how it ends."
 
 Gohan picks his hat up from the stretcher and turns the crown toward Goku, showing him where the Four-Star Ball has picked up a streak of dirt.
 
@@ -180,9 +180,9 @@ Piccolo points toward the side door.
 
 "Roshi, don't open it," Bulma says.
 
-The latch bends. The door jerks outward, and wind punches through the cabin, whipping Goku's blanket against the straps and rattling the instruments on Bulma's panel.
+The latch bends with a metallic shriek. The door jerks outward, and wind punches through the cabin, whipping Goku's blanket against the straps. A loose instrument rattles across Bulma's panel.
 
-Roshi catches the medical case before it slides. Gohan braces himself against the stretcher; Goshin plants his feet between the doorway and Goku, one hand hooked around the frame for balance. The forest rushes beneath the opening.
+Roshi catches the medical case before it slides out. Gohan braces against the stretcher; Goshin plants his feet between the doorway and Goku, one hand hooked around the frame. Through the opening he sees the treetops rushing past far below.
 
 "Close that!" Bulma shouts.
 
@@ -224,17 +224,13 @@ Goshin fires a short burst at Piccolo's hand, and Piccolo twists aside; the forc
 
 Roshi pulls Gohan away from the door. Goshin is already on his feet.
 
-"Your arm came back," Goshin says.
+Piccolo stares at Goshin's outstretched hand. The boy has already learned to fire, and he is using it to protect his brother rather than flee.
 
-"A lizard can do the same thing," Piccolo says.
+"Your arm came back," Goshin says. "Does it still hurt?"
 
-"Mother won't let us bring lizards in the house."
+"Not enough."
 
-"Goshin," Gohan says.
-
-"What? She won't."
-
-Piccolo's hand comes back through the doorway. Goshin strikes it with his bandaged palm. He winces, but Piccolo's fingers miss Gohan.
+Piccolo thrusts that arm through the doorway again. Goshin slaps it aside with his bandaged palm. Pain stings across the burn, but Piccolo's fingers miss Gohan.
 
 Roshi grabs Piccolo's wrist and twists it away from the boys, but Piccolo pulls back and drags Roshi to the doorway.
 
@@ -248,11 +244,7 @@ Goshin catches Roshi's sleeve before he can fall out, and Gohan seizes the other
 
 "Are you all right?" Gohan asks.
 
-"I've been thrown out of better aircraft than this."
-
-"You have not!" Bulma says.
-
-"No," Roshi admits. "But I didn't want the boys to worry."
+"Thanks to you two." Roshi takes a breath and steadies himself against the case. "Stay clear of that door."
 
 Goku raises his good arm and fires a small blast that hits Piccolo's shoulder and knocks him away from the door. Goku grips the stretcher as pain catches in his side.
 
@@ -260,17 +252,15 @@ Goku raises his good arm and fires a small blast that hits Piccolo's shoulder an
 
 "I'm looking for a place!"
 
-Piccolo recovers beside the aircraft. His new hand trembles; he closes it, draws a breath and holds his palm toward the cabin.
+Piccolo recovers beside the aircraft, eyes fixed on the opening. Goku is strapped down, Roshi is between him and the children, and Goshin is guarding the door.
 
 "I'll ask once more."
 
-As Goshin moves to the doorway, Gohan catches the back of his shirt.
+His new hand opens toward the cabin. Gohan sees where he is aiming and catches Goshin's shirt.
 
 "He's going to hit Father!"
 
-Piccolo fires.
-
-Goshin meets the blast with his own. The two bursts collide outside the door. Goshin turns his hand, forcing Piccolo's attack away from the cabin.
+Piccolo fires. Goshin thrusts out his hand, meeting the blast outside the door. Light floods the cabin. He twists his wrist, forcing Piccolo's attack past the opening, but the two bursts shear apart.
 
 A streak of energy clips the tail of the aircraft.
 
@@ -290,15 +280,13 @@ The cloud sweeps up beside the open door. Gohan snatches his hat from the stretc
 
 "He wants us, Father! I'll make him follow me!"
 
-Gohan leans forward, and Nimbus darts away from the aircraft toward the hills.
-
-Piccolo turns after him.
+Before Goku can answer, Gohan leans forward and Nimbus darts toward the hills. Piccolo turns after him at once.
 
 "Goshin, stay with Gohan," Goku says.
 
-"I'm going with him!" Goshin calls.
+"I'm going!" Goshin calls. He looks at his father once, then launches himself through the open door.
 
-Goshin launches himself through the doorway and catches up to Nimbus as Piccolo closes on Gohan from above.
+He catches up to Nimbus as Piccolo closes on Gohan from above.
 
 Bulma swings the damaged aircraft after them, the controls shuddering in her hands.
 
@@ -324,13 +312,15 @@ Goku turns toward the open door. "Roshi, help me get my arm up."
 
 Roshi lifts Goku's arm, and Goku steadies his wrist with his other hand and aims through the doorway.
 
-A short blast hits the dead trunk, breaking it near the base so it falls away from the clearing. Goku's arm drops, and he cries out as the stretcher jolts.
+A short blast hits the dead trunk and breaks it near the base. The tree crashes away from the clearing. Goku's arm drops, and he cries out as the stretcher jolts.
 
 "Goku?"
 
 "I'm here. Bulma, it's clear."
 
-Bulma lowers the aircraft toward the grass, where its underside strikes first. Roshi holds Goku's shoulders as the cabin shakes, and the medical case knocks against his knee.
+"Good! Nobody put another tree there!"
+
+She brings the aircraft down hard on the grass. Roshi holds Goku's shoulders as the cabin shakes, and the medical case knocks against his knee.
 
 The aircraft skids through the clearing and stops short of the riverbank. Leaves settle over the windshield.
 
@@ -462,17 +452,19 @@ Ox-King picks up his helmet. "That's a great many things."
 
 "One snake can bite two boys!"
 
-She grips the doorframe. "What if it's poisonous? What if it hurts them? What if they can't remember what they've studied?"
+She grips the doorframe. "What if it bites one of them? What if Goku can't get to them in time?"
 
 "Goku won't let that happen."
 
 "Goku forgot his own lunch yesterday."
 
-Ox-King carries the helmet toward the door. "I'll get the truck ready. We can drive to the coast."
+Ox-King opens his mouth, then closes it again. Chi-Chi looks at the telephone. She has been waiting for it to ring; it hasn't made a sound.
+
+Her father carries the helmet toward the door. "I'll get the truck ready. We can drive to the coast."
 
 "I'm coming too."
 
-She looks at the telephone. "If they're back while we're on the road, they won't know where we've gone."
+"If they're back while we're on the road, they won't know where we've gone," Chi-Chi says.
 
 "Leave them a message this time," Ox-King says.
 
@@ -496,7 +488,7 @@ Chi-Chi's hand tightens around the receiver. The loose cord draws taut across th
 
 "I don't know. Goku and Piccolo went after him. Master Roshi, Bulma and Krillin followed in Bulma's aircraft."
 
-Her mouth opens, then closes. When she speaks again, each question comes out separately.
+Chi-Chi looks at the school paper pinned beside the door. She had been so sure Gohan would want to show his father the red circle. He should have been home to show him by now.
 
 "Was Goku hurt? Were the boys?"
 
@@ -506,17 +498,17 @@ Her mouth opens, then closes. When she speaks again, each question comes out sep
 
 "No. I went out into the water to look for them. I'm sorry I wasn't here when you called before."
 
-Chi-Chi grips the receiver. "We're coming to the island. If you hear from them, tell them I've gone there."
+"It isn't your fault." Chi-Chi grips the receiver. "We're coming to the island. If you hear from them, tell them I've gone there."
 
 "I will."
 
 She gives the receiver to Ox-King, who asks Turtle which way the aircraft went while Chi-Chi goes into the next room.
 
-She comes back carrying a blanket and a small first-aid box, and Ox-King is still holding the receiver.
+She comes back with a blanket tucked under one arm and a small first-aid box in her hand. Ox-King is still holding the receiver.
 
 "He says they went inland," he tells her. "He doesn't know where."
 
-"Then we'll start at the island."
+"Then we'll start at the island." She looks back into the room, as if there must be something else she ought to take. "Father, come on."
 
 She takes the receiver. "Turtle, don't go looking by yourself. Stay where they can find you."
 
@@ -528,13 +520,13 @@ She takes the receiver. "Turtle, don't go looking by yourself. Stay where they c
 
 Chi-Chi hangs up. Her hand rests on the telephone for one more moment, then she follows Ox-King out to the truck.
 
-Ox-King has opened the passenger door and pushed the folded blanket away from the gearstick. Chi-Chi puts the first-aid box on top of it, keeping the latch where she can reach it without unpacking the blanket.
+Ox-King opens the passenger door. Chi-Chi puts the first-aid box on the seat and climbs in after it, nearly sitting on the blanket.
 
 "If we pass them on the road, I'll stop," he says.
 
 "They took an aircraft. Look at the sky too."
 
-He nods and pulls away from the gate. Chi-Chi checks the road through the rear window before turning toward the trees that hide the coast.
+He nods and pulls away. Chi-Chi watches their house disappear around the bend, then turns toward the trees that hide the coast.
 
 ---
 
@@ -570,7 +562,9 @@ Yajirobe leans closer. "Only three?"
 
 Korin looks at the bowl Yajirobe has left by the door.
 
-Yajirobe moves the bowl farther from the jar while Krillin waits with both hands open. Korin checks each bean against the light, then reaches for a small cloth bag on the shelf.
+Yajirobe moves his bowl farther from the jar. Krillin watches Korin check each bean against the light, trying not to reach for them before the old cat has finished.
+
+Korin takes a small cloth bag from the shelf.
 
 "Those are really all you have?" Krillin asks.
 
@@ -606,9 +600,11 @@ Far away, two familiar powers flare, and a third rises close to them.
 
 Krillin looks toward the distant mountains. "I don't know."
 
-He takes off in that direction, with the bag held against his chest.
+He takes off toward the mountains, holding the bag against his chest. Yajirobe calls after him, but the wind snatches away the words.
 
-*This programme continues after a message.*
+"He could have waited until I finished saying good luck," Yajirobe mutters.
+
+Korin puts the jar safely out of reach and goes to the edge of the tower to watch.
 
 ---
 
@@ -624,15 +620,21 @@ Goshin flies close enough to touch him, glancing over his shoulder at the green 
 
 "I can hit him if you turn."
 
-Gohan pulls Nimbus around the nearer column, with Piccolo following through the gap. Goshin drops from above and kicks Piccolo across the shoulder.
+Gohan banks Nimbus around the nearer column. Piccolo cuts through the gap after him, and Goshin drops from above, driving a kick into Piccolo's shoulder.
 
-Piccolo strikes the rock. He draws a hard breath, pushes off the wall and swings his new arm as Goshin comes after him. Goshin ducks, catches the wrist and drives a knee into Piccolo's side.
+Piccolo hits the rock hard enough to knock a shelf of moss loose. He pushes off it and swings his new arm as Goshin comes after him. Goshin ducks, catches the wrist and drives a knee into his side.
 
-Piccolo grips Goshin's shirt with his other hand. Goshin twists, tearing the cloth free, and flies backward toward Gohan.
+Piccolo seizes the front of Goshin's shirt with his other hand. Goshin twists away, tearing the cloth, and flies backward toward Gohan.
 
-"You pulled my shirt!"
+"You ripped my shirt!"
 
 "I noticed."
+
+"Mother's going to see that!"
+
+"Good. Then she'll know where you went."
+
+Goshin glares at him. Piccolo comes on.
 
 Gohan sends Nimbus between them. "Get on!"
 
@@ -652,7 +654,9 @@ Nimbus drops into a cleft between the ridges. Piccolo enters after them, and Gos
 
 Gohan ducks, and Nimbus carries him beneath Piccolo. Goshin fires a concentrated burst across the gap. It hits the ledge behind Piccolo and breaks it loose.
 
-The falling rock cuts off Piccolo's path. He punches through it, but Goshin is already moving. He strikes Piccolo in the chest and follows Gohan out of the cleft.
+The falling rock cuts off Piccolo's path. He punches through, scattering pieces into the trees, but Goshin is waiting on the other side. His fist strikes Piccolo's chest and drives him back through the dust.
+
+Goshin catches a glimpse of Piccolo's startled face before he turns and follows Gohan out of the cleft.
 
 The river curves below them. Gohan turns Nimbus toward it, looking for the aircraft. Goshin flies beside the cloud, opening and closing his bandaged hand. The cloth has not grown any redder.
 
@@ -672,7 +676,7 @@ Piccolo's hand reaches for Gohan again, and Goshin catches the wrist and pushes 
 
 As Piccolo swings Goshin toward the rock wall, Goshin fires at the stone in his path. The wall breaks before he hits it, and he comes through the dust still gripping Piccolo's wrist.
 
-Gohan guides Nimbus along Piccolo's stretched arm and hits the wrist with the edge of his hat. Piccolo loosens his grip long enough for Goshin to pull his ankle free.
+Gohan guides Nimbus along Piccolo's stretched arm. He swings his hat by the brim and strikes the wrist with the hard ball on top. Piccolo's fingers jerk open, and Goshin pulls his ankle free.
 
 Goshin kicks the hand away. Nimbus sweeps back under him, and he lands beside Gohan. Piccolo draws his arm back and fires at the cloud.
 
@@ -694,7 +698,7 @@ Goshin rolls up his trouser cuff, revealing a red mark around his ankle.
 
 "I don't know. He took the arm back."
 
-Gohan laughs once, then pulls his hat on again. Nimbus carries them around a bend in the river.
+Gohan laughs despite himself, then pulls his hat on again. Nimbus carries them around a bend in the river, the cloud leaving a yellow blur reflected in the water below.
 
 They reach a grassy shelf above a ravine. Nimbus stops. Gohan climbs off and turns to help Goshin, who lands beside him.
 
@@ -712,29 +716,31 @@ Gohan loosens the dirty wrapping. Pink skin covers part of the burn that was ope
 
 Goshin bends his fingers. "I told Father it was getting better."
 
-Gohan wraps the clean strip around his palm and, though his shoulder makes him slow, gets the knot tight.
+Gohan wraps the clean strip around his palm. His shoulder makes him slow, and Goshin has to hold the end while he works the knot tight.
 
 "That'll keep the dirt out."
 
 "Thank you."
 
-Goshin touches the side of his head.
+Goshin touches the side of his head. Gohan watches him.
 
-"Does it still hurt?" Gohan asks.
+"Does that still hurt?"
 
 "Only when I press it."
 
 "Then don't press it."
 
-Goshin takes his hand away. "I was checking." Gohan looks toward the clearing.
+Goshin takes his hand away. "I was checking."
+
+For a moment they can hear the river below and nothing pursuing them. Gohan looks toward the clearing.
 
 "I should have gone straight back to Father."
 
-"Piccolo was shooting at him."
+"Piccolo was shooting at him. You made him follow us instead."
 
-"He followed me instead."
+Gohan looks down at his hands. "I was scared."
 
-"And I followed you," Goshin says. "We're both here."
+"I was too," Goshin says. "Come on. We can get back to him together."
 
 From the clearing below comes the distant scrape of metal. The aircraft settles among the trees beyond the river, one wing tipped toward the ground.
 
@@ -770,13 +776,15 @@ Gohan lifts from the ground. He grabs at the air, but the invisible force pulls 
 
 "Goshin!"
 
-Goshin strikes Piccolo's arm, but Piccolo blocks him with the other and sends Gohan toward the opposite cliff.
+Goshin strikes Piccolo's arm, but Piccolo blocks with the other and sends Gohan flying toward the opposite cliff.
 
-Goshin opens his hand toward Gohan, catching him with ki and bending his path away from the rock. Piccolo closes his fingers, dragging Gohan forward again.
+The rock face rushes up at Gohan. Nimbus is behind him; there is no branch to catch this time.
 
-"You broke Raditz's armour," Piccolo calls. "Do it again!"
+Goshin opens his hand and catches his brother with ki, bending his path away from the cliff. For an instant Gohan slows. Then Piccolo closes his fingers and drags him forward again.
 
-Gohan reaches for Nimbus, but the cloud is still over the shelf. Goshin flies after his brother, keeping his hand extended.
+"You broke Raditz's armour! Do it again!"
+
+"Stop it!" Goshin flies after Gohan, keeping his hand extended. The invisible pull strains between them.
 
 Gohan throws his arms over his head.
 
@@ -788,11 +796,11 @@ The blast knocks Goshin sideways. Gohan drops through a cloud of broken stone, c
 
 Goshin raises both hands. His ki catches the slab and sends it into the ravine. He flies through the falling dust, catches Gohan around the waist and carries him clear of the remaining rocks.
 
-They land on the far bank, and Gohan clings to Goshin's shirt until the last stones have fallen.
+They land on the far bank, and Gohan clings to Goshin's torn shirt. Even after the last stones have fallen, he doesn't let go.
 
-Piccolo stands on the broken edge of the cliff, with the marks from Goshin's blows still visible on his clothes.
+Piccolo stands on the broken edge of the cliff, dust settling around him. The marks from Goshin's blows are still visible on his clothes.
 
-Gohan looks up at the broken cliff. "Did I do that?"
+Gohan stares at the enormous gap. A moment ago it was solid rock. "Did I do that? Did I hurt anyone?"
 
 "You did it again," Piccolo says. "The power comes when you're frightened, and then it's gone. You need to learn to use it when you choose."
 
@@ -812,7 +820,7 @@ Piccolo looks at the ruined cliff. "A scholar?"
 
 "Then stop throwing him!" Goshin says.
 
-Piccolo looks from Goshin to the broken cliff.
+Piccolo looks from Goshin to the broken cliff. Goku's sons are already fighting him; given time, they might become more dangerous than their father. For a moment his newly grown hand closes into a fist.
 
 "One day you may use that power against me."
 
@@ -840,9 +848,9 @@ Gohan takes Goshin's other hand. "And we're going home."
 
 Piccolo reaches toward Gohan. Goshin catches the wrist, and Piccolo tries to pull him forward. Goshin holds his ground, but the force lifts Gohan's feet from the bank.
 
-Gohan scoops up loose grit and throws it at Piccolo's face. Piccolo flinches, and Gohan drops. Goshin jerks Piccolo's arm down and drives his shoulder into Piccolo's side.
+Gohan scoops up loose grit and throws it into Piccolo's face, just as he did to Raditz. Piccolo flinches and Gohan drops. Goshin yanks the extended arm down and drives his shoulder into Piccolo's side.
 
-Piccolo slides back a step. Goshin fires into the wet ground between them. Mud and water spray across the bank.
+Piccolo slides back a step. Goshin fires into the wet ground between them; mud and river water burst up in a curtain.
 
 "The rock!" Gohan points to a fallen slab spanning the narrow end of the stream. He runs for it, with Goshin beside him.
 
@@ -888,7 +896,7 @@ She passes the case to Roshi. "The Dragon Radar is still inside."
 
 "I'll keep it with us," Roshi says.
 
-Goku takes one step and has to stop, then draws a breath and tries again.
+Goku takes one step and has to stop. Roshi slips an arm around him, and together they try again.
 
 Above the river, the yellow cloud moves toward the ravine.
 
@@ -902,14 +910,16 @@ The cloud turns back toward the boys. Goku watches it go, then follows the river
 
 ---
 
-## Preview
-
-*Two boys hurry beneath the trees, with Piccolo following. Downriver, Goku and Roshi enter the forest. Far overhead, Krillin flies toward the mountains with a small bag inside his shirt.*
-
-**NARRATOR:** Piccolo wants the boys' power, but neither brother wants to stay. Can Goku reach them before Piccolo makes his next move? And will Krillin find them in time?
+> **NEXT TIME — The boys seek their father by the river, and Chi-Chi follows the first news she can find.**
 
 <!--
 ## Footer
+
+**5 November 2026 — Dragon Ball-feel revision from the opening, unaccepted.** The complete chapter was reviewed and substantially revised across the aircraft, Piccolo's pursuit, Chi-Chi's call, Korin's tower and the ravine. Character-specific humor and fear now arise from the situation; Gohan and Goshin make distinct choices, Goshin uses his established flight, strength and ki without an imposed ceiling, and Piccolo reacts to their actual resistance. Goku survives and stays injured; Piccolo remains coercive; Chi-Chi's later call reaches Turtle; Krillin obtains three beans; the children's cliff test and the Chapter Eight river handoff remain. This branch's action, dialogue and staging are authored, not a claim to have viewed the episode's full motion or heard its audio. The entire retained episode-six Japanese caption file was reread, including the ending and unrelated tail; its origin and cut remain unverified. Toei's short synopsis and the secondary Neoseeker account were consulted; the captions and summaries do not prove continuous visuals or performances. The exact immediate predecessor is byte-preserved in the [verified pre-correction project and accepted-original snapshot](../canon/ARCHIVE_INDEX.md#backup-042), Chapter Seven member SHA-256 `0e30cb5621186f18d127f41190d70e5775ca464b6bb26422bebe75f0fa581c39`, ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. This is not reader acceptance. Earlier footer entries remain historical where superseded.
+
+
+
+**5 November 2026 — continuing emotional revision, unaccepted.** A full pass deepens the boys' fear and mutual reassurance, Goku's pride in Gohan, Chi-Chi's concern and agency, and Roshi's care; it keeps Piccolo's non-consensual pursuit and the living-Goku branch intact. The boys remain independently resourceful, and Goshin's capability and affection are both present. The exact preceding selected file is preserved with Chapter Eight in the [verified local backup](../canon/ARCHIVE_INDEX.md#backup-052). The complete retained episode-6 captions were reread; origin and cut remain unverified. Toei's synopsis and secondary guides are not a full video or audio review. The altered pursuit and added dialogue and staging are authored.
 ```
 ANIME BASE: Dragon Ball Z episode 6.
 EVIDENCE: Local Japanese episode-6 captions, with original provenance and exact cut unverified; secondary accounts as identified in the coverage record. Captions and selected stills do not establish full video or all silent action.

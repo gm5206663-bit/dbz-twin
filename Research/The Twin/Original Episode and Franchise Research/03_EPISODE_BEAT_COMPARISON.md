@@ -1,6 +1,6 @@
 # Z episodes 1–10: ordered comparison and immediate forward map
 
-This is a **planning inventory**, not a scene-perfect transcription. A retained item is present in a current draft, not necessarily approved by the reader. The summaries do not prove the quality of a scene or the exact on-screen choreography. Chapters 4–9 are provisional; the revised wording of 1–3 awaits review. **Chapter 10 is rejected**, so none of its invented consequences is credited as accepted coverage.
+This is a **historical planning inventory**, not a scene-perfect transcription. A retained item is present in the draft examined at the time, not necessarily approved by the reader. The summaries do not prove the quality of a scene or exact on-screen choreography. Its reference to a rejected Chapter 10 concerned an earlier candidate, not the later selected replacement. The current selected story runs through Chapter 23 and has its own review and acceptance states; see `The Twin/STATUS.md`, `OPEN.md` and the later source-coverage cards rather than treating this old inventory as the current frontier.
 
 ## Evidence key
 
@@ -178,7 +178,7 @@ The following short hooks derive from the [official Toei episode pages](https://
 | 15 | Homesick Gohan tries to escape the wilderness by raft. | If he is not a captive, this escape cannot be imported unchanged. A different adventure needs its own cause. |
 | 16 | Gohan meets children living without parents and is drawn into their trouble. | Their situation exists independently, but Gohan must plausibly meet them. |
 | 17 | Piccolo begins focused training; four Earthlings face fighters in a time-travel test. | Piccolo’s relationship and the actual trained group follow earlier choices. |
-| 18 | Gohan’s regenerated tail and a strange, indestructible moon accompany another Great Ape incident; Goku reaches the road’s end. | If a tail was never cut, do not call it regeneration; check the moon’s source and the alternative route. The episode-18/46 pod continuity conflict needs a ruling. |
+| 18 | Gohan’s regenerated tail and a strange, apparent moon accompany another Great Ape incident; Goku reaches the road’s end. The captions identify the pod as the projection source; a selected still shows a beam striking it and a secondary guide reports its destruction. | In unaccepted Chapter 19 both tails were retained and the family covers/preserves the machine for Bulma; ownership is not yet identified. Episode 46 says Goku's ship was later found broken in pieces with key parts usable and mostly rebuilt; salvage might reconcile the source episodes, but neither the exact visual aftermath nor recovery was verified. Do not present a definite destroyed-versus-intact contradiction. See `C207`, `C245` and the episode-18 coverage. |
 | 19 | King Kai’s jokes and Bubbles gravity training. | Requires Goku’s earned arrival and permission; do not promise it merely as a formality. |
 | 20 | Gregory exercise and Saiyan-history account. | Distinguish the character’s account from later information about Planet Vegeta’s destruction. |
 | 21 | Goku completes training, is revived, races back; Saiyans arrive early. | Arrival, warning, revival and travel depend on actual deaths and access; the approximate threat remains. |

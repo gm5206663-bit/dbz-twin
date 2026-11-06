@@ -1,0 +1,17 @@
+# The Twin — world power and Episode 37 author clarification
+
+**Owns: the 6 November author-directed world-scale and source-adaptation correction; source facts and authored branch claims remain separate.**
+
+## What the author corrected
+
+The author was not asking only for a stronger-looking rock exercise. They identified a world-scale failure: Dragon Ball already has Moon-destroying fighters, Vegeta threatens Earth with the Galick Gun, and present Goshin is strong enough to destroy Earth. They also place original-Dragon-Ball Goku at light speed or faster and expect the world's speed to reflect that interpretation. Goshin's growth and the brothers' full lived training year remain cumulative; the present ordinary body retains the major real physical-and-ki gains from the fight and his first controlled Great Ape (`O214`).
+
+Treat that Earth-destruction capability as the author's present selected-branch direction (`O225`), not a new scouter reading, fixed multiplier or claim he used full power on the page. Treat the early light-speed interpretation as the author's working branch scale, not a newly verified official numeric speed or a mandatory constant travel speed. Keep both brothers independent and never write Goshin as less capable than Gohan.
+
+In source continuity Kamesennin and Piccolo destroy the Moon (`C141`, `C307`, `W-132`); in this selected branch the natural Moon is still intact, because the original Piccolo/moon event did not occur. Do not import it as a historical branch action. The official manga-based Vegeta profile and the selected battle independently supply the source and branch Galick Gun contexts (`C294`, `O195`). No universal conversion from a scouter number to collateral follows. Ki control, choice of attack, fatigue and surroundings matter, but those caveats do not excuse writing a planet-level fighter as though a heavy stair or a cloud is his real limit. Extreme speed and strength should affect travel, fights and decisions when relevant without requiring constant destruction or invented numbers.
+
+## Episode and style
+
+The author also objected that Chapter 30 did not read as Dragon Ball or as Episode 37, despite allowing butterfly effects. Retain the actual episode's source-ordered adventure and characteristic blend of lively comedy, action, invention, character conflict and emotional stakes; change people, details and outcomes when this branch's established causes genuinely change them. Goku, Piccolo and Kami are alive, both Saiyans are held under temporary watch, and two pods landed; therefore the source's hospital state, dead-friend revival motive, single remaining pod and exact passenger roster cannot simply be imposed. Equally, those differences are not an excuse to omit Bulma's problem-solving, Popo's carpet, the Yunzabit discovery, the voice-activated ship and its Jupiter test. See the [audited source sequence and branch plan](../../Research/The%20Twin/Chapter%20Research/World%20scale%20and%20episode%2037%20correction/Source%20audit%20and%20rewrite%20plan%20%282026-11-06%29.md) and [Chapter 30 comparison](SCENE_COVERAGE_037_CH30.md).
+
+The author has not accepted the revised chapter. The underlying retained Japanese caption source/cut and the full audiovisual performance remain unverified. A green mechanical check cannot establish scale, faithful atmosphere, source completeness or author approval. The criticism may extend to earlier chapters; a broader review remains open and no retroactive audit is claimed here.

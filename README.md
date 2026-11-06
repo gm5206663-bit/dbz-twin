@@ -8,6 +8,8 @@ This is a dated public snapshot, not automatic synchronization or reader accepta
 
 Prior exact archives are kept separately in the owner’s private Drive; they are not mirrored here. Git history preserves repository commits, which are not equivalent to every older archive. Private Sara continuity and the private workshop manifest are not included in this public project.
 
+The full 291-episode subtitle source ZIP is not included in this public repository. The project contains 39 retained caption files and the generated index; to reproduce the full index, supply the separate source ZIP with `The Twin/tools/index_eps.py --source`.
+
 ## Chapters
 
 - [Chapter One — Two Names](The%20Twin/chapters/Chapter_01_Two_Names.md)

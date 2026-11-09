@@ -64,7 +64,7 @@ These are the original planning and review notes combined for convenience. The l
 
 | Source function | Treatment in this chapter |
 |---|---|
-| Gohan dreams about Raditz and his father, then wants to go to his mother | Goku is alive and the boys are at home. Gohan wakes from a Raditz dream, finds Goku and makes his own decision to prepare. There is no invented bereavement or repeat kidnapping. |
+| Gohan dreams about Raditz and his father, then wants to go to his mother | The unaccepted chapter now stages the dream: Raditz threatens Goku and Gohan tries to reach him. Gohan wakes at home, finds his living father and makes his own decision to prepare. There is no invented bereavement or repeat kidnapping. |
 | Roshi and Turtle question whether Earth's defenders can withstand the Saiyans | They have a separate island scene. They have no answer from King Kai; their reference to a year recalls Raditz's original warning, not a newly calculated time remaining. |
 | Bulma and Krillin search for Tien and Chiaotzu | The earlier branch put Yamcha and Puar in their aircar, heading to Korin Tower. The previous evening all four reach the tower; Yamcha and Puar stay there. After a mountain lead, Bulma and Krillin search in the morning, and Krillin recognizes Tien's ki. The scouter and its cell stay separated at the lab; no new scouter reading, repair or verified transmission safety is asserted. The tower lead and search route are authored. |
 | Tien and Chiaotzu train under the waterfall | Tien holds back the water; Chiaotzu helps, then practises his own control. The stone exercises are authored, not claimed as verified shots. |

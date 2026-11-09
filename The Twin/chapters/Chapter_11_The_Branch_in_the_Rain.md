@@ -1,5 +1,7 @@
 # Chapter Eleven — The Branch in the Rain
 
+*Anime episode reference: Dragon Ball Z, Episode 10.*
+
 *Revised story draft; not yet accepted.*
 
 A length of red string hangs from the fork of a fallen tree. Beneath it, the river has left a dark line on the stones.
@@ -82,11 +84,9 @@ He has kept Mina's first book safe through the fall, but he remembers the one th
 
 "Oh, yeah!" Goku says. "I'll take C-6 to Bulma and meet you after you've looked for them."
 
-Goku rests a hand on Goshin's shoulder. "Hey, did you want me to ask Bulma something while I'm there?"
+Goshin looks up at C-6's glass eye. "Can Bulma tell him how his eye works before she touches it?"
 
-"Can she tell C-6 how his eye works before she touches it?"
-
-"Sure. I'll ask her."
+"Sure. I'll ask her," Goku says.
 
 "I'll ask too," C-6 says. "I was using it before either of you found it."
 
@@ -174,7 +174,21 @@ Goshin reaches out. His ki catches the branch and holds it still while Gohan fre
 
 As Gohan backs away, a thorn catches the inside of his wrist. He pulls free and holds up his hand. A narrow scratch runs across the skin.
 
-"Father put a leaf on my knee when I fell once," he says. "It stung."
+The sight brings back another afternoon. He had fallen on the path with Father and scraped his knee.
+
+Goku crouches beside him, rubbing a leaf between his fingers until its juice comes out. "This'll help. It might sting a little, though."
+
+Gohan grips his trouser leg. "A little?"
+
+"Let's find out."
+
+Goku presses the crushed leaf gently against the scrape. Gohan jerks and lets out a yelp. His father holds it there a moment longer, then lifts his hand so Gohan can look.
+
+"See? It's on. Can you walk?"
+
+Gohan tests his leg, sniffs and takes Goku's offered hand. Chi-Chi is waiting farther down the path. He tells both of them about the sting all the way home.
+
+Now Gohan looks up from his scratched wrist. "Father put a leaf on my knee when I fell once. It stung."
 
 "I remember hearing about it all the way home." Chi-Chi opens her water flask and rinses the scratch. She takes a clean cloth from her bag and winds it loosely around his wrist.
 
@@ -618,7 +632,21 @@ The rain begins to thin. Chi-Chi checks the cloth against the dinosaur's side wh
 
 "Long enough to reach the village and find the veterinarian. Keep the food where this one can see it."
 
-Goshin puts another apple piece on the stone. The dinosaur's tongue curls around the fruit and draws it away. Gohan smiles, but he keeps glancing toward the path; the animal hasn't tried to stand again.
+Goshin puts another apple piece on the stone. The dinosaur's tongue curls around the fruit and draws it away.
+
+Gohan imagines the rain stopping and the dinosaur rising easily to its feet. In his daydream, the wound is gone. The animal lowers its neck, and he climbs onto its broad back.
+
+"Come on!" he calls to Goshin.
+
+The dinosaur sets off over the hill, with Goshin running beside it. Its stride is so long that Gohan has to hold on with both hands. He laughs as Goshin catches up and grabs the end of its tail for a few bouncing steps.
+
+They reach an apple tree. The dinosaur stretches up, takes a branch in its mouth and gives it a shake. Apples tumble around them. Gohan catches one and offers it to the dinosaur, but it reaches past him and takes the next one straight off the branch.
+
+"What are you smiling at?" Goshin asks.
+
+Gohan looks down at the animal resting beside him. "I was thinking about what we could do if it gets better."
+
+He glances toward the path again; the dinosaur hasn't tried to stand yet.
 
 Something strikes a tree beyond the shelter. Goshin turns toward the sound.
 
@@ -818,6 +846,10 @@ The red string hangs from the fork of the fallen tree. Below it, the river runs 
 
 <!--
 ## Footer
+
+**Sequential continuation correction, unaccepted (`O352`).** Goshin asks Goku about C-6’s eye without waiting for an invitation. C-6 speaks for himself, and his consent to inspection remains separate. Exact immediate predecessor whole-file SHA-256 `ac3ea274f6c9f6436709c8d341191585836ee174e480d28660a8994e2aaa99de` is in the [prior owner-only project snapshot](https://drive.google.com/file/d/1VlRVXFUnX2_hW28DkXV9ud6RTynczLff/view). See the [reading scope and source limits](../canon/SEQUENTIAL_OPENING_CORRECTION.md). No fresh episode-10 caption reread or complete audiovisual viewing is claimed in this pass.
+
+**6 November 2026 — visible episode reference and flashback correction, unaccepted.** Dramatized Gohan’s earlier leaf-remedy memory and his imagined healthy dinosaur companion, while keeping the present animal’s condition uncertain and the family’s changed rescue. The particular staging and English dialogue are authored, not a shot-for-shot claim. The [audit and immediate predecessor](../canon/EPISODE_REFERENCES_FLASHBACK_AUDIT_2026-11-06.md) record source limits, the exact prior snapshot and the chapter/episode mapping.
 
 **6 November 2026 — Dragon Ball-feel revision from the opening, unaccepted.** The complete chapter, the episode-ten source inventory and retained captions, Toei's short synopsis and the Chapter Twelve opening were reviewed. This pass strengthens Yamcha's lively baseball entrance, his relief and friction with Bulma, the brothers' distinct reactions and choices, the family, the dinosaur's danger and Gohan's wish to learn. The doctor's-yard continuation is the same day as Chapter Ten: Chi-Chi says the bank fell that morning, not yesterday. The dinosaur's recovery, C-6's energy and bent arm remain uncertain; he agrees to the proposed outside inspection and no panel is opened without permission. Gohan acts on his own, Goshin retains his strength and precise ki, Chi-Chi and Goku contribute, and the nonlethal outcome follows the people present rather than a mandatory source death. The scouter remains unpowered, Krillin carries the last whole bean and Yamcha leaves toward Korin Tower with Bulma, Krillin and Puar. Retained captions have unverified origin and cut; they and the short synopsis are not complete video or audio review. The family rescue, laboratory scenes and changed outcomes are authored. The exact immediate predecessor is in the [verified pre-correction project and accepted-original snapshot](../canon/ARCHIVE_INDEX.md#backup-042), Chapter Eleven member SHA-256 `6028d38dead9b99f721a9b943ae3df0155cc30f60c6c574d16032bbf1dbd3c53`, ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. Earlier footer entries remain historical; this revision is not reader acceptance.
 

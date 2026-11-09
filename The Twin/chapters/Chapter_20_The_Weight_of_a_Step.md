@@ -1,5 +1,7 @@
 # Chapter Twenty — The Weight of a Step
 
+*Anime episode reference: Dragon Ball Z, Episode 19.*
+
 *Immersion-revised review draft; not yet accepted.*
 
 *Character-corrected review version of the previously accepted chapter, continuing the selected Chapter 19 review draft. The accepted original is preserved separately; this revision is not yet accepted.*

@@ -24,6 +24,11 @@ As of 1 November 2026. The fetcher requested 604 Toei pages outside Z 1–35 and
 
 DAIMA’s 20 episode listings are separate from the 639 Toei page slots above. A distributor’s [series listing](https://www.videx.jp/detail/anime/v_a_toeianimation/atoa0483_0000/index.htm) reports all 20 episodes and displays 1–10. Its [episode 14 page](https://www.videx.jp/detail/anime/v_a_toeianimation/atoa0483_0014/index.htm) also displays the titles and short Japanese blurbs for episodes 11–20. Individual 11–20 pages were fetched. The listing says the video itself is available only in Japan; a readable page or blurb is **not** viewing an episode. No DAIMA episode footage was watched.
 
+### Later content-quality findings
+
+- The [Toei Z 145 synopsis](https://lineup.toei-anim.co.jp/ja/tv/dragonz/episode/145/) says Krillin and Trunks travel to the future. The complete retained Z 145 caption member instead has them visit the **present** laboratory while discussing how past/future timelines relate. Caption origin and cut remain unverified; the difference is a warning to check the full context, not evidence of a watched episode.
+- The cached Z 199 entry appears to append material belonging to missing Z 189; Z 250 appears to append material from Z 209 and truncated Z 196. A nonempty record is not necessarily a clean one-episode summary. Verify page text, title and neighboring source evidence instead of assigning the whole cached record to the requested episode.
+
 ### Quality limits
 
 - A successful response only means a nonempty title and synopsis were parsed, and the requested number matched the title on a sampled automated check. It does **not** establish that the story summary is error-free, complete, locally available video, or a true scene-level inventory.

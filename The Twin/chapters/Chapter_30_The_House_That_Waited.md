@@ -1,12 +1,14 @@
 # Chapter 30 — The House That Waited
 
+*Anime episode reference: Dragon Ball Z, Episode 37 (the ship and Jupiter test, adapted).*
+
 ## A Promise to Dad
 
 "It was bigger than that," Gohan says.
 
 Goku squints at the three stones on the rail. "How much bigger?"
 
-"The whole stairway came down," Goshin says. He spreads his arms. "I held it up while Ren's crew got underneath."
+"The whole stairway came down," Goshin says. He spreads his arms. "I held it up while Ren's crew put the supports in."
 
 "And I went in through the window," Gohan adds. "The woman inside couldn't get to the stairs."
 
@@ -40,35 +42,47 @@ Goku leans forward, while Krillin keeps one eye on the prince and the other on t
 
 The air trembles when Goshin brings his hands together. Goku's smile widens. He had felt the change in his sons when he returned, but now Goshin lets more of his ki rise, and the broken rails hum underfoot.
 
-Piccolo turns from the gully. He had felt Vegeta's Galick Gun when the prince tried to destroy the Earth. Since that fight and the giant transformation, Goshin's strength has grown enormously. The power rising from the boy now is enough to destroy the planet himself, even in his ordinary body.
+Piccolo turns from the gully, his hand tightening on his cape. He has felt a power meant to destroy Earth once already today, when Vegeta fired his Galick Gun. Goshin's giant body is gone, but the ki that grew during the fight and transformation is still there. The force gathering in the boy could destroy the planet too. Goshin holds his hands steady and aims beyond the ridge, into the open sky.
 
-Goshin aims at the sky. He has no intention of doing that.
+"Watch, Dad! Kamehameha!"
 
-"Kamehameha!"
+Blue light bursts from his hands and climbs above the quarry. It washes the rocks and the faces below in colour. The column stretches through the high cloud and on, its leading edge lost against the sky. Goshin turns his palms, guiding it farther upward, then cuts it off. Its path glows for a moment after the light has vanished.
 
-Blue light leaps from his hands. It streaks above the ridge, bright enough to wash the rocks in colour, then curves upward as Goshin guides it. He cuts the wave off himself, and the light dwindles high above them.
+Far beyond the ridge, people in the city look up. At the quarry, the sound reaches the fighters, and loose grit dances along the rails. Chi-Chi catches the edge of her skirt as the wind rushes past.
 
-For a moment the sky is bright around the place where it vanished. Goshin stays in the air, pleased with the shape he gave the attack and already wanting to try it again. He has kept the power he found against Vegeta; it answers when he reaches for it, even though his hands are small once more.
+Goshin stays in the air, leaning forward to see his father's face through the swirling dust. His hands are still tingling, and he already wants to try the wave again.
 
-A moment later the sound rolls across the quarry, and loose grit rattles against the rails.
+Goku lowers the arm he threw up against the wind. He stares at the sky, then breaks into a grin.
 
-Goku throws an arm up against the wind. "That was great!"
+Goshin drops beside him. "Did you see it?"
 
-Goshin drops beside him before the last gust reaches the rail. "Did you see it?"
-
-"I sure did! And you can control it like that already?"
+"I sure did! You've gotten so strong! And you can steer it like that?"
 
 "We practised in the room," Gohan says, landing next to them. "I can show you mine too."
 
-"I want to see it!"
+Goku plants his feet and lifts his hands. "I'd love to see it up close! Come on, Gohan—let's have that match!"
 
-"And you still owe me a match."
+"Goku," Chi-Chi says. "What did I just tell you?"
 
-"You asked me first," Goku says. "I remember."
+He looks at Goshin, who is rubbing his sore side, and lowers his hands. "Right. The doctor first. But I haven't forgotten our match, Gohan. I want a turn with both of you!"
 
-Goshin folds his arms. "Then I want the winner."
+"I want the winner," Goshin says.
 
-"You're all going to see the doctor first," Chi-Chi says.
+"You haven't seen what King Kai taught me yet." Goku grins at both boys. "Want a look?"
+
+He stays close to Vegeta and gathers his ki. Red light flickers around him; the power rising in it makes Piccolo turn. Goku darts three steps along the rail and back, settling beside Krillin before the grit stirred by his feet has fallen. He lets the red light fade.
+
+"That was the Kaiō-ken! King Kai says it can hurt me if I push it too far, but it gives me a big jump in power."
+
+Gohan's eyes widen. "You'll have to show me how you use it in a match."
+
+"You bet!"
+
+Goshin leans forward. "Can I learn it too?"
+
+"I'll show you what King Kai taught me. I want to see what you can do with it."
+
+Chi-Chi folds her arms. "After the doctor."
 
 "Even me?" Goku asks.
 
@@ -76,7 +90,7 @@ Goshin folds his arms. "Then I want the winner."
 
 Yajirobe peers at the sky. "If there's a winner, make sure he can still make dinner."
 
-Goku laughs, but Vegeta has not joined in. He watches Goshin return to his father's side, and his hand closes over the broken edge of his armour. He remembers the number on the scouter before he discarded it, and the much smaller fist that hit him after both apes had changed back.
+Goku laughs, but Vegeta has not joined in. He watches Goshin return to his father's side, and his hand closes over the broken edge of his armour. He remembers the number on the scouter before he clipped it to his armour, and the much smaller fist that hit him after both apes had changed back.
 
 "Enjoy yourselves," Vegeta says. "You won't have me sitting here forever."
 
@@ -158,17 +172,37 @@ Piccolo has come expecting the guardian to conceal something from him. Instead, 
 
 "What about your mother and father?" Goshin asks.
 
-Kami rests both hands on the head of his staff, looking past the children at the clouds.
+Kami rests both hands on the head of his staff, looking past the children at the clouds. Popo has heard him speak of those years once before.
 
-"There was a letter. It told me to wait for my family; they would come for me. So I waited."
+Long ago, the two of them stood together at the edge of the Lookout. Clouds drifted below the tiles, and Kami gazed toward the distant highlands.
 
-"Did they?"
+"What do you remember from when you were small?" Popo asked.
+
+"A house in a lonely place," Kami said. "I don't remember how I came to be there. There was a letter, telling me to wait for my family."
+
+"Did they come?"
+
+Kami's hand tightened around his staff. "No. But for a long time I believed they would."
+
+In Kami's memory, a small green child sits inside a round room. He unfolds the letter again, tracing the words that tell him to wait. Beyond the doorway, wind passes over bare stone. He goes outside and looks along the empty ridges.
+
+A light crosses the mountains. The child runs after it, stumbling over loose rocks, his heart pounding. He reaches the top of the slope in time to see the light disappear beyond the next ridge. Nobody comes toward him. After a while he walks back to the little house, with the cold wind at his back.
+
+The seasons pass. The boy grows taller. He still searches the sky when he hears a sound, still goes out to the ridge and looks for someone coming. The place offers little to eat, and the letter grows soft along its folds from being opened so often.
+
+At last, no longer a small child, he stands beside the house and looks out across the mountains. He has waited for years. He turns toward the path away from the hollow and begins to walk.
+
+On the Lookout of years ago, Popo listened without interrupting.
+
+"I went back sometimes," Kami told him. "I never found them."
+
+Now Kami faces the two boys and Piccolo. "There was a letter. It told me to wait for my family; they would come for me. So I waited."
+
+"Did they?" Goshin asks.
 
 Kami shakes his head. For a moment Goshin has no answer. He reaches for Gohan's sleeve, and his brother's hand closes around his.
 
-"I stayed for many years," Kami says. "The food was scarce, and no one came. At last I left. I returned sometimes, but I never found them."
-
-He remembers running outside when a light crossed the mountains, certain his family had come, only to watch it disappear again. The wind had been cold on the walk back to the house.
+"I stayed for many years," Kami says. "Food was scarce, and no one came. At last I left. I returned sometimes, but I never found them."
 
 Piccolo's jaw tightens. "And you never thought I should hear this?"
 
@@ -422,9 +456,17 @@ Gohan moves beside him.
 
 He speaks the word again. The platform rises, carrying them into the rounded room.
 
-Dust slips from the rim as the opening closes beneath their feet. Light comes on above a curved seat and a panel covered in unfamiliar marks.
+Dust slips from the rim as the opening closes beneath their feet. Gohan catches Goshin's hand. In Raditz's pod, he had pulled at the locked hatch while Goshin lay hurt beside him.
 
-Bulma's eyes widen. She moves straight to the panel, running her fingers above the symbols without pressing them.
+"Can we open it from in here?" Gohan asks.
+
+"With the same word," Kami says.
+
+Goshin glances at Piccolo. "I could say it right now."
+
+"Not while I'm standing on the door," Bulma says.
+
+Light comes on above a curved seat and a panel covered in unfamiliar marks. Bulma moves straight to the panel, running her fingers above the symbols without pressing them.
 
 The room curves around the low seat, leaving little space to walk behind it. The markings are set into the material rather than painted on, and a dim line of light runs from the panel toward the roof. Gohan studies a row of shapes while Goshin leans over the seat and peers at the space beneath it. Neither finds anything that looks like an ordinary engine.
 
@@ -488,9 +530,13 @@ Gohan looks at Piccolo. "You did?"
 
 "We did." Piccolo glances at Kami. "I knew the words. I didn't know where they'd come from."
 
-She remembers hearing the two opponents exchange words at the tournament, and being unable to make sense of them.
+Bulma remembers the tournament. She is watching from the stands while Piccolo faces the strange man who entered as Hero. The crowd's noise ebbs as the two opponents speak.
 
-"If Nappa was right," Bulma says, "maybe that was the language of Namek."
+Hero says something in words Bulma has never heard. Piccolo answers in the same language, his eyes fixed on the man across the ring. Hero's expression changes, but neither of them explains the exchange to the people watching.
+
+Bulma leans forward, trying to make sense of it. The voices carry clearly enough across the arena; the words mean nothing to her.
+
+Back inside the ship, she looks between Kami and Piccolo. "If Nappa was right, maybe that was the language of Namek."
 
 "Popo learned words from Kami," Popo says. "The word for the entrance means another world."
 
@@ -618,13 +664,19 @@ Gohan looks up at him. "Don't you want to see what it can do?"
 
 Piccolo glances at the ship, then at Kami.
 
-"Someone has to keep you two out of trouble."
+"This ship may tell me where I came from. I'm not leaving it to you two."
 
 "That sounds like a yes," Goshin says.
 
 Below, Kami rests one hand against the curved wall before stepping back with his staff. The platform closes above him, leaving the others in the little room.
 
 Inside, the five travelers gather around the seat and the controls. Piccolo looks down through the viewing panel at Kami, who raises one hand in farewell.
+
+Gohan's tail brushes the back of the seat. "Jupiter has moons. And ours is out there too. We should stay away from the window until we know what we're looking at."
+
+Goshin's tail curls around his waist. "If we looked at a full one, we'd turn into giant apes. We wouldn't fit in here."
+
+"I'll watch the window," Piccolo says.
 
 Bulma settles into the curved seat. "All right. Jupiter. And make sure you know how to tell it to come back."
 
@@ -640,9 +692,21 @@ The reply has come from a machine Kami once called home. Popo looks up at the gl
 
 The floor shudders. Outside, Kami steps away as the four supports lift from the ground. The ship rises over the hollow, hesitates, and then shoots into the sky.
 
-Goshin grabs the edge of the seat, laughing. Gohan catches himself against the wall as the blue overhead turns dark. Earth falls away behind them.
+Goshin grabs the edge of the seat, laughing. Gohan catches himself against the wall. Both boys keep their backs to the window while the blue overhead turns dark.
 
-White clouds curl around its shrinking curve. Goshin tries to spot the quarry, but it has already vanished among the shapes of land and sea.
+Piccolo checks the view. "It's Earth. No moon in the window."
+
+The brothers turn. White clouds curl around the planet's shrinking curve. Goshin tries to spot the quarry, but it has already vanished among the shapes of land and sea.
+
+"Can you see them?" he asks.
+
+Gohan leans over his shoulder. "Not from here."
+
+"Father will be looking up."
+
+"Mother too," Gohan says. "She'll want to see us coming back."
+
+Their parents are somewhere down there, and this time Goshin has something else to tell them when he gets home. As the ship turns away, Gohan takes his brother's sleeve and they face into the cabin again.
 
 For an instant Bulma forgets to be frightened.
 
@@ -684,7 +748,11 @@ Popo speaks to the ship, and the cover releases. Bulma scrambles back to the pan
 
 "Your face did."
 
-Beyond the viewing panel, a vast striped sphere swells out of the darkness. The ship slows. Gohan steps forward, and Goshin joins him at the glass.
+Beyond the viewing panel, a vast striped sphere swells out of the darkness. The ship slows. The boys keep their backs to the window while Piccolo checks the view again.
+
+"The planet fills the window," he tells them. "No moons in sight."
+
+Gohan turns, and Goshin joins him. They stay where the clouds fill their view.
 
 "That's Jupiter," Bulma says. For once, even she sounds a little breathless. "We made it."
 
@@ -692,13 +760,15 @@ Popo looks at the planet, then at the boys beside the window. He remembers Kami 
 
 Cloud bands stretch across the enormous planet. A storm turns among its clouds, big enough to make the Earth they have left behind seem small.
 
-Gohan has read about the planets, but no book had prepared him for the size of the one filling the window. Goshin leans from side to side, trying to see around it, until his brother points out a smaller bright shape nearby. The two of them crowd together at the glass, arguing over whether it could be one of Jupiter's moons.
+Gohan has read about the planets, but no book had prepared him for the size of the one filling the window. Goshin follows one of the cloud bands with his finger until it curves out of sight.
 
 Goshin has crossed enormous distances on Earth, but he has never been so far from his parents. He reaches for Gohan's hand, and his brother squeezes it without taking his eyes off the planet.
 
-Then Goshin sees another bright point beyond the first, and both boys start pointing at once.
+"Do you think that storm ever stops?" Goshin asks.
 
-Goshin presses his palms to the glass. "Dad is going to be so jealous."
+"I don't know. We can look it up when we get home."
+
+Goshin presses his palm to the glass. "Dad is going to be so jealous."
 
 "Mother said straight back," Gohan reminds him.
 
@@ -720,6 +790,16 @@ The panel beeps.
 
 <!--
 ## Footer
+
+**6 November 2026 — independent Chapters 1–31 review correction, unaccepted.** Goshin now accurately tells Goku that Ren's crew put supports in while he held the stairs. In Chapter Twenty-Nine they worked from the side rather than going underneath. His strength and the crew's independent decisions remain unchanged. The exact pre-review chapter is in the [owner-only project predecessor](https://drive.google.com/file/d/1ahbUoYCJFbuV8XmdbhxvRi01J6Hj8h0T/view), SHA-256 `ea9827382934394a1961746af3bed3a0061e64ec2d42c38dbabc44f0b75e1e66`. The previous footer is retained below. No author acceptance or source-video verification is implied.
+
+**6 November 2026 — Goku and scouter correction, unaccepted.** Goku actively seeks matches with his sons, who have grown much stronger, and briefly demonstrates the Kaiō-ken he previously learned, without fighting either injured child or establishing a ranking; Goshin asks to learn but has not learned it on-page (`O236`). Vegeta remembers the scouter before clipping it to his armour, not discarding it: Chapter 25 shows the clip and Chapter 27 has Piccolo remove the device (`O237`). The exact [immediate non-private predecessor](https://drive.google.com/file/d/1h_xvvuuetvxgA0xb6-AUf9cYLiC50tL0/view) is owner-only on Drive; this chapter's preceding SHA-256 is `1bf478afc2c410e11981cfc7fb06a4c2fa26b0029c0a3d10f1f910b5dedccae7`. Earlier footer entries remain historical; no acceptance or public update is implied.
+
+**6 November 2026 — tail and moon continuity correction, unaccepted.** Gohan, Goshin and Vegeta retain their tails in this branch. The brothers already know the full-moon danger, so they avoid unexamined views during the Jupiter test; Piccolo checks the window before they look at Earth and Jupiter. The former passage in which they looked for possible moons is superseded. Goshin's prior controlled transformation and present artificial-moon capability remain (`O235`). The exact [pre-correction project](https://drive.google.com/file/d/1SrZo7AYgyDkSKzsRNGp6uqcf6BRTEfdV/view) is owner-only on Drive; this chapter's preceding SHA-256 is `a8488f3ac03ecf6cc249cb41b6cef3d859d1735f99d45667e45528e3066d5ffd`. No new acceptance or GitHub publication is implied.
+
+**6 November 2026 — visible episode reference and flashback correction, unaccepted.** Staged the earlier Kami–Popo conversation, Kami’s lonely childhood, growing up and departure, and Bulma’s separate tournament-language recollection. The present characters do not see one another’s private memories; the ship test and living branch remain. The particular staging and English dialogue are authored, not a shot-for-shot claim. The [audit and immediate predecessor](../canon/EPISODE_REFERENCES_FLASHBACK_AUDIT_2026-11-06.md) record source limits, the exact prior snapshot and the chapter/episode mapping.
+
+**6 November 2026 — focused story-writing review, unaccepted.** The display carries Goshin's planet-capable ki through Piccolo's reaction, the directed wave and Goku's response rather than treating a small effect as his limit. Gohan's response to the ship recalls the actual Raditz-pod confinement, Goshin's playful answer fits their present choice, Piccolo goes for his own Namek questions, and the boys share a first view of Earth. These are local scene revisions, not a new gain, new destination or reader acceptance. The [immediately preceding selected chapter](https://github.com/gm5206663-bit/dbz-twin/blob/46de90a4d8847a3587d58019f12d251050c2187e/The%20Twin/chapters/Chapter_30_The_House_That_Waited.md) remains in the existing public project at SHA-256 `30344dfbd9ee1d6a1ef11e63b67b505433df125cdd340415a8d303508da89620`. The broader world-speed and earlier-story review remains open.
 
 **6 November 2026 — world-scale and Episode 37 correction, unaccepted.** The author clarified that the problem was the Dragon Ball world’s overall power and speed scale, the loss of Episode 37’s original adventure, and the story’s tone—not merely an undersized demonstration. This revision starts from the actual Chapter 29 handoff and restores the source episode’s Bulma/Popo spaceship discovery, voice-language problem, Jupiter test and comic accidents through changed branch causes. Living Kami and Piccolo, two captured Saiyans, two landed pods, the brothers and their parents produce a different roster and choices; one pod is destroyed during Bulma’s supervised test, while the second is not falsely claimed destroyed. The post-battle, post-first-ape Goshin is Earth-destruction capable per author direction; the user’s original-Dragon-Ball speed interpretation is a branch baseline, not a newly measured canonical speed. The previously invented comparison with both brothers’ earlier combined waves is superseded, not an established new fact (`O214`, `O225`). The [exact immediate predecessor](../canon/ARCHIVE_INDEX.md#backup-074) preserves the prior corrected chapter, SHA-256 `3a5419a53a58b21c469432e61326d7635e55b8eb98ca227c0ff731a29b7e5c2c`. All earlier footer text below is preserved as historical where it conflicts with this revision. No Chapter 31, Namek departure, author acceptance or remote synchronization is implied.
 

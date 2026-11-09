@@ -1,6 +1,10 @@
 # Episodes 37–39 — source and branch comparison for Chapter 29
 
+**6 November remembered-moon correction:** In the selected family conversation Goshin says he remembers Vegeta's light and can make one too; he lets a small ordinary-ki bead fade rather than producing a full moon, and Gohan decides whether and when he wishes to look. The ability is the author's current direction, not a canon claim that Goshin already appeared in the source or a reason to invent an earlier full use (`O229`). See the [bounded record](HYBRID_POWER_AND_MOON_2026-11-06.md).
+
 **Owns: the evidence boundary, source-order comparison, preservation and exact handoff for the unaccepted Chapter 29 continuation.**
+
+**Later 6 November Goku/continuity review:** Chapter 29 now shows Goku asking Vegeta for a future match, then protecting his sons when Vegeta threatens them. He tries Gohan's moon-shot position rather than redundantly following it twice. No fight, release or custody decision follows (`O236`). The [bounded review](GOKU_AND_CONTINUITY_AUDIT_2026-11-06.md) is authored branch work, not a new source viewing; earlier endpoint descriptions remain historical where superseded.
 
 **6 November — current Dragon Ball-feel revision, unaccepted:** Goku follows Gohan's account, the rear-window rescue and informed doctor visit gain physical detail, and the existing outcomes and open questions remain. Chi-Chi now recalls the actual blue-wave redirection instead of an unshown hand-block; Hatch's banter refers to a future additional door. Full retained 37–39 captions and Toei's short synopses were reread, not full video/audio; caption origin/cut remain unknown. No confirmed craft, trip, diagnosis or new scan follows. Historical treatment below is retained.
 

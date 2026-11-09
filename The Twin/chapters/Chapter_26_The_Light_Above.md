@@ -1,5 +1,7 @@
 # Chapter Twenty-Six — The Light Above
 
+*Anime episode reference: Dragon Ball Z, Episodes 27 and 30–32 (selected elements; divergent battle).*
+
 *Review draft; not yet accepted.*
 
 Vegeta twists between the brothers and drives his free elbow toward Gohan. Gohan ducks beneath it. Goshin still has hold of the prince's other arm; he pulls Vegeta around, away from his brother, and strikes him across the chest.
@@ -16,7 +18,7 @@ Gohan comes at Vegeta from below. The Saiyan kicks down, and Gohan turns sideway
 
 Goshin's fist lands against Vegeta's side. The prince gasps and spins away, one arm pressed against his armour.
 
-"Let him go," Goshin says. "We'll let you take your ship."
+"Leave everyone alone," Goshin says. "We'll let you take your ship."
 
 Vegeta looks toward the ground. At the western wall, Piccolo and Krillin are crouched beside Nappa. Farther out, Tien, Chiaotzu and Yamcha are moving away from the tracks.
 
@@ -268,7 +270,7 @@ Tien and Yamcha lift Nappa between them. Chiaotzu reaches out with both hands, s
 
 Goshin raises his palm. The slab stops in midair, breaks into three pieces under the pressure of his ki and swings away from the fighters. He lowers the pieces beyond the tracks while flying after Vegeta.
 
-The prince is moving upward, one fist closed. Goshin catches his shoulder and pulls him around. Vegeta twists, fires a flash into the space between them and throws the glowing object in his other hand high over the quarry.
+The prince is moving upward, one fist closed. Goshin sees light forming in Vegeta's other hand and feels the ki gathering there. He catches the prince's shoulder and pulls him around. Vegeta twists, fires a flash into the space between them and throws the glowing object high over the quarry.
 
 Goshin shields his eyes from the flash and reaches for Vegeta again. The prince knocks his arm aside and follows the rising light with his gaze.
 
@@ -300,35 +302,21 @@ The rock beneath the brothers shakes.
 
 ---
 
-## On the Road
+## Keeping It Together
 
-Goku runs through a bank of cloud. Moisture gathers on his face and is pulled away by the wind of his passing. Ahead, Snake Way curves out of sight again.
+Gregory darts around King Kai's house. Goku follows his flight with the sphere above his palms, shifting his feet as King Kai showed him. This time the light stays together through the turn.
 
-He leans into the bend and reaches inside his clothes to check the supply capsule. His hand closes around it before he lets it settle back against his chest.
+Bubbles sits on the car roof with both hands over his eyes. Goku laughs.
 
-"Hang on, you two."
+"I can see the car, Bubbles."
 
-He remembers Gohan's message through Kami: a whole year in the room, and things the boys want to show him. He grins despite the burning in his legs.
+"He can see it," King Kai agrees. "Now let's see whether he can keep seeing it while Gregory tries to fool him."
 
-"I want to see it all."
+Gregory changes direction. Goku turns after him without letting the sphere drift. He thinks of Gohan and Goshin in the room together, and of Chi-Chi waiting to hear that he is coming home.
 
-The road makes a wide turn ahead. Through a gap in the cloud, Goku sees the next stretch coming back toward him. He jumps from the edge and flies across the open space, keeping his eyes on the road beneath him. Wind tugs at his clothes. He adjusts his course and lands running on the far side.
+"One more," he says. "Then I want to take the test."
 
-"Thanks, Gregory. I didn't fall."
-
-The road uncoils into another stretch beneath his feet. Goku thinks of Chi-Chi hearing that the Saiyans have come. She will be looking after the boys and anyone else she can reach; he wants to be there with her.
-
-He bends forward and runs faster.
-
-On the little planet, King Kai turns slowly toward the sky. Bubbles sits beside the house, the hammer across his lap.
-
-"They're still fighting," King Kai says.
-
-Bubbles makes a questioning sound.
-
-"Goku is on his way. I just don't know whether he'll reach them in time."
-
-King Kai places a hand on the fence and continues to watch.
+"One more," King Kai agrees.
 
 ---
 
@@ -498,7 +486,7 @@ Bulma follows her gaze. "In the middle of the day?"
 
 "The boys know not to look at a full moon." Chi-Chi watches the strange light. "But if they don't know what that is—"
 
-A shout comes from the window. Popo has reached the two people upstairs, and Puar is helping one onto the carpet. Chi-Chi opens the car door for the woman beside her.
+A shout comes from the window. Popo has reached the two people upstairs, and Puar is helping one onto the carpet. Chi-Chi opens the car door for the woman beside her, and the woman climbs in.
 
 "Once they're down," she says to Bulma, "we'll take them to the gym. Then I want to get closer to the quarry."
 
@@ -578,6 +566,15 @@ The artificial moon burns overhead. Below it, the prince and the boy face each o
 
 <!--
 ## Footer
+
+**Sequential continuation correction, unaccepted (`O353`).** The woman Chi-Chi brought from the doorway enters Bulma’s car; Popo and Puar separately help the upstairs people. Exact immediate predecessor whole-file SHA-256 `13518db64081c03063f1d0396b11cee2d386158ca95f9dfbb76407d5e3de5522` is in the [owner-only opening checkpoint](https://drive.google.com/file/d/125KxF2blvjB0KKVCWMeYgCJgWEblfG6w/view). [Scope and source limits](../canon/SEQUENTIAL_CORRECTION_CH25_32.md). No complete audiovisual viewing or reader acceptance is claimed.
+
+**2026-11-09 UTC audit (supplied date and observed sandbox UTC date), unaccepted.** Goshin asks Vegeta to leave everyone alone, rather than using wording that suggests an unshown hostage. His offer, the fight and its outcome are unchanged (`O339`). The exact [preceding project snapshot](https://drive.google.com/file/d/1xudPYe85GHz8mbnQ-yNtqoP0vi3Jfo5K/view) is owner-only; this chapter's preceding SHA-256 is `8e775c93009c15bdce59d028a926b6b777f644e002f7c26fec960ca33381838c`.
+
+**2026-11-09 UTC (observed sandbox clock) — canon and continuity correction, unaccepted.** The Snake Way chronology has been coordinated across Chapters 23–28: Goku stays to finish training under King Kai's uncertain, mistaken arrival estimate, then leaves urgently after the late warning. Family, rescue, travel and reunion are restaged without a speed cap or arbitrary afterlife delay. [Exact pre-correction project and research predecessor](https://drive.google.com/file/d/1hMI7EqMjwOZdwNglBr7iRM2WPBHZ0r28/view). The earlier footer entries below describe their historical versions. The separately accepted original Chapter 20 remains unchanged.
+
+
+**6 November 2026 — remembered Power Ball correction, unaccepted.** Goshin sees and feels Vegeta's ki gathering in the hand holding the forming light before the flash and throw; the prince still creates the ball. The author confirms Goshin remembers the technique and can make such a moon himself (`C295`, `O229`); his own use is not shown in this chapter. His first Great Ape remains conscious and controlled, with the already-established later retained growth. The exact preceding chapter SHA-256 `6f00df1af53ad2d0f220232f14292b4dfbceafd3f617d71e59007929be9509ef` is in the [owner-only project predecessor](https://drive.google.com/file/d/11CMGEOCKlI3sTZtgs_pLNHbJMl9jaszX/view). No acceptance or GitHub update is implied.
 
 **6 November 2026 — Dragon Ball-feel revision, unaccepted.** Goshin's first giant-form experience gains physical wonder while remaining immediately conscious and controlled, with real developing strength and ki. He is mindful of his friends without an imposed fear or loss of control; Gohan chooses his own part. Gohan's compassion, the Upa/Yajirobe exchange and the changed battle continue naturally. Vegeta's stare no longer assumes he recognizes Goku's face before meeting him; the narrated father–son resemblance and Chi-Chi's eyes remain. Full retained episodes 31–32 captions and short Toei synopses were reread; the earlier separately documented 25–30 caption inventory was not repeated in this pass. No full video/audio was examined, and caption source/cut remain unknown. Exact selected predecessor SHA-256 `235dbb156b6812c0bb6d30875c6e8be2eb189fb466cf53801c074907ea074855` is in the [verified 122-member pre-correction archive](../canon/ARCHIVE_INDEX.md#backup-042); the entire earlier footer follows. No acceptance or remote sync is implied.
 

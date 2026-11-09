@@ -1,5 +1,7 @@
 # Chapter Twenty-One — The Next Lesson
 
+*Anime episode reference: Dragon Ball Z, Episode 20.*
+
 *Immersion-revised review draft; not yet accepted.*
 
 *Review draft, continuing the selected unaccepted Chapter 20 correction. The preserved pre-correction Chapter 20 remains accepted; this chapter is not accepted.*
@@ -488,9 +490,17 @@ Gregory sits again.
 
 Goku rests his hands on the table. "Were they fighting each other?"
 
-"The Saiyans began a war against them. The Tsufurians had weapons, but the Saiyans kept attacking. When a full moon appeared on that planet, the Saiyans could become enormous apes."
+"The Saiyans began a war against them. The Tsufurians had weapons, but the Saiyans kept attacking."
 
-Goku looks down at the place where his own tail used to be.
+In King Kai's account, a city rises beneath the sky of Planet Vegeta. Smaller figures hurry between its towers as Saiyan fighters come over the broken ground outside. The defenders raise their weapons. Light flashes across the battlefield, and the Saiyans are driven back from the city walls.
+
+They come again. A fighter with a tail swings a heavy club; a Tsufurian fires from behind a piece of machinery. The fighting spreads through the streets, past damaged buildings and people trying to escape.
+
+Then a full moon hangs above the planet. The Saiyans look up. Their bodies swell, their clothing pulls tight, and enormous apes stand where the fighters had been. One raises its arms over the city; buildings break beneath its hands. The defenders' weapons flash against shapes far larger than themselves.
+
+"When that moon appeared," King Kai says, "the Saiyans could become enormous apes."
+
+Back at the table, Goku looks down at the place where his own tail used to be.
 
 "Roshi told us about that. He saw me change once."
 
@@ -824,6 +834,8 @@ On King Kai's planet, the hammer hangs beside the house. The hook bends under it
 
 <!--
 ## Footer
+
+**6 November 2026 — visible episode reference and flashback correction, unaccepted.** Dramatized the Saiyan–Tsufurian conflict and ape attack as a bounded visual cutaway within King Kai’s uncertain historical account. The particular staging and English dialogue are authored, not a shot-for-shot claim. The [audit and immediate predecessor](../canon/EPISODE_REFERENCES_FLASHBACK_AUDIT_2026-11-06.md) record source limits, the exact prior snapshot and the chapter/episode mapping.
 
 **6 November 2026 — Dragon Ball-feel revision, unaccepted.** Goku's frank curiosity and Gregory's pride make their introduction livelier; Goshin enjoys and physically gains strength and ki in his chosen spar, and Goku's memory of Raditz has a visible reaction. Baba and Roshi retain sibling friction while her future reading and Grandpa request remain unresolved. The word-chain now alternates speakers after Elephant; the three described boat doors include the front door already added in Chapter 18 rather than implying three newly added doors. The two-week Gregory task, independent family choices, uncertain Saiyan account and room handoff remain. The full retained episode-20 caption and Toei synopsis were reread, not complete video/audio; caption origin and cut remain unverified. The exact predecessor (SHA-256 `6238cb0eb9d9058aa3ffe466027d254b9d2e69f95a1206e0465557e3eb73fe08`) is in the [verified 122-member pre-correction archive](../canon/ARCHIVE_INDEX.md#backup-042); the complete prior footer follows unchanged. This revision is not accepted or remotely synchronized.
 

@@ -1,5 +1,7 @@
 # Chapter Four — The Rescue
 
+*Anime episode reference: Dragon Ball Z, Episodes 2–3 (the altered abduction and rescue).*
+
 *Revised story draft; not yet accepted.*
 
 ## 1 · The Island
@@ -436,6 +438,8 @@ There is no answer. Gohan glances at the truck, then at Raditz's back. He slips 
 
 Raditz bends over the pod's hatch control. Gohan pulls again. He gets Goshin behind the front wheel and crawls under the truck with him.
 
+Through the space beneath the truck, he sees a man lying in the dirt on the other side. "Mister?" he whispers, but the man doesn't move. Raditz is still by the pod; Gohan draws Goshin closer.
+
 "We'll wait here," Gohan whispers. "Father will find us."
 
 He holds Goshin against him and watches Raditz through the gap beside the wheel.
@@ -762,6 +766,8 @@ At Kame House, a wave reaches the broken boards and recedes. The island is empty
 
 <!--
 ## Footer
+
+**Opening sequential correction, unaccepted.** From beneath the truck, Gohan sees a motionless man and calls without witnessing how he was hurt; the existing escape and fight remain. Chapter Six carries his report forward (`O351`). The exact immediately preceding whole-file SHA-256 is `4649403f62ef70def7feb9e69a1a25c7075f33dcbf7b8ebeb85357a4af6f521b` in the owner-only [prior project snapshot](https://drive.google.com/file/d/1VlRVXFUnX2_hW28DkXV9ud6RTynczLff/view). The [correction record](../canon/SEQUENTIAL_OPENING_CORRECTION.md) gives scope and source limits. No full audiovisual review or reader acceptance is implied.
 
 **5 November 2026 — Dragon Ball-feel revision from the opening, unaccepted.** The full chapter was reviewed and substantially revised, especially the island fight, the friends' rescue decision, the pod escape and the opening crater action. Goshin's flight begins instinctively and he adapts quickly; he learns the deflection by observation, actively protects his brother, grows in the fight and is taken only after Raditz knocks him unconscious. Gohan acts independently during captivity and the brothers escape together; the burn, single radar, **640**, **760** and **1,100** authored snapshots, source-based readings and existing Chapter Five handoff remain. Krillin and Roshi volunteer despite the revival risk, and Piccolo's alliance remains temporary and self-interested. A chicken gag in the home cut belongs to the same authored day, not a new visit. New dialogue, two-child action, flight and combat blocking are authored; the episode-3 spoken-caption and secondary-image evidence does not establish continuous audiovisual performance. Caption origin and cut remain unverified. The immediate predecessor is byte-preserved in the [verified pre-correction project and accepted-original snapshot](../canon/ARCHIVE_INDEX.md#backup-042), Chapter Four member SHA-256 `858492e693ccdaf943d7945b0d047b4ef58089a8a8ba94cd4bcf58cd3bc1fd9e`, ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. This revision is not reader acceptance; earlier footer entries remain historical where superseded.
 

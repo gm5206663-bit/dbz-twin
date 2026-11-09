@@ -26,8 +26,14 @@ DEFAULT_CAPTIONS = ROOT / 'canon' / 'captions'
 # index. This is a heuristic, NOT proof that every boundary is perfectly clean.
 WINDOW_SECONDS = 29 * 60
 # Recorded spoken-caption reads, not a claim that the indexed source is
-# authentic or that video was watched. See the dated reviews for 37–117.
-FULL_READ = set(range(1, 118)) | {183, 184, 205, 206, 207, 208, 256, 257}
+# authentic or that video was watched. See the 37–117 reviews and the later
+# world-and-anime study in the workshop's Original Episode and Franchise Research.
+FULL_READ = (
+    set(range(1, 118))
+    | {183, 184, 205, 206, 207, 208, 256, 257}
+    | {123, 125, 139, 145, 153, 169, 170, 171, 181, 182, 191,
+       200, 201, 212, 229, 237, 253, 254, 285, 288, 291}
+)
 TERMS = {
     'moon': r'満月|月が|お月|月を|月の|月は',
     'tail': r'尻尾|しっぽ',

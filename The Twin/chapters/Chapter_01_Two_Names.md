@@ -1,6 +1,16 @@
 # Chapter One — Two Names
 
+*Anime episode reference: Dragon Ball Z, Episode 1.*
+
 *Revised story draft; not yet accepted.*
+
+## A Quiet World
+
+Children race around a farmhouse while the grown-ups work in the fields. One boy ducks behind a fence, then darts out again when his friend comes looking for him. A pair of tall, pink-feathered birds lift their heads from the grass and watch them go.
+
+A woman calls the children away from the tools. They answer together, then set off toward the house, still arguing about who reached the fence first.
+
+Far above the fields and the blue sky, a small round pod approaches the Earth. No one below can see it yet.
 
 ## The Mountain Morning
 
@@ -78,7 +88,7 @@ Goku takes a few longer strides. Goshin rides the bouncing tree, laughing and ho
 
 "Both of you watch the washing!"
 
-Goku ducks a branch under the line. Goshin hops off, catches the trailing end before it can hit the fence, and helps lower it beside the chopping block. The impact shakes a pair of trousers off their peg. Chi-Chi catches them before they land.
+Goku ducks a branch under the line. Goshin hops off, catches the trailing end before it can hit the fence, and helps lower it beside the chopping block. The impact shakes a pair of trousers off their peg. Chi-Chi catches them before they land. Goku takes the axe from his belt and sets its blade into the chopping block.
 
 "See?" Goku says. "Didn't touch a thing."
 
@@ -136,7 +146,7 @@ On the way home he keeps watching the sky for Nimbus. It doesn't appear. He runs
 
 ## The Visitor
 
-Far away, a farmer is working in a broad field. His plough has cut dark lines across the earth, and his truck waits beside the crop. He pauses to drink from a bottle when a light streaks across the sky.
+Back at the farm, far from the mountain, a farmer forks hay into the bed of his truck. He pauses to drink from a bottle when a light streaks across the sky.
 
 It gets bigger.
 
@@ -148,7 +158,7 @@ He climbs into the truck, grabs his shotgun and drives toward it.
 
 "A meteor?" He peers over the steering wheel. "Never seen one land like that."
 
-He parks at the rim. Down in the crater lies a round metal pod, half buried in the earth. Its shell is scorched, but there is a window in it—and a hatch.
+He parks at the rim and climbs out, leaving the driver's door open. Down in the crater lies a round metal pod, half buried in the earth. Its shell is scorched, but there is a window in it—and a hatch.
 
 The hatch clicks open.
 
@@ -172,7 +182,7 @@ The report cracks across the field. The stranger's hand snaps shut in front of h
 
 The farmer lowers the gun a fraction. He has never seen anyone catch a bullet. The stranger flicks it back at him.
 
-The gun breaks apart. The farmer is thrown against his truck and falls to the ground. He does not get up.
+The shot tears through the gun and strikes the farmer. He hits the truck and falls to the ground. He does not breathe again.
 
 The device chirps again. **322** appears on the lens beside a separate distance marker. The stranger turns toward the distant hills.
 
@@ -410,7 +420,7 @@ He's in the yard before Chi-Chi reaches the door. Nimbus descends with Goku and 
 
 "Gohan!"
 
-Goshin throws his arms around him. Gohan hugs back, dripping on his brother's shoulder.
+Goshin throws his arms around him. The boys stand almost the same height, though Goshin's shoulders are a little broader. Gohan hugs back, dripping on his brother's shoulder.
 
 "I looked for you by the cedar," Goshin says. "Did you hear me?"
 
@@ -550,12 +560,20 @@ Piccolo remains standing until the stranger is a distant point. Then his knees b
 
 Far above the sea, the stranger speeds toward the new signal. "Kakarot... have you forgotten the pride of the Saiyans?"
 
-Ahead of him, a small golden cloud carries a father and his two sons toward an island.
+Long ago, on a damaged world, a round space pod waits on the ground. Armoured figures stand nearby as one of them places a black-haired baby inside. The child's tail curls beside him.
+
+The hatch closes. The pod lifts past the watching figures and rises into the sky, leaving the battered landscape below.
+
+Now, ahead of the stranger, a small golden cloud carries a father and his two sons toward an island.
 
 > **NEXT TIME — A stranger reaches Kame House and calls Goku by another name. Two boys stand beside their father as he comes down.**
 
 <!--
 ## Footer
+
+**Opening sequential correction, unaccepted.** Added the authored quiet-country/pod prologue and source-informed hay loading and farmer death; set down the axe on-page and showed the established twin build. The death follows one secondary synopsis, not verified footage. The later response is in Chapters Four and Six (`C326`, `O349`, `O351`). The exact immediately preceding whole-file SHA-256 is `2fb472d6156d1c28439655087c9f4d7276d0e6d90a37dfac25590ba4157414b8` in the owner-only [prior project snapshot](https://drive.google.com/file/d/1VlRVXFUnX2_hW28DkXV9ud6RTynczLff/view). The [correction record](../canon/SEQUENTIAL_OPENING_CORRECTION.md) gives scope and source limits. No full audiovisual review or reader acceptance is implied.
+
+**6 November 2026 — visible episode reference and flashback correction, unaccepted.** Added a clearly bounded long-ago infant-pod departure cutaway before the present island approach, informed by the secondary episode-one account. The particular staging and English dialogue are authored, not a shot-for-shot claim. The [audit and immediate predecessor](../canon/EPISODE_REFERENCES_FLASHBACK_AUDIT_2026-11-06.md) record source limits, the exact prior snapshot and the chapter/episode mapping.
 
 **5 November 2026 — opening Dragon Ball-feel revision, unaccepted.** Following the author's instruction to diagnose and correct from Chapter One, the entire opening has been reworked as story: more direct, distinct family voices, physical comedy, Goshin actively searching and genuinely helping with the tree, Chi-Chi's practical skill and agency, Gohan's own curiosity and choices, and a sharper Raditz/Piccolo contrast. Gohan's rescue and the established island handoff remain; the early **322** and **334** strength snapshots remain authored and separate from the source-spoken distances **4,880** and **12,909**. Goshin, the new family material and precise blocking are authored, not source claims. The immediate predecessor is byte-preserved in the [verified pre-correction project and accepted-original snapshot](../canon/ARCHIVE_INDEX.md#backup-042), Chapter One member SHA-256 `f7144aaef9648d8d88792153f5fe233b6a87d7999e03b7b179a0952d6d7703da`, ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. The caption archive's origin and cut and complete video/audio remain unverified; the revision is not reader acceptance. See [episode-one coverage](../canon/SCENE_COVERAGE_001.md). Earlier footer notes below are historical where superseded.
 

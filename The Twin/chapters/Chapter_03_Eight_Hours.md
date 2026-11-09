@@ -1,5 +1,7 @@
 # Chapter Three — Eight Hours
 
+*Anime episode reference: Dragon Ball Z, Episodes 3–6 (selected household scenes).*
+
 *Revised story draft; not yet accepted.*
 
 ## The House After They Leave

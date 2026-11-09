@@ -1,5 +1,7 @@
 # Chapter Twenty-Eight — What We Carry
 
+*Anime episode reference: Dragon Ball Z, Episode 36 (divergent aftermath).*
+
 *New local review draft; not yet accepted.*
 
 The wind runs through the broken rails. Nappa lies against the quarry wall, looking past Piccolo toward the prince.
@@ -376,41 +378,41 @@ This time Goshin grins without letting it go.
 
 ---
 
-## A Bend in the Road
+## The Bags
 
-Goku runs through a bank of cloud and comes out on the other side. The road curves ahead, empty except for its own long shadow.
+At the Lookout, Popo finds the two bags beneath the shelter by the passage. Gohan's target page and Hatch's drawing still lie on top. He finds the folded letter and slips the loose pages safely into the same bag without bending them.
 
-"Goku!" King Kai calls.
+The page of days remains under its stone on the bench. Kami stands near the edge of the tiles.
 
-"How are they?"
+"The family is at the quarry," Popo tells him. "Both boys are awake. Chi-Chi is with them."
 
-"The fighting has stopped. Both Saiyans are alive, and your friends are watching them."
+"And Piccolo?"
 
-Goku slows for one stride. "The boys? Chi-Chi?"
+"He is there too."
 
-"They're together. Goshin is back to his ordinary size. The other Saiyan woke up, and Goshin stopped him from attacking his companion."
+Kami's hand closes around his staff. "Good. I tried to reach King Kai when the Saiyans arrived. I have not heard an answer."
 
-Goku lets out a breath. He had wanted to reach Earth before the fight began. He remembers telling Kami he would be back in time, and hearing King Kai admit how long the road would take.
+Popo takes up the bags, settles them on his carpet and starts back toward the quarry.
 
-"They had to do it without me."
+Goshin rises as the carpet comes over the ridge. Popo sets the bags beside Chi-Chi while Krillin keeps watch on Vegeta.
 
-When he left, both boys had fitted easily beneath his arms. He has heard about their year, but he has not yet seen the changes Chi-Chi has described.
+"Did Kami hear from Father?" Gohan asks.
 
-He wants to hear how they stopped the Saiyans. First he wants to hold them.
+"Not yet. He is still at the Lookout."
 
-"They did. The danger isn't necessarily over, so keep moving."
+Gohan opens one of the bags. Inside are the old shirt he showed their mother and a pair of trousers from their spare things. He holds them out to Goshin, who carries them behind the car to change while Gohan takes his place watching Vegeta.
 
-"I'm moving!"
+The trousers fit well enough. The shirt's sleeves end a little high at Goshin's wrists, and his feet are still bare. When he returns, Chi-Chi folds the blanket and leaves it on the car seat.
 
-Goku leans into the next bend. Wind tugs at his clothes; the capsule is still secure inside them. He passes the end of the curve, and the clouds open ahead.
+"That was the shirt you showed me this morning," she says.
 
-Far in the distance, the shape of the entrance stands above the road.
+"It might have looked pretty small when I was big."
 
-"King Kai! I can see it!"
+"It wasn't with you then," Gohan says.
 
-"Good. I'll let Kami know you're approaching."
+"That's why it still fits."
 
-Goku fixes his eyes on the entrance and runs.
+Goshin finishes tying the trousers and comes back to the watch.
 
 ---
 
@@ -456,7 +458,7 @@ He looks past them at Vegeta and Nappa. His hand moves to the sword at his waist
 
 Launch takes in the broken tracks and the gouged hillside. Then she sees Chi-Chi and the boys and hurries toward them. Yajirobe follows more slowly, staying well clear of the Saiyans.
 
-"Goshin!" Launch stops beside him. "What happened to your clothes?"
+"Goshin!" Launch stops beside him. "Why aren't you wearing shoes?"
 
 "He got bigger," Gohan says.
 
@@ -536,7 +538,7 @@ Gohan looks at the prince, then at Nappa. He wants to go back to the people in t
 
 "I will," Bulma says. "They've got people working there already. We'll ask what they need."
 
-She takes Yamcha and Puar to the car. As they rise, Launch calls after them to watch for the road crews at the eastern junction.
+Chi-Chi takes the blanket from Bulma's car and puts it on the seat of Launch's car. Bulma takes Yamcha and Puar with her. As they rise, Launch calls after them to watch for the road crews at the eastern junction.
 
 ---
 
@@ -606,27 +608,41 @@ Puar smiles. "The volunteer said to keep it clean."
 
 ## The Other End
 
-At the Lookout, Popo finds the two bags beneath the shelter by the passage. Gohan's target page and Hatch's drawing still lie on top. He finds the folded letter and slips the loose pages safely into the same bag without bending them.
+On King Kai's planet, Goku raises the gathered energy above his hands. King Kai holds the brick at his side while Gregory moves away from the open ground.
 
-The page of days remains under its stone on the bench.
+"I'll throw it as fast as I can," King Kai says. "Wait until it's clear of the planet, then hit it."
 
-Kami stands near the edge of the tiles. His head lifts as King Kai's voice reaches him. Popo waits until Kami turns.
+He throws. Goku turns with the brick, shifts his feet and sends the sphere after it. Light strikes the target above the planet. The brick breaks apart, and Goku lowers his arms as the pieces scatter into the distance.
 
-"Goku can see the entrance to Snake Way," Kami says. "I must meet him at Yemma's office, as we agreed."
+Bubbles claps. Gregory follows the fragments with his eyes.
 
-"The family is at the quarry," Popo tells him. "Both boys are awake. Chi-Chi is with them."
+"That was excellent," King Kai says. "And that was only a little energy from a very small planet. Earth has far more life, and the sun can add to it. Don't use the Genki-dama carelessly. If there is another way, take it."
 
-Kami's hand closes around his staff. "And Piccolo?"
+"I will." Goku looks toward the road. "Can you see the Saiyans now?"
 
-"He is there too."
+King Kai lifts his face. A moment passes. His hands fly to his cheeks.
 
-"Good."
+"They're on Earth! Goku, I was wrong. They've already been fighting."
 
-Popo takes up the bags. Kami raises his staff, and the passage Yemma arranged opens beside the garden. Kami steps through; the opening closes behind him.
+"Chi-Chi? The boys?"
 
-Popo settles the bags on his carpet and starts back toward the quarry.
+King Kai concentrates again. "They're together at a quarry. I can see both boys standing, and Chi-Chi is with them. The fighting there has stopped. Both Saiyans are alive, and your friends are watching them."
 
-On Snake Way, Goku crosses the last visible stretch. The entrance grows larger. He reaches the stone arch, passes through it and follows the path toward Yemma's office under his own power.
+Goku reaches for the bands around his wrists. "I have to go."
+
+"I should have checked sooner," King Kai says. "I'll tell Kami now."
+
+He sends his voice to the Lookout at once. "Kami! The Saiyans reached Earth. Goku is leaving for Yemma's end of the road. Can you meet him?"
+
+"Yes," Kami answers. He raises his staff, and the passage Yemma arranged opens beside the garden. Kami steps through.
+
+Goku sets the bands by the house and checks the supply capsule inside his clothes. He grips King Kai's hand once.
+
+"Thanks for teaching me. Bubbles, Gregory—I'll see you again!"
+
+He flies down to Snake Way, lands and drives forward. "Kaiō-ken!"
+
+Red light gathers around him as he races into the first bend. The road streams beneath his feet; the entrance rises ahead, and he passes through the stone arch toward Yemma's office.
 
 A guide opens the door for him. Inside, souls are waiting in line, and the clerk is carrying another stack of papers toward the great desk. Kami stands to one side.
 
@@ -670,31 +686,11 @@ Goku lifts from the Lookout and flies toward them. The tiles and clouds fall beh
 
 ## What They Tell Him
 
-Popo returns to the quarry first. Goshin rises as the carpet comes over the ridge, keeping one eye on Vegeta while Popo sets the bags beside Chi-Chi.
-
-"Kami has gone to meet your father," Popo says. "King Kai told him Goku was approaching the end of the road."
-
-Gohan catches Chi-Chi's hand. "He's nearly back."
-
-"He still has to come from the Lookout," she says, but she is smiling.
-
-Gohan opens one of the bags. Inside are the old shirt he showed their mother and a pair of trousers from their spare things. He holds them out to Goshin, who carries them behind the car to change while Gohan takes his place watching Vegeta.
-
-The trousers fit well enough. The shirt's sleeves end a little high at Goshin's wrists, and his feet are still bare. When he returns, Chi-Chi folds the blanket and leaves it on the car seat.
-
-"That was the shirt you showed me this morning," she says.
-
-"It might have looked pretty small when I was big."
-
-"It wasn't with you then," Gohan says.
-
-"That's why it still fits."
-
-Gohan feels his father before he sees him. He turns toward the sky. Goshin stops in the middle of tying the trousers and looks up too.
+Gohan feels his father before he sees him. He turns toward the sky. Goshin looks up too.
 
 "Dad!"
 
-Goku drops over the ridge and lands among them. For a moment he can only look: Gohan on his feet beside the prince, Goshin in the shirt with the short sleeves, Chi-Chi standing between the bags and the car. All three are looking back at him.
+Goku drops over the ridge and lands among them. For a moment he can only look: Gohan on his feet beside the prince, Goshin in the shirt with the short sleeves, Chi-Chi standing between the bags and Launch's car. All three are looking back at him.
 
 The boys reach him together. Goku catches them, one on either side, and nearly loses his balance when Goshin throws both arms around his middle. He laughs, braces his feet and holds them close.
 
@@ -710,9 +706,31 @@ Over Goku's shoulder, Gohan can still see Vegeta. Krillin has moved closer to th
 
 Goshin pulls back far enough to see his face. "I got stronger fighting Vegeta. Then I turned into a giant ape, Dad! I got much stronger then too, and I still am. I knew what I was doing the whole time!"
 
-"King Kai told me you were helping everybody."
+Goku's smile stops. Goshin's words bring back an evening at his grandfather's house.
 
-"I held Vegeta, and Gohan broke the light. That's why I came back down."
+Little Goku stands at the door, looking out at the darkening mountains. Grandpa Gohan comes up behind him.
+
+"When the moon is full," Grandpa says, "stay inside. Don't go out and look at it."
+
+Goku turns. "Why?"
+
+"There's a terrible monster that comes out on nights like that. You'll be safe if you're asleep."
+
+Grandpa puts a hand on his shoulder and draws him inside.
+
+Another memory follows: the white tiles of the Lookout beneath Goku's feet, Kami standing before him.
+
+"If the moon is to return," Kami says, looking at Goku's tail, "this must go."
+
+Goku twists around to see it. "All right."
+
+Kami raises a hand. Afterward, when Goku reaches behind him, his tail is gone.
+
+Roshi later told him by the river that he himself had changed at the tournament, though he remembered none of it. He had wanted the boys to know enough to stay safe. He had never been able to tell them what it would feel like.
+
+"You knew what you were doing?" Goku asks.
+
+"Yes! I held Vegeta, and Gohan broke the light. That's why I came back down."
 
 Goku looks at Gohan. "You broke it?"
 
@@ -726,7 +744,7 @@ Gohan's face brightens. "I used the Kamehameha."
 
 "You weren't here," Goshin says, and the excitement leaves his voice for a moment. He had wanted his father to see him.
 
-Goku puts a hand on the back of his head. "I wanted to be. I ran as fast as I could, but I didn't make it in time."
+Goku puts a hand on the back of his head. "I wanted to be. King Kai thought we had until tomorrow, so I stayed to finish my training. When he looked again, they'd already come. I ran as fast as I could then."
 
 Goshin had imagined his father arriving while the fight was still going, close enough to see what he could do. He is glad Goku is here, and a little sorry for the part they missed together.
 
@@ -734,9 +752,7 @@ Goshin presses against him again. "You're here now."
 
 Chi-Chi has stayed where she can see all three. Goku reaches out, and she comes to him. He puts an arm around her, careful of the boys crowded between them.
 
-"I'm sorry," he says quietly. "I thought I'd get back before they came."
-
-"I know you did."
+"I'm sorry," he says quietly. "I thought I'd get back before they came. I should have come sooner."
 
 She holds him tightly. Only that morning, his words had reached her through Kami. Now his clothes are dusty from the road, and his arm is around her.
 
@@ -744,7 +760,9 @@ She holds him tightly. Only that morning, his words had reached her through Kami
 
 "I'm here to help now."
 
-"Good. Because I'm not finished needing you."
+"Good. Because I'm not finished needing you. And next time, don't wait for someone to be sure there's danger."
+
+"I won't."
 
 Goku smiles, but he does not let go until she does.
 
@@ -798,7 +816,7 @@ Yajirobe takes a step closer to Goku. "Then I'd better stand here."
 
 Launch laughs, and even Tien's mouth lifts. Beyond them, Piccolo remains at the gully, watching Nappa and the prince. There is a world called Namek somewhere beyond the sky. Whether there is anyone there who can answer him, he still does not know.
 
-Chi-Chi sits on the car seat with the folded blanket and opens the bag enough to check the pages. Their letter is there, beneath the drawing. She leaves it folded.
+Chi-Chi sits on the seat of Launch's car with the folded blanket and opens the bag enough to check the pages. Their letter is there, beneath the drawing. She leaves it folded.
 
 The paper has softened where the boys opened it during their year away from her. She has wanted to read it since Gohan first put it in her hands, but she remembers where he asked to be when she did.
 
@@ -812,6 +830,11 @@ For this moment, all four of them are on the same side of the road.
 
 <!--
 ## Footer
+
+**2026-11-09 UTC (observed sandbox clock) — canon and continuity correction, unaccepted.** The Snake Way chronology has been coordinated across Chapters 23–28: Goku stays to finish training under King Kai's uncertain, mistaken arrival estimate, then leaves urgently after the late warning. Family, rescue, travel and reunion are restaged without a speed cap or arbitrary afterlife delay. [Exact pre-correction project and research predecessor](https://drive.google.com/file/d/1hMI7EqMjwOZdwNglBr7iRM2WPBHZ0r28/view). The earlier footer entries below describe their historical versions. The separately accepted original Chapter 20 remains unchanged.
+
+
+**6 November 2026 — continuity correction, unaccepted.** Goku now remembers the promise he actually made through Kami in Chapter 23: to return as fast as he could, not a guarantee that he would arrive in time. His urgent Snake Way journey's world-speed tension is not resolved by this wording change. The [immediately preceding selected chapter](https://github.com/gm5206663-bit/dbz-twin/blob/46de90a4d8847a3587d58019f12d251050c2187e/The%20Twin/chapters/Chapter_28_What_We_Carry.md) remains in the existing public project at SHA-256 `e80e1b51eb187d30028098c75378a7c3b089af2e87e8539e4a008c10b5adfa4b`; the new wording is local and unaccepted.
 
 **6 November 2026 — full-manuscript review correction, unaccepted.** Launch and Yajirobe now see the two round objects in the separate craters established in Chapter 23. Bulma describes the landing site from the report rather than claiming further direct knowledge; neither object is touched or examined. The exact immediate predecessor (SHA-256 `a00979c1080c967c76603c158582c34aa1c821ae985013f301d447a00b50cdaa`) is in the [verified non-private review snapshot](../canon/ARCHIVE_INDEX.md#backup-031); the complete prior footer follows. No new chapter, reader acceptance, full audiovisual source review or remote synchronization is implied.
 

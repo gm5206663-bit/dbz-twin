@@ -1,5 +1,7 @@
 # Chapter Twenty-Five — Two Battles
 
+*Anime episode reference: Dragon Ball Z, Episodes 23–24 (opening battle); Episode 31’s Galick Gun brought forward.*
+
 *Immersion-revised review draft; not yet accepted.*
 
 *New review draft, continuing the unaccepted Chapter 24; not yet accepted.*
@@ -388,7 +390,7 @@ Yamcha looks over his shoulder. The creature's face is pressed close to his, its
 
 "Krillin, get back!"
 
-He snaps his free hand upward. The waiting ball curves behind him and strikes the Saibaiman from below, prising it off before its swelling body can burst. Its arms break apart, and the light carries it high over the empty side of the quarry.
+He snaps his free hand upward. The waiting ball curves behind him and strikes the Saibaiman from below, prising it off before its swelling body can burst. Its grip breaks, and the light carries it high over the empty side of the quarry.
 
 Yamcha dives toward the ground. Krillin catches his arm and pulls him behind the broken loading wall; they hit the dirt together as the creature explodes above the ridge. The shock blows loose boards across the tracks and rattles the old wall over their heads.
 
@@ -430,23 +432,23 @@ A streak of light crosses above the western wall. Goshin and Vegeta are still fi
 
 ---
 
-## The Road Goku Runs
+## The Aim
 
-Goku rounds another bend on Snake Way. Clouds drift across the road ahead, then part around his shoulders as he runs through them.
+King Kai tosses a small stone into the air. Goku tracks it with the light gathered over his hands, turning without taking his eyes off it. He holds the sphere until the stone lands, then lets the energy go.
 
-He checks the supply capsule inside his clothes without slowing. It is still there.
+"Why didn't you throw?" Gregory asks.
 
-"A whole year," he says.
+"When it went past the tree, I was aiming at the car for a moment. I don't want to hit somebody's house."
 
-Gohan's message had come through Kami. Goku remembers the room and the weight that pulled at him during his own visit.
+"Then move sooner," King Kai says. He picks up the stone and tosses it again.
 
-"You two must have a lot to show me."
+Goku changes his footing before he turns. The light stays above him this time. He remembers Gohan's message through Kami: a whole year in the room, and things the boys want to show him.
 
-His smile fades when he thinks of what might be happening while he runs. He pumps his arms harder.
+"I want to see it all," he says.
 
-"Hang on. I'm coming."
+"First, pay attention to the stone," Gregory tells him.
 
-The road bends again. Goku leans into the turn and keeps running.
+Goku catches it before it reaches the grass. "Got it."
 
 ---
 
@@ -612,6 +614,8 @@ Goshin turns beneath the attack and cups his hands. Blue light flares between th
 
 His wave strikes the Galick Gun above the ridge. The collision stops the descending beam for an instant, then drives Goshin backward through the air. He holds on, feeding ki into his wave, but the place where the two attacks meet begins to sink toward the quarry.
 
+Vegeta means to destroy the whole world. Mother is somewhere in the city, helping people get away. The thought frightens Goshin, and anger rises with it. More ki surges through his arms; the blue wave flares against the violet light.
+
 Gohan flies up to his brother's left. He draws on the power he has trained, bringing his hands to his side as he comes level with Goshin.
 
 "I'm with you!"
@@ -680,6 +684,13 @@ Their first impact rolls across the empty quarry. Dust lifts from the tracks bel
 
 <!--
 ## Footer
+
+**Sequential continuation correction, unaccepted (`O353`).** Yamcha’s guided ball breaks the creature’s grip; the ensuing explosion, rescue and cut remain. Exact immediate predecessor whole-file SHA-256 `357df66d42bb7ff746de0dbfe8990210aa2a5dab04541d569e9e8751b8c02444` is in the [owner-only opening checkpoint](https://drive.google.com/file/d/125KxF2blvjB0KKVCWMeYgCJgWEblfG6w/view). [Scope and source limits](../canon/SEQUENTIAL_CORRECTION_CH25_32.md). No complete audiovisual viewing or reader acceptance is claimed.
+
+**2026-11-09 UTC (observed sandbox clock) — canon and continuity correction, unaccepted.** The Snake Way chronology has been coordinated across Chapters 23–28: Goku stays to finish training under King Kai's uncertain, mistaken arrival estimate, then leaves urgently after the late warning. Family, rescue, travel and reunion are restaged without a speed cap or arbitrary afterlife delay. [Exact pre-correction project and research predecessor](https://drive.google.com/file/d/1hMI7EqMjwOZdwNglBr7iRM2WPBHZ0r28/view). The earlier footer entries below describe their historical versions. The separately accepted original Chapter 20 remains unchanged.
+
+
+**6 November 2026 — hybrid emotion correction, unaccepted.** The threat to Earth and his mother brings fear, anger and an observable rush of Goshin's ki into the existing Galick Gun clash. Gohan still chooses to join and contribute his own wave; the scene does not establish either boy's maximum or a mandatory trigger (`O195`, `O230`). The exact preceding chapter SHA-256 `ab8a4bbb255ad5365f3a1838def4e0ed94f0e59c7d44a48e89a98992f460d45e` is in the [owner-only project predecessor](https://drive.google.com/file/d/11CMGEOCKlI3sTZtgs_pLNHbJMl9jaszX/view). No acceptance or GitHub update is implied.
 
 **6 November 2026 — Dragon Ball-feel revision, unaccepted.** Gohan remembers Chi-Chi's established spar and decisively defeats Nappa with mercy. Goshin's excitement is tied to specific adjustments and real development during the Vegeta fight, not a new ceiling or required trigger. Yamcha's near miss receives a warmer Krillin exchange; Goku's worried urgency and Chi-Chi's separate fear of not seeing her sons coexist with their action. The existing scouter snapshots, all six Saibaiman outcomes, living Nappa, Galick Gun response and shared continuation remain. The complete retained episode-23/24 captions and Toei synopses were reread, not full video/audio; original caption source and cut remain unknown. Exact selected predecessor SHA-256 `bfd1094dc1c0bfc875e1764724ac0809eb5fe3c9141a079c5c819f29ad3af492` is in the [verified 122-member pre-correction archive](../canon/ARCHIVE_INDEX.md#backup-042), and the complete earlier footer follows. No acceptance or remote sync is implied.
 

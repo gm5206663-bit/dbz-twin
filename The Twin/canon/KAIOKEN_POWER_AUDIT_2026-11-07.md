@@ -1,0 +1,45 @@
+# Chapter 32 — Kaiō-ken and power audit
+
+**Owns:** the bounded source, power, continuity and preservation audit for the Chapter 32 Kaiō-ken correction and the interrupted Chapter 33 compatibility edit.
+
+**Later chronology revision:** References below to the previous Snake Way sequence describe that earlier checkpoint. The later [coordinated correction](VEGETA_AND_SNAKE_WAY_CORRECTION.md) relocates the warning and return without an invented speed cap or delay; literary review remains open.
+
+**Chapter 43 follow-through (`O307`, `O309`):** Temporary ×30 on chosen unboosted power visibly shifts the direct exchange; real body/ki growth remains after release alongside particular present exertion. He subsequently uses ×20 again. This is not a fixed limit, fresh scan, mandatory injury or permanent multiplier; [source and handoff](SCENE_COVERAGE_031_082_084_088_CH43.md).
+
+**Later Chapter 39–42 follow-through:** The author's renewed complaint led to a [focused emotion and Kaiō-ken recheck](EMOTION_KAIOKEN_AND_ANIME_RECHECK.md), corrections to the unaccepted Chapters 39–41 and the unaccepted Chapter 42 continuation. Existing ×10 and ×20 calculations are retained while the chosen surges, voice, bodily effort and actual consequences are dramatized. The source study distinguishes selected captions, official short reports and manga/later-version features from full audiovisual review; this historical Chapter 32 audit is not retroactively a full-series audit (`O301`, `O305`, `O306`).
+
+**7 November 2026 · revised local draft, unaccepted**
+
+The author noticed that Chapter 32 did not say how many times Kaiō-ken multiplied power and questioned the power depiction. This review reread the complete Chapter 32 body and checked the relevant selected Chapters 22–31, the interrupted Chapter 33, the technique/fact ledgers and the living family, guard, tail, growth and moon handoffs. It was a focused continuity audit, not a new full sequential reread of all 31 previous chapters or a complete audiovisual source review. The earlier separate full-manuscript reading remains documented in [its own record](FULL_MANUSCRIPT_REVIEW_2026-11-06.md).
+
+## What the source checks support
+
+- The retained Japanese Episode 29 caption text describes Kaiō-ken as a **temporary** controlled amplification of ki and speaks of increased strength, speed, destructive power and defense. It also contains an unnumbered call. King Kai's warning about no more than double is addressed to *that Goku at that point*; it is not evidence for a universal Goshin ceiling. Episode 30 explicitly names times two and times three, and Episode 31 explicitly names times four (`C308`, `W-30`). These are spoken-caption checks, not a viewing of complete video and audio. The redistributed caption archive's original source and cut remain unverified.
+- The separate official [Kaiō-ken feature](https://en.dragon-ball-official.com/news/01_277.html) describes the technique's temporary amplification and the resulting increases (`W-137`, `C309`). Its original-series account is not a measurement of the divergent branch, and it does not assign a number to a call where none is stated.
+- The corrected chapter uses **×2 and ×3**, with each factor applied to the ordinary, unboosted output chosen for the exercise. Three times that starting output is not three times the already doubled state. These scene choices are authored here; the user asked for correct multiplier accounting but did not prescribe ×2 and ×3 as mandatory achievements, limits or a sequence.
+- Multiplying power does not by itself supply a separately measured speed in kilometres per second, exact destructive radius or a new scouter reading. A chosen ×2 or ×3 is a real stated factor; saying that no universal or future maximum is known must not erase it. Earlier calls that never named a number remain unnumbered, not automatically mistaken.
+
+## What the selected story had already established
+
+| Evidence | Consequence for the correction |
+|---|---|
+| Chapter 25: **19,400** is Goshin's scouter reading after he releases existing reserves, before further sustained-battle growth and his first Great Ape. | It is a dated snapshot, not his unchanging current base or the output chosen in this spar. A hypothetical 19,400 output doubled would be 38,800 and tripled would be 58,200; those are *illustrations only*, not his current reading or the chapter's sparring measurements. |
+| Chapters 26–28: Goshin deliberately becomes a controlled Great Ape, fights Vegeta and returns to his ordinary size retaining **substantial real strength**. | The later scene must not treat him as though the battle and transformation left no lasting gain. Both brothers and Vegeta keep their tails. |
+| Chapters 27 and 30 plus the author's direction: his whole Saiyan–Earthling hybrid existence and bloodline develop with his Talent; his ordinary body holds Earth-destruction-capable ki. | Training and life can add genuine ordinary-body/ki growth, without inventing a fixed rate, required hardship, upper limit or unshown feat. An amplification is distinct from that real retained growth. |
+| Chapters 22–23: this branch's Goku has trained for months with King Kai and already demonstrates or calls an unnumbered Kaiō-ken. He arrives after Vegeta's defeat. | Do not import an exact original-anime scouter reading or force the original Goku–Vegeta battle into this branch. Goku's own present full power and the full-power ordering between him and Goshin remain unmeasured. |
+| Chapters 30–31: Goku wants to spar and offers to teach; the doctor advises against hard blows while sore, and Chi-Chi separately requires no fighting until the boys recover and she agrees. | Chapter 32 must show both conditions met, not confuse medical advice with parental permission. |
+
+## What changed
+
+1. Goku explicitly uses **times two** in the Gohan round and explains the reference point for a multiplier. Gohan still independently earns his shoulder touch, listens, identifies a clear direction and asks for his own chance to learn.
+2. Goshin deliberately reserves much of his hard-won strength. In the controlled spar he uses **times two**; his force carries Goku backward even while Goku uses times two on a chosen sparring output, and **Goshin actively turns away** instead of leaving his father effortlessly responsible for the whole exchange. This is not a finding that either fighter's full power is greater.
+3. Goshin independently tries **times three**, relative to the same unboosted starting output, and directs the controlled blow upward. Piccolo recognizes the retained planet-threatening scale. No numeric measurement, compulsory injury, arbitrary weakness, universal limit or future ceiling is added.
+4. The red technique ends; a separate, unnumbered improvement in Goshin's ordinary body and ki remains. His broad and developing Talent, the integrated earlier gains and the story's planetary scale remain intact.
+5. The interrupted Chapter 33 cabin exercise now specifies a deliberately restrained **times-two** use and refers back to the corrected quarry experience. At that audit checkpoint the draft and its coverage were **partial and unaccepted**; this compatibility edit did not complete it. After the author said to continue, Chapter 33 was separately resumed and finished as an unaccepted review draft (`O250`); that later work is not acceptance or publication.
+6. The Chapter 32 footer and coverage, technique and fact records, status and living handoffs are reconciled. The previous statement that Kaiō-ken was “not a fixed multiplier” was misleading: the multiplier *chosen for a use* is specified; what is not fixed is a universal single factor, maximum, current scouter number or future growth rate. Repeated explanatory lines in the hospital, ship-preparation and training passages were also tightened; no scene or established outcome was removed.
+
+Chi-Chi's permission and stop-if-hurt conditions, both sons' choices, the provisional guards and their assignments, the retained tails, covered ship window, whole Senzu, and uncertainty about safe custody and unaided space survival remain in place. The existing Snake Way chronology remains unresolved and is not 'fixed' with an invented delay or speed cap.
+
+## Preservation and review limits
+
+The owner-only [interrupted project-and-research predecessor](https://drive.google.com/file/d/1Zyg47RBqcfcK01Pu5So7J1NeBCQlGMGa/view) contains the exact prior Chapter 32 (SHA-256 `e3ac43831c008ad88def2ad7ec9a41aabbbf646c91150656cd8b8f48ac5b5f74`), interrupted Chapter 33 (`a5f61b869454146bfb50bab9a95fe19ac70a2a98a2b6b753f02215d6a1d75708`) and its previous coverage. It excludes the private workshop material. It is an **unsealed interrupted-state archive**, not a clean current restore; its bytes and Drive hashes were verified. The separate previously accepted original Chapter 20 remains unchanged at SHA-256 `fd7691e9bf5d31935abd9e26f677742f8015b3e07aa32854de85055e3d63a36d`. Preservation, source checks and mechanical diagnostics do not imply author acceptance or literary approval.

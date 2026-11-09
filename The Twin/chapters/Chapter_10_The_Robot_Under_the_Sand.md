@@ -1,5 +1,7 @@
 # Chapter Ten — The Robot Under the Sand
 
+*Anime episode reference: Dragon Ball Z, Episode 9.*
+
 *Revised story draft; not yet accepted.*
 
 Sand lies across a round glass eye. A thin line of morning light reaches the stone beside it.
@@ -120,7 +122,7 @@ Goshin catches his arm as the bank drops away, taking both boys with it. The wet
 
 "Nimbus!" Gohan calls.
 
-Goshin pulls his brother close and rises. Nimbus dives through the opening beneath them, but sand pours after the cloud, pushing it down a sloping passage.
+Goshin pulls his brother close and rises, but sand pours down between them and the opening. Nimbus dives beneath them. Gohan climbs onto it, and Goshin flies beside him, keeping hold of his brother as they follow the sloping passage away from the falling sand.
 
 "Gohan! Goshin!" Chi-Chi calls.
 
@@ -852,6 +854,8 @@ As Gohan turns the page, the light behind C-6's glass remains on the book.
 
 <!--
 ## Footer
+
+**Sequential continuation correction, unaccepted (`O352`).** Gohan boards Nimbus during the fall, and both boys enter the sloping passage before finding the blocked exit. C-6’s agency and the existing rescue remain. Exact immediate predecessor whole-file SHA-256 `3fd15da3ee0e59fee4f65ffd4a48f5cc7694df92cb4636bdc5e02325338bae89` is in the [prior owner-only project snapshot](https://drive.google.com/file/d/1VlRVXFUnX2_hW28DkXV9ud6RTynczLff/view). See the [reading scope and source limits](../canon/SEQUENTIAL_OPENING_CORRECTION.md). No fresh episode-9 caption reread or complete audiovisual viewing is claimed in this pass.
 
 **6 November 2026 — Dragon Ball-feel revision from the opening, unaccepted.** The complete chapter and the Chapter Eleven handoff were read and substantially revised, including the brothers' discovery, C-6's prickly voice and long isolation, the family search, Gohan's impulsive mistake and the consent-based rescue. Goshin's strength, flight and protective ki remain available; Gohan reads, chooses, makes and owns a mistake, and acts independently. The roof's condition creates situational danger rather than an invented weakness or cap. C-6 knowingly spends reserve power despite the leak, helps save Gohan and remains awake with a damaged arm and uncertain energy. Goku and Chi-Chi help from outside; Goku offers to ask Bulma, but no call or repair happens here. The doctor permits normal movement with symptom reporting, both tails and Mina's book remain, and the scouter cell remains separate. The complete retained episode-nine captions were reread, including the preview, ending and unrelated tail, and Toei's short synopsis was consulted; their origin/cut remains unverified and they are not a complete video/audio review. The two-child encounter, survey details, rescue and changed outcome are authored. The exact immediate predecessor is byte-preserved in the [verified pre-correction project and accepted-original snapshot](../canon/ARCHIVE_INDEX.md#backup-042), Chapter Ten member SHA-256 `9c8cf06b0f3fa74fb4a6a86a014db9d11091b168116cc31b16251a9667e41fcb`, ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. Earlier footer entries remain historical; this revision is not reader acceptance.
 

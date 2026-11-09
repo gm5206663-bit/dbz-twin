@@ -4,9 +4,9 @@
 
 ## The user's direction
 
-Goshin's Great Ape is **not uncontrollable**. It is an ability he can use. His Saiyan bloodline and his exceptional Adaptation Talent both matter: inherited Saiyan nature supplies the Great Ape potential, and his native supernatural Talent interacts with and develops that nature. Do not reduce the Talent to copying techniques or treat this as a universal rule that every Saiyan or hybrid automatically has the same control.
+Goshin's Great Ape is **not uncontrollable**. It is an ability he can use. His hybrid inheritance and exceptional Adaptation Talent both matter: Saiyan-linked Great Ape potential is one aspect of his Saiyan–Earthling nature, and his native supernatural Talent develops his whole hybrid bloodline (`O243`). Do not reduce the Talent to copying techniques or treat this as a universal rule that every Saiyan or hybrid automatically has the same control.
 
-As Goshin grows stronger, his Saiyan bloodline becomes purer and deeper, and his traits and other capacities develop. His **Great Ape and its power develop as well**, rather than remaining an isolated, obsolete transformation. Later, as he unlocks or masters that power, he can use Great Ape power in his ordinary body and combine it with other powers, including Super Saiyan and anger. The user likens some possibilities to Legendary Super Saiyan, without specifying that Goshin must literally be Broly, have an identical form, or lose control like Broly. Other developments remain possible.
+As Goshin grows stronger, his whole Saiyan–Earthling hybrid bloodline becomes purer, deeper and stronger, and his traits and other capacities develop. His **Great Ape and its power develop as well**, rather than remaining an isolated, obsolete transformation. Later, as he unlocks or masters that power, he can use Great Ape power in his ordinary body and combine it with other powers, including Super Saiyan and anger. The user likens some possibilities to Legendary Super Saiyan, without specifying that Goshin must literally be Broly, have an identical form, or lose control like Broly. Other developments remain possible.
 
 ## Working interpretation for future writing
 
@@ -20,7 +20,7 @@ His emotion remains his own: anger can increase power without automatically turn
 
 ### 2. The form evolves with him
 
-A stronger underlying Saiyan produces a stronger Great Ape, and the user's rule goes further: Goshin's evolving bloodline, body, traits and Talent may improve the form itself and how effectively he uses it. Depending on the scene, its developing qualities could include bodily coordination, strength, durability, senses, instincts and ki control. These are examples of possible applications, not a list of already acquired feats or a set of limits.
+A stronger underlying hybrid body can support a stronger Great Ape, and the user's rule goes further: Goshin's evolving bloodline, body, traits and Talent may improve the form itself and how effectively he uses it. Depending on the scene, its developing qualities could include bodily coordination, strength, durability, senses, instincts and ki control. These are examples of possible applications, not a list of already acquired feats or a set of limits.
 
 His adaptation can affect the tail and other inherited traits too. The extent and timing of any particular change have not been set. Do not assume that his human inheritance is erased, invent a blood percentage, make his tail automatically invulnerable, or impose a new fixed multiplier, weakness, exhausting cost or stage of development.
 

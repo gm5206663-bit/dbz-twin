@@ -1,5 +1,7 @@
 # Chapter Two — The Second Name
 
+*Anime episode reference: Dragon Ball Z, Episode 2.*
+
 *Revised story draft; not yet accepted.*
 
 ## Across the Sea
@@ -474,15 +476,29 @@ Roshi straightens beside the broken wall. "Your grandfather told me about that, 
 
 ## A Story from Long Ago
 
-Roshi tells them of a deep mountain valley and a strange round object that had fallen from the sky. When Grandpa Gohan opened it, he found a baby inside: a baby with a tail.
+"He found you in the mountains," Roshi says. "A long time ago."
 
-"He took you home, but you were a difficult child. You wouldn't settle down, and you fought him at every turn. Then you fell into the valley and struck your head. You nearly died."
+As Roshi tells it, Grandpa Gohan follows a mark through the trees to a round object lying in the earth. He approaches carefully. When the hatch opens, a baby looks back at him, a furry tail curled beside his small body.
+
+Grandpa Gohan reaches in. The baby swats his hand away.
+
+"Well, you're not shy," Grandpa says. He lifts the squirming child out and carries him home.
+
+At the table, Grandpa offers him a spoonful of food. The baby knocks it aside, sending it across the floor. When Grandpa tries to wash him, water splashes over the rim of the tub. He wriggles and cries and refuses to be comforted.
+
+Grandpa wipes his face with his sleeve, then reaches for the child again.
+
+One day the boy falls down a steep valley. Grandpa scrambles after him, calling to him as he makes his way over the rocks. At the bottom he finds the child lying still.
+
+Back at the house, Grandpa tends the bandage around the little head and waits beside the bed. When the child opens his eyes, he leans close, afraid to move him.
+
+The baby reaches for him. This time the small hand closes around his finger, and the child smiles.
+
+On the beach, Roshi lowers his gaze. "You nearly died. Your grandfather looked after you until you recovered. After that, your temper was gone."
 
 Gohan takes off his cap and holds it against his chest. He knows stories about the grandfather whose name he carries. He has never heard this one.
 
 The ball on the cap catches the sun. A few minutes ago Bulma was laughing about the trip she and Goku had taken to find the Dragon Balls; now nobody is laughing.
-
-"Your grandfather cared for you," Roshi continues. "After you recovered, your temper was gone. You became the boy he raised."
 
 Goku remembers Grandpa Gohan's old house, the meals at his table, the hands that corrected his stance. The story of the baby belongs to a time before any of that.
 
@@ -512,9 +528,13 @@ Krillin gets to his feet, holding the wall. "That's ridiculous. If Goku came fro
 
 "To destroy its people," Raditz says. "We find worlds worth selling and remove their inhabitants. On a weak planet like this, even an infant can do the job."
 
-He describes armoured warriors arriving in round pods, a city under an unfamiliar sky, machines crashing through its streets. People scatter between tall buildings. The pods leave again when the fighting is done, and smoke hangs over a world ready for its buyers.
+In the world Raditz describes, round pods tear through an unfamiliar sky and strike the ground outside a city. Armoured warriors climb out. People run between tall buildings as the attackers follow them through the streets.
 
-Gohan presses closer to Bulma. Goshin takes his brother's free hand without looking away from Raditz.
+A blast tears into a row of machines. Smoke rolls across the road, and the people still outside scatter into doorways. When the fighting is over, the warriors return to their pods and lift away from the damaged city, leaving the planet for its buyers.
+
+Raditz's account turns to a much smaller passenger: a baby placed alone in a round pod. Its hatch closes, and the craft rises into the darkness, carrying him toward a distant world.
+
+Back on the beach, Gohan presses closer to Bulma. Goshin takes his brother's free hand without looking away from Raditz.
 
 "You sent a baby off alone to kill everybody?" Krillin says. "If that's true, you're worse than Piccolo."
 
@@ -532,11 +552,15 @@ Goku faces the stranger. "Whatever I was sent here for, I'm not helping you hurt
 
 The scouter gives a small beep. **400** flashes on the lens, but Raditz doesn't look at it.
 
-"Does the full moon mean nothing to you? When it becomes round, a Saiyan reveals his true power."
+"Does the full moon mean nothing to you? When it becomes round, a Saiyan changes. That's when our true power comes out."
 
-Krillin stiffens. Roshi's fingers close around his staff. The boys have heard the words *full moon* twice now, and neither explanation has made the adults any happier.
+Krillin stiffens. Roshi's fingers close around his staff. For an instant he sees the tournament again: a small boy looking up at the moon, then a giant ape towering over the ring. The boys have heard the words *full moon* twice now, and neither explanation has made the adults any happier.
 
-Goku glances at Raditz's tail. "I haven't got mine anymore. It came off years ago."
+"Changes?" Goku says. "What are you talking about?"
+
+Raditz looks at Goku's waist. "Your tail. Where is it?"
+
+"I haven't got mine anymore. It came off years ago."
 
 "You lost your tail?" Raditz stares. "No wonder you can live among these creatures."
 
@@ -556,11 +580,13 @@ Goku can sense that Raditz is stronger than anyone he has faced. Even so, Krilli
 
 Raditz smiles without amusement. "You may not care about our world, but it is gone. A giant meteor struck Planet Vegeta. Our father and mother died with it. Only four Saiyans remain, including you."
 
-Goku has no memory of that world or the parents Raditz names. He studies the hard face beneath the long black hair, searching for something familiar. He finds nothing he can place.
+In Raditz's telling, a great stone falls toward the Saiyan world. It crosses the sky in fire, and light spreads over the curve of the planet. The world breaks apart, leaving fragments where it had been.
 
-A brother, a dead planet, another name: all of it has come at him in the space of a few minutes. Behind him, his own children are close enough for him to hear Gohan breathing.
+On the beach, Goku has no memory of that world or the parents Raditz names. He studies the hard face beneath the long black hair, searching for something familiar. He finds nothing he can place.
 
-Behind him, Gohan's cap has slipped crooked. Goshin lets go of his brother's hand long enough to straighten it. Gohan catches his hand again.
+A brother, a dead planet, another name: all of it has come at him in the space of a few minutes. His children are close behind him; he can hear Gohan breathing.
+
+Gohan's cap has slipped crooked. Goshin lets go of his brother's hand long enough to straighten it. Gohan catches his hand again.
 
 "The three of us have found a planet worth a great deal," Raditz goes on. "Its people will be difficult to conquer, but with a fourth warrior we can take it. Come with me."
 
@@ -578,7 +604,7 @@ Bulma bends close enough for him to hear. "Stay with me."
 
 The scouter chirps again. This time Raditz looks toward the boys.
 
-Goshin would like his father to turn around, but Goku is watching Raditz. He lets go of Gohan and edges forward beside him, his free hand curled into a fist. Raditz's gaze moves from one small tail to the other. He touches the device at his ear.
+Goshin would like his father to turn around, but Goku is watching Raditz. He lets go of Gohan's hand and edges a step nearer Goku, still holding Bulma's hand. His free hand curls into a fist. Raditz's gaze moves from one small tail to the other. He touches the device at his ear.
 
 Figures flash across the green lens. He is looking directly at Goshin.
 
@@ -658,6 +684,10 @@ It clucks and retreats. Chi-Chi shuts the lid and turns down the fire.
 
 <!--
 ## Footer
+
+**Opening sequential correction, unaccepted.** Raditz now says Saiyans change and asks about Goku’s tail, and Roshi silently recalls the tournament; this reconciles Chapter Eight without giving the boys or Goku Roshi’s unspoken knowledge. Clarified the hand positions. The exact English, memory and twin blocking are authored; the labelled source roar does not verify a visual flashback (`C327`, `O350`). The exact immediately preceding whole-file SHA-256 is `92709330764a1f4faaad564f2260eecd050a2190def3d7d83a9135c9caca0167` in the owner-only [prior project snapshot](https://drive.google.com/file/d/1VlRVXFUnX2_hW28DkXV9ud6RTynczLff/view). The [correction record](../canon/SEQUENTIAL_OPENING_CORRECTION.md) gives scope and source limits. No full audiovisual review or reader acceptance is implied.
+
+**6 November 2026 — visible episode reference and flashback correction, unaccepted.** Dramatized Grandpa Gohan finding and caring for infant Goku, the fall and recovery, and Raditz’s narrated raid, baby-pod and claimed meteor destruction. The latter is his account, not a verified cause. The particular staging and English dialogue are authored, not a shot-for-shot claim. The [audit and immediate predecessor](../canon/EPISODE_REFERENCES_FLASHBACK_AUDIT_2026-11-06.md) record source limits, the exact prior snapshot and the chapter/episode mapping.
 
 **6 November 2026 — cross-chapter handoff review, unaccepted.** Chapter Three follows Chi-Chi at home during the same day; the new next-time preview leads into that household thread rather than skipping ahead to Chapter Four. The island handoff and every prior scene remain unchanged. The exact immediately preceding selected chapter (SHA-256 `c214a9c9ea42f5076c26b2091a379773e1b8a12f28440beaa71b2f14f89af242`) is in the [verified immediate pre-review snapshot](../canon/ARCHIVE_INDEX.md#backup-041); the entire predecessor footer follows. No new source viewing, acceptance, chapter or remote synchronization is implied.
 

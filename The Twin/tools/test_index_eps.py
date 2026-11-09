@@ -42,11 +42,17 @@ class EpisodeIndexTests(unittest.TestCase):
 
     def test_recorded_full_read_flags_preserve_the_documented_boundary(self):
         payload = index_eps.make_payload(index_eps.numbered_captions(self.captions))
-        expected = set(range(1, 118)) | {183, 184, 205, 206, 207, 208, 256, 257}
+        expected = (set(range(1, 118))
+                    | {183, 184, 205, 206, 207, 208, 256, 257}
+                    | {123, 125, 139, 145, 153, 169, 170, 171, 181, 182,
+                       191, 200, 201, 212, 229, 237, 253, 254, 285, 288, 291})
         self.assertEqual(set(payload['full_spoken_caption_reads']), expected)
-        self.assertEqual(len(expected), 125)
+        self.assertEqual(len(expected), 146)
         self.assertTrue(payload['eps'][116]['full_spoken_caption_read'])
         self.assertFalse(payload['eps'][117]['full_spoken_caption_read'])
+        self.assertTrue(payload['eps'][122]['full_spoken_caption_read'])
+        self.assertFalse(payload['eps'][123]['full_spoken_caption_read'])
+        self.assertTrue(payload['eps'][290]['full_spoken_caption_read'])
 
     def test_incomplete_source_is_rejected(self):
         (self.captions / 'Dragon_Ball_Z_291.srt').unlink()

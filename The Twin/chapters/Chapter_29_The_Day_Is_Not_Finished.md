@@ -1,5 +1,7 @@
 # Chapter Twenty-Nine — The Day Is Not Finished
 
+*Anime episode reference: Dragon Ball Z, Episode 37 (medical aftermath, adapted).*
+
 *New local review draft; not yet accepted.*
 
 Goku presses the button on the capsule and sets it on a clear patch of stone. A puff of smoke rises between him and Goshin. When it clears, a travel box sits open at their feet.
@@ -16,7 +18,7 @@ There are sealed packets of crackers and dried fruit, several bottles of water a
 
 "And some on the way back?" Gohan asks.
 
-Goku grins. "Some."
+"No. I was in too much of a hurry."
 
 Goshin reaches into the box. Yajirobe reaches at the same time. Goshin draws out two packets and slips one behind his back before Yajirobe can take it.
 
@@ -34,7 +36,7 @@ Yajirobe opens the packet Goshin gives him, then eyes the fruit in the other one
 
 They divide the packets between them, arguing over which half is bigger.
 
-Goku looks into the box once more. He had kept checking the capsule on the long road back, saving what he could for a journey whose end he could not yet see. Now his sons are eating from it beside him.
+Goku looks into the box once more. He carried the capsule along Snake Way, and now his sons are eating from it beside him.
 
 Gohan laughs and takes a bottle of water to Chi-Chi. She has the two bags beside her and the folded blanket on the car seat. She drinks, then passes the bottle to him.
 
@@ -104,11 +106,29 @@ Goku shifts closer. "You fired without looking?"
 
 "Vegeta tried to turn back," Goshin says. "I held his shoulders away."
 
-Goku follows Gohan's pointing arm up into the empty sky. "You both had to get that right."
+Goku lowers his chin and points without looking up, trying it the way Gohan did.
 
-Goku leans to follow the line of Gohan's raised hand. Gohan lowers his chin as he had beside Piccolo and points out the edge of the spur. His shoulder aches, but he wants his father to see where he stood.
+"Here?"
 
-Gohan lowers his hand. He had not been sure it would work, right up to the moment the light broke apart. His father is still looking where the wave went, and Gohan starts telling him what Vegeta had done to his first shot.
+"A little to the left." Gohan nudges his father's arm toward the edge of the spur. His shoulder aches, but he wants Goku to see where he stood.
+
+Goku adjusts his aim. "You both had to get that just right!"
+
+Gohan lowers his hand. He had not been sure it would work, right up to the moment the light broke apart. His father is still trying to sight along the rock, and Gohan starts telling him what Vegeta had done to his first shot.
+
+When Gohan finishes, Goshin holds up his palm. "Vegeta made that light with his ki. I felt it gathering in his hand before he threw it. I remember how. I can make one too."
+
+A tiny bead of ki appears above his hand. Gohan's eyes dart toward it.
+
+"I wasn't going to make one now," Goshin says, closing his fingers until the light vanishes. "You might see it."
+
+Gohan lets out a breath, then peers at his brother's closed hand. "I might want to look one day. I want to choose when, though."
+
+"You can!" Goshin turns to Goku. "I could get big again without waiting for the real moon."
+
+Goku breaks into a grin. "I'd like to see that!"
+
+"Somewhere with more room than our yard, please," Chi-Chi says.
 
 Yajirobe reaches for another cracker while they talk. Goshin moves the packet out of his reach without looking. Yajirobe takes one from the other side, and even Chi-Chi laughs.
 
@@ -142,7 +162,23 @@ Krillin glances toward the two devices on the stone. "You tried to kill Nappa af
 
 Vegeta looks from Goku to Krillin. He makes no move toward the devices.
 
-Goku can feel the prince's ki. He wants to see for himself how Vegeta fights, and his sons' account has only made him more curious. Vegeta is injured now, though, and there are people Goku has promised to protect.
+Goku can feel the prince's ki even now. He shifts his feet, imagining the fighter his sons have been describing.
+
+He arrived to find his family alive and Vegeta already injured. The fight he missed is written across the broken quarry, but he still wants to experience it for himself.
+
+"When you're better, how about a match? I'd like to fight you myself."
+
+Krillin turns to him. "Goku, he tried to kill people!"
+
+"I know." Goku keeps his eyes on Vegeta. "And if he tries it again, we'll stop him. I still want to see what he can do."
+
+Vegeta bares his teeth. "You think I'd play at a match with you, Kakarot? I'll finish your children first."
+
+Goku's smile disappears. He steps between Vegeta and his family. "You won't touch them."
+
+Chi-Chi puts a hand on each boy's shoulder. She looks past Goku at the prince who had aimed at her from his giant body.
+
+For a moment Vegeta looks as though he might try to rise. Krillin comes alongside Goku, and the prince settles against the stone again.
 
 At the gully, Nappa lets his leg settle again. Piccolo keeps his place near the opening. Gohan watches until Tien gives him a small nod.
 
@@ -690,6 +726,13 @@ Gohan moves the window stone clear of his father's hand and starts the story aga
 
 <!--
 ## Footer
+
+**2026-11-09 UTC (observed sandbox clock) — canon and continuity correction, unaccepted.** The food-capsule exchange follows the revised brief urgent return; Vegeta still refuses Dr. Mori here. [Exact pre-correction project and research predecessor](https://drive.google.com/file/d/1hMI7EqMjwOZdwNglBr7iRM2WPBHZ0r28/view). Earlier notes describe their historical versions where superseded; no source-scene outcome or author acceptance is implied.
+
+
+**6 November 2026 — Goku and continuity review, unaccepted.** Goku physically tries Gohan's remembered aiming position instead of repeating the same observation. He openly asks the injured Vegeta for a future match; Vegeta threatens the children and Goku immediately protects them. Neither a match, release nor custody outcome follows (`O236`). The exact [immediate non-private predecessor](https://drive.google.com/file/d/1h_xvvuuetvxgA0xb6-AUf9cYLiC50tL0/view) is owner-only on Drive; this chapter's preceding SHA-256 is `c7a959f34379cec9549df8a09008d8f3b9114a552c4c3d47d1a3f595c0b2ad71`. The earlier footer remains historical; no acceptance or public update is implied.
+
+**6 November 2026 — remembered Power Ball correction, unaccepted.** Goshin tells his family he remembers Vegeta's light and can create one. His brief bead of ordinary ki is not a demonstrated full Power Ball; he lets it fade without creating an artificial moon here. Gohan retains the choice about whether and when to look (`O229`). The exact preceding chapter SHA-256 `c7242b94cb231eb0e5d163c057d8a812be1b605cacaf1fc52e5f93b5f023321d` is in the [owner-only project predecessor](https://drive.google.com/file/d/11CMGEOCKlI3sTZtgs_pLNHbJMl9jaszX/view). No acceptance or GitHub update is implied.
 
 **6 November 2026 — full-manuscript review correction, unaccepted.** The group passes the landing site, not a single crater containing both round objects; Chapter 23 established separate craters. The officer, people with cases, object uncertainty and rescue are unchanged. The exact immediate predecessor (SHA-256 `1a33af53192eac3fef5d24931711127d56fc90218a4fa7b820c5592a69751328`) is in the [verified non-private review snapshot](../canon/ARCHIVE_INDEX.md#backup-031); the complete prior footer follows. No new chapter, reader acceptance, full audiovisual source review or remote synchronization is implied.
 

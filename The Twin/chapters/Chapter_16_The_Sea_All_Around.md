@@ -1,12 +1,22 @@
 # Chapter Sixteen — The Sea All Around
 
+*Anime episode reference: Dragon Ball Z, Episode 15.*
+
 *Revised story draft; not yet accepted.*
 
 A drop of rain rests on the Four-Star Ball. It trembles when the wind reaches the hat, then rolls down the brim and falls onto an open book.
 
 ## The Third Basket
 
-Gohan draws three baskets in the margin of his schoolbook. The first has four apples. The second has four apples. The third has three apples and a hole in the bottom.
+In his dream, Gohan stands in the stone basin with his father. Goku sets his feet and raises his hands.
+
+"Ready?"
+
+"Ready!" Gohan darts forward, and Goku turns to meet him. From the edge of the basin, Chi-Chi calls for them to keep their blasts away from the house. Goshin laughs and tells Gohan to try the other side.
+
+Gohan wakes in a bed at the Lookout. The room is quiet; Father is still away on the long road. Goshin is curled up in the next bed, and Gohan settles back under his blanket until he hears Chi-Chi in the kitchen.
+
+Later, Gohan draws three baskets in the margin of his schoolbook. The first has four apples. The second has four apples. The third has three apples and a hole in the bottom.
 
 Chi-Chi leans over his shoulder.
 
@@ -72,9 +82,13 @@ Rain strikes the broken stone in the wasteland. Piccolo stands above a narrow va
 
 He raises two fingers to his forehead.
 
-For a moment he sees Raditz turning in the crater. The first beam tore through the edge of the Saiyan's armour, but Raditz moved before it reached his chest. The next shot struck only after Gohan and Goshin helped pull Goku clear.
+The rain gives way to the crater in his memory. Goshin fires at Raditz's left, and Gohan pulls Goku out of the line. Piccolo extends his fingers.
 
-Piccolo lowers his hand.
+The spiralling beam races toward Raditz. At the last instant Raditz twists, and the shot tears through the edge of his shoulder armour instead of his chest. Beyond him, a ridge splits and falls.
+
+Later in the same fight, Gohan throws dirt into Raditz's eyes. Goshin pulls Goku aside, then tears his sleeve free of Raditz's grip and flies out of the way. Piccolo fires again as Raditz struggles for footing. This time the beam strikes him.
+
+Rain runs down Piccolo's face as he lowers his hand.
 
 "He saw it coming."
 
@@ -868,6 +882,10 @@ Chi-Chi closes the door before the rain reaches the table.
 
 <!--
 ## Footer
+
+**Sequential continuation correction, unaccepted (`O352`).** Gohan wakes at the Lookout, where the fourth bowl was left in Chapter 15. The family later returns to the mountain house as already staged. Exact immediate predecessor whole-file SHA-256 `d87083904acbfcd3c3b73d1ae681ff2c26ce06daba90df954a11275db83049b5` is in the [prior owner-only project snapshot](https://drive.google.com/file/d/1VlRVXFUnX2_hW28DkXV9ud6RTynczLff/view). See the [reading scope and source limits](../canon/SEQUENTIAL_OPENING_CORRECTION.md). No fresh episode-15 caption reread or complete audiovisual viewing is claimed in this pass.
+
+**6 November 2026 — visible episode reference and flashback correction, unaccepted.** Staged Gohan’s family dream and Piccolo’s recollection of the two differently resolved Raditz shots, anchored to this branch’s actual battle. The particular staging and English dialogue are authored, not a shot-for-shot claim. The [audit and immediate predecessor](../canon/EPISODE_REFERENCES_FLASHBACK_AUDIT_2026-11-06.md) record source limits, the exact prior snapshot and the chapter/episode mapping.
 
 **6 November 2026 — story-wide Dragon Ball-feel correction, unaccepted.** The brothers' play, C-6's book visit, the island, the rescue, Chi-Chi's fear and Piccolo's motives are revised in the actual scenes. Gohan has independent flight and frees the tiger; Goshin easily holds the branch with ki while lifting Gohan, and the mother and Bulma help. Piccolo believes the Saiyans might have arrived, invites the boys to train and leaves when the family refuses. The missing raft still leads into Chapter Seventeen. The exact immediate predecessor is member `The Twin/chapters/Chapter_16_The_Sea_All_Around.md` in the [verified 122-member local project archive](../canon/ARCHIVE_INDEX.md#backup-042), SHA-256 `4779ddfcfb3f969ecf85d6bf522d2e863edb1e8f97190db918438c2d424699bc`. Retained captions and short synopses informed the branch; no complete episode video or audio was reviewed.
 

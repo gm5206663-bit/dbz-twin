@@ -1,5 +1,7 @@
 # Chapter Five — Piccolo's New Attack
 
+*Anime episode reference: Dragon Ball Z, Episode 4.*
+
 *Revised story draft; not yet accepted.*
 
 ## 1 · Three Directions
@@ -624,9 +626,7 @@ Goshin lands beside him. His burned palm shakes once; he closes it and raises th
 
 ## 10 · The Paper
 
-At the mountain house, Gohan's test paper hangs on the doorframe. A chicken pecks its lower corner. Chi-Chi shoos it away and fastens the paper securely.
-
-"Wait until your father sees this, Gohan."
+Earlier that day, at the mountain house, Chi-Chi pins Gohan's test paper beside the marks on the doorframe. She steps back to admire the red circle.
 
 Beyond the gate, the road is empty.
 
@@ -688,6 +688,8 @@ The scouter gives a long signal. **1,000** flashes as Raditz turns toward Gohan.
 
 <!--
 ## Footer
+
+**6 November 2026 — independent Chapters 1–31 review correction, unaccepted.** The household cut is explicitly earlier in the day and returns to the single test-paper event shown in Chapter Three; the repeated chicken action and dialogue are no longer played a second time. No second test or Ox-King visit is introduced. The exact pre-review chapter is in the [owner-only project predecessor](https://drive.google.com/file/d/1ahbUoYCJFbuV8XmdbhxvRi01J6Hj8h0T/view), SHA-256 `4dd650753c2b815c49fb649a7238d5b9dbef3e9a456a7df0ed7b4aa2175ee0e7`. The previous footer is retained below. No author acceptance or source-video verification is implied.
 
 **5 November 2026 — Dragon Ball-feel revision from the opening, unaccepted.** The full chapter was reviewed and substantially revised, concentrating on the opening clash, character-specific dialogue, Goku's fear and determination, the tail confrontation and the brothers' intervention. Piccolo's injury and one-arm charge, Gohan's deliberate distractions, Goshin's first observed-and-adapted Kamehameha, the **1,450** authored attack snapshot, its stronger raw ki but less practiced first control, Goku's refusal to release Raditz, Raditz's self-severed tail and the **830 / 1,420 / 1,000** authored rising moments remain. The episode-4 source readings and the starting positions for Chapter Six remain distinct from these added branch numbers. The home cut revisits the same early test-paper moment already in Chapter Three, not a second test or visit; the later Chapter Six home cut is still during the single Ox-King visit. Detailed combat, English dialogue, twin actions and the changed tail escape remain authored; the episode-4 caption file and secondary guides are not full audiovisual verification and caption origin/cut remain unverified. The immediate predecessor is byte-preserved in the [verified pre-correction project and accepted-original snapshot](../canon/ARCHIVE_INDEX.md#backup-042), Chapter Five member SHA-256 `930e0b63a3775cc749db9ea5d43c6ec2ee9a446731f536a2a76627ca9149663d`, ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. This revision is not reader acceptance; earlier footer entries remain historical where superseded.
 

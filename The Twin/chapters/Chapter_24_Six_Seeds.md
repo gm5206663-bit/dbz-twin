@@ -1,5 +1,7 @@
 # Chapter Twenty-Four — Six Seeds
 
+*Anime episode reference: Dragon Ball Z, Episode 22.*
+
 *Immersion-revised review draft; not yet accepted.*
 
 *New review draft, continuing the unaccepted Chapter 23; not yet accepted.*
@@ -8,7 +10,7 @@ A delivery cart lies across the broken crossing. One wheel turns against the pav
 
 **SIX SEEDS**
 
-**NARRATOR:** Vegeta and Nappa have landed in East City. Goku is still on Snake Way, while Gohan, Goshin and their friends hurry toward the two Saiyans.
+**NARRATOR:** Vegeta and Nappa have landed in East City. Goku is still with King Kai, while Gohan, Goshin and their friends hurry toward the two Saiyans.
 
 ---
 
@@ -254,7 +256,7 @@ Bulma starts the car. Popo lifts the carpet just high enough to pass over the st
 
 Chi-Chi stays with the people still waiting. She takes the end of a fallen barrier and drags it aside so the group can use the pavement. Through an open doorway, she sees people gathered above a stairwell in the next building.
 
-Two figures descend beyond the bus. Krillin lands first, with Yamcha and Puar close behind.
+Krillin descends beyond the bus. Yamcha lands beside him, with Puar close behind.
 
 "Chi-Chi!" Krillin calls. "Did you see them?"
 
@@ -338,13 +340,15 @@ Oolong looks out across the sea. "How much longer does Goku need?"
 
 "I don't know."
 
-On Snake Way, Goku runs around a long bend. He carries the small supply capsule inside his clothes, and his feet strike the road without breaking his stride.
+On King Kai's planet, Goku holds a small sphere above his hands while Gregory circles him. He turns to follow the quick green figure, keeping the light away from the house and the car.
 
-He looks ahead into the clouds.
+"I'm over here now," Gregory calls.
 
-"Come on, road. You were long enough the first time."
+Goku turns too sharply. The sphere wobbles, and he lets it spread harmlessly into the air.
 
-He leans forward and runs faster.
+"Again," King Kai says. "Move your feet before you turn your shoulders."
+
+Goku plants them and raises his hands. Neither he nor King Kai has seen the ships land.
 
 ---
 
@@ -704,7 +708,7 @@ Light gathers in Vegeta's raised hand.
 
 Gohan lifts off toward the shelf, putting himself between Vegeta and Krillin.
 
-On Snake Way, Goku rounds another bend. The road continues into the clouds, and he keeps running.
+Far away, Goku gathers the light again. He has not heard what is happening at the quarry.
 
 **NARRATOR:** Four Saibaimen remain in the quarry, and Vegeta has already attacked. Can Gohan and Goshin protect their friends as the battle continues?
 
@@ -718,6 +722,13 @@ On Snake Way, Goku rounds another bend. The road continues into the clouds, and 
 
 <!--
 ## Footer
+
+**Sequential continuation correction, unaccepted (`O352`).** Krillin, Yamcha and Puar’s arrival by the bus is described without an ambiguous count of figures. The rescue and battle outcomes are unchanged. Exact immediate predecessor whole-file SHA-256 `1e55aa16aeb45a72fd21cc8a14fa2e122584583b1aa43c8314a19de70f85d266` is in the [prior owner-only project snapshot](https://drive.google.com/file/d/1VlRVXFUnX2_hW28DkXV9ud6RTynczLff/view). See the [reading scope and source limits](../canon/SEQUENTIAL_OPENING_CORRECTION.md). No fresh episode-22 caption reread or complete audiovisual viewing is claimed in this pass.
+
+**2026-11-09 UTC (observed sandbox clock) — canon and continuity correction, unaccepted.** The Snake Way chronology has been coordinated across Chapters 23–28: Goku stays to finish training under King Kai's uncertain, mistaken arrival estimate, then leaves urgently after the late warning. Family, rescue, travel and reunion are restaged without a speed cap or arbitrary afterlife delay. [Exact pre-correction project and research predecessor](https://drive.google.com/file/d/1hMI7EqMjwOZdwNglBr7iRM2WPBHZ0r28/view). The earlier footer entries below describe their historical versions. The separately accepted original Chapter 20 remains unchanged.
+
+
+**6 November 2026 — speed-presentation correction, unaccepted.** Goku's urgent return now reads as an extraordinary high-speed journey rather than an ordinary jog; no new distance, speed limit or afterlife restriction is asserted. This presentation change does not resolve the larger question of how the long return fits the author's speed direction and the Earth-side chronology. The exact [immediate non-private predecessor](https://drive.google.com/file/d/1h_xvvuuetvxgA0xb6-AUf9cYLiC50tL0/view) is owner-only on Drive; this chapter's preceding SHA-256 is `51a90d8851ce356ad6c2f734cd9f49ebafdb643bebfb9a71f2677ee64369b7f1`. The earlier footer remains historical; no acceptance or public update is implied.
 
 **6 November 2026 — full-manuscript review correction, unaccepted.** Krillin's two consecutive remarks no longer repeat the same invitation. The joke, urgency, locations, fights and readings are unchanged. The exact immediate predecessor (SHA-256 `d3e607dbf8e4df596d5e30ca08cc4907477dbd00564a34f3c44d6eb55e263e22`) is in the [verified non-private review snapshot](../canon/ARCHIVE_INDEX.md#backup-031); the complete prior footer follows. No new chapter, reader acceptance, full audiovisual source review or remote synchronization is implied.
 

@@ -1,5 +1,7 @@
 # Chapter Eighteen — The Room Beyond the Door
 
+*Anime episode reference: Dragon Ball Z, Episode 17.*
+
 *Immersion-revised review draft; not yet accepted.*
 
 *Unaccepted review draft, continuing the selected Chapters 16–17; the selected earlier chapters have since received contextual corrections.*

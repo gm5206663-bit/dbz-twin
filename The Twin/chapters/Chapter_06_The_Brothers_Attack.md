@@ -1,5 +1,7 @@
 # Chapter Six — The Brothers' Attack
 
+*Anime episode reference: Dragon Ball Z, Episode 5.*
+
 *Revised story draft; not yet accepted.*
 
 The scouter's long signal breaks into rapid beeps.
@@ -40,11 +42,13 @@ Goshin meets him with a punch. Raditz catches his wrist, but Goshin twists free,
 
 Goshin plants his feet as Raditz follows, one boot sinking into the loose stone. Goshin fires beside it; the ground bursts, and Raditz lifts his foot. Goshin pushes off the slope and comes up beneath his guard.
 
+For an instant he sees Raditz's boot on Father's chest again. Gohan is still down there beside him. Fear for them turns to anger, and power rushes through Goshin so suddenly that the loose dust lifts around him.
+
 The scouter flashes as Raditz looks up.
 
 "Broc. 1,500?"
 
-"Stop hurting them!" Goshin shouts, his voice cracking. Dust rises around him, then scatters when he comes forward.
+"Stop hurting them!" Goshin shouts, his voice cracking. The dust bursts away from him as he comes forward.
 
 Raditz blocks the first blow, but the next hits his injured shoulder and turns him toward the broken wall. He catches Goshin by the arm and throws him over it.
 
@@ -156,7 +160,7 @@ Goshin drops toward the injured shoulder instead. Raditz throws his head back in
 
 "There. Now neither of us can move away."
 
-Goku pulls, and Raditz pulls with him. The scouter sounds.
+Goku pulls, and Raditz pulls with him. Raditz looks toward Piccolo; his scouter sounds as the light at Piccolo's fingers grows.
 
 "1,480! Kakarot, let me go. I'll leave."
 
@@ -354,7 +358,7 @@ The Ox-King chuckles as Chi-Chi fastens the last peg and looks down the road wit
 
 A breeze lifts the two small shirts together. Chi-Chi holds the line steady until they settle, then checks the pegs before bringing the empty basket inside.
 
-The boys' school paper is still pinned to the doorframe. Chi-Chi reaches back to smooth one corner, then sets the basket by the table. Her father comes in behind her, carrying his horned helmet under one arm.
+Gohan's test paper is still pinned to the doorframe. Chi-Chi reaches back to smooth one corner, then sets the basket by the table. Her father comes in behind her, carrying his horned helmet under one arm.
 
 "Should I put more rice on?" he asks.
 
@@ -431,6 +435,24 @@ Roshi opens the case. Gohan holds the end of the bandage out of the dirt while R
 "A little."
 
 Roshi loosens it, and Goshin nods. Bulma checks the side of his head without pressing on the place Raditz struck.
+
+"There was a man by the truck," Gohan says. "I called to him, but he didn't answer."
+
+"What truck?" Krillin asks.
+
+"Raditz threw it away. The man was over there, by the rim."
+
+"Go and check," Goku says. Bulma stays beside the boys as Krillin runs across the broken ground.
+
+He kneels beside the farmer, puts two fingers against his neck and waits. He leans close, but the man isn't breathing. When he comes back, his face is drawn.
+
+"I couldn't feel a pulse."
+
+Goku looks toward the field. "Did Raditz do that?"
+
+"I don't know," Gohan says. "The man was there when we got here."
+
+"I saw a farmhouse beyond the ridge," Krillin says. "Someone needs to know."
 
 Krillin looks up at Piccolo. "What did you do to Goku?"
 
@@ -510,13 +532,19 @@ Nappa glances toward the two space pods resting beyond the wall. "Then what do y
 
 Nappa's grin returns. "Now that's worth a journey."
 
+Vegeta touches the scouter again. Raditz's had carried his voice across space; Vegeta has no reason to assume this one cannot do the same. He keeps the rest to himself.
+
+Freeza is stronger than he is. Vegeta has served him long enough to know what happens to people who challenge him and lose. But if a wish could keep him from dying, he might get the chance to fight Freeza without that fear. It would not make victory certain. He would still have to find a way to win.
+
+The thought is enough to make him smile. Freeza has held the universe over him for too long. Vegeta intends to take it for himself.
+
 ---
 
 ## A Little Longer
 
 The stretcher lies beside Goku. Krillin crouches at the other end.
 
-"Korin has Senzu," he says. "I'll go to the tower."
+"Korin has Senzu," he says. "I'll tell the people at the farm first, then go to the tower."
 
 Goku looks at him. "You know where it is?"
 
@@ -530,7 +558,11 @@ Krillin glances at Gohan and Goshin, then back at Goku. "Don't go anywhere witho
 
 Goku tries to smile. "I don't think I could."
 
-Krillin lifts off the ground and rises over the ridge. His orange clothes become a small spot against the sky before he disappears.
+Krillin lifts off the ground and rises over the ridge. At the farmhouse, a woman answers the door.
+
+"I'm sorry," he tells her. "There's a man by the crater. He's not breathing."
+
+She calls for the others inside. Krillin points them toward the field and waits until two adults are on the path. Then he rises again and heads for Korin's tower.
 
 Gohan kneels beside his father again. "You told us to get away."
 
@@ -678,6 +710,15 @@ Goshin lets go of the blanket long enough to take Gohan's hand. The aircraft car
 
 <!--
 ## Footer
+
+**Opening sequential correction, unaccepted.** Gohan reports the still man without assigning a cause. Krillin checks him and informs adults at the farm before heading to Korin; their relationship, later arrangements and any wish or revival are unshown (`O351`). The battle outcome and Chapter Seven handoff remain. The exact immediately preceding whole-file SHA-256 is `7a1f3e613ea611afefd7acabf469c93fcf7cfc495991b657e4d430932bf14b67` in the owner-only [prior project snapshot](https://drive.google.com/file/d/1VlRVXFUnX2_hW28DkXV9ud6RTynczLff/view). The [correction record](../canon/SEQUENTIAL_OPENING_CORRECTION.md) gives scope and source limits. No full audiovisual review or reader acceptance is implied.
+
+**2026-11-09 UTC (observed sandbox clock) — canon and continuity correction, unaccepted.** Vegeta privately connects the wish for immortality to escaping Freeza's control and eventually challenging him; his guarded words, the active scouter and his selfish ambition remain. [Exact pre-correction project and research predecessor](https://drive.google.com/file/d/1hMI7EqMjwOZdwNglBr7iRM2WPBHZ0r28/view). The earlier footer entries below describe their historical versions. The separately accepted original Chapter 20 remains unchanged.
+
+
+**6 November 2026 — independent Chapters 1–31 review correction, unaccepted.** The household cut identifies the paper as Gohan's test, consistent with Chapters Three and Five. It is still the single earlier paper and the same Ox-King visit. The exact pre-review chapter is in the [owner-only project predecessor](https://drive.google.com/file/d/1ahbUoYCJFbuV8XmdbhxvRi01J6Hj8h0T/view), SHA-256 `c717e81a898440fea6137ff9ee2f8fc5a91bc38e2dd0920787f9ce6fec567e7d`. The previous footer is retained below. No author acceptance or source-video verification is implied.
+
+**6 November 2026 — hybrid emotion correction, unaccepted.** Goshin's fear for Goku and Gohan becomes anger and visibly releases power in his existing 1,500 surge. Gohan's separate 1,307 attack, subsequent 1 reading and agency remain; neither figure is a new maximum or universal emotional rule (`C100`, `C142`, `O089`, `O230`). The exact preceding chapter SHA-256 `cefa4ecb1ed15b35bb57d1146e32c9803836d5047b12f036036e2400c996554b` is in the [owner-only project predecessor](https://drive.google.com/file/d/11CMGEOCKlI3sTZtgs_pLNHbJMl9jaszX/view). No acceptance or GitHub update is implied.
 
 **5 November 2026 — Dragon Ball-feel revision from the opening, unaccepted.** The full chapter was reviewed and substantially revised, especially the compressed struggle around Piccolo's firing line, the brothers' separate choices and the friends' reunion. Gohan still throws the dirt; Goshin pulls Goku clear, disrupts Raditz's balance and clears the shot; Piccolo fires, Goku survives injured and Piccolo later kills Raditz despite Goku's objection. The source-based **1,307**, **1** and **1,480** and authored **1,500** Goshin snapshot remain distinct. The scouter disclosure, one-year warning, Bulma's separate cell removal, one Chi-Chi/Ox-King visit, Krillin's departure, Piccolo's departure and aircraft handoff to Chapter Seven remain. The distant Saiyans' meal is written as an insect-like warrior's arm, as reported by secondary accounts; no complete audiovisual footage was checked. The precise dialogue, twin action, alternative survival, staging and additional characterization are authored. The retained caption file's origin and cut remain unverified. The immediate predecessor is byte-preserved in the [verified pre-correction project and accepted-original snapshot](../canon/ARCHIVE_INDEX.md#backup-042), Chapter Six member SHA-256 `be3918cd5e85d39176464c325097aa50f4cec84144a2b99444d4a06f60e5a2fe`, ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. This revision is not reader acceptance; earlier footer entries remain historical where superseded.
 

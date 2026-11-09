@@ -1,10 +1,20 @@
 # Chapter Nineteen — What We Can Teach
 
+*Anime episode reference: Dragon Ball Z, Episode 18.*
+
 *Immersion-revised review draft; not yet accepted.*
 
 *Review draft, continuing the selected Chapter 18.*
 
 Raditz's boot pins Goku against the stone. Gohan picks up a broken piece of the ridge.
+
+"Father!"
+
+Goku pushes at the boot with both hands. Raditz lifts it and stamps down again, and Goku cries out across the crater.
+
+"Get away!" Goku calls to the boys.
+
+Gohan draws back his arm, but Raditz raises his free hand over his father. Gohan tries to throw the stone before it can come down.
 
 **WHAT WE CAN TEACH**
 
@@ -964,6 +974,8 @@ Ox-King picks up the screwdriver, and the family goes inside together, leaving t
 
 <!--
 ## Footer
+
+**6 November 2026 — visible episode reference and flashback correction, unaccepted.** Expanded Gohan’s Raditz nightmare from the brief cold open while retaining his later conversation with Goshin and Goku’s survival. The particular staging and English dialogue are authored, not a shot-for-shot claim. The [audit and immediate predecessor](../canon/EPISODE_REFERENCES_FLASHBACK_AUDIT_2026-11-06.md) record source limits, the exact prior snapshot and the chapter/episode mapping.
 
 **6 November 2026 — Dragon Ball-feel revision, unaccepted.** The brothers speak personally about the Raditz nightmare and spar more fluidly; Gohan develops his own aiming insight while Goshin demonstrates his already retained wave-and-stone control with pleasure. The boys connect Piccolo's splitting to Tien's earlier display without establishing the same technique. The projected machine is still covered and unidentified, the physical four-rock hold and separate slab diversion remain, and neither boy transforms. Goku imitates Bubbles on the heavy little planet, but King Kai's identity is not yet confirmed. Complete retained episode-18 captions and Toei's short synopsis were reread, not full video or audio; original caption source and cut remain unverified. The exact preceding selected chapter (SHA-256 `060e0545b2c382c26a95548cf2c2bec77cf31bccc1b59808981b00cd98b044cc`) is in the [verified 122-member pre-correction archive](../canon/ARCHIVE_INDEX.md#backup-042); earlier footer contents follow unchanged. No acceptance or remote sync is implied.
 

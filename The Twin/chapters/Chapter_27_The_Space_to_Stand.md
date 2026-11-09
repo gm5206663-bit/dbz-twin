@@ -1,5 +1,7 @@
 # Chapter Twenty-Seven — The Space to Stand
 
+*Anime episode reference: Dragon Ball Z, Episodes 32–36 (selected elements; divergent battle and aftermath).*
+
 *Review draft; not yet accepted.*
 
 Vegeta's tail lashes over the broken ridge. Goshin steps inside its reach and catches the prince's descending fist.
@@ -58,7 +60,9 @@ Both rise above the northern slope. Vegeta punches backward, but Goshin holds on
 
 Vegeta meets him with both hands. Their palms strike, and the air cracks around them.
 
-Goshin feels the strength he built during the fight before the change. The immense power of his first transformation moves through him as his body responds to it, adding to what he has already gained. His strength and ki keep growing through the exchange. He closes his hands over Vegeta's hands and pushes. The prince strains against him, but Goshin forces him backward through the air and down onto the bare slope.
+Goshin feels the strength he built during the fight before the change. The immense power of his new form moves through him; he feels his body adapting to it even as the fight goes on. Strength born of both his mother and his father grows deeper in him, adding to what he has already gained. Gohan's ki is there behind him, familiar even now, as Goshin's own strength and ki continue to rise.
+
+He closes his hands over Vegeta's hands and pushes. The prince strains against him, but Goshin forces him backward through the air and down onto the bare slope.
 
 The hillside folds under Vegeta's weight. Dust billows between them.
 
@@ -114,7 +118,7 @@ Krillin nods. He glances at the pouch inside his clothes, then turns toward the 
 
 ## The Last Trip to the Gym
 
-Popo lowers the carpet outside the school. The two people he and Puar helped from the upper floor climb down with the woman Chi-Chi brought from the doorway. A volunteer takes them inside, where more blankets have been spread across the gym floor.
+Popo lowers the carpet outside the school. The two people he and Puar helped from the upper floor climb down. The woman Chi-Chi brought from the doorway steps out of Bulma's car, and a volunteer takes all three inside, where more blankets have been spread across the gym floor.
 
 "There were still people on the next street," Chi-Chi tells her. "An injured man and the others from the bus came here on the earlier trips."
 
@@ -204,37 +208,21 @@ Yajirobe shifts his sword out of the way as the car takes the turn.
 
 ---
 
-## A Voice on Snake Way
+## The Target
 
-Goku runs along the inside of a long curve. The road ahead disappears into cloud; there is still no sign of Yemma's end.
+Gregory rises over the little planet with a twig in his hands. Goku follows him from the grass, a light held above his palms.
 
-"Goku!" King Kai's voice reaches him from the little planet.
+Gregory drops the twig and darts aside. Goku keeps the sphere pointed at the falling target rather than chasing Gregory with it. When the twig touches down, he lets the light disperse.
 
-Goku looks up without breaking stride. "Can you see them?"
+"You didn't get me," Gregory says.
 
-"Yes. Both your boys are there. One of the Saiyans made a light in the sky. Your son Goshin looked at it."
+"I wasn't aiming at you."
 
-Goku's foot catches the edge of the road. He rights himself and keeps running.
+"Good. I thought we ought to make that clear."
 
-"Did he change?"
+King Kai takes a brick from beside the house. "A proper target next. After that, I'll check the Saiyans again."
 
-"He did. But listen to me: he's talking to Gohan, and he's protecting the others. He's fighting the Saiyan."
-
-Goku breathes out. He remembers Roshi's account by the river, and the question he had asked about Grandpa. He had wanted the boys to know enough to stay safe; he had never been able to tell them what it would feel like.
-
-"He's still himself?"
-
-"I can hear him calling his brother by name. They're working together."
-
-Relief gives Goku a brief, fierce grin. He wants to see them both for himself.
-
-Goku's hand closes around the capsule inside his clothes. "And Chi-Chi?"
-
-"I can see her and Bulma heading toward them. The fighting isn't over yet."
-
-"All right. Keep watching, please."
-
-He leans forward and runs harder. The clouds part around him, revealing another stretch of road, but not its end.
+Goku nods. His supply capsule is still tucked safely inside his clothes, ready for the journey home.
 
 ---
 
@@ -474,7 +462,7 @@ Gohan looks at the deep footprints. "Much taller."
 
 For a moment Goshin grins. Then he glances back at Vegeta, and his smile fades. "Is everybody all right?"
 
-"We're finding out," Chi-Chi says. "Your father is still on his way."
+"We're finding out," Chi-Chi says. "Your father was still training when we heard from him. I don't know whether he has left yet."
 
 "Does he know?" Gohan asks.
 
@@ -560,6 +548,17 @@ Nappa says nothing. Beyond the wall, the wind moves through the torn rails, and 
 
 <!--
 ## Footer
+
+**Sequential continuation correction, unaccepted (`O353`).** At the gym the two upstairs passengers step off Popo’s carpet and the woman steps out of Bulma’s car. Exact immediate predecessor whole-file SHA-256 `c677eadeccb41acdf7c69f7be47a98a2016a21c63732bf2fdc21a2d87c39d76b` is in the [owner-only opening checkpoint](https://drive.google.com/file/d/125KxF2blvjB0KKVCWMeYgCJgWEblfG6w/view). [Scope and source limits](../canon/SEQUENTIAL_CORRECTION_CH25_32.md). No complete audiovisual viewing or reader acceptance is claimed.
+
+**2026-11-09 UTC (observed sandbox clock) — canon and continuity correction, unaccepted.** The Snake Way chronology has been coordinated across Chapters 23–28: Goku stays to finish training under King Kai's uncertain, mistaken arrival estimate, then leaves urgently after the late warning. Family, rescue, travel and reunion are restaged without a speed cap or arbitrary afterlife delay. [Exact pre-correction project and research predecessor](https://drive.google.com/file/d/1hMI7EqMjwOZdwNglBr7iRM2WPBHZ0r28/view). The earlier footer entries below describe their historical versions. The separately accepted original Chapter 20 remains unchanged.
+
+
+**7 November 2026 — whole hybrid bloodline correction, unaccepted.** The author clarified that Goshin's developing bloodline means his whole Saiyan–Earthling hybrid inheritance, not only the Saiyan side. The giant-fight prose now reflects strength inherited from both parents growing together; his existing controlled first Great Ape, substantial retained growth and Gohan's independent choices remain (`O230`, `O243`). No percentage, mechanism, fixed rate or new form is invented. The exact immediate preceding selected chapter, SHA-256 `aa04016604d98406b0712680083cc021cdf54556da852deaea4932a4bce968d3`, is in the [verified owner-only project and research predecessor](https://drive.google.com/file/d/1-ypxWxIHhQoRiRENTJHZrtutL-2kTcfW/view). The next footer's Saiyan-only interpretation is historical and superseded; this revision is not accepted or synchronized to GitHub.
+
+**6 November 2026 — deepening inheritance correction, unaccepted; Saiyan-only interpretation superseded 7 November.** Goshin feels his Saiyan strength deepen as his body adapts during the already-controlled first Great Ape fight, with Gohan's familiar ki still present. The author's direction is that Goshin's Saiyan bloodline becomes purer, deeper and stronger with his Talent as he grows, without erasing his Earthling inheritance (`O214`, `O230`). The existing substantial retained body-and-ki growth and Gohan's independent choices remain. Exact preceding chapter SHA-256 `19925757af3bcf15e3c59ce5883b0e89351340988a1137ec43fee6bec71f104e` is in the [owner-only project predecessor](https://drive.google.com/file/d/11CMGEOCKlI3sTZtgs_pLNHbJMl9jaszX/view). No acceptance or GitHub update is implied.
+
+**6 November 2026 — visible episode reference and flashback correction, unaccepted.** Staged Goku’s memories of Grandpa’s moon warning and Kami removing his tail; he does not claim unconscious ape experience or Grandpa’s death as certain direct memory. The particular staging and English dialogue are authored, not a shot-for-shot claim. The [audit and immediate predecessor](../canon/EPISODE_REFERENCES_FLASHBACK_AUDIT_2026-11-06.md) record source limits, the exact prior snapshot and the chapter/episode mapping.
 
 **6 November 2026 — Dragon Ball-feel revision, unaccepted.** Goshin enjoys his newly developing strength and chooses to support Gohan's own shot despite the possible loss of the form; the return to ordinary size retains substantial real, unnumbered body-and-ki growth (`O214`). An opening comparison no longer claims he previously needed both hands where the prior scene only showed him using both. Chi-Chi and Gohan have a lived reunion and Yamcha, Bulma and Puar share a brief exchange. Gohan's independent aim, both tails, surviving guarded Saiyans and unresolved care remain. Full retained episodes 33–36 captions and short Toei synopses were reread, not full video/audio; source and cut remain unknown. Exact selected predecessor SHA-256 `14e1051b958798bf0e3da7c11659a5a068ab72d5bf8128f4135e229f14fd6677` is in the [verified 122-member pre-correction archive](../canon/ARCHIVE_INDEX.md#backup-042); the entire earlier footer follows. No acceptance or remote sync is implied.
 

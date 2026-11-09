@@ -1,11 +1,16 @@
 # Twin project — historical review package
 
+**Current study before continuation:** [Anime emotion, voice, action and a living world](08_ANIME_STYLE_EMOTION_ACTION_AND_VOICE_STUDY.md) examines selected written source cues, official summaries, production/cast interviews, and still frames sampled from ten official clips plus one nonofficial, provenance-unverified cut. It compares the actual unaccepted Chapters 39–42 and preserves their frontier. No complete episode, complete continuous clip or audio was reviewed; no chapter body changed.
+
+**Earlier working addition (Chapter 39 checkpoint):** [Dragon Ball as a living world — a writer’s study](07_DRAGON_BALL_WORLD_AND_ANIME_STUDY.md) connects wider character, world and anime research with the then-current Chapter 38 branch. At that checkpoint the selected story ran through unaccepted Chapter 39; the dated Chapter 23 notice below is historical. The new pass covers 21 additional complete retained Z spoken-caption tracks, 366 available short Toei synopses across late Z, GT and Super, and 24 individually inspected stills, not full audiovisual episodes. Total documented complete spoken-caption coverage is 146 distinct Z episodes. No chapter prose changed in the study pass; Chapter 39 followed it.
+
 **Current-state notice, 4 November:** This package began as a 1 November research/proposal snapshot. Its Word document, spreadsheet and historical checksum list are retained as they were; parts of the editable research maps have since been corrected. The old rejected Chapter 10 was replaced by a different, still-unaccepted selected candidate, and the selected story now runs through Chapter 23. For current status, decisions and acceptance see `The Twin/STATUS.md` and `The Twin/OPEN.md`; for continued source coverage see `The Twin/canon/RESEARCH.md` and the dated episode-review files. No complete franchise viewing or reader acceptance is implied.
 
 **Historical reading copy:** `00_REBUILD_PLAN_AND_AUDIT.docx` combines the original proposal and chapter-by-chapter audit. Its request for a staged rebuild and its old frontier describe the time of that proposal, not a current prohibition on later authorized corrections. This package itself does not publish or accept a replacement chapter.
 
 ## Files
 
+- **`08_ANIME_STYLE_EMOTION_ACTION_AND_VOICE_STUDY.md`** — current source-bounded craft and character study, including its historical Chapter 42 seam and audiovisual limits; the current Chapter 43 seam is in the project handoff.
 - **`00_REBUILD_PLAN_AND_AUDIT.docx`** — the recommended staged rebuild, the rules to preserve, decision request and audit of all ten current chapters.
 - `01_REBUILD_PROPOSAL.md` — the proposal as editable text.
 - `02_CHAPTER_BY_CHAPTER_AUDIT.md` — the full audit as editable text.

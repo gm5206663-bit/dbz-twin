@@ -1,5 +1,7 @@
 # Chapter Nine — The Bridge Under the Moon
 
+*Anime episode reference: Dragon Ball Z, Episode 8.*
+
 *Revised story draft; not yet accepted.*
 
 Beside a yellow cloud hovering above the grass, Goku holds Goshin while Chi-Chi closes a first-aid box.

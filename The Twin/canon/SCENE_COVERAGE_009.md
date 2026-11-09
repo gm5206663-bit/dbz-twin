@@ -1,8 +1,11 @@
 # Episode 9 → Chapter Ten · scene-coverage inventory
 
+**Owns: the historical source-order inventory for the rejected older Chapter Ten branch.**
+
+**Sequential continuation, unaccepted (`O352`):** In the selected Chapter Ten Gohan boards Nimbus during the fall and both boys travel into the sloping passage; the actual blocked-exit sequence and C-6’s agency remain. The older invitation and habit assertions below are historical and not mandatory. The chapter was freshly read, not the episode-9 captions in this pass. [Scope and predecessor](SEQUENTIAL_OPENING_CORRECTION.md).
+
 **Selected-branch supersession, 3 November:** The former chapter-treatment and historical medical restrictions below do not govern the selected Chapter Ten. The doctor permits normal movement with symptom reporting, the brothers encounter C-6 beneath the riverbank and he remains awake after a consent-based rescue. See [selected continuity corrections](SELECTED_CONTINUITY_CORRECTIONS_2026-11-03.md). Source baselines and older mappings are retained.
 
-**Owns: the historical source-order inventory for the rejected older Chapter Ten branch.**
 
 **6 November selected-chapter update:** The [current Chapter Ten](../chapters/Chapter_10_The_Robot_Under_the_Sand.md) has received the unaccepted story-wide feel pass. The doctor permits normal movement with symptom reporting. Gohan accidentally destabilizes the roof while trying to help C-6; Goshin catches a falling stone, both boys and the parents contribute, and C-6 consents to rescue and knowingly spends reserve energy while leaking. His arm is damaged and energy uncertain, and he is awake at the doctor's yard. The roof, C-6's survival and the parents' help are authored branch staging. The older treatment and behavioral/medical assertions below remain historical, not current rules. The complete retained episode-nine SRT and Toei's short synopsis were reread; origin and cut are unverified and neither is complete audiovisual evidence. See the [current correction record](DRAGON_BALL_FEEL_CORRECTION_2026-11-05.md).
 
@@ -16,6 +19,19 @@
 - The original Japanese episode title is 「ゴメンねロボットさん 砂漠に消えた涙」; the title and secondary episode synopsis are reported by `W-67`. `W-68` is a broadcaster programme synopsis. `W-69` and `W-70` are independent rewatch accounts, not primary footage. `C182`–`C190` distinguish the observed captions from reported images. W-69 and W-70 disagree on whether Gohan grabs the bird or is grabbed; the visual sequence remains unresolved.
 - **Branch state before this chapter:** Goku is alive; he, Chi-Chi, Gohan, Goshin and Ox-King are at home. Goku and Gohan were completely restored; Goshin refused the third Senzu, which Roshi holds. Goshin is still injured, under restrictions, and not yet cleared for long travel; his next check is pending. Piccolo has neither boy. Both tails and the moon remain. Chapter Nine's preview is “The Book and the Road.”
 - Episode scenes that depend on dead Goku, a solitary Gohan, or the missing moon and tail cannot be re-created unchanged. C-6's rescue and uncertain survival, adult participation, medical follow-up and changed route are authored alternatives, not claims about episode footage.
+
+## Selected Chapter Ten reconciliation
+
+This concise reconciliation was checked against the present [Chapter 10](../chapters/Chapter_10_The_Robot_Under_the_Sand.md), rather than copying the superseded adult-led treatment below. It maps identified source functions, not every original silent action or a complete audiovisual viewing. The [Z 1–90 crosswalk](CANON_DISPOSITION_Z001_090.md) places it among the other referenced and intervening episodes.
+
+| Source movement in the retained caption | Selected unaccepted branch |
+|---|---|
+| Gohan falls into old ruins and identifies the SSS robot and the Nemurian setting. | Both boys fall through a riverbank with Nimbus. Gohan uses Mina's book to identify the carved vimana; the robot identifies himself as C-6. Goku and Chi-Chi search from outside. |
+| C-6 warns about noise, asks for sleep and points toward an exit; Gohan returns when he cannot escape. | Both boys honor an initial switch-off, then return after finding a blocked exit. C-6 describes the unstable structure and repeats his desire for quiet; the physical setting and conversation are authored. |
+| C-6's vision is impaired; a scorpion frightens Gohan; the robot discusses cooking. | With C-6's permission Goshin wipes the glass, improving but not fully repairing his vision. A scorpion appears while C-6 is awake; Gohan moves it to a crack. Later Gohan heats Chi-Chi's apple on C-6's plate, and both brothers taste it; the precise sequence differs from the source. |
+| C-6 tells of the old excavation and the danger of disturbing the ruins. | C-6 describes an approximately eighty-year burial and an old survey crew. His memory of the surveyor and the brothers' drawing are branch-authored details, not a claim of verified source images. |
+| Disturbed ruins collapse and C-6 uses reserve energy amid the escape; the source aftermath differs. | Gohan moves wood despite the warning and apologizes when it destabilizes the roof. Both boys act, Goku and Chi-Chi find the outer opening, and C-6 explicitly chooses a rescue despite the leak. His arm is damaged; he reaches the doctor's yard awake with remaining energy uncertain. Nobody assumes an unshown repair or certain recovery. |
+| The original's solitary wilderness, lost tail and dead-Goku intercuts supply its circumstances. | Neither brother was abandoned or lost a tail and Goku lives. The doctor's current permission is normal movement with symptom reporting, not the historical treatment's prolonged restriction. Source-afterlife events are not silently transplanted. |
 
 ## Source-order inventory and historical provisional treatment
 

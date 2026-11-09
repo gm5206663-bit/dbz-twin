@@ -1,12 +1,24 @@
 # Chapter Thirteen — The Sparring Ring
 
+*Anime episode reference: Dragon Ball Z, Episode 12.*
+
 *Revised story draft; not yet accepted.*
 
 A leaf lies beneath a stone in the yard. Its tip lifts each time the wind reaches it.
 
 ## The Next Morning
 
-Gohan wakes with both hands closed around his blanket. Light reaches the floor through a gap in the curtains. His hat rests beside the window, its Four-Star Ball glowing orange.
+In his dream, Gohan is back at the crater. His father is on the ground, and Raditz stands over him.
+
+"Leave Father alone!"
+
+Gohan runs toward them. Goku reaches out from beneath Raditz's boot.
+
+"Get away, Gohan!"
+
+Gohan stretches out his own hand, but he cannot reach his father.
+
+He wakes with both hands closed around his blanket. Light reaches the floor through a gap in the curtains. His hat rests beside the window, its Four-Star Ball glowing orange.
 
 From the kitchen comes the scrape of a knife, then Goku's laugh.
 
@@ -800,6 +812,8 @@ The wind lifts the leaf's tip. This time it pulls free and slides across the gro
 
 <!--
 ## Footer
+
+**6 November 2026 — visible episode reference and flashback correction, unaccepted.** Staged Gohan’s Raditz nightmare before he wakes and finds his living father. The particular staging and English dialogue are authored, not a shot-for-shot claim. The [audit and immediate predecessor](../canon/EPISODE_REFERENCES_FLASHBACK_AUDIT_2026-11-06.md) record source limits, the exact prior snapshot and the chapter/episode mapping.
 
 **6 November 2026 — Dragon Ball-feel revision from the opening, unaccepted.** The complete chapter, Chapter Twelve ending, Chapter Fourteen handoff, episode-twelve coverage and retained caption were reviewed. The father–son ring match now gives the fighters clearer tactical choices and a playful, competitive relationship; Goshin gains strength during the clash that remains after the wave and earns the existing ring-out. This is a particular shown gain, not a fixed rate, cap or claim that every exchange must produce one. Gohan learns by watching, initiates his own interrupted match and independently flies out of Piccolo's accidental fissure. Chi-Chi protects and directs; Tien, Chiaotzu and Launch retain their separate choices, and C-6 controls his inspection and asks about the bridge book that follows in Chapter Fourteen. The scouter stays unpowered and King Kai's answer remains unresolved. Goku is alive; the family fight and rescue are authored branch staging. The complete retained episode-twelve caption was reread, including its preview, ending and unrelated tail; origin and cut are unverified. Toei's short synopsis, captions, older secondary reports and isolated stills are not a complete video/audio review. The immediate predecessor is byte-preserved in the [verified pre-correction project and accepted-original snapshot](../canon/ARCHIVE_INDEX.md#backup-042), Chapter Thirteen member SHA-256 `32f863f17babdfdfc4b2c91a758c26b0d0f825d39a479cacaf4c1614083a13af`, ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. Earlier footer entries remain historical; this revision is not reader acceptance.
 

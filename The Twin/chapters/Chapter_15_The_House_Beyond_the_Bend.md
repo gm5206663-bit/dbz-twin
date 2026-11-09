@@ -1,5 +1,7 @@
 # Chapter Fifteen — The House Beyond the Bend
 
+*Anime episode reference: Dragon Ball Z, Episode 14.*
+
 *Revised story draft; not yet accepted.*
 
 A hat rests on a book in the shade. The Four-Star Ball on its crown holds a square of white sky.

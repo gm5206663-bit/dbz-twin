@@ -1,5 +1,7 @@
 # Chapter Twenty-Two — A Year Between Mornings
 
+*Anime episode reference: Dragon Ball Z, Episode 21 (first part).*
+
 *Immersion-revised review draft; not yet accepted.*
 
 *New review draft, continuing the unaccepted Chapter 21; not yet accepted.*
@@ -32,7 +34,7 @@ He returns to the path while Goshin sends the six rocks along separate paths, we
 
 Goshin cups his hands. The rocks keep moving as blue light grows between his palms. He aims at the right circle and fires.
 
-The wave passes through the board and cuts a channel into the rock behind it. Goshin crosses the clearing and catches a falling piece of wood before it lands. He sets it beside the stick, then brings the still-moving rocks down one at a time.
+The wave passes through the board and cuts a channel into the rock behind it. Goshin crosses the clearing and catches a falling piece of wood before it lands. He sets it on the path, then brings the still-moving rocks down one at a time.
 
 Gohan goes to the board. "There's a hole all the way through."
 
@@ -776,6 +778,8 @@ The ships continue toward Earth.
 
 <!--
 ## Footer
+
+**Sequential continuation correction, unaccepted (`O352`).** The target fragment is set on the path rather than beside an unintroduced stick. The brothers’ full physical year, choices and growth remain. Exact immediate predecessor whole-file SHA-256 `9d39c77ac0026f576dd7350f726e1d3cdc4ba0b7ad5f501816a213021045823a` is in the [prior owner-only project snapshot](https://drive.google.com/file/d/1VlRVXFUnX2_hW28DkXV9ud6RTynczLff/view). See the [reading scope and source limits](../canon/SEQUENTIAL_OPENING_CORRECTION.md). No fresh episode-21 caption reread or complete audiovisual viewing is claimed in this pass.
 
 **6 November 2026 — Dragon Ball-feel revision, unaccepted.** The full continuous physical chamber year remains with both brothers, not Chapter 18's mental experience. They study, train, grow, disagree briefly, play with a shirt on a hot day and miss home; Goshin enjoys the lighter gravity on return. A missing handoff of Hatch's original drawing from Gohan to Goshin is now shown. A repetitive lunch-pan catch and some target/roof procedure are tightened; the roof idea and planned page remain. Their strength and ki growth, voluntary choices, Chi-Chi's waiting, the Kaiō-ken/Genki-dama preparation and the approaching but not landed Saiyans remain. Complete retained episode-21 captions and the short Toei synopsis were reread, not full video/audio; later room mechanics remain based on separately identified partial cues, with source/cut unverified. The exact predecessor (SHA-256 `1c5a7ce56b53ca9e14149a52a7920bf163d4aa4034054cde13cbf859ad5dfd81`) is in the [verified 122-member pre-correction archive](../canon/ARCHIVE_INDEX.md#backup-042); the entire earlier footer follows. No acceptance or remote synchronization is implied.
 

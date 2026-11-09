@@ -2,17 +2,158 @@
 
 **Owns: evidence-based change from the preceding working checkpoint, without inventing a breakthrough.**
 
-The universal [adaptation-log template](../../Research/Adaptation%20Talent/templates/adaptation-log-entry.md) calls for milestone entries when a real milestone exists; ordinary chapters use a status delta. Selected Chapters 15–19 remain unaccepted review material; the author explicitly accepted the preserved pre-correction Chapter 20, not its selected corrected version. Chapters 21–30 are later unaccepted review candidates.
+## Chapter 46 · the shore we hold (unaccepted continuation)
+
+| Dimension | Shown | Boundary |
+|---|---|---|
+| Genuine and temporary development | Goshin chooses ×30 and gains further real strength through body and ki during the wave clash; that gain remains after the red surge fades. | A temporary factor on selected unboosted output is not permanent multiplication, a maximum or mandatory future injury; whole-being and whole-hybrid inheritance continue (`O341`). |
+| Action and condition | Goshin bends the established wave away after striking Freeza, who is alive and unconscious. His shoulder hurts and his breathing is rough; he can still fly and stands watch with Piccolo. | This is an earned result in the present encounter, not guaranteed custody or a claim to know Freeza's full reserves. Gohan and Piccolo act independently (`O341`, `O342`). |
+
+## Chapter 45 · the water between us (historical continuation, followed in Chapter 46)
+
+| Dimension | Shown | Boundary |
+|---|---|---|
+| Genuine and temporary development | Goshin's body and ki strengthen further while he fights Freeza; the gain remains when he voluntarily eases the red light. He subsequently renews it. | Real cumulative whole-being and whole-hybrid development is separate from Kaiō-ken. The renewed factors, full reserves and eventual result are not stated; no fixed ceiling or compulsory injury follows (`O333`, `O337`). |
+| Fighting and agency | Goshin drives Freeza away from the ship, chooses to protect the shore and rushes him again. Gohan braces the hull, controls debris and creates a separate opening; Piccolo actively helps. | Their cooperation is not an unsupported equal-power claim or a substitute for their individual choices (`O331`, `O333`). |
+
+## Chapter 44 · the wave turns (unaccepted continuation)
+
+| Dimension | Shown | Boundary |
+|---|---|---|
+| Temporary and genuine strength | Goshin renews ×30 during Freeza's change; his body and ki genuinely develop further while he fights the smaller form, and that gain remains when he eases the red light. | The factor multiplies selected unboosted output, not the previous ×20. The later red surge is not assigned an unstated factor; no new scan, fixed cap or automatic victory follows (`O317`). |
+| Established control | He curves his practiced Kamehameha across an incoming shot away from Piccolo and cuts the wave off; Piccolo's own actions provide openings. | This is an application of demonstrated steering, not a new named technique or proof of a numerical maximum (`O318`). |
+| Condition and agency | He continues despite a hurting shoulder and rough breath; Freeza and Goshin can both land blows. Gohan independently warns and helps the moving group. | Current exertion does not erase the real gain or require permanent injury; the contest and rescue remain open (`O317`–`O320`). |
+
+## Chapter 43 · the breath between surges (unaccepted continuation)
+
+| Dimension | Shown | Boundary |
+|---|---|---|
+| Temporary technique | His ongoing ×20 is challenged; ×30 of selected unboosted power gives him a real direct advantage, and he later renews ×20. | Neither factor is applied to an already boosted value, a new reading or a future ceiling (`O307`, `O309`). |
+| Real continuing development | His body and ki gain further strength as he adapts to the fight; the gain remains when ×30 ends. | The gain is real and unnumbered; no fixed rate, genetic percentage or permanent ×30 multiplication is asserted (`O309`). |
+| Present condition and relationships | The sustained fight and greater effort leave him breathless with shaking arms and a struck shoulder; he accepts support while Gohan and Piccolo make consequential choices. | These are this scene's physical circumstances, not compulsory injury, universal duration, permanent defeat or a cap (`O308`, `O309`). |
+
+
+## Chapter 42 · strength and feeling in the fight (unaccepted continuation)
+
+| Dimension | Shown | Boundary |
+|---|---|---|
+| Continuing technique | Goshin keeps ×20 active, drives back the preceding Freeza form underwater and above the lake, and attacks during a further change. | ×20 remains temporary, is not twenty times an already boosted output, and does not determine the new form's outcome, a future ceiling or compulsory injury (`O301`, `O305`). |
+| Genuinely retained development | Goshin experiences additional ordinary-body and ki strength beneath the surge and uses it to redirect and close distance; the strength remains when he stops the movement. | A real unnumbered gain, not a fresh scan, fixed rate, ability ceiling, universal mental immunity or permanent ×20 multiplier (`O301`). |
+| Emotion and others | Anger and vocal effort affect his actions, alongside relief and protective choices; Gohan and Piccolo contribute independently. Dende chooses his own awakening and healing. | Goshin is not required to roar or lose control every time; Gohan's independent agency and growth remain, as do both tails (`O302`, `O305`, `O306`). |
+
+## Chapter 41 · the strength beneath the surge (unaccepted continuation)
+
+| Dimension | Shown | Boundary |
+|---|---|---|
+| Temporary technique | Goshin keeps a real first-form advantage at ×10; transformed Freeza then gains the upper hand. Goshin chooses ×20 by doubling the existing tenfold surge and gains a direct advantage. | The chosen factors are applications, not a permanent multiplication, mandatory ladder, fixed ceiling, mandatory injury or guaranteed all-forms victory (`O294`, `O298`). |
+| Real growth and reading | His body and ki genuinely gain further strength beneath the temporary ×20. Zarbon's device earlier reads the ×10 output at 1,100,000. | The same-scale 110,000 unboosted equivalent is inferred from that moment, not a separate direct scan, quantified lasting gain or maximum. ×20 is not newly measured (`O294`, `O298`). |
+| Choices and handoff | Goshin diverts Freeza's sphere away from the village and pursues him underwater; Gohan independently stops Zarbon and protects residents. Piccolo consents to the elder awakening his own latent strength. | Freeza remains active; the village, unsecured enemies, ship and rescue remain open. No unwarned moon or Gohan Kaiō-ken use follows (`O295`–`O300`). |
+
+## Chapter 40 · the lake and the chosen multiplier (historical unaccepted continuation)
+
+| Dimension | Shown | Boundary |
+|---|---|---|
+| Retained growth | Goshin's body and ki strengthen while he fights and separately guides portions of Freeza's raised stone; the strength is already present before he calls the boost and is distinct from it; the red aura remains active at the endpoint. | Genuine further unnumbered growth on the substantial prior foundation, not a measured amount, mandatory trigger, form or ceiling (`O289`). |
+| Temporary technique | He applies ×10 Kaiō-ken to deliberately chosen unboosted output greater than the earlier 68,600 display, breaks one psychic restraint and cuts Freeza's cheek while Gohan creates a spray opening. | Temporary multiplier is not permanent tenfold growth, ten times a previous boost, a new scan or blanket immunity. It implies more than 686,000 on the same comparison scale and produces a real first-form advantage; future capacities remain unknown (`O289`). |
+| Choice and other agency | Goshin considers his already-known artificial moon but chooses ×10, partly because he would first warn tailed Gohan. Gohan independently stops Dodoria, rejoins his brother and attacks Freeza. | No completed moon, transformation, compulsory delay, fixed defeat, planetary maximum or unaided-space survival is established; the lake fight remains open (`O284`, `O285`, `O289`, `O290`). |
+
+
+## Chapter 39 · protecting the village (unaccepted continuation)
+
+| Dimension | Shown | Boundary |
+|---|---|---|
+| Retained strength | Goshin carries Dodoria clear, prevents his blast reaching Piccolo and the residents, turns debris aside, wins the physical exchange and dents his armour. His body strengthens while he holds his chosen output, his ki deepens, and the gain remains after Dodoria is thrown. | Further actual unnumbered body/ki growth on his substantial earlier foundation; not merely a scouter reading, obligatory trigger, fixed rate, cap or new form (`O280`). |
+| Output and confrontation | A functioning scouter reads Goshin at 62,400; Freeza hears it. Goshin later contains Freeza's chosen narrow shot until Freeza stops it. | The reading is a local authored snapshot, not a maximum or measured growth amount. Neither attack proves Freeza's or Goshin's full capacity (`O280`, `O283`). |
+| Independent choices | Gohan independently intercepts Dodoria, escorts Dende and Cargo, helps cover the local ball, and returns to protect Muri. Piccolo, Bulma and Muri act; Goshin guards his tail. | Both boys retain tails, Gohan avoids unchecked sky views, Dodoria survives and village outcome is open. No complete self-made moon, Kaiō-ken use or unaided-space survival is shown (`O278`–`O283`). |
+
+## Chapter 38 · protecting the ship, choosing the village (unaccepted continuation)
+
+| Dimension | Shown | Boundary |
+|---|---|---|
+| Retained growth | Goshin blocks a hull-directed shot and directs debris; his body and ki strengthen and stay stronger after the stones settle. He later moves the ship farther under cover. | Further genuine unnumbered growth on top of earlier whole-being and first-ape development, not a required trigger or fixed rate (`O272`, `O274`). |
+| Measured output | A scouter reads him at 360 while suppressed, then 12,000 and 36,800 as his output rises. | Authored momentary readings, not a maximum, power-loss claim, permanent gain amount or proof Freeza received the final number (`O272`, `O273`). |
+| Agency and frontier | Gohan independently subdues one scout and chooses to help the children; Piccolo and Goshin approach the village, while Bulma chooses cover after piloting and accompanying them. Both boys keep tails and avoid unchecked sky views. | Intervention and rescue remain unshown; no new transformation, Kaiō-ken use, completed self-made moon, universal immunity or unaided-space survival follows (`O274`, `O277`). |
+
+
+## Chapter 37 · a way through and a promise (unaccepted continuation)
+
+| Dimension | Shown | Boundary |
+|---|---|---|
+| Body and ki | He lifts the whole ship carefully during the pin repair, then directs ki outside the closed hull to move a broad rock and fragments. His body and ki genuinely gain further unnumbered strength, retained after the action. | Earlier major first-ape and whole-hybrid development remains; no numeric maximum, obligatory rate, temporary Kaiō-ken factor or required injury follows (`O266`, `O268`). |
+| Independent choices | He wants to help the stranded Zākuro and promises to ask; later he protects the ship while Gohan independently extends ki past the hull to turn another fragment. Both deliberately lower ki near scouters. | No universal psychic immunity, successful rescue, unobserved scouter outcome, new form, complete self-made moon or unaided-space survival is established (`O267`, `O270`). |
+| Present position | The narrator identifies Namek; the four-person party is beside the intact ship and two scouts descend. Both brothers retain tails and avoid unchecked sky views. | The party has not verified the world’s name or any radar target as a ball. The scouts’ next action is open (`O270`, `O271`). |
+
+## Chapter 36 · a familiar presence among false pictures (unaccepted continuation)
+
+| Dimension | Shown | Boundary |
+|---|---|---|
+| Existing and further strength | Goshin's prior ship-hold and substantial first-ape gains remain. While restraining Zākuro and holding the catch his body and ki genuinely deepen again, and that strength remains after he eases the output. | A real unnumbered gain, not a scouter maximum, fixed rate, compulsory injury, universal trigger or Kaiō-ken factor (`O261`). |
+| Mind, senses and choices | A false Gohan initially draws him forward. With real Gohan's hand and familiar ki he distinguishes this particular picture and keeps the ship guarded; his clearer sense of the group's positions remains. He later gently redirects an actual animal. | This is situational perception and whole-being development, not proven immunity to all mental influence or a fixed detection range. His innate Talent and whole hybrid bloodline remain open-ended (`O230`, `O243`, `O244`, `O261`). |
+| Others and conditions | Gohan tests, restrains and rescues independently; Bulma and Piccolo make distinct decisions. Both brothers retain tails, avoid unchecked sky views and remain on the shore. | No confirmed Namek, new transformation, completed unaided-space survival or predetermined journey outcome (`O260`–`O263`). |
+
+## Chapter 35 · a whole ship held gently (unaccepted continuation)
+
+| Dimension | Shown | Boundary |
+|---|---|---|
+| Retained strength and application | His major post-fight/first-ape and later growth remain; he holds the falling ship across its lower hull with distributed non-contact ki and sets it on stable ground. | He has more than enough strength for the load; protecting the fragile craft is a problem of control, not a new ceiling or invented weakness (`O255`, `O256`). |
+| Further growth | His power and fine awareness of the broad load and separate pressure points deepen during the action and remain after release; he later feels along the hull while separately moving stones. | Genuine unnumbered retained development, distinct from temporary Kaiō-ken, an alleged psychic immunity, unaided-space survival or a fixed rate (`O256`). |
+| Independent decisions | He chooses the ship watch, talks to Zākuro, stops a moving access catch and uses the two-pulse signal previously agreed with Gohan and Piccolo. Gohan's lake, ruin and marsh choices are his own. | Their tails remain and they avoid unchecked skies. The hosts' identity and cause of the strange perceptions are not known at the ending (`O257`, `O258`). |
+
+## Chapter 34 · beyond the hull (unaccepted continuation)
+
+| Dimension | Shown | Boundary |
+|---|---|---|
+| New application | Goshin carries ki beyond an intact hull and diverts a large rock and several others after Piccolo checks the focused view. | His body remains inside; this is not unaided-space survival, a universal range or a maximum. |
+| Retained growth | While he works, ordinary strength genuinely deepens and remains after he lets the stones go; Piccolo senses the change. | Unnumbered and separate from Kaiō-ken or merely releasing held reserves; not proof that each rescue automatically causes growth. |
+| Others and consequences | Gohan independently opens Naro's door, catches metal and seals a pipe; Bun carries the child, while Bulma and Zeshin steer and Piccolo protects the children. The ship exits after the children's choice. | Both boys retain tails and avoid unchecked views. The apparent planet, children's refuge and damaged ship's eventual condition remain unconfirmed (`O251`–`O254`). |
+
+**Historical Chapter 30 demonstration, not yet a Goshin breakthrough (`O236`):** Goku briefly displays his own learned Kaiō-ken and Goshin asks to learn it. He is not shown using or acquiring it; no failure, fixed learning duration or new limit is implied. At the Chapter 31 frontier Chi-Chi has not yet lifted her separate no-fighting condition (`O233`, `O237`).
+
+The universal [adaptation-log template](../../Research/Adaptation%20Talent/templates/adaptation-log-entry.md) calls for milestone entries when a real milestone exists; ordinary chapters use a status delta. Selected Chapters 15–19 remain unaccepted review material; the author explicitly accepted the preserved pre-correction Chapter 20, not its selected corrected version. Chapters 21–44 are later unaccepted review candidates.
 
 **Earlier growth remains part of the current state:** Goku observes stronger ki after the crater in Chapter 8; the Chapter 9 rescue shot is narrower; Chapter 13 shows refined control and a gain of strength that remains after the wave contest; Chapter 15 combines four moving stones with a Kamehameha. Those earlier selected chapters are unaccepted review material. See the [status panel](GOSHIN_STATUS_PANEL.md) for the source-by-source record.
 
 **Growth audit and correction:** The earlier Chapter 21 draft gave Goku and Gohan clearer improvements while largely repeating Goshin's Chapter 15 and 19 four-object-plus-wave work. The author directed a correction. The revised unaccepted draft now shows Goshin's strength and ki rising during his Piccolo round, followed by a deeper controlled cut at the earlier bank mark after further practice. The previous draft is preserved; the revision and its quality remain for the author to judge. The pre-correction Chapter 20 remains accepted; its selected correction awaits review.
 
+## Author correction · Tails and moon-aware choices
+
+Goshin, Gohan and Vegeta retain their tails, and their knowledge of the full-moon danger must shape their choices. The boys avoid unchecked views in the corrected Chapters 30–31; Piccolo checks before they look at Earth or Jupiter. Their former observation of possible moons is superseded. This is a continuity correction, not a new power loss or gain: Goshin's deliberate, controlled first form and existing Power Ball ability remain, and Gohan chooses for himself (`O235`).
+
+## Author correction · Remembered Power Ball, hybrid feelings and deepening bloodline
+
+The author confirms that Goshin remembers Vegeta's Power Ball and **can create an artificial moon** now (`O229`). In the selected Chapter 26 he sees and feels the ki forming; in Chapter 29 he says he can make one, but lets a small ordinary-ki bead fade. No full Goshin-made moon is shown yet, and none needs to be invented retroactively. This is a present author-directed capability, not a merely potential later adaptation or an excuse to require a teacher or fixed wait.
+
+Goshin is a Saiyan–Earthling hybrid with an emotional power potential that deserves weight like Gohan's, expressed in his own ways. His developing Adaptation Talent makes his whole Saiyan–Earthling **hybrid bloodline purer, deeper and stronger** as he grows, with both parental heritages participating (`O230`, `O243`). The selected Chapter 6 strengthens the emotional force behind his existing 1,500 burst; Chapter 25 makes his concern for Mother and Earth feed into a ki surge, while Gohan joins independently; Chapter 27 makes the deepening strength felt during the conscious first giant fight. The existing genuine, substantial retained first-form growth remains (`O214`). Do not infer a permanent gain from every emotional surge or make anger, a fixed multiplier or lost control compulsory. No new rank is assigned.
+
+## Author clarification · Space and time for adaptation
+
+Goshin's innate, developing Adaptation Talent can enable space survival and flight, as well as other new capabilities or responses, given time to adapt (`O228`). The author did not specify a fixed time, rate, method or ceiling. Ordinary ki flight is already demonstrated; being inside the Jupiter-bound ship in Chapter 30 is neither proof of completed unaided space survival nor proof it is impossible. Do not turn this clarification into a new on-page feat, a compulsory slow stage or a loss of existing abilities. His first Great Ape remains immediately conscious and controlled, with substantial real ordinary-body and ki growth retained from the experience and fight (`O214`).
+
 ## Author-directed milestone · First Great Ape experience and lasting power
 
-Goshin's innate, non-sentient Adaptation Talent and Saiyan nature work with the sustained fight and his first experience in the controlled Great Ape body. The result is a **substantial genuine increase** in physical strength and ki, already retained after he returns to ordinary size (`O214`). The Talent was not awakened by this event, and the increase is not simply a release of earlier reserves. Piccolo and Gohan sense the larger ki; Goshin's controlled restraint of injured Vegeta demonstrates application without proving a numerical comparison to a fresh opponent. The separately activated normal-sized ape mode and exact fraction of the form's power remain unspecified, not forbidden or delayed. No formal Level or Order is invented. See the [correction and preserved predecessor](../canon/FIRST_GREAT_APE_GROWTH_2026-11-05.md).
+Goshin's innate, non-sentient Adaptation Talent and hybrid inheritance, including Saiyan-linked traits, work with the sustained fight and his first experience in the controlled Great Ape body. The result is a **substantial genuine increase** in physical strength and ki, already retained after he returns to ordinary size (`O214`). The Talent was not awakened by this event, and the increase is not simply a release of earlier reserves. Piccolo and Gohan sense the larger ki; Goshin's controlled restraint of injured Vegeta demonstrates application without proving a numerical comparison to a fresh opponent. The separately activated normal-sized ape mode and exact fraction of the form's power remain unspecified, not forbidden or delayed. No formal Level or Order is invented. See the [correction and preserved predecessor](../canon/FIRST_GREAT_APE_GROWTH_2026-11-05.md).
 
-## Status delta · Chapter 30 (unaccepted continuation)
+## Resumed Chapter 33 · small-output practice (unaccepted review draft)
+
+Goshin briefly uses times-two Kaiō-ken on a deliberately small cabin output. Piccolo and Gohan feel a separate, unnumbered gain in his ordinary body and ki after it ends; his earlier major first-ape gain remains (`O245`, `O249`). This does not fix a future rate, limit, full mastery or completed space adaptation.
+
+## Milestone and status delta · Chapter 32 (unaccepted continuation)
+
+| Dimension | Shown | Boundary |
+|---|---|---|
+| Teaching and technique | After showing his established moving Kamehameha, Goshin receives direct Kaiō-ken demonstration and coaching from Goku. He practices across more than one visit, then uses times two and times three on his chosen ordinary unboosted output. | Each stated factor is a temporary multiplier, not a permanent gain, future ceiling, full mastery or new transformation (`O240`, `O249`). |
+| Retained growth | During the training his ordinary body and ki genuinely become stronger; Goku feels the extra force after the red has faded. | Unnumbered real growth, in addition to substantial retained first-ape growth; no invented rate, formal Order or maximum. |
+| Agency and conditions | Both boys say soreness is gone, Chi-Chi expressly permits fighting, and Gohan and Goshin train with Goku. Gohan independently wins a shoulder-touch round. The brothers choose the voyage and depart with Bulma and Piccolo after parental consent. | No unaided-space feat, full Goshin-made moon or Senzu use; the window is covered and both tails remain (`O239`–`O242`). |
+
+## Status delta · Chapter 31 (unaccepted continuation; historical checkpoint)
+
+| Dimension | Shown | Boundary |
+|---|---|---|
+| Experience and movement | Goshin remembers the outbound ship's sudden acceleration, adjusts his footing and catches Bulma on the return. He carries Chi-Chi by his established flight, and the brothers traverse Earth quickly. | An application of experience and existing ability, not proof of unaided space survival, a new raw-power maximum or a fixed adaptation rate. |
+| Retained power and feelings | His already-substantial fight/first-ape strength and ki remain in his ordinary body; curiosity, care and emotion cause ki to stir, which he deliberately contains. He says he can make an artificial moon. | The author-directed ability is current, but no full Goshin-made moon or new transformation is shown; no compulsory emotion, loss of control, fixed multiplier or instant permanent gain is claimed (`O214`, `O229`, `O230`, `O234`). |
+| Agency and condition | Both boys choose their own reasons to want the Namek journey. Gohan's exercise stops at a shoulder pull, not fatigue. A doctor examines and X-rays both, sees no fracture on those images and advises care while sore. | No family consent, full recovery, completed trip or Senzu use is shown; Krillin retains the whole bean (`O233`). |
+
+## Status delta · Chapter 30 (unaccepted continuation; earlier checkpoint)
 
 | Dimension | Shown | Boundary |
 |---|---|---|
@@ -42,7 +183,7 @@ Goshin's innate, non-sentient Adaptation Talent and Saiyan nature work with the 
 | Dimension | Shown in the candidate | Boundary |
 |---|---|---|
 | Controlled giant form | Goshin fights and flies as a giant while aware, directs a thrown slab with ki and uses his retained Kamehameha to redirect Vegeta's attack on Chi-Chi. | The first control was already established in Chapter 26. The first experience contributes real ordinary-body growth after reversion; no assigned multiplier, new formal rank, automatic Gohan control or separate normal-sized ape mode is shown (`O214`). |
-| Lasting development | He stops a fist with one hand where he used both before. His Saiyan nature and innate Talent respond to the first giant experience and the sustained fight; his much greater body-and-ki strength remains after reversion and Piccolo senses it (`O214`). | Not a numerical maximum, fixed rate, compulsory combat trigger or proof that a single move created the increase. |
+| Lasting development | He stops a fist with one hand where he used both before. His hybrid inheritance, including Saiyan-linked traits, and innate Talent respond to the first giant experience and the sustained fight; his much greater body-and-ki strength remains after reversion and Piccolo senses it (`O214`). | Not a numerical maximum, fixed rate, compulsory combat trigger or proof that a single move created the increase. |
 | Gohan and reversion | Gohan independently targets the Power Ball, aided by Piccolo's aim and Goshin's restraint of Vegeta; both transformed Saiyans revert. Gohan remains untransformed. | The exact destruction/reversion result is authored for the branch, not demonstrated by a complete source-video review. |
 | Condition and consequence | Goshin is ordinary-sized and tailed, in Chi-Chi's blanket with a sore side and marks. Vegeta is unconscious and breathing under watch; Nappa is awake and guarded. Goshin's clothes and shoes remain torn. | No exact diagnosis, reserves, long-term custody, death, automatic healing or ultimate outcome. The natural moon remains with unknown current phase. |
 | World | The city handoff precedes the family approach; Bulma checks on the children and Roshi. Goku, Launch and Yajirobe continue separately. | No complete city evacuation, Goku arrival, Namek answer or accepted chapter is implied. |

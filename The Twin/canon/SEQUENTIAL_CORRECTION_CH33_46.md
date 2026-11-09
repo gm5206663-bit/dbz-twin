@@ -1,0 +1,40 @@
+# Sequential continuation — Chapters 33–46
+
+**Owns: the actual scope, source limits, local corrections, exact predecessors and current handoff for the sequential continuation after Chapter 32.**
+
+**Status:** The author delegated corrections and asked to continue. These selected changes are **unaccepted**; that status is not an approval gate for delegated corrections. The separately accepted original Chapter 20 remains a different, protected version. Chapter 46 is the existing frontier: this pass does not draft Chapter 47 or decide the unresolved next events.
+
+## What was actually read and checked
+
+- Freshly read the complete selected **story bodies of Chapters 33–46 in order**, and their relevant ordered source/branch cards. Chapter 38 was also reread after the first sequence. The previous continuation read 25–32 in order; the earlier opening pass read 1–24, but completed Chapter 3 after 4–6. Thus all 46 selected bodies were freshly read across these passes, not in a single uninterrupted numerically ordered read.
+- Reconsulted Toei's short episode reports for Z **39–54**, and separately **71, 77–80, 82–88 and 90**; for example, [41](https://lineup.toei-anim.co.jp/ja/tv/dragonz/episode/41/), [48](https://lineup.toei-anim.co.jp/ja/tv/dragonz/episode/48/), [53](https://lineup.toei-anim.co.jp/ja/tv/dragonz/episode/53/), [71](https://lineup.toei-anim.co.jp/ja/tv/dragonz/episode/71/), [78](https://lineup.toei-anim.co.jp/ja/tv/dragonz/episode/78/), [84](https://lineup.toei-anim.co.jp/ja/tv/dragonz/episode/84/) and [90](https://lineup.toei-anim.co.jp/ja/tv/dragonz/episode/90/). These are brief source summaries, not a scene-by-scene transcript. The later episodes are selectively brought forward in the changed branch, not an obligation to import their original rosters or outcomes.
+- Freshly checked **selected**, not complete, retained Japanese caption cues in Z **39, 40, 41, 44, 45, 47–49, 53, 54, 71, 78–80, 82–84, 88 and 90**, including keyword-matched cues. Examples include the scouter-destruction discussion in 48 around 04:07–04:34, Zarbon's stated transformation choice in 53 around 05:11–05:26, the elder's stated awakening of dormant power in 54 around 11:56–12:21, Freeza's self-stated 530,000 in 71 around 11:01, his statement of over one million in 78 around 20:26, Dende's identification and the others' response in 84 around 07:21–08:25, Goku's specific inference about Freeza's searching in 88 around 10:16–10:21, and Freeza's offer to Goku in 90 around 04:35–05:21. Previous records of complete caption reads remain separate; this pass adds no newly counted full track.
+- The retained caption source and cut are unverified. Written cues, summaries and previously documented stills do not establish every uncaptioned action, shot, performance or sound. **No complete episode video or audio was watched or heard in this pass.** An unchanged source death, wish, fight result, scale or character knowledge is not mandatory when the branch's causes differ.
+
+## Corrections on the selected pages (`O354`)
+
+| Chapter | Actual correction and reason |
+|---|---|
+| [35 — The Shape of a Welcome](../chapters/Chapter_35_The_Shape_of_a_Welcome.md) | Bulma explicitly switches the radar back on after turning it off at the ruin, before Piccolo reads the next signal. The later cell removal and unexplained sound remain distinct; the apparent world and objects have not yet been authenticated. |
+| [41 — The Shape of Power](../chapters/Chapter_41_The_Shape_of_Power.md) | Zarbon sees an elder protect a conspicuous wrapped bundle and asks to inspect whatever he carries. He no longer recognizes it by an unestablished Dragon Ball size or says Freeza has been collecting such objects. Freeza had asked Muri about a possible ball, but the text had not shown Zarbon hearing that conversation, seeing a Namekian ball, or knowing his master possessed any. Zarbon's pursuit, scouter readings, transformation and Gohan's independent defense remain. |
+| [46 — The Shore We Hold](../chapters/Chapter_46_The_Shore_We_Hold.md) | Gohan strikes using the actual opening without the intrusive assertion that he is not waiting for an invitation. Cargo tells Kado the marker was made so **he** could find the way, repairing an unclear “yours.” The team victory, Gohan's independent initiative and current frontier remain. |
+
+Chapters **33–34, 36–40 and 42–45** were read in full and their story prose was not changed. Both brothers retain their tails, independent choices and prior capabilities. Goshin's cumulative whole-being and whole Saiyan–Earthling hybrid development remains distinct from the temporary Kaiō-ken; no new cap, compulsory trigger, transformation, result or loss of Gohan's own growth is imposed. The active defensive choices, living Freeza and altered outcomes follow the written branch rather than being changed back to the source.
+
+## Exact immediate predecessors
+
+The [project and research snapshot made after Chapters 1–32](https://drive.google.com/file/d/14h569XNZfe09XXme6DDk01PF1a9UT3D8/view) predates all three current prose corrections. It was owner-only at the initial checkpoint; after the author corrected the privacy assumption and selected all backups in the folder, it became readable by anyone with the link. Its archive SHA-256 is `7a5cfdd2d2d1e23acd30429dacc58a0819af42e3460e5faf759c7a4c36a841bd`. Earlier staged member comparisons and a disposable restore passed; a later **fresh anonymous download** matched that archive hash, passed ZIP CRC and reproduced the three predecessor hashes below. The Chapter 35 full-file diff is the radar-on wording and footer notice only; the accepted original Chapter 20 in that download is byte-identical to the current protected copy. Temporary staging was outside the workshop and removed. The archive includes the research and accepted original, not Sara or the workshop manifest.
+
+| Exact whole-file predecessor | SHA-256 |
+|---|---|
+| `The Twin/chapters/Chapter_35_The_Shape_of_a_Welcome.md` | `2cd74a37ffe300320cc2ffb71ceae072986636129cc46454d5bac60a747df434` |
+| `The Twin/chapters/Chapter_41_The_Shape_of_Power.md` | `a55eff1836b248396edc70129a7839acf2dfc684737e7c1155a674db5edf8e51` |
+| `The Twin/chapters/Chapter_46_The_Shore_We_Hold.md` | `ae1aacbd616db45111a6139d8afab0d80460b36666c83d6c29406faa906032e3` |
+
+The separately accepted original Chapter 20 is protected at SHA-256 `fd7691e9bf5d31935abd9e26f677742f8015b3e07aa32854de85055e3d63a36d`. Earlier opening predecessors remain in the [opening record](SEQUENTIAL_OPENING_CORRECTION.md); the Chapter 25–32 predecessors remain in the [previous continuation](SEQUENTIAL_CORRECTION_CH25_32.md). All were staged outside the workshop.
+
+## Current frontier and next work
+
+At the existing Chapter 46 ending, Freeza is alive and unconscious while Goshin and Piccolo watch him, not securely confined. Gohan, Sela and Kado have left to look for two missing terrace workers; Muri's group and the covered ball remain under young trees. Zarbon and the released grove soldier follow an older trail without knowing the group's current location or the fight's outcome. Bulma's repaired aerial has carried a call, but full ship condition and spaceworthiness, wider village safety, the Earth pod and a secure watch remain unsettled. Raiti and Zākuro's promised help and the refugee children's later safety remain open. No new chapter, guaranteed next result, new acceptance or complete audiovisual review follows from this pass.
+
+**Date attribution and correction:** The prior handoff reports that the Chapters 33–46 pass was supplied 2026-11-09 UTC, matching its observed sandbox UTC date; the earlier attribution of 2026-10-30 to that pass is withdrawn on that basis. This subsequent handoff separately supplies 2026-10-30 in Asia/Calcutta, while the observed sandbox clock reports 2026-11-09 UTC. These signals conflict and do not independently establish another session’s date. Preserve historical records and append order rather than inventing a reconciled chronology.

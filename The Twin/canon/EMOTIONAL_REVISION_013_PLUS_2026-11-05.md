@@ -2,6 +2,8 @@
 
 **Owns:** the source boundaries, selected handoffs and pre-pass preservation for the continuation after the [Chapters 3–12 batch](EMOTIONAL_REVISION_003_012_2026-11-05.md). This local story work is unaccepted and has not been synchronized remotely.
 
+**Later chronology revision:** References below to the previous Snake Way sequence describe that earlier checkpoint. The later [coordinated correction](VEGETA_AND_SNAKE_WAY_CORRECTION.md) relocates the warning and return without an invented speed cap or delay; literary review remains open.
+
 **Subsequent story-wide correction, 6 November:** The newer [Dragon Ball-feel pass](DRAGON_BALL_FEEL_CORRECTION_2026-11-05.md) has revised Chapter 13 again and is continuing into Chapter 14. The chapter details and predecessor hashes below document this earlier emotional pass, not the current pass's version boundary. The selected Chapter 13 remains unaccepted and its immediate predecessor is preserved in the newer record.
 
 **Later author clarification:** The separate [first-Great-Ape growth correction](FIRST_GREAT_APE_GROWTH_2026-11-05.md) subsequently updated selected Chapters 26–28 to show substantial lasting ordinary-body and ki growth from the first transformation and fight, and preserves the immediately preceding project. The emotional-pass record below remains historical; neither pass implies acceptance or a remote update.

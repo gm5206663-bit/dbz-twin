@@ -122,14 +122,35 @@
   115,
   116,
   117,
+  123,
+  125,
+  139,
+  145,
+  153,
+  169,
+  170,
+  171,
+  181,
+  182,
   183,
   184,
+  191,
+  200,
+  201,
   205,
   206,
   207,
   208,
+  212,
+  229,
+  237,
+  253,
+  254,
   256,
-  257
+  257,
+  285,
+  288,
+  291
  ],
  "eps": [
   {
@@ -14971,7 +14992,7 @@
   },
   {
    "ep": 123,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 277,
    "last_indexed_cue": "26:18",
    "speakers": [
@@ -15202,7 +15223,7 @@
   },
   {
    "ep": 125,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 238,
    "last_indexed_cue": "25:46",
    "speakers": [
@@ -16707,7 +16728,7 @@
   },
   {
    "ep": 139,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 266,
    "last_indexed_cue": "26:19",
    "speakers": [
@@ -17399,7 +17420,7 @@
   },
   {
    "ep": 145,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 225,
    "last_indexed_cue": "26:17",
    "speakers": [
@@ -18366,7 +18387,7 @@
   },
   {
    "ep": 153,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 195,
    "last_indexed_cue": "25:49",
    "speakers": [
@@ -20328,7 +20349,7 @@
   },
   {
    "ep": 169,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 286,
    "last_indexed_cue": "26:04",
    "speakers": [
@@ -20480,7 +20501,7 @@
   },
   {
    "ep": 170,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 307,
    "last_indexed_cue": "26:03",
    "speakers": [
@@ -20606,7 +20627,7 @@
   },
   {
    "ep": 171,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 261,
    "last_indexed_cue": "25:44",
    "speakers": [
@@ -21881,7 +21902,7 @@
   },
   {
    "ep": 181,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 228,
    "last_indexed_cue": "26:47",
    "speakers": [
@@ -22022,7 +22043,7 @@
   },
   {
    "ep": 182,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 237,
    "last_indexed_cue": "26:18",
    "speakers": [
@@ -23179,7 +23200,7 @@
   },
   {
    "ep": 191,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 220,
    "last_indexed_cue": "25:47",
    "speakers": [
@@ -24326,7 +24347,7 @@
   },
   {
    "ep": 200,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 314,
    "last_indexed_cue": "26:04",
    "speakers": [
@@ -24437,7 +24458,7 @@
   },
   {
    "ep": 201,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 257,
    "last_indexed_cue": "25:48",
    "speakers": [
@@ -25883,7 +25904,7 @@
   },
   {
    "ep": 212,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 222,
    "last_indexed_cue": "25:46",
    "speakers": [
@@ -28007,7 +28028,7 @@
   },
   {
    "ep": 229,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 225,
    "last_indexed_cue": "25:49",
    "speakers": [
@@ -29136,7 +29157,7 @@
   },
   {
    "ep": 237,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 195,
    "last_indexed_cue": "26:02",
    "speakers": [
@@ -31614,7 +31635,7 @@
   },
   {
    "ep": 253,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 252,
    "last_indexed_cue": "26:18",
    "speakers": [
@@ -31753,7 +31774,7 @@
   },
   {
    "ep": 254,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 245,
    "last_indexed_cue": "26:18",
    "speakers": [
@@ -36173,7 +36194,7 @@
   },
   {
    "ep": 285,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 241,
    "last_indexed_cue": "26:17",
    "speakers": [
@@ -36578,7 +36599,7 @@
   },
   {
    "ep": 288,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 235,
    "last_indexed_cue": "26:18",
    "speakers": [
@@ -36936,7 +36957,7 @@
   },
   {
    "ep": 291,
-   "full_spoken_caption_read": false,
+   "full_spoken_caption_read": true,
    "non_music_cues_in_heuristic_window": 277,
    "last_indexed_cue": "25:25",
    "speakers": [

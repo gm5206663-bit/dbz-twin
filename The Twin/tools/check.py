@@ -4,7 +4,7 @@
 Exit 0 = clean. Exit 1 = a list of what is wrong.
 Self-test: python3 tools/check.py --selftest   (proves it still fails a dirty tree)
 """
-import json, re, sys, hashlib, pathlib, tempfile
+import json, re, sys, hashlib, pathlib, tempfile, shutil
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 P, F = [], []
@@ -12,6 +12,80 @@ P, F = [], []
 def ok(m):  P.append(m)
 def bad(m): F.append(m)
 def read(p): return (ROOT / p).read_text(encoding="utf-8")
+
+# Both chapter formats occur in the selected manuscript. Match an actual
+# heading, not the words "## Footer" inside a sentence or a fenced example.
+# Keeping newlines when masking fences/comments preserves diagnostic line
+# numbers. These are structural boundaries, not a judgment of story quality.
+FOOTER_HEADING = re.compile(
+    r"^[ \t]{0,3}(?:##[ \t]+Footer|###[ \t]+Continuity and source note)"
+    r"[ \t]*#*[ \t]*$", re.I
+)
+FENCE_LINE = re.compile(r"^[ \t]{0,3}(`{3,}|~{3,})(.*)$")
+
+
+def _mask_nonprose(text):
+    """Hide text while preserving offsets and line breaks for diagnostics."""
+    return "".join(c if c in "\r\n" else " " for c in text)
+
+
+def chapter_prose(text):
+    """Return visible story-side text, excluding notes, fences and comments.
+
+    Visible footer headings terminate prose. Older hidden footers are HTML
+    comments and are masked, as are unfinished comments through end of file.
+    Comment and fence examples cannot hide later visible story. Masking keeps
+    offsets and line numbers intact for the focused diagnostics and self-test.
+    """
+    result = []
+    fence_char = None
+    fence_size = 0
+    in_comment = False
+    for line in text.splitlines(keepends=True):
+        content = line.rstrip("\r\n")
+        marker = FENCE_LINE.fullmatch(content)
+        if fence_char is not None:
+            if (marker and marker.group(1)[0] == fence_char
+                    and len(marker.group(1)) >= fence_size and not marker.group(2).strip()):
+                fence_char = None
+            result.append(_mask_nonprose(line))
+            continue
+        if (not in_comment and marker
+                and not (marker.group(1)[0] == "`" and "`" in marker.group(2))):
+            fence_char = marker.group(1)[0]
+            fence_size = len(marker.group(1))
+            result.append(_mask_nonprose(line))
+            continue
+
+        # Read comment delimiters only outside fences, retaining visible text
+        # before and after them. A comment can continue across several lines.
+        visible = []
+        pos = 0
+        while pos < len(line):
+            if in_comment:
+                end = line.find("-->", pos)
+                if end < 0:
+                    visible.append(_mask_nonprose(line[pos:]))
+                    pos = len(line)
+                else:
+                    visible.append(_mask_nonprose(line[pos:end + 3]))
+                    pos = end + 3
+                    in_comment = False
+            else:
+                start = line.find("<!--", pos)
+                if start < 0:
+                    visible.append(line[pos:])
+                    pos = len(line)
+                else:
+                    visible.append(line[pos:start])
+                    pos = start
+                    in_comment = True
+        visible_line = "".join(visible)
+        if FOOTER_HEADING.fullmatch(visible_line.rstrip("\r\n")):
+            break
+        result.append(visible_line)
+    return "".join(result)
+
 
 def live():
     """Every file in the living docset. Chapters are prose, tools are tools."""
@@ -109,7 +183,7 @@ def check_reveal():
     revealed, hits, declared = False, [], []
     for f in sorted((ROOT / "chapters").glob("Chapter_*.md")):
         text = f.read_text(encoding="utf-8")
-        body = re.sub(r"```.*?```", "", text.split("## Footer")[0], flags=re.S)
+        body = chapter_prose(text)
         for number, line in enumerate(body.splitlines(), 1):
             if not re.search(r"\bBroc\b", line):
                 continue
@@ -122,6 +196,32 @@ def check_reveal():
     if hits: bad(f"REVEAL: Broc appears before a declared Raditz reveal — {hits}")
     elif not revealed: ok("REVEAL: Broc has not yet appeared in chapter prose")
     else: ok(f"REVEAL: first Broc appearance is Raditz's declared reveal in {declared[0]}")
+
+# 5b — the author's source reference must be visible at the chapter opening.
+# This checks only presence and placement, never whether an episode is the
+# right source or whether the chapter has covered it completely.
+EPISODE_REFERENCE = re.compile(
+    r"^\*Anime episode reference:[ \t]*Dragon Ball Z,[ \t]*Episodes?[ \t]+\d[^*\n]*\*[ \t]*$"
+)
+
+
+def check_episode_references():
+    probs = []
+    chapters = sorted((ROOT / "chapters").glob("Chapter_*.md"))
+    if not chapters:
+        bad("EPISODE REFERENCES: no chapter files found")
+        return
+    for f in chapters:
+        visible = f.read_text(encoding="utf-8").split("<!--", 1)[0]
+        lines = [line.strip() for line in visible.splitlines() if line.strip()]
+        if (len(lines) < 2 or not lines[0].startswith("# Chapter ")
+                or not EPISODE_REFERENCE.fullmatch(lines[1])):
+            probs.append(f.name)
+    if probs:
+        bad(f"EPISODE REFERENCES: missing or misplaced visible opening reference in {probs}")
+    else:
+        ok(f"EPISODE REFERENCES: visible opening label in {len(chapters)} chapters; episode accuracy and coverage need manual review")
+
 
 # 6 — cards, evidence, staging
 def check_cards():
@@ -159,11 +259,11 @@ def check_withdrawn():
 # 7 — the band
 def band_prose(text):
     """Count the whole chapter, including its cold open, but not metadata."""
-    body = text.split("## Footer")[0]
-    # A hidden footer often begins with an HTML-comment opener on the line
-    # before its heading; that marker is metadata, not a one-word sentence.
-    body = re.sub(r"<!--\s*$", "", body)
-    prose = re.sub(r"```.*?```", "", body, flags=re.S)
+    prose = chapter_prose(text)
+    # The visible source label is metadata, not an extra sentence or story word.
+    # Do not remove any scene or change the existing length/dialogue bands.
+    prose = "\n".join(line for line in prose.split("\n")
+                      if not EPISODE_REFERENCE.fullmatch(line.strip()))
     first_divider = re.search(r"(?m)^[ \t]*---[ \t]*$", prose)
     if first_divider:
         lead = prose[:first_divider.start()]
@@ -234,8 +334,7 @@ def check_seal():
 def check_purity():
     probs = []
     for f in sorted((ROOT / "chapters").glob("Chapter_*.md")):
-        body = f.read_text(encoding="utf-8").split("## Footer")[0]
-        prose = re.sub(r"```.*?```", "", body, flags=re.S)
+        prose = chapter_prose(f.read_text(encoding="utf-8"))
         if re.search(r"\b(pure|purity|pure-hearted|purehearted)\b", prose, re.I):
             probs.append(f.name)
     if probs: bad(f"PURITY: the word is in the prose of {probs} — the cloud says it, the prose never does")
@@ -246,8 +345,7 @@ def check_era():
     words = r"\b(god\s+ki|godly\s+ki|divine\s+ki|godhood|divinity|divine|super saiyan)\b"
     probs = []
     for f in sorted((ROOT / "chapters").glob("Chapter_*.md")):
-        body = f.read_text(encoding="utf-8").split("## Footer")[0]
-        prose = re.sub(r"```.*?```", "", body, flags=re.S)
+        prose = chapter_prose(f.read_text(encoding="utf-8"))
         hit = re.search(words, prose, re.I)
         if hit: probs.append(f"{f.name}: '{hit.group(0)}'")
     if probs: bad(f"ERA: a chapter has reached above the locking rung — {probs[:4]}")
@@ -289,8 +387,9 @@ def check_names():
     files = sorted((ROOT / "chapters").glob("Chapter_*.md")) + [ROOT / "CRAFT.md"]
     for f in files:
         if not f.exists(): continue
-        t = f.read_text(encoding="utf-8").split("## Footer")[0]
-        t = re.sub(r"```.*?```", "", t, flags=re.S)
+        text = f.read_text(encoding="utf-8")
+        t = (chapter_prose(text) if f.parent == ROOT / "chapters"
+             else re.sub(r"```.*?```", "", text.split("## Footer")[0], flags=re.S))
         prose = re.sub(r'"[^"]*"', "", t)          # dialogue is a licence
         for pat, name in EPITHET.items():
             if not re.search(rf"\b{name}\b", t): continue
@@ -330,7 +429,7 @@ TICS = [
 
 def check_flow():
     probs = []
-    files = [(f, f.read_text(encoding="utf-8").split("## Footer")[0])
+    files = [(f, chapter_prose(f.read_text(encoding="utf-8")))
              for f in sorted((ROOT / "chapters").glob("Chapter_*.md"))]
     craft = ROOT / "CRAFT.md"
     if craft.exists():
@@ -369,7 +468,7 @@ def check_scene_markers():
     if not chapter.exists():
         bad("SCENE MARKERS: Chapter Four is missing")
         return
-    body = chapter.read_text(encoding="utf-8").split("## Footer")[0].lower()
+    body = chapter_prose(chapter.read_text(encoding="utf-8")).lower()
     landmarks = [
         "strikes the side of his head",
         "pick up goshin with the other",
@@ -388,9 +487,113 @@ def check_scene_markers():
     else:
         ok("SCENE MARKERS: knockout, transport, truck, confinement and waking markers appear in order; this does not prove completeness")
 
+def check_moon_regression():
+    """Catch exact superseded Jupiter wording only; manual scene review is still essential."""
+    files = {
+        "Chapter_30_The_House_That_Waited.md": (
+            "until his brother points out a smaller bright shape nearby",
+            "arguing over whether it could be one of jupiter's moons",
+            "then goshin sees another bright point beyond the first",
+        ),
+        "Chapter_31_The_Other_Side_of_the_Sky.md": (
+            "those really might be moons",
+            "we'd have to get closer to know which ones we're looking at",
+            "we could see little bright points beside it. we think they were moons",
+        ),
+    }
+    hits = []
+    for name, phrases in files.items():
+        path = ROOT / "chapters" / name
+        if not path.exists():
+            hits.append(f"{name} missing")
+            continue
+        body = " ".join(chapter_prose(path.read_text(encoding="utf-8")).lower().split())
+        hits.extend(f"{name}: {phrase}" for phrase in phrases if phrase in body)
+    if hits: bad(f"MOON REGRESSION: superseded wording found: {hits}")
+    else: ok("MOON REGRESSION: exact superseded Jupiter lines absent; this cannot detect paraphrases or replace a continuity review")
+
+
+# These are current rules, not the dated history or preserved previous statements.
+# This catches a few exact regressions only; it cannot judge the meaning of prose.
+HYBRID_RULE_PATHS = (
+    "WRITING.md", "README.md", "OPEN.md", "STATUS.md", "STORY.md",
+    "foundation/FOUNDATION.md", "foundation/ADAPTATION_MODULE.md",
+    "foundation/ADAPTATION_LOG.md", "foundation/GOSHIN_STATUS_PANEL.md",
+    "foundation/WORLD_STATE.md", "foundation/TIMELINE.md",
+)
+SAIYAN_ONLY_REGRESSION = re.compile(
+    r"\b(?:his|goshin['’]s)\s+saiyan\s+bloodline\s+(?:becomes|grows)\s+(?:\*\*)?purer",
+    re.I,
+)
+
+
+def check_hybrid_bloodline():
+    """Check the active facts and narrowly matching obsolete wording, not historical notes."""
+    hits = []
+    rows = {row["id"]: row for row in json.loads(read("canon/facts.json"))["facts"]}
+    for ident in ("O230", "O243", "O244"):
+        current = rows.get(ident, {}).get("statement", "").casefold()
+        required = ("hybrid", "saiyan", "earthling")
+        if ident == "O230":
+            required += ("purer", "deeper", "stronger")
+        if ident == "O244":
+            required += ("whole existence", "talent", "potential")
+        if not all(word in current for word in required):
+            hits.append(f"{ident}: current statement missing hybrid or whole-existence direction")
+    for name in HYBRID_RULE_PATHS:
+        path = ROOT / name
+        if not path.exists():
+            hits.append(f"{name}: missing")
+        elif SAIYAN_ONLY_REGRESSION.search(path.read_text(encoding="utf-8")):
+            hits.append(f"{name}: exact Saiyan-only pattern")
+    chapter = ROOT / "chapters" / "Chapter_27_The_Space_to_Stand.md"
+    if not chapter.exists():
+        hits.append("Chapter 27: missing")
+    else:
+        body = " ".join(chapter_prose(chapter.read_text(encoding="utf-8")).casefold().split())
+        if "the saiyan strength in him feels deeper now" in body:
+            hits.append("Chapter 27: exact superseded Saiyan-only sentence")
+    if hits:
+        bad(f"HYBRID REGRESSION: {hits}")
+    else:
+        ok("HYBRID REGRESSION: active facts and selected exact old wording checked; paraphrases and meaning require manual review")
+
+
+def check_kaioken_regression():
+    """Narrow literal checks on the selected correction, not a power or prose proof.
+
+    These track the current draft, not an author-imposed permanent ×2/×3 ladder.
+    If a future authorized revision changes the scene, update the guard and fixtures.
+    Historical previous_statement fields and the audit are deliberately excluded.
+    """
+    hits = []
+    rows = {row["id"]: row for row in json.loads(read("canon/facts.json"))["facts"]}
+    for ident, terms in {
+        "O240": ("times two", "times three", "unboosted", "temporary"),
+        "O245": ("times two", "temporary", "unaccepted"),
+        "O249": ("unboosted", "temporary", "unaccepted"),
+    }.items():
+        current = rows.get(ident, {}).get("statement", "").casefold()
+        if not all(term in current for term in terms):
+            hits.append(f"{ident}: active statement missing current correction markers")
+        if "not a named transformation or fixed multiplier" in current:
+            hits.append(f"{ident}: exact superseded multiplier denial")
+    chapter = ROOT / "chapters" / "Chapter_32_The_Road_Beyond_Earth.md"
+    if not chapter.exists():
+        hits.append("Chapter 32: missing")
+    else:
+        body = chapter_prose(chapter.read_text(encoding="utf-8")).casefold()
+        if body.count("kaiō-ken, times two") < 3 or "kaiō-ken, times three" not in body:
+            hits.append("Chapter 32: selected literal multiplier calls missing")
+    if hits:
+        bad(f"KAIOKEN REGRESSION: {hits}")
+    else:
+        ok("KAIOKEN REGRESSION: selected literal calls and active fact markers checked; attribution, arithmetic and scene meaning require manual review")
+
+
 def run():
     for c in (check_map, check_owners, check_facts, check_citations, check_rejected_drafts, check_reveal,
-              check_cards, check_purity, check_era, check_names, check_crib, check_flow, check_scale, check_withdrawn, check_scene_markers, check_band, check_seal):
+              check_episode_references, check_cards, check_purity, check_era, check_names, check_crib, check_flow, check_scale, check_withdrawn, check_scene_markers, check_moon_regression, check_hybrid_bloodline, check_kaioken_regression, check_band, check_seal):
         try: c()
         except Exception as e: bad(f"{c.__name__}: crashed — {e}")
     for m in P: print(f"  PASS  {m}")
@@ -412,7 +615,7 @@ def insert_selftest_prose(chapter: str, paragraph: str) -> str:
     heading would silently make negative tests no-ops. Never inject into the
     historical footer or modify the live chapter outside the disposable copy.
     """
-    visible = chapter.split("<!--", 1)[0]
+    visible = chapter_prose(chapter)
     heading = re.search(r"(?m)^## [^\n]+\n", visible)
     if not heading:
         raise ValueError("chapter has no visible scene heading for self-test")
@@ -420,7 +623,8 @@ def insert_selftest_prose(chapter: str, paragraph: str) -> str:
     return chapter[:i] + "\n" + paragraph + "\n" + chapter[i:]
 
 
-def selftest():
+def _selftest_in_root():
+    """Run mutation fixtures only in the isolated project copy."""
     global ROOT
     clean = run()
     results = []
@@ -485,11 +689,19 @@ def selftest():
         results.append(("removed truck-scene marker fails", bool(failures)))
     finally:
         rescue.write_text(before, encoding="utf-8")
+    moon_chapter = ROOT / "chapters" / "Chapter_31_The_Other_Side_of_the_Sky.md"
+    before = moon_chapter.read_text(encoding="utf-8")
+    try:
+        moon_chapter.write_text(insert_selftest_prose(before, '"Those really might be moons."'), encoding="utf-8")
+        _, failures = focused_check(check_moon_regression)
+        results.append(("known superseded moon line fails", bool(failures)))
+    finally:
+        moon_chapter.write_text(before, encoding="utf-8")
     # A Git clone and a Git worktree expose metadata differently; neither
     # should enter the living docset or its checksum seal.
     original_root = ROOT
     try:
-        with tempfile.TemporaryDirectory(prefix="twin-git-audit-") as tmp:
+        with tempfile.TemporaryDirectory(prefix="twin-git-audit-", dir="/tmp") as tmp:
             ROOT = pathlib.Path(tmp)
             (ROOT / "story.md").write_text("story", encoding="utf-8")
             git_meta = ROOT / ".git"
@@ -509,6 +721,26 @@ def selftest():
     success = clean == 0 and all(passed for _, passed in results)
     print(f"selftest: clean={clean}; {sum(passed for _, passed in results)}/{len(results)} focused checks → {'OK' if success else 'FAILED'}")
     return 0 if success else 1
+
+def selftest():
+    """Copy the project to system scratch before running mutation fixtures.
+
+    A failed or interrupted negative test must never leave injected text in the
+    live manuscript. The temporary copy is outside the workshop and is removed
+    by TemporaryDirectory; it is a test fixture, not a project backup.
+    """
+    global ROOT
+    original_root = ROOT
+    try:
+        with tempfile.TemporaryDirectory(prefix="twin-selftest-", dir="/tmp") as tmp:
+            fixture = pathlib.Path(tmp) / "project"
+            shutil.copytree(original_root, fixture,
+                            ignore=shutil.ignore_patterns("__pycache__", ".git"))
+            ROOT = fixture
+            return _selftest_in_root()
+    finally:
+        ROOT = original_root
+
 
 if __name__ == "__main__":
     sys.exit(selftest() if "--selftest" in sys.argv else run())

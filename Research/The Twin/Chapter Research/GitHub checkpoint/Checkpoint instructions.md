@@ -1,7 +1,5 @@
 # GitHub checkpoint — Chapter 19 workshop review
 
-**Historical checkpoint:** The temporary checkpoint branch described below was later removed under the author’s one-project direction. The existing `main` branch is the current public project; the prior description records its original date.
-
 **Status: pushed and independently verified on GitHub.** A checkpoint is not acceptance of the writing. The repository is [`gm5206663-bit/dbz-twin`](https://github.com/gm5206663-bit/dbz-twin), which is public. The new public branch is [`checkpoint/workshop-review-2026-11-03`](https://github.com/gm5206663-bit/dbz-twin/tree/checkpoint/workshop-review-2026-11-03); `main` was not modified. The [workshop checkpoint at the exact commit](https://github.com/gm5206663-bit/dbz-twin/tree/f658f89d805965340c3397818e03d66f0097d271/workshop) is a point-in-time snapshot, not automatic synchronization.
 
 **Later local changes:** The author directed Goshin's physical chamber year and explicitly accepted Chapter 20. The later appearance corrections, unaccepted Chapters 21 and 22 and Chapter 22's staged chamber year also postdate this public snapshot. They have not been synced to GitHub. Chapter 19, 21 and 22 are not accepted by the existence of this checkpoint.

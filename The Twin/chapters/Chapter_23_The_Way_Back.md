@@ -1,5 +1,7 @@
 # Chapter Twenty-Three — The Way Back
 
+*Anime episode reference: Dragon Ball Z, Episode 21 (continued).*
+
 *Immersion-revised review draft; not yet accepted.*
 
 *New review draft, continuing the unaccepted Chapter 22; not yet accepted.*
@@ -148,41 +150,13 @@ King Kai stands beside Goku and points upward.
 
 Goku plants his feet and raises both hands. Bubbles comes to stand beside him and holds his arms up too. A light gathers above Goku's palms; Bubbles looks up at his own empty hands.
 
-The sphere grows, casting light over Goku's face and the grass at his feet. Gregory lands on the fence while Goku waits for more energy. When he turns toward King Kai, the sphere stays together above his palms.
+The sphere grows, casting light over Goku's face and the grass at his feet. Gregory lands on the fence. Goku turns to follow him, and the sphere tilts. He steadies it, but its edge has already shifted toward King Kai's car.
 
-"What do I aim at?" he asks.
+"I wouldn't have thrown it there," Goku says, letting the light disperse.
 
-King Kai walks to the house and returns with a large brick. He holds it at his side while Gregory moves away from the open ground.
+"Good. On Earth there may be people where you don't expect them. You need to be sure where you're sending it."
 
-"I'll throw this as fast as I can. Wait until it's clear of the planet, then hit it."
-
-"All right."
-
-King Kai throws the brick upward. It climbs above the tree and keeps rising. Goku turns with it, holding the gathered light over his head.
-
-"Now!" King Kai calls.
-
-Goku sends the sphere after the brick. The light strikes it above the planet, and the brick breaks apart. Goku lowers his arms as the pieces scatter into the distance.
-
-Bubbles claps. Gregory follows the fragments with his eyes.
-
-"That was excellent," King Kai says. "I didn't expect you to use it so well."
-
-"It took a lot of practice!"
-
-King Kai looks up at the scattered pieces. "And one perfectly good brick."
-
-King Kai comes to stand in front of him. "Remember what you saw. That was only a little energy from a very small planet. Earth has far more life, and the sun can add to it."
-
-Goku's smile fades. "It could be a lot bigger."
-
-"Big enough to harm the world you're trying to protect. Don't use it carelessly. If there is another way, take it."
-
-"And if there isn't?"
-
-"If there is no other way, you may use it once. Gather what you need, and be certain where you send it."
-
-Goku looks at his hands. "I'll try to stop them with the Kaiō-ken first."
+Goku looks up at the empty sky. "Let's try again."
 
 King Kai starts to answer, then turns his face toward the sky. His antennae rise.
 
@@ -194,37 +168,23 @@ King Kai stays still for several moments. Goku waits beside him while Bubbles pu
 
 "What's wrong?" Goku asks.
 
-"The Saiyans are much closer to Earth than they were."
+"The Saiyans are closer to Earth than I thought."
 
 "How close?"
 
-"Close enough that your friends need to know now."
+"At the pace I expect them to travel, I think they'll arrive tomorrow. But that's an estimate, Goku. Their ships could get there sooner."
 
 Goku looks toward the edge of the planet. Snake Way lies below the clouds.
 
-"Then I have to go."
+"And I still have to go back along the road."
 
-King Kai's hands go to his cheeks. "The road."
+"Yes. You can move much faster than when you came, but I can't tell you exactly how long the journey will take. If my estimate is right, you have time to finish the test and return first."
 
-"What about it?"
+"If it's right." Goku looks at the place where the light disappeared. "I want to get this right before I fight them. But my family needs to know they're coming."
 
-"I was watching their journey. I didn't allow enough for yours back along Snake Way."
+"Your friends should prepare now, not wait for us to be certain. I'll check the Saiyans again before you leave."
 
-Goku stares at him. "You forgot I had to go back?"
-
-"I made a mistake. You can move much faster now, but it's still a long road."
-
-Goku looks down at the pale curve winding away beneath the planet. The road he crossed so eagerly stretches back through the clouds; somewhere beyond its far end are Chi-Chi, the boys and everyone else waiting for him.
-
-"Can you send me straight to Earth?"
-
-"Not from here. You must reach Yemma's end of the road. Kami can help you through the passage when you get there."
-
-Goku looks down again. "They might get there before I do."
-
-"They might. Your friends must prepare without waiting for you."
-
-Goku's hands curl into fists. "Then we have to tell them now! How do I reach them?"
+"Then I'll finish this and go straight home. How do I reach them?"
 
 King Kai turns his back. "Put one hand on me and think of someone on Earth. I'll carry your voice."
 
@@ -242,15 +202,15 @@ Goku's voice reaches Roshi again. "I'm with King Kai. He can help us talk."
 
 "You found him! Chi-Chi will want to hear that."
 
-"Tell her I'm all right. The two Saiyans are close, though. King Kai says I have to hurry back, but I don't know if I'll reach Earth before them."
+"Tell her I'm all right. King Kai thinks the Saiyans will arrive tomorrow, but he's not sure. Please tell everybody to get ready now."
 
-Roshi sets down the cup. "How much time do we have?"
+Roshi sets down the cup. "Are you coming back?"
 
-"He can't give us an exact time. Please tell everybody to be ready."
+"I'm finishing my training, then I'll come as fast as I can. I want to get there before they do."
 
 "I'll call Bulma. She may know where Chi-Chi is."
 
-"And Kami. Ask him if he can meet me at Yemma's end of the road."
+"And Kami. Ask him if he can meet me at Yemma's end of the road when I get there."
 
 "We'll get word to him."
 
@@ -258,7 +218,7 @@ Oolong pulls himself upright. "Is that really Goku?"
 
 "It is."
 
-Goku's voice comes again. "I'm going as fast as I can, Master Roshi. Tell Chi-Chi and the boys I want to see them."
+"Tell Chi-Chi and the boys I want to see them," Goku says.
 
 "I will. Take care on that road."
 
@@ -386,17 +346,17 @@ Before Piccolo can answer, Kami lifts his head.
 
 At Kame House, Roshi holds the receiver against his ear. Oolong waits beside the table, listening to the sea through the open window.
 
-"Bulma? Goku contacted me. He's alive and coming home, but the Saiyans are close."
+"Bulma? Goku contacted me. He's alive. The Saiyans may be closer than we thought, and he wants everyone ready."
 
 At her laboratory, Bulma pushes a notebook away from the telephone. The machine she brought back from beyond the mountain-house ridge remains covered on the other side of the room.
 
 "How close?"
 
-"He couldn't give me a time. He said we must be ready now."
+"King Kai thinks tomorrow, but he isn't certain. Goku said we must be ready now."
 
 "I left Chi-Chi at the Lookout. The boys should be out of the room by now. I'll go there."
 
-"Tell her he's on his way. And tell Kami that Goku needs him at Yemma's end of Snake Way."
+"Tell her he's finishing his training and then coming back. He'll need Kami at Yemma's end of Snake Way."
 
 "I will."
 
@@ -408,7 +368,7 @@ After the call, Oolong pulls a chair beside Roshi.
 
 "Goku doesn't need a wish to come back, does he?"
 
-"No. He's alive. What he needs is a clear road and people ready here."
+"No. He's alive. What he needs is a way back and people ready here."
 
 Oolong looks at the telephone. "Can you call Krillin?"
 
@@ -446,13 +406,13 @@ Kami raises one hand for silence. On the distant planet, Goku keeps his palm aga
 
 "I can."
 
-"The Saiyans are close. I'm leaving now, but Snake Way is going to take time. Can you meet me at Yemma's office?"
+"King Kai thinks the Saiyans will arrive tomorrow, but he isn't sure. I want to finish my test, then come back. Can you meet me at Yemma's office?"
 
 "I can use the passage Yemma arranged. I cannot shorten the road for you."
 
-"I know. I'll keep moving."
+"I know. I'll hurry when I leave."
 
-Kami looks at Chi-Chi. "Goku has reached King Kai. He's alive and preparing to leave. King Kai has told him the Saiyans are close."
+Kami looks at Chi-Chi. "Goku has reached King Kai. He is finishing his training before he leaves. King Kai thinks the Saiyans may arrive tomorrow, but he cannot be certain."
 
 Chi-Chi takes a step closer. "Is he hurt?"
 
@@ -484,7 +444,7 @@ Kami carries the message. Gohan waits while Kami listens to the answer.
 
 Goshin's smile falters. He looks toward Kami. "Can he come here now?"
 
-"He must travel back along Snake Way first. I will meet him when he reaches Yemma's office."
+"He still has to finish his test and travel back along Snake Way. I will meet him when he reaches Yemma's office."
 
 "I wanted to show him," Goshin says. Gohan takes his hand.
 
@@ -494,11 +454,11 @@ Goshin's smile falters. He looks toward Kami. "Can he come here now?"
 
 On King Kai's planet, Goku keeps his hand on the blue coat and looks toward the road.
 
-"Tell Chi-Chi I love her. Tell Gohan and Goshin too. I'll get home as fast as I can."
+"Tell Chi-Chi I love her. Tell Gohan and Goshin too. I'll come as fast as I can once I'm finished."
 
-Kami's hand tightens on his staff. "Goku says he loves you and will get home as quickly as he can."
+Kami's hand tightens on his staff. "Goku says he loves you. He'll come as quickly as he can once he's finished."
 
-Chi-Chi looks down at the boys. "Tell him we love him too. And we'll be waiting."
+Chi-Chi looks down at the boys. "Tell him we love him too. And tell him not to wait if anything changes."
 
 Kami relays the words. When he opens his eyes again, he turns toward the edge of the Lookout.
 
@@ -506,55 +466,29 @@ Kami relays the words. When he opens his eyes again, he turns toward the edge of
 
 Piccolo steps beside him. "Did King Kai say where the Saiyans will land?"
 
-"No. He knows they are close, not where they will come down."
+"No. His estimate is uncertain, and he does not know where they will come down."
 
 Goshin stands beside Gohan, watching the open sky.
 
 ---
 
-## The Road Begins
+## One More Try
 
 Goku takes his hand from King Kai's back. Bubbles has brought the hammer from beside the house and is trying to lift it by the handle.
 
-"I'll leave these with you," Goku says. He removes the weighted bands and sets them beside the hook.
+Goku catches the hammer before it can fall across the monkey's foot and lays it on the grass.
 
-"You'll move more easily without them," King Kai says.
+"I'll miss you too," he says. Bubbles takes hold of his hand.
 
-Goku checks that his supply capsule is secure inside his clothes. He crouches beside Bubbles, takes the hammer before it can fall across his foot and lays it on the grass by the house.
+Gregory settles on the fence. "You'll miss the car if you keep turning like that, won't you?"
 
-"You can keep practising too."
+"I'll try to miss it."
 
-Bubbles makes a noise and takes hold of Goku's hand. Gregory comes down from the roof and settles on the fence.
+"That's reassuring."
 
-"Watch out for the edge of the road," Gregory says. "There's no point in going fast if you fall off."
+King Kai points to the open ground. "We'll work on the aim, then test it once more. And I'll check the Saiyans before you go."
 
-"I won't."
-
-King Kai walks with Goku toward the curve of the little planet. Snake Way stretches far below them.
-
-"Those Saiyans are dangerous," King Kai says. "Don't assume you know what either one can do."
-
-"I won't."
-
-"And remember what I said about the Genki-dama."
-
-"Once, and only if there's no other way."
-
-King Kai nods. Goku looks back at the tree and the house.
-
-"Thanks for teaching me. All of you."
-
-Gregory lifts one hand. Bubbles waves both arms.
-
-"Come back when you have time for another joke," King Kai says.
-
-"I'll think of a better one on the road."
-
-"It will have to be better."
-
-Goku rises from the grass and flies down toward Snake Way. He lands on the broad path, bends his knees and starts running. The road curves away through the clouds, and his steps carry him around the first bend.
-
-King Kai watches until Goku has gone from sight.
+Goku looks down toward the long pale road. He wants to see his family, and he wants to be ready to protect them when he does. He returns to the open ground and raises his hands.
 
 ---
 
@@ -582,7 +516,7 @@ Chiko waits for Rom before going into the hall. The director closes the common-r
 
 Bulma's aircar lands on the Lookout. Chi-Chi meets her before she has finished opening the door.
 
-"Master Roshi told me," Bulma says. "Goku is on his way, but the Saiyans may get here first."
+"Master Roshi told me," Bulma says. "Goku is finishing his training, and nobody is sure when the Saiyans will get here."
 
 "Kami heard from him too. We still don't know where they'll land."
 
@@ -704,6 +638,10 @@ On the Lookout, Gohan grips the edge of the stone rail. He and Goshin feel the t
 
 Kami steps forward. "In the city. There are people near them."
 
+"Can you tell Goku?" Chi-Chi asks.
+
+Kami closes his eyes and calls for King Kai, but no answer comes. "He reached me before. I don't know how to reach him from here. I'll keep trying. Don't wait for me."
+
 A voice breaks through the radio in Bulma's car. The speaker reports two objects down in East City and asks people to keep away from the damaged street.
 
 Bulma opens the car door again and turns up the sound. "East City. I know where that is."
@@ -728,18 +666,23 @@ Piccolo lifts from the floor. Gohan and Goshin fly after him toward the city. Po
 
 At the bench, the page of days remains beneath the stone. The wind lifts one corner, then lets it fall.
 
-**NARRATOR:** The Saiyans have reached Earth. Goku is still on Snake Way, and his family is moving toward the city.
+**NARRATOR:** The Saiyans have reached Earth. Goku is still training on King Kai's planet, and his family is moving toward the city.
 
 ---
 
 ## Preview
 
-*Two ships stand in the broken street. High above the clouds, the fighters turn toward the city while Goku runs along the winding road.*
+*Two ships stand in the broken street. High above the clouds, the fighters turn toward the city while Goku prepares for his final test.*
 
 **NARRATOR:** What will the Saiyans do now that they have landed, and who will reach the city first?
 
 <!--
 ## Footer
+
+**2026-11-09 UTC (observed sandbox clock) — canon and continuity correction, unaccepted.** The Snake Way chronology has been coordinated across Chapters 23–28: Goku stays to finish training under King Kai's uncertain, mistaken arrival estimate, then leaves urgently after the late warning. Family, rescue, travel and reunion are restaged without a speed cap or arbitrary afterlife delay. [Exact pre-correction project and research predecessor](https://drive.google.com/file/d/1hMI7EqMjwOZdwNglBr7iRM2WPBHZ0r28/view). The earlier footer entries below describe their historical versions. The separately accepted original Chapter 20 remains unchanged.
+
+
+**6 November 2026 — independent Chapters 1–31 review correction, unaccepted.** Goku calls on his already learned Kaiō-ken as he begins his urgent return. This improves the shown response; it does not establish a speed, travel time or solution to the longer Snake Way chronology. Chapters Seven and Fourteen give its traditional length as approximately one million kilometres, not a verified exact measurement. The exact pre-review chapter is in the [owner-only project predecessor](https://drive.google.com/file/d/1ahbUoYCJFbuV8XmdbhxvRi01J6Hj8h0T/view), SHA-256 `7516073d8659b27cfd7ecce565cacc61d03db88f500bbe4e88878cbf28eab50b`. The previous footer is retained below. No author acceptance or source-video verification is implied.
 
 **6 November 2026 — full-manuscript review correction, unaccepted.** The laboratory scene now places the covered machine where Chapter 19 actually found it, beyond the mountain-house ridge, not on the coast. Its identity and condition remain unknown; the scene and later landing keep their outcomes. The exact immediate predecessor (SHA-256 `6a1d1ce52606822ec1df880c870e97a222354dbcea7d6552268707e8728ae94a`) is in the [verified non-private review snapshot](../canon/ARCHIVE_INDEX.md#backup-031); the complete prior footer follows. No new chapter, reader acceptance, full audiovisual source review or remote synchronization is implied.
 

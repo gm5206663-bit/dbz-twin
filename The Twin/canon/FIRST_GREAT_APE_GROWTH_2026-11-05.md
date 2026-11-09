@@ -1,5 +1,7 @@
 # First Great Ape experience — Goshin's lasting growth
 
+**Later author clarification, 7 November:** References below to “Saiyan growth/nature” do not exhaust Goshin’s developing inheritance. His entire Saiyan–Earthling hybrid bloodline itself evolves, and his Talent, whole existence, other qualities and experiences can interact (`O243`, `O244`). The dated account remains historical; conscious control and substantial retained ordinary-body growth are unchanged. [Broader understanding](HYBRID_BLOODLINE_CLARIFICATION_2026-11-07.md).
+
 **Owns: the author's 5 November clarification, its application to the selected branch, and the immediately preceding local versions.** This is holder-specific authored continuity, not a new claim about all Saiyans or canon numerical power levels.
 
 ## The author's clarification

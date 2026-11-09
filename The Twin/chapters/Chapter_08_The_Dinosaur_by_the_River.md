@@ -1,5 +1,7 @@
 # Chapter Eight — The Dinosaur by the River
 
+*Anime episode reference: Dragon Ball Z, Episode 7.*
+
 *Revised story draft; not yet accepted.*
 
 As the brothers hurry through the trees, a low branch catches Goshin's bandage and pulls loose the knot Gohan tied beside the ravine.

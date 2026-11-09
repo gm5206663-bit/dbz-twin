@@ -1,5 +1,7 @@
 # Chapter Fourteen — The Long Way Up
 
+*Anime episode reference: Dragon Ball Z, Episode 13.*
+
 *Revised story draft; not yet accepted.*
 
 An apple hangs above the field gate. The branch dips when a bird lands beside it.

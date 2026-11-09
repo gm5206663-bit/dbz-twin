@@ -2,7 +2,9 @@
 
 **Owns: the current local story correction, its battle consequences, version boundary and evidence limits.**
 
-**Status:** local, unaccepted corrections to existing selected chapters, not a new chapter or reader approval. The separately preserved [pre-correction Chapter 20](https://drive.google.com/file/d/1yeojAxNUHQIsqnrwrfQm1ET_f6uTuKnD/view) remains the version the author accepted; the selected corrected Chapter 20 is not accepted. The immediate pre-pass project is preserved in [Before full-story and Nappa correction](ARCHIVE_INDEX.md#backup-023), SHA-256 `a10803d93edb5225e96221d8f691bf3f71cd38f635150943d68ae3551951d63d`; it does not contain private Sara files.
+**Later chronology revision:** References below to the previous Snake Way sequence describe that earlier checkpoint. The later [coordinated correction](VEGETA_AND_SNAKE_WAY_CORRECTION.md) relocates the warning and return without an invented speed cap or delay; literary review remains open.
+
+**Status:** local, unaccepted corrections to existing selected chapters, not a new chapter or reader approval. The separately preserved [pre-correction Chapter 20](../../Research/The%20Twin/Chapter%20Research/Character%20and%20continuity%20corrections/Chapter%2020%20-%20accepted%20original%20before%20character%20corrections%20%282026-11-03%29.md) remains the version the author accepted; the selected corrected Chapter 20 is not accepted. The immediate pre-pass project is preserved in [Before full-story and Nappa correction](ARCHIVE_INDEX.md#backup-023), SHA-256 `a10803d93edb5225e96221d8f691bf3f71cd38f635150943d68ae3551951d63d`; it does not contain private Sara files.
 
 ## Editorial correction
 

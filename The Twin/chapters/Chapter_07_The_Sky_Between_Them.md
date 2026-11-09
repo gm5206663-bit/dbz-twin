@@ -1,5 +1,7 @@
 # Chapter Seven — The Sky Between Them
 
+*Anime episode reference: Dragon Ball Z, Episode 6.*
+
 *Revised story draft; not yet accepted.*
 
 A yellow cloud trails an aircraft over the forest. Whenever the wind ruffles its edges, it gathers itself and comes close again. Far below, the trees part around a narrow river; the smoking crater is already hidden by the hills.
@@ -786,7 +788,7 @@ Goshin opens his hand and catches his brother with ki, bending his path away fro
 
 "Stop it!" Goshin flies after Gohan, keeping his hand extended. The invisible pull strains between them.
 
-Gohan throws his arms over his head.
+Gohan throws his arms over his head. Ki bursts from him and strikes the rock.
 
 The cliff explodes.
 
@@ -802,7 +804,7 @@ Piccolo stands on the broken edge of the cliff, dust settling around him. The ma
 
 Gohan stares at the enormous gap. A moment ago it was solid rock. "Did I do that? Did I hurt anyone?"
 
-"You did it again," Piccolo says. "The power comes when you're frightened, and then it's gone. You need to learn to use it when you choose."
+"You did it again," Piccolo says. "Your power flared just before the cliff broke. You need to learn to use it when you choose."
 
 Gohan's hat has come off. He sees it beside a boulder and runs to pick it up. The four-star ball is still fastened to the top.
 
@@ -914,6 +916,8 @@ The cloud turns back toward the boys. Goku watches it go, then follows the river
 
 <!--
 ## Footer
+
+**Sequential continuation correction, unaccepted (`O352`).** Gohan’s ki visibly strikes the cliff before it breaks; Piccolo observes the flare. The authored clarification does not make fear an exclusive trigger or impose a limit. Exact immediate predecessor whole-file SHA-256 `9fcdb862e5122b51df7d8363c8090d85eaf3519965ba45f9091212c2031a5532` is in the [prior owner-only project snapshot](https://drive.google.com/file/d/1VlRVXFUnX2_hW28DkXV9ud6RTynczLff/view). See the [reading scope and source limits](../canon/SEQUENTIAL_OPENING_CORRECTION.md). No fresh episode-6 caption reread or complete audiovisual viewing is claimed in this pass.
 
 **5 November 2026 — Dragon Ball-feel revision from the opening, unaccepted.** The complete chapter was reviewed and substantially revised across the aircraft, Piccolo's pursuit, Chi-Chi's call, Korin's tower and the ravine. Character-specific humor and fear now arise from the situation; Gohan and Goshin make distinct choices, Goshin uses his established flight, strength and ki without an imposed ceiling, and Piccolo reacts to their actual resistance. Goku survives and stays injured; Piccolo remains coercive; Chi-Chi's later call reaches Turtle; Krillin obtains three beans; the children's cliff test and the Chapter Eight river handoff remain. This branch's action, dialogue and staging are authored, not a claim to have viewed the episode's full motion or heard its audio. The entire retained episode-six Japanese caption file was reread, including the ending and unrelated tail; its origin and cut remain unverified. Toei's short synopsis and the secondary Neoseeker account were consulted; the captions and summaries do not prove continuous visuals or performances. The exact immediate predecessor is byte-preserved in the [verified pre-correction project and accepted-original snapshot](../canon/ARCHIVE_INDEX.md#backup-042), Chapter Seven member SHA-256 `0e30cb5621186f18d127f41190d70e5775ca464b6bb26422bebe75f0fa581c39`, ZIP SHA-256 `9b8db0480ead17105e8cfa53f0e45600a36e2e618e0e7a91625587d078a4c108`. This is not reader acceptance. Earlier footer entries remain historical where superseded.
 

@@ -1,5 +1,7 @@
 # Chapter Twelve — The Planet Between
 
+*Anime episode reference: Dragon Ball Z, Episode 11.*
+
 *Revised story draft; not yet accepted.*
 
 Two round space pods cross the dark side of a planet. A red indicator begins to blink on one of their hulls.

@@ -1,5 +1,7 @@
 # Chapter Seventeen — The Children by the Sea
 
+*Anime episode reference: Dragon Ball Z, Episode 16.*
+
 *Immersion-revised review draft; not yet accepted.*
 
 *Continuity-checked review candidate, continuing the separate Chapter Sixteen review branch. Earlier Chapter Seventeen drafts remain unchanged.*
